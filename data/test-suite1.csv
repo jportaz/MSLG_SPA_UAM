@@ -1,0 +1,84 @@
+Yo quiero una manzana,QUERER MANZANA
+Tú quieres una pera,TÚ QUERER PERA
+Él quiere un dulce,ÉL-ELLA QUERER DULCE
+Nosotros queremos un plátano,NOSOTROS QUERER PLÁTANO
+El maestro y la maestra se besan,MAESTRO MAESTRO MUJER ELLOS-DOS BESARSE
+El auto es azul,AUTO AZUL
+El niño está enojado,NIÑO (ÉL) ENOJADO
+La casa verde es chica,CASA VERDE CHICO
+La niña está enojada,NIÑO FEMENINO ENOJADO
+La maestra es gorda,MAESTRO MUJER GORDO
+La niña es gorda,NIÑO FEMENINO ÉL GORDO
+El niño parece enojado,NIÑO (ÉL) PARECER ENOJADO
+La maestra parece enojada,MAESTRO MUJER (ÉL) PARECER ENOJADO
+El maestro es un enojón,MAESTRO ENOJÓN ASÍ
+La niña canta,NIÑO FEMENINO CANTAR
+El niño llora,NIÑO LLORAR
+Los niños rien,NIÑOS ELLOS RIEN
+Las niñas nadan,NIÑO FEMENINO ELLOS NADAR
+La niña se peina,NIÑO FEMENINO ELLA PEINAR
+El maestro se baña,MAESTRO ÉL-ELLA BAÑAR
+Pedro se castiga a sí mismo,PEDRO ÉL-ELLA SOLO CASTIGAR
+La maestra se ama a sí misma,MAESTRO FEMENINO ÉL SOLO AMAR
+El niño y la niña se ayudan,NIÑO NIÑO FEMENINO ELLOS-DOS AYUDAR(->) AYUDAR(<-)
+El maestro y la maestra se saludan,MAESTRO MAESTRO FEMENINO ELLOS-DOS SALUDAR(->) SALUDAR(<-)
+La niña vende dulces,NIÑO FEMENINO DULCE VENDER
+Los niños venden dulces,NIÑO ELLOS DULCE VENDER
+Los maestros venden peras,MAESTRO ELLOS PERAS VENDER
+El maestro quiere una manzana,MAESTRO ÉL QUERER MANZANA
+Las niñas quieren unos dulces,NIÑO FEMENINO ELLOS QUERER DULCES
+El maestro castiga a los niños,NIÑOS ELLOS / MAESTRO CASTIGAR
+El maestro enseña a la niña,NIÑO FEMENINO ÉL / MAESTRO ENSEÑAR
+Los maestros castigan al niño,NIÑO ÉL / MAESTRO ELLOS CASTIGAR
+Dos autos,AUTO DOS
+Tres patos,TRES PATO
+Cinco ranas,RANA CINCO
+Casas,CASA CASA CASA
+Árboles,ÁRBOL ÁRBOL ÁRBOL
+Perros,PERRO CL-PERRO CL-PERRO CL-PERRO
+Muchos gatos,GATO MUCHOS
+Pocas peras,POCA PERA
+Los maestros,MAESTRO ELLOS-ELLAS
+Las niñas,NIÑO FEMENINO ELLOS-ELLAS
+Dos autos,AUTO DOS
+Tres patos,TRES PATO
+Cinco ranas,RANA CINCO
+Casas,CASA CASA CASA
+Árboles,ÁRBOL ÁRBOL ÁRBOL
+Perros,PERRO CL-PERRO CL-PERRO CL-PERRO
+Muchos gatos,GATO MUCHOS
+Pocas peras,POCAS PERA
+Los maestros,MAESTRO ELLOS
+Las niñas,NIÑO FEMENINO ELLOS
+El niño juega en el parque,PARQUE AHÍ NIÑO JUGAR
+La niña canta en la calle,CALLE AHÍ NIÑO FEMENINO CANTAR
+El gato está arriba de la mesa,MESA CL-PLANO GATO CL-ANIMAL CPL-{animal encima de plano}
+El perro está debajo de la cama,CAMA CL-PLANO PERRO CL-ANIMAL CPL-{animal debajo de plano}
+Los niños juegan lejos,NIÑO ELLOS JUGAR LEJOS
+Los niños juegan cerca,NIÑO ELLOS JUGAR CERCA
+Está lloviendo en la ciudad,CIUDAD AHÍ LLOVER
+Está nevando en el campo,CAMPO AHÍ NEVAR
+Hay un plátano en el plato,PLATO AHÍ PLÁTANO UNO HAY
+Hay dos peras en el plato,PLATO AHÍ PERA DOS HAY
+No hay árboles,ÁRBOL NO-HAY
+No hay gatos,GATO NO-HAY
+Hay que reparar el televisor,NECESITAR TELEVISOR REPARAR
+Hay que limpiar el auto,AUTO LIMPIAR NECESITAR
+Hace calor,CALOR
+Hace mucho frío,FRÍO MUCHO
+Hace siete años,ANTES AÑO SIETE
+Se hace tarde,TARDE
+Se castiga al niño,NIÑO ÉL(->) CASTIGAR(->)
+Se critica a los jóvenes,JÓVENES ELLOS(->) CRITICAR(->)
+El gato es alimentado por Pedro,GATO ÉL / PEDRO COMIDA DAR
+El coche es conducido por Luis,COCHE / LUIS CONDUCE
+La pelota es arrojada por Miguel,PELOTA / MIGUEL ARROJA
+Miguel arroja la pelota,PELOTA / MIGUEL ARROJA
+La casa es pintada por el maestro,CASA / MAESTRO PINTAR
+El maestro pinta la casa,CASA / MAESTRO PINTAR
+El gato es alimentado por Pedro,GATO ÉL / PEDRO COMIDA DAR
+Pedro alimenta al gato,GATO ÉL / PEDRO COMIDA DAR
+Luis conduce el coche,COCHE / LUIS CONDUCE
+Se vende ropa,ROPA VENDER
+Se venden autos,AUTO VENDER
+Se reparan televisores,TELEVISOR REPARAR
