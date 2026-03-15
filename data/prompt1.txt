@@ -37,16 +37,16 @@
 
 * Traduce los pronombres personales de la siguiente manera:
 
-    - yo -> YO
-    - tú -> TÚ
-    - él -> ÉL
-    - ella -> ÉL
-    - nosotros -> NOSOTROS
-    - nosotras -> NOSOTROS
-    - vosotros -> VOSOTROS
-    - vosotras -> VOSOTROS
-    - ellos -> ELLOS
-    - ellas -> ELLOS
+    - yo -> yo
+    - tú -> tú
+    - él -> él
+    - ella -> ella
+    - nosotros -> nosotros
+    - nosotras -> nosotros
+    - vosotros -> vosotros
+    - vosotras -> vosotros
+    - ellos -> ellos
+    - ellas -> ellos
 
 * Traduce los pronombres posesivos de la siguiente manera y colócalo detrás del nombre poseído:
 

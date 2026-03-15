@@ -98,7 +98,12 @@ def generate_response(system_prompt, user_prompt, process_all="yes", model="open
                 # "num_ctx": 8192,
             )
             print(f"{line} -> {resp.choices[0].message.content}", file=sys.stderr)
-            content.append(f"{line} -> {resp.choices[0].message.content}")
+            reference = RESPONSES.get(line)
+            output = resp.choices[0].message.content
+            if output:
+                output = output.upper()
+            eq = "+" if reference and output and output == reference else "-"
+            content.append(f" {line}\n {reference}\n{eq}{output}\n")
         return "\n".join(content)
 
     # try:
@@ -111,186 +116,33 @@ def generate_response(system_prompt, user_prompt, process_all="yes", model="open
 # Enable connections from the outside world with the extarnal IP.   
 
 # Create the Gradio interface, with a system prompt in the left column and a user prompt in the right column with the response below.
-DEFAULT_SYSTEM_PROMPT = """
-Eres un experto traductor entre español y lengua de señas mexicana. 
 
-* Traduce las siguientes frases en español a glosas en lengua de señas mexicana. 
+import argparse
 
-* No des más explicaciones que la secuencia de glosas. 
+parser = argparse.ArgumentParser()
+parser.add_argument("--system_prompt", type=str, default="data/prompt1.txt")
+parser.add_argument("--user_prompt", type=str, default="data/test-suite2.csv")
+args = parser.parse_args()
 
-* Pon las glosas en mayúscula y con acentos, si es necesario.
+import csv
 
-* Los verbos se glosan en infinitivo.
+DEFAULT_SYSTEM_PROMPT = ""
 
-* Los nombres femeninos se glosan en masculino y se añade la glosa MUJER o FEMENINO:
+with open(args.system_prompt, "r") as f:
+    for line in f:
+        if line.startswith("#"):
+            pass
+        else:
+            DEFAULT_SYSTEM_PROMPT += line
 
-    - niña -> NIÑO FEMENINO
-    - maestra -> MAESTRO MUJER
+DEFAULT_USER_PROMPT = ""
+RESPONSES = {}
 
-* No expreses el plural en las glosas.
-
-* El número en la LSM se realiza de diferentes maneras:
-
-    - Añadiendo un cardinal delante o detrás.
-    - Repitiendo el signo.
-    - Añadiendo un cuantificador delante o detrás.
-    - Usando un sustantivo colectivo (fila, lista, grupo, equipo...).
-    - Añadiendo un pronombre en plural.
-
-* Los adjetivos se glosan en masculino singular.
-
-* El sujeto se expresa explícitamente. 
-
-* No uses signos de puntuación.
-
-* Pon el verbo en infinitivo. 
-
-* Elimina los artículos definidos ("el", "la", "los", "las") e indefinidos ("un", "una", "unos", "unas").
-
-* Traduce los pronombres personales de la siguiente manera:
-
-    - yo -> YO
-    - tú -> TÚ
-    - él -> ÉL
-    - ella -> ÉL
-    - nosotros -> NOSOTROS
-    - nosotras -> NOSOTROS
-    - vosotros -> VOSOTROS
-    - vosotras -> VOSOTROS
-    - ellos -> ELLOS
-    - ellas -> ELLOS
-
-* Traduce los verbos pronominales de la siguiente manera:
-
-    - castigarse -> CASTIGAR
-    - amarse -> AMAR
-    - peinarse -> PEINAR
-    - bañarse -> BAÑAR
-
-* Las oraciones copulativas, aquellas que indican las cualidades del sujeto mediante atributos:
-
-    - Cuando el verbo en español es "ser" o "estar", tienen la estructura SUJETO + ATRIBUTO(S).
-    - Cuando el verbo en español es "parecer", tienen la estructura SUJETO + PARECER + ATRIBUTO(S) o SUJETO + ATRIBUTO(S) + PARECER.
-    - Al sujeto puede añadírsele un pronombre personal que es indispensable si el sujeto está en plural.
-    - Para distinguir si el atributo es permanente ("ser") y no transitorio ("estar"), se puede añadir ASÍ al final.
-
-* Las oraciones reflexivas tienen en la lengua de señas mexicana una estructura SUJETO + VERBO, sin ningún tipo de pronombre átono.
-
-* Existen verbos transitivos en los que por lo general la acción la realiza en sujeto y la recibe alguien diferente a él. 
-
-    - Cuando son reflexivos, y llevan “a sí (o mí o ti) mismo” se le añade SOLO y otros componentes no manuales.
-
-* Las oraciones recíprocas son aquellas que la acción es llevada a cabo y recibida por dos o más sujetos. 
-
-    - Su estructura en la lengua de señas mexicana repite el verbo y es SUJETO + SUJETO + PRONOMBRE + VERBO(->) + VERBO(<-) 
-
-* En la lengua de señas mexicana las oraciones transitivas pueden adoptar diferentes estructuras: 
-
-    - SUJETO + OBJETO + VERBO
-    - SUJETO + VERBO + OBJETO
-    - OBJETO + SUJETO + VERBO, cuando pudiera haber confusión en cuanto quien es el sujeto y quien el objeto. 
-
-* El complemento circunstancial de lugar se puede realizar como 
-
-    - un sintagma nominal (en el parque)
-    - un sintagma adverbial (arriba de la cama)
-    - una oración subordinada (hacia donde su mamá descansa).
-
-y su estructura en la lengua de señas mexicana es LUGAR + AHÍ + SUJETO + VERBO.
-
-* Las oraciones impersonales existenciales (con haber) en la lengua de señas mexicana llevan el signo HAY o NO-HAY antes o después del sustantivo
-
-* Cuando expresan necesariedad u obligación se sustituye “haber” por “necesitar”, que puede ir al principio o al final.
-
-* En las oraciones impersonales de fenómeno meteorológico no se signa HACER en la lengua de señas mexicana.
-
-* En las oraciones impersonales reflejas (o impersonales con "se") se realizan en la lengua de señas mexicana como oraciones transitivas con sujeto omitido.
-
-* La oraciones pasivas propias son aquellas en la que el sujeto sufre la acción que realiza en objeto, 
-como "el gato es alimentado por Pedro". No existen en la lengua de señas mexicana y para traducirlas se pasan a activa.
-
-* Las oraciones pasivas con "se", en las que el sujeto concuerda en número con el verbo se realizan en la lengua de señas mexicana como SUJETO + VERBO.
-
-TEXTO:
-"""
-
-DEFAULT_USER_PROMPT = """Vivo en América.
-Con Juan, es un asunto aparte.
-¿Por qué llegaste tarde?
-Yo quiero una manzana.
-Tú quieres una pera.
-Él quiere un dulce. 
-Nosotros queremos un plátano.
-El maestro y la maestra se besan.
-El auto es azul.
-El niño está enojado.
-La casa verde es chica.
-La niña está enojada.
-La maestra es gorda.
-La niña es gorda.
-STOP
-El niño parece enojado.
-La maestra parece enojada.
-El maestro es un enojón.
-La niña canta.
-El niño llora.
-Los niños rien.
-Las niñas nadan.
-La niña se peina.
-El maestro se baña.
-Pedro se castiga a sí mismo.
-La maestra se ama a sí misma.
-El niño y la niña se ayudan.
-El maestro y la maestra se saludan.
-La niña vende dulces.
-Los niños venden dulces.
-Los maestros venden peras.
-El maestro quiere una manzana.
-Las niñas quieren unos dulces.
-El maestro castiga a los niños.
-El maestro enseña a la niña.
-Los maestros castigan al niño.
-Dos autos.
-Tres patos.
-Cinco ranas.
-Casas.
-Árboles.
-Perros.
-Muchos gatos.
-Pocas peras.
-Los maestros.
-Las niñas.
-El niño juega en el parque.
-La niña canta en la calle.
-El gato está arriba de la mesa.
-El perro está debajo de la cama.
-Los niños juegan lejos.
-Los niños juegan cerca.
-Está lloviendo en la ciudad.
-Está nevando en el campo.
-Hay un plátano en el plato.
-Hay dos peras en el plato.
-No hay árboles.
-No hay gatos.
-Hay que reparar el televisor.
-Hay que limpiar el auto.
-Hace calor.
-Hace mucho frío.
-Hace siete años.
-Se hace tarde.
-Se castiga al niño.
-Se critica a los jóvenes.
-El gato es alimentado por Pedro.
-Pedro alimenta al gato.
-El coche es conducido por Luis.
-Luis condice el coche.
-La pelota es arrojada por Miguel.
-Miguel arroja la pelota.
-La casa es pintada por el maestro.
-El maestro pinta la casa.
-Se vende ropa.
-Se venden autos.
-Se reparan televisores."""
+with open(args.user_prompt, "r") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        DEFAULT_USER_PROMPT += row[0] + "\n"
+        RESPONSES[row[0]] = row[1]
 
 with gr.Blocks(title="vLLM Local Interface for MSLG-SPA 2026") as demo:
     gr.Markdown("## vLLM Local Interface for MSLG-SPA 2026")
