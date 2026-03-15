@@ -1,56 +1,9624 @@
   ﻿esp
-  lsm
+  LSM
 - ESPAÑA
 
   yo voy
-  yo ir
+  YO IR
 + YO IR
 
   ve
-  tú ver
+  TÚ VER
 - TÚ IR
 
   vete
-  tú ir
+  TÚ IR
 + TÚ IR
 
   ve
-  tú ir
+  TÚ IR
 + TÚ IR
 
   vas
-  tú ir
+  TÚ IR
 + TÚ IR
 
   va
-  él ir
+  ÉL IR
 + ÉL IR
 
   vaya
-  él ir
-- TÚ IR
+  ÉL IR
+- IR
 
   vaya
-  ella ir
-- TÚ IR
+  ELLA IR
+- IR
 
   váyanse
-  ustedes ir
-- VOSOTROS IR
+  USTEDES IR
+- None
 
   vamos
-  nosotros ir
+  NOSOTROS IR
 + NOSOTROS IR
 
   vámonos
-  nosotros ir
+  NOSOTROS IR
 + NOSOTROS IR
 
   van
-  ustedes ir
+  USTEDES IR
 - ELLOS IR
 
   van
-  ellos ir
+  ELLOS IR
 + ELLOS IR
+
+  fuiste
+  PASADO TÚ IR
+- SER
+
+  fuiste
+  PASADO TÚ SER
+- SER
+
+  fue
+  PASADO ÉL IR
+- None
+
+  fue
+  PASADO ÉL SER
+- None
+
+  fueron
+  PASADO ELLOS IR
+- ELLOS SER
+
+  fueron
+  PASADO ELLOS SER
+- ELLOS SER
+
+  fueron
+  PASADO USTEDES IR
+- ELLOS SER
+
+  fueron
+  PASADO USTEDES SER
+- ELLOS SER
+
+  ir
+  IR
++ IR
+
+  irse
+  IR
++ IR
+
+  iré
+  FUTURO YO IR
+- YO IR
+
+  irá
+  FUTURO ÉL IR
+- ÉL IR
+
+  irás
+  FUTURO TÚ IR
+- TÚ IR
+
+  irán
+  FUTURO ELLOS IR
+- ELLOS IR
+
+  irán
+  FUTURO USTEDES IR
+- ELLOS IR
+
+  soy
+  YO SER
+- YO
+
+  eres
+  TÚ SER
++ TÚ SER
+
+  es
+  ESO SER
+- SER
+
+  es
+  ÉL SER
+- SER
+
+  es
+  ELLA SER
+- SER
+
+  son
+  ELLOS SER
+- SER
+
+  son
+  USTEDES SER
+- SER
+
+  hola
+  HOLA
++ HOLA
+
+  ¡Ayuda!
+  AYUDA
+- TÚ AYUDAR
+
+  Ayuda
+  AYUDA
+- TÚ AYUDAR
+
+  Corren
+  ELLOS CORRER
++ ELLOS CORRER
+
+  corre
+  ESO CORRER
+- TÚ Correr
+
+  corre
+  ÉL CORRER
+- TÚ Correr
+
+  yo
+  YO
++ YO
+
+  él
+  ÉL
++ ÉL
+
+  ella
+  ELLA
+- ÉL
+
+  tú
+  TÚ
++ TÚ
+
+  tu
+  TUYO
++ TUYO
+
+  tu
+  TUYA
+- TUYO
+
+  nosotros
+  NOSOTROS
++ NOSOTROS
+
+  ustedes
+  USTEDES
+- VOSOTROS
+
+  mi
+  MÍO
++ MÍO
+
+  su
+  SUYO
++ SUYO
+
+  su
+  SUYA
+- SUYO
+
+  nuestro primo es albañil
+  PRIMO NUESTRO ALBAÑIL
+- None
+
+  su papá es bombero
+  PAPÁ SUYO BOMBERO
++ PAPÁ SUYO BOMBERO
+
+  su mamá es maestra
+  MAMÁ SUYA MAESTRA
+- PADRE MUJER SUYO MAESTRO MUJER
+
+  tu hermana es veterinaria
+  HERMANO MUJER TUYA VETERINARIA
+- TUYO HERMANO MUJER VETERINARIO
+
+  tu hermano es médico
+  HERMANO TUYO MÉDICO
++ HERMANO TUYO MÉDICO
+
+  tu prima es dentista
+  PRIMO MUJER TUYA DENTISTA
+- PRIMA MUJER TUYO DENTISTA ASÍ
+
+  tu abuelo era soldado
+  ABUELO TUYO SOLDADO
++ ABUELO TUYO SOLDADO
+
+  su abuela era monja
+  ABUELO MUJER SUYO(A) MONJA
+- None
+
+  nuestro
+  NUESTRO
+- None
+
+  ellos
+  ELLOS
++ ELLOS
+
+  eso
+  ESO
++ ESO
+
+  leímos un libro ayer 
+  AYER NOSOTROS LIBRO LEER
+- AYER NOSOTROS LEER LIBRO
+
+  leí un libro ayer
+  AYER YO LIBRO LEER
+- AYER YO LEER LIBRO
+
+  leíste un libro ayer
+  AYER TÚ LIBRO LEER
+- AYER TÚ LEER LIBRO
+
+  leyó un libro ayer
+  AYER ÉL (ELLA) LIBRO LEER
+- AÑER ÉL LEER LIBRO
+
+  leyeron un libro ayer
+  AYER ELLOS (AS) LIBRO LEER
+- AYER ELLOS LEER LIBRO
+
+  mi mamá estaba leyendo un libro ayer
+  AYER MAMÁ MÍA LIBRO LEER
+- AYER MÍO MAMÁ MUJER LEER LIBRO
+
+  mi papá estaba leyendo un libro ayer
+  AYER PAPÁ MÍO LIBRO LEER
+- AYER PAPÁ MÍO LEER LIBRO
+
+  mi prima estaba leyendo un libro ayer
+  AYER PRIMO MUJER MÍA LIBRO LEER
+- AYER PRIMA MUJER MÍO LEER LIBRO
+
+  mi primo estaba leyendo un libro ayer
+  AYER PRIMO MÍO LIBRO LEER
+- AYER PRIMO MÍO LEER LIBRO
+
+  mi novio estaba leyendo un libro ayer
+  AYER NOVIO MÍO LIBRO LEER
++ AYER NOVIO MÍO LIBRO LEER
+
+  mi novia estaba leyendo un libro ayer
+  AYER NOVIO MUJER MÍO LIBRO LEER
+- AYER NOVIO MUJER MÍO LEER LIBRO
+
+  mi abuelo estaba leyendo un libro ayer
+  AYER ABUELO MÍO LIBRO LEER
++ AYER ABUELO MÍO LIBRO LEER
+
+  mi abuela estaba leyendo un libro ayer
+  AYER ABUELO MUJER MÍO LIBRO LEER
+- AYER ABUELA MUJER MÍO LEER LIBRO
+
+  mi amiga estaba leyendo un libro ayer
+  AYER AMIGO MUJER MÍO LIBRO LEER
++ AYER AMIGO MUJER MÍO LIBRO LEER
+
+  mi amigo estaba leyendo un libro ayer
+  AYER AMIGO MÍO LIBRO LEER
++ AYER AMIGO MÍO LIBRO LEER
+
+  mi suegra estaba leyendo un libro ayer
+  AYER SUEGRO MUJER MÍA LEER
+- AYER SUERGA MUJER MÍO LIBRO LEER
+
+  tu mamá estaba leyendo un libro ayer
+  AYER MAMÁ TUYA LIBRO LEER
+- None
+
+  tu papá estaba leyendo un libro ayer
+  AYER PAPÁ TUYO LIBRO LEER
+- AYER PAPÁ TUYO LEER LIBRO
+
+  tu prima estaba leyendo un libro ayer
+  AYER PRIMO MUJER TUYA LIBRO LEER
+- AYER PRIMA MUJER TUYO LEER LIBRO
+
+  tu primo estaba leyendo un libro ayer
+  AYER PRIMO TUYO LIBRO LEER
+- AYER PRIMO TUYO LEER LIBRO
+
+  tu novio estaba leyendo un libro ayer
+  AYER NOVIO TUYO LIBRO LEER
+- AYER NOVIO TUYO LEER LIBRO
+
+  tu novia estaba leyendo un libro ayer
+  AYER NOVIO MUJER TUYA LIBRO LEER
+- AYER TU NOVIA MUJER LEER LIBRO
+
+  tu abuelo estaba leyendo un libro ayer
+  AYER ABUELO TUYO LIBRO LEER
++ AYER ABUELO TUYO LIBRO LEER
+
+  tu abuela estaba leyendo un libro ayer
+  AYER ABUELO MUJER TUYA LIBRO LEER
+- AYER ABUELA MUJER TUYO LIBRO LEER
+
+  tu amiga estaba leyendo un libro ayer
+  AYER AMIGO MUJER TUYA LIBRO LEER
+- AYER AMIGO MUJER TUYO LIBRO LEER
+
+  tu amigo estaba leyendo un libro ayer
+  AYER AMIGO TUYO LIBRO LEER
+- AYER AMIGO TUYO LEER LIBRO
+
+  leímos el periódico ayer 
+  AYER NOSOTROS PERIÓDICO LEER
+- AYER NOSOTROS LEER PERIÓDICO
+
+  leí el periódico ayer
+  AYER YO PERIÓDICO LEER
+- YO LEER PERIÓDICO AYER
+
+  leíste el periódico ayer
+  AYER TÚ PERIÓDICO LEER
++ AYER TÚ PERIÓDICO LEER
+
+  leyó el periódico ayer
+  AYER ÉL (ELLA) PERIÓDICO LEER
+- AYER ÉL LEER PERIÓDICO
+
+  leyeron el periódico ayer
+  AYER ELLOS (AS) PERIÓDICO LEER
+- AYER ELLOS LEER PERIÓDICO
+
+  mi mamá estaba leyendo un periódico ayer
+  AYER MAMÁ MÍA PERIÓDICO LEER
+- AYER MAMA MUJER MÍO PERIÓDICO LEER
+
+  mi papá estaba leyendo un periódico ayer
+  AYER PAPÁ MÍO PERIÓDICO LEER
+- AYER PAPÁ MÍO LEER PERIÓDICO
+
+  mi prima estaba leyendo un periódico ayer
+  AYER PRIMO MUJER MÍA PERIÓDICO LEER
+- AYER PRIMA MUJER MÍO LEER PERIÓDICO
+
+  mi primo estaba leyendo un periódico ayer
+  AYER PRIMO MÍO PERIÓDICO LEER
+- AYER PRIMO MÍO LEER PERIÓDICO
+
+  mi novio estaba leyendo un periódico ayer
+  AYER NOVIO MÍO PERIÓDICO LEER
++ AYER NOVIO MÍO PERIÓDICO LEER
+
+  mi novia estaba leyendo un periódico ayer
+  AYER NOVIO MUJER MÍO PERIÓDICO LEER
+- AYER NOVIA MUJER MÍO PERIÓDICO LEER
+
+  mi abuelo estaba leyendo un periódico ayer
+  AYER ABUELO MÍO PERIÓDICO LEER
++ AYER ABUELO MÍO PERIÓDICO LEER
+
+  mi abuela estaba leyendo un periódico ayer
+  AYER ABUELO MUJER MÍO PERIÓDICO LEER
+- AYER ABUELA MUJER MÍO LEER PERIÓDICO
+
+  mi amiga estaba leyendo un periódico ayer
+  AYER AMIGO MUJER MÍO PERIÓDICO LEER
+- AYER AMIGO MUJER MÍO LEER PERIÓDICO
+
+  mi amigo estaba leyendo un periódico ayer
+  AYER AMIGO MÍO PERIÓDICO LEER
+- AYER AMIGO MÍO LEER PERIÓDICO
+
+  tu mamá estaba leyendo un libro ayer
+  AYER MAMÁ TUYA LIBRO LEER
+- AYER MAMÁ MUJER TUYO LEER LIBRO
+
+  tu papá estaba leyendo un periódico ayer
+  AYER PAPÁ TUYO PERIÓDICO LEER
++ AYER PAPÁ TUYO PERIÓDICO LEER
+
+  tu prima estaba leyendo un periódico ayer
+  AYER PRIMO MUJER TUYA PERIÓDICO LEER
+- AYER PRIMA MUJER TUYO LEER PERIÓDICO
+
+  tu primo estaba leyendo un periódico ayer
+  AYER PRIMO TUYO PERIÓDICO LEER
+- AYER TÚ PRIMO LEER PERIÓDICO
+
+  tu novio estaba leyendo un periódico ayer
+  AYER NOVIO TUYO PERIÓDICO LEER
+- AYER NOVIO TUYO LEER PERIÓDICO
+
+  tu novia estaba leyendo un periódico ayer
+  AYER NOVIO MUJER TUYA PERIÓDICO LEER
+- TÚ NOVIA MUJER LEER PERIÓDICO AYER
+
+  tu abuelo estaba leyendo un periódico ayer
+  AYER ABUELO TUYO PERIÓDICO LEER
+- AYER TÚ ABUELO LEER PERIÓDICO
+
+  tu abuela estaba leyendo un periódico ayer
+  AYER ABUELO MUJER TUYA PERIÓDICO LEER
+- AYER ABUELA MUJER TUYO LEER PERIÓDICO
+
+  tu amiga estaba leyendo un periódico ayer
+  AYER AMIGO MUJER TUYA PERIÓDICO LEER
+- AMIGO MUJER TUYO LEER PERIÓDICO AYER
+
+  tu amigo estaba leyendo un periódico ayer
+  AYER AMIGO TUYO PERIÓDICO LEER
+- AYER AMIGO TUYO LEER PERIÓDICO
+
+  leímos una revista ayer 
+  AYER NOSOTROS REVISTA LEER
+- AYER NOSOTROS LEER REVISTA
+
+  leí una revista ayer
+  AYER YO REVISTA LEER
++ AYER YO REVISTA LEER
+
+  leíste una revista ayer
+  AYER TÚ REVISTA LEER
++ AYER TÚ REVISTA LEER
+
+  leyó una revista ayer
+  AYER ÉL (ELLA) REVISTA LEER
+- AYER ÉL LEER REVISTA
+
+  leyeron una revista ayer
+  AYER ELLOS (AS) REVISTA LEER
+- AYER ELLOS REVISTA LEER
+
+  mi mamá estaba leyendo una revista ayer
+  AYER MAMÁ MÍA REVISTA LEER
+- AYER MAMA MUJER MÍO LEER REVISTA
+
+  mi papá estaba leyendo una revista ayer
+  AYER PAPÁ MÍO REVISTA LEER
+- AYER PAPÁ MÍO LEER REVISTA
+
+  mi prima estaba leyendo una revista ayer
+  AYER PRIMO MUJER MÍA REVISTA LEER
+- AYER PRIMA MUJER MÍO REVISTA LEER
+
+  mi primo estaba leyendo una revista ayer
+  AYER PRIMO MÍO REVISTA LEER
+- AYER PRIMO MÍO LEER REVISTA
+
+  mi novio estaba leyendo un revista ayer
+  AYER NOVIO MÍO REVISTA LEER
+- None
+
+  mi novia estaba leyendo una revista ayer
+  AYER NOVIO MUJER MÍO REVISTA LEER
+- AYER NOVIA MUJER MÍO REVISTA LEER
+
+  mi abuelo estaba leyendo una revista ayer
+  AYER ABUELO MÍO REVISTA LEER
++ AYER ABUELO MÍO REVISTA LEER
+
+  mi abuela estaba leyendo una revista ayer
+  AYER ABUELO MUJER MÍO REVISTA LEER
+- AYER ABUELA MUJER MÍO REVISTA LEER
+
+  mi amiga estaba leyendo una revista ayer
+  AYER AMIGO MUJER MÍO REVISTA LEER
+- AYER AMIGO MUJER MÍO LEER REVISTA
+
+  mi amigo estaba leyendo una revista ayer
+  AYER AMIGO MÍO REVISTA LEER
++ AYER AMIGO MÍO REVISTA LEER
+
+  te gusta el chocolate
+  TÚ CHOCOLATE GUSTAR
+- CHOCOLATE TÚ GUSTAR
+
+  me gusta el chocolate
+  YO CHOCOLATE GUSTAR
+- CHOCOLATE GUSTAR YO
+
+  le gusta el chocolate
+  ELLA CHOCOLATE GUSTAR
+- ÉL GUSTAR CHOCOLATE
+
+  le gusta el chocolate
+  ÉL CHOCOLATE GUSTAR
+- ÉL GUSTAR CHOCOLATE
+
+  les gusta el chocolate
+  ELLOS CHOCOLATE GUSTAR
+- ELLOS GUSTAR CHOCOLATE
+
+  les gusta el chocolate
+  ELLAS CHOCOLATE GUSTAR
+- ELLOS GUSTAR CHOCOLATE
+
+  les gusta el chocolate
+  USTEDES CHOCOLATE GUSTAR
+- ELLOS GUSTAR CHOCOLATE
+
+  nos gusta el chocolate
+  NOSOTROS CHOCOLATE GUSTAR
+- CHOCOLATE NOSOTROS GUSTAR
+
+  no te gusta el chocolate
+  TÚ CHOCOLATE GUSTAR NO
+- TÚ NO CHOCOLATE GUSTAR
+
+  no me gusta el chocolate
+  YO CHOCOLATE GUSTAR NO
+- NO CHOCOLATE ME GUSTAR
+
+  no le gusta el chocolate
+  ÉL CHOCOLATE GUSTAR NO
+- ÉL NO GUSTAR CHOCOLATE
+
+  no les gusta el chocolate
+  ELLOS CHOCOLATE GUSTAR NO
+- ELLOS NO GUSTAR CHOCOLATE
+
+  no les gusta el chocolate
+  ELLAS CHOCOLATE GUSTAR NO
+- ELLOS NO GUSTAR CHOCOLATE
+
+  no les gusta el chocolate
+  USTEDES CHOCOLATE GUSTAR NO
+- ELLOS NO GUSTAR CHOCOLATE
+
+  nos gusta el chocolate
+  NOSOTROS CHOCOLATE GUSTAR NO
+- CHOCOLATE NOSOTROS GUSTAR
+
+  a mi mamá le gusta el chocolate
+  MAMÁ MÍA CHOCOLATE GUSTAR
+- MAMÁ MUJER MÍO CHOCOLATE GUSTAR
+
+  a mi mamá no le gusta el chocolate
+  MAMÁ MÍA CHOCOLATE GUSTAR NO
+- CHOCOLATE MADRE MUJER MÍO NO GUSTAR
+
+  a mi papá le gusta el chocolate
+  PAPÁ MÍO CHOCOLATE GUSTAR
+- A PAPÁ MÍO GUSTAR CHOCOLATE
+
+  a mi papá no le gusta el chocolate
+  PAPÁ MÍO CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR PAPÁ MÍO
+
+  a mi hermano no le gusta el chocolate
+  HERMANO MÍO CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR HERMANO MÍO
+
+  a mi hermano le gusta el chocolate
+  HERMANO MÍO CHOCOLATE GUSTAR
+- HERMANO MÍO GUSTAR CHOCOLATE
+
+  a mi hermana no le gusta el chocolate
+  HERMANO MUJER MÍA CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR HERMANA MÍO
+
+  a mi hermano le gusta el chocolate
+  HERMANO MÍO CHOCOLATE GUSTAR
+- CHOCOLATE HERMANO MÍO G
+
+  a mi prima le gusta el chocolate
+  PRIMO MUJER MÍA CHOCOLATE GUSTAR
+- CHOCOLATE PRIMA MUJER MÍO GUSTAR
+
+  a mi primo no le gusta el chocolate
+  PRIMO MÍO CHOCOLATE GUSTAR NO
+- CHOCOLATE PRIMO MÍO NO GUSTAR
+
+  a mi tía le gusta el chocolate
+  TÍO MUJER MÍA CHOCOLATE GUSTAR
+- A TÍA MÍO GUSTAR CHOCOLATE
+
+  a mi tía no le gusta el chocolate
+  TÍO MUJER MÍA CHOCOLATE GUSTAR NO
+- A TÍA MUJER MÍO NO GUSTAR CHOCOLATE
+
+  a mi tío no le gusta el chocolate
+  TÍO MÍO CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR TIO MÍO
+
+  a mi tío le gusta el chocolate
+  TÍO MÍO CHOCOLATE GUSTAR
+- CHOCOLATE GUSTAR TIO MÍO
+
+  a mi abuelo le gusta el chocolate
+  ABUELO MÍO CHOCOLATE GUSTAR
+- CHOCOLATE GUSTAR ABUELO MÍO
+
+  a mi abuelo no le gusta el chocolate
+  ABUELO MÍO CHOCOLATE GUSTAR NO
+- None
+
+  a mi abuela no le gusta el chocolate
+  ABUELO MUJER MÍA CHOCOLATE GUSTAR NO
+- ABUELA MUJER MÍO NO GUSTAR CHOCOLATE
+
+  a mi abuela le gusta el chocolate
+  ABUELO MUJER MÍA CHOCOLATE GUSTAR
+- ABUELA MUJER MÍO GUSTAR CHOCOLATE
+
+  a tu mamá le gusta el chocolate
+  MAMÁ TUYA CHOCOLATE GUSTAR
+- MAMÁ TUYO GUSTAR CHOCOLATE
+
+  a tu mamá no le gusta el chocolate
+  MAMÁ TUYA CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR MAMÁ MUJER TUYO
+
+  a tu papá le gusta el chocolate
+  PAPÁ TUYO CHOCOLATE GUSTAR
+- CHOCOLATE GUSTAR PADRE TUYO
+
+  a tu papá no le gusta el chocolate
+  PAPÁ TUYO CHOCOLATE GUSTAR NO
+- None
+
+  a tu hermano no le gusta el chocolate
+  HERMANO TUYO CHOCOLATE GUSTAR NO
+- None
+
+  a tu hermano le gusta el chocolate
+  HERMANO TUYO CHOCOLATE GUSTAR
+- CHOCOLATE A TUYO HERMANO GUSTAR
+
+  a tu hermana no le gusta el chocolate
+  HERMANO MUJER TUYA CHOCOLATE GUSTAR NO
+- HERMANA MUJER TUYO NO GUSTAR CHOCOLATE
+
+  a tu hermano le gusta el chocolate
+  HERMANO TUYO CHOCOLATE GUSTAR
+- CHOCOLATE HERMANO TUYO GUSTAR
+
+  a tu prima le gusta el chocolate
+  PRIMO MUJER TUYA CHOCOLATE GUSTAR
+- CHOCOLATE PRIMA MUJER TUYO GUSTAR
+
+  a tu primo no le gusta el chocolate
+  PRIMO TUYO CHOCOLATE GUSTAR NO
+- None
+
+  a tu tía le gusta el chocolate
+  TÍO MUJER TUYA CHOCOLATE GUSTAR
+- TÍA MUJER TUYO GUSTAR CHOCOLATE
+
+  a tu tía no le gusta el chocolate
+  TÍO MUJER TUYA CHOCOLATE GUSTAR NO
+- TÚ TÍA MUJER TUYO NO GUSTAR CHOCOLATE
+
+  a tu tío no le gusta el chocolate
+  TÍO TUYO CHOCOLATE GUSTAR NO
+- A TUYO TIO NO GUSTAR CHOCOLATE
+
+  a tu tío le gusta el chocolate
+  TÍO TUYO CHOCOLATE GUSTAR
+- TÍO TUYO GUSTAR CHOCOLATE
+
+  a tu abuelo le gusta el chocolate
+  ABUELO TUYO CHOCOLATE GUSTAR
+- ABUELO TUYO GUSTAR CHOCOLATE
+
+  a tu abuelo no le gusta el chocolate
+  ABUELO TUYO CHOCOLATE GUSTAR NO
+- None
+
+  a tu abuela no le gusta el chocolate
+  ABUELO MUJER TUYA CHOCOLATE GUSTAR NO
+- None
+
+  a tu abuela le gusta el chocolate
+  ABUELO MUJER TUYA CHOCOLATE GUSTAR
+- ABUELA MUJER TUYO GUSTAR CHOCOLATE
+
+  me agrada platicar
+  YO PLATICAR GUSTAR
+- YO GUSTAR PLATICAR
+
+  me gusta platicar
+  YO PLATICAR GUSTAR
+- YO GUSTAR PLATICAR
+
+  no me gusta platicar
+  YO PLATICAR GUSTAR NO
+- YO NO GUSTAR PLATICAR
+
+  no me agrada platicar
+  YO PLATICAR GUSTAR NO
+- None
+
+  me gusta leer
+  YO LEER GUSTAR
+- YO GUSTAR LEER
+
+  no me gusta leer
+  YO LEER GUSTAR NO
+- LEER NO GUSTAR YO
+
+  me agrada leer
+  YO LEER GUSTAR
+- YO AGRADAR LEER
+
+  no me agrada leer
+  YO LEER GUSTAR NO
+- YO NO LEER AGRADAR
+
+  me gusta pasear
+  YO PASEAR GUSTAR
+- None
+
+  no me agrada pasear
+  YO PASEAR GUSTAR NO
+- YO NO AGRADAR PASEAR
+
+  me agrada pasear
+  YO PASEAR GUSTAR
+- YO AGRADAR PASEAR
+
+  no me gusta pasear
+  YO PASEAR GUSTAR NO
+- None
+
+  me gusta sonreír
+  YO SONREÍR GUSTAR
+- YO GUSTAR SONREÍR
+
+  no me gusta sonreír
+  YO SONREÍR GUSTAR NO
+- YO NO GUSTAR SONREÍR
+
+  me agrada sonreír
+  YO SONREÍR GUSTAR
+- None
+
+  no me gusta sonreír
+  YO SONREÍR GUSTAR NO
+- None
+
+  te gusta el chocolate
+  TÚ CHOCOLATE GUSTAR
+- CHOCOLATE TÚ GUSTAR
+
+  no te gusta el chocolate
+  TÚ CHOCOLATE GUSTAR NO
+- CHOCOLATE NO GUSTAR TÚ
+
+  te agrada el chocolate
+  TÚ CHOCOLATE AGRADAR
+- TÚ AGRADAR CHOCOLATE
+
+  te desagrada el chocolate
+  TÚ CHOCOLATE GUSTAR NO
+- CHOCOLATE DESAGRADAR TÚ
+
+  te gusta comer helado
+  TÚ COMER HELADO GUSTAR
+- TÚ GUSTAR COMER HELADO
+
+  no te gusta comer helado
+  TÚ COMER HELADO GUSTAR NO
+- None
+
+  te agrada comer helado
+  TÚ COMER HELADO GUSTAR
+- TÚ COMER HELADO AGRADAR
+
+  no te agrada platicar
+  TÚ PLATICAR GUSTAR NO
+- TÚ NO AGRADAR PLATICAR
+
+  te agrada platicar
+  TÚ PLATICAR GUSTAR
+- TÚ AGRADAR PLATICAR
+
+  no te agrada platicar
+  TÚ PLATICAR GUSTAR NO
+- None
+
+  te gusta platicar
+  TÚ PLATICAR GUSTAR
+- TÚ GUSTAR PLATICAR
+
+  no te agrada leer
+  TÚ LEER GUSTAR NO
+- None
+
+  te agrada leer
+  TÚ LEER GUSTAR
+- TÚ AGRADAR LEER
+
+  no te gusta leer
+  TÚ LEER GUSTAR NO
+- TÚ NO GUSTAR LEER
+
+  te gusta leer
+  TÚ LEER GUSTAR
+- TÚ GUSTAR LEER
+
+  no te gusta leer
+  TÚ LEER GUSTAR NO
+- TÚ NO GUSTAR LEER
+
+  te agrada pasear
+  TÚ PASEAR GUSTAR
+- TÚ AGRADAR PASEAR
+
+  te desagrada pasear
+  TÚ PASEAR GUSTAR NO
+- None
+
+  te gusta pasear
+  TÚ PASEAR GUSTAR
+- TÚ GUSTAR PASEAR
+
+  no te gusta pasear
+  TÚ PASEAR GUSTAR NO
+- TÚ NO GUSTAR PASEAR
+
+  te agrada sonreír
+  TÚ SONREÍR GUSTAR
+- None
+
+  te desagrada sonreír
+  TÚ SONREÍR GUSTAR NO
+- TÚ SONREÍR DESAGRADAR
+
+  les agrada el chocolate
+  ELLOS CHOCOLATE GUSTAR
+- CHOCOLATE AGRADAR ELLOS
+
+  les desagrada el chocolate
+  ELLOS CHOCOLATE GUSTAR NO
+- CHOCOLATE ELLOS DESAGRADAR
+
+  les agrada el chocolate
+  USTEDES CHOCOLATE GUSTAR
+- CHOCOLATE AGRADAR ELLOS
+
+  les desagrada el chocolatge
+  USTEDES CHOCOLATE GUSTAR NO
+- None
+
+  les gusta el chocolate
+  ELLOS CHOCOLATE GUSTAR
+- ELLOS GUSTAR CHOCOLATE
+
+  no les gusta el chocolate
+  ELLOS CHOCOLATE GUSTAR NO
+- ELLOS NO GUSTAR CHOCOLATE
+
+  les agrada comer helado
+  ELLOS COMER HELADO GUSTAR
+- None
+
+  no les agrada comer helado
+  ELLOS COMER HELADO GUSTAR NO
+- ELLOS NO AGRADAR COMER HELADO
+
+  les gusta comer helado
+  ELLOS COMER HELADO GUSTAR
+- ELLOS GUSTAR COMER HELADO
+
+  no les gusta comer helado
+  ELLOS COMER HELADO GUSTAR NO
+- None
+
+  les gusta leer
+  USTEDES LEER GUSTAR
+- ELLOS GUSTAR LEER
+
+  no les gusta leer
+  USTEDES LEER GUSTAR NO
+- None
+
+  les agrada leer
+  ELLOS LEER GUSTAR
+- None
+
+  les gusta leer
+  ELLOS LEER GUSTAR
+- ELLOS GUSTAR LEER
+
+  no les agrada leer
+  ELLOS LEER GUSTAR NO
+- None
+
+  les gusta leer
+  USTEDES LEER GUSTAR
+- ELLOS GUSTAR LEER
+
+  no les gusta leer
+  USTEDES LEER GUSTAR NO
+- None
+
+  me gusta caminar
+  YO CAMINAR GUSTAR
+- YO GUSTAR CAMINAR
+
+  no me gusta caminar
+  YO CAMINAR GUSTAR NO
+- NO CAMINAR GUSTAR YO
+
+  me agrada caminar
+  YO CAMINAR GUSTAR
+- YO GUSTAR CAMINAR
+
+  me desagrada caminar
+  YO CAMINAR GUSTAR NO
+- CAMINAR DESAGRADAR YO
+
+  te agrada caminar
+  TÚ CAMINAR GUSTAR
+- TÚ CAMINAR AGRADAR
+
+  te desagrada caminar
+  TÚ CAMINAR GUSTAR NO
+- None
+
+  te gusta caminar
+  TÚ CAMINAR GUSTAR
+- CAMINAR GUSTAR TÚ
+
+  no te gusta caminar
+  TÚ CAMINAR GUSTAR NO
+- TÚ NO GUSTAR CAMINAR
+
+  te agrada caminar
+  TÚ CAMINAR GUSTAR
+- TÚ CAMINAR AGRADAR
+
+  te desagrada caminar
+  TÚ CAMINAR GUSTAR NO
+- None
+
+  les gusta caminar
+  ELLOS CAMINAR GUSTAR
+- ELLOS GUSTAR CAMINAR
+
+  no les gusta caminar
+  ELLOS CAMINAR GUSTAR NO
+- LES NO GUSTAR CAMINAR
+
+  les agrada caminar
+  USTEDES CAMINAR GUSTAR
+- None
+
+  les desagrada caminar
+  USTEDES CAMINAR GUSTAR NO
+- None
+
+  les gusta caminar
+  ELLOS CAMINAR GUSTAR
+- ELLOS GUSTAR CAMINAR
+
+  no les gusta caminar
+  ELLOS CAMINAR GUSTAR NO
+- LES NO GUSTAR CAMINAR
+
+  les gusta caminar
+  USTEDES CAMINAR GUSTAR
+- ELLOS GUSTAR CAMINAR
+
+  no les gusta caminar
+  USTEDES CAMINAR GUSTAR NO
+- LES NO GUSTAR CAMINAR
+
+  le agrada caminar
+  ELLA CAMINAR GUSTAR
+- ÉL AGRADAR CAMINAR
+
+  le desagrada caminar
+  ELLA CAMINAR GUSTAR NO
+- ÉL DESAGRADAR CAMINAR
+
+  le agrada caminar
+  EL CAMINAR GUSTAR
+- ÉL AGRADAR CAMINAR
+
+  le desagrada caminar
+  EL CAMINAR GUSTAR NO
+- ÉL DESAGRADAR CAMINAR
+
+  le gusta caminar
+  EL CAMINAR GUSTAR
+- ÉL GUSTAR CAMINAR
+
+  no les gusta caminar
+  EL CAMINAR GUSTAR NO
+- LES NO GUSTAR CAMINAR
+
+  le gusta caminar
+  ELLA CAMINAR GUSTAR
+- ÉL GUSTAR CAMINAR
+
+  no le gusta caminar
+  ELLA CAMINAR GUSTAR NO
+- ÉL NO GUSTAR CAMINAR
+
+  le gusta correr
+  EL CORRER GUSTAR
+- None
+
+  no les gusta correr
+  EL CORRER GUSTAR NO
+- ELLOS NO GUSTAR CORER
+
+  le gusta correr
+  ELLA CORRER GUSTAR
+- None
+
+  te gusta reír
+  TÚ REÍR GUSTAR
+- TÚ GUSTAR RÍR
+
+  no te gusta reír
+  TÚ REÍR GUSTAR NO
+- TÚ NO GUSTAR REÍR
+
+  les gusta reír
+  ELLOS REÍR GUSTAR
+- None
+
+  no les gusta reír
+  ELLOS REÍR GUSTAR NO
+- None
+
+  les gusta sonreír
+  ELLOS SONREÍR GUSTAR
+- SONREÍR GUSTAR A ELLOS
+
+  no les gusta sonreír
+  ELLOS SONREÍR GUSTAR NO
+- NO ELLOS GUSTAR SONREÍR
+
+  te gusta sonreír
+  TÚ SONREÍR GUSTAR
+- SONREÍR GUSTAR TÚ
+
+  no te gusta sonreír
+  TÚ SONREÍR GUSTAR NO
+- TÚ NO GUSTAR SONREÍR
+
+  le gusta reír
+  ELLA REÍR GUSTAR
+- ÉL GUSTAR REÍR
+
+  no le gusta reír
+  ELLA REÍR GUSTAR NO
+- ÉL NO GUSTAR REÍR
+
+  le gusta sonreír
+  EL SONREÍR GUSTAR
+- ÉL GUSTAR SONREÍR
+
+  no le gusta sonreír
+  EL SONREÍR GUSTAR NO
+- None
+
+  le gusta sonreír
+  ELLA SONREÍR GUSTAR
+- SONREÍR GUSTAR ÉL
+
+  no le gusta sonreir
+  EL SONREÍR GUSTAR NO
+- ÉL NO GUSTAR SONREIR
+
+  le gusta reír
+  EL REÍR GUSTAR
+- ÉL GUSTAR REÍR
+
+  no le gusta reír
+  EL REÍR GUSTAR NO
+- ÉL NO GUSTAR REÍR
+
+  te gusta el café
+  TÚ CAFÉ GUSTAR
+- CAFÉ TÚ GUSTAR
+
+  me gusta el café
+  YO CAFÉ GUSTAR
++ YO CAFÉ GUSTAR
+
+  le gusta el café
+  ELLA CAFÉ GUSTAR
+- None
+
+  le gusta el café
+  ÉL CAFÉ GUSTAR
+- None
+
+  les gusta el café
+  ELLOS CAFÉ GUSTAR
+- None
+
+  les gusta el café
+  ELLAS CAFÉ GUSTAR
+- None
+
+  les gusta el café
+  USTEDES CAFÉ GUSTAR
+- None
+
+  nos gusta el café
+  NOSOTROS CAFÉ GUSTAR
+- NOSOTROS GUSTAR CAFÉ
+
+  no te gusta el café
+  TÚ CAFÉ GUSTAR NO
+- TÚ NO GUSTAR CAFÉ
+
+  no me gusta el café
+  YO CAFÉ GUSTAR NO
+- NO CAFÉ GUSTAR YO
+
+  no le gusta el café
+  ÉL CAFÉ GUSTAR NO
+- ÉL NO GUSTAR CAFÉ
+
+  no les gusta el café
+  ELLOS CAFÉ GUSTAR NO
+- None
+
+  no les gusta el café
+  ELLAS CAFÉ GUSTAR NO
+- None
+
+  no les gusta el café
+  USTEDES CAFÉ GUSTAR NO
+- None
+
+  nos gusta el café
+  NOSOTROS CAFÉ GUSTAR NO
+- NOSOTROS GUSTAR CAFÉ
+
+  a mi mamá le gusta el café
+  MAMÁ MÍA CAFÉ GUSTAR
+- MAMÁ MUJER MÍO GUSTAR CAFÉ
+
+  a mi mamá no le gusta el café
+  MAMÁ MÍA CAFÉ GUSTAR NO
+- CAFÉ NO GUSTAR MAMÁ MUJER MÍO
+
+  a mi papá le gusta el café
+  PAPÁ MÍO CAFÉ GUSTAR
+- PADRE MÍO GUSTAR CAFÉ
+
+  a mi papá no le gusta el café
+  PAPÁ MÍO CAFÉ GUSTAR NO
+- CAFÉ NO GUSTAR PAPÁ MÍO
+
+  a mi hermano no le gusta el café
+  HERMANO MÍO CAFÉ GUSTAR NO
+- None
+
+  a mi hermano le gusta el café
+  HERMANO MÍO CAFÉ GUSTAR
+- None
+
+  a mi hermana no le gusta el café
+  HERMANO MUJER MÍA CAFÉ GUSTAR NO
+- CAFÉ NO GUSTAR HERMANO MUJER MÍO
+
+  a mi hermano le gusta el café
+  HERMANO MÍO CAFÉ GUSTAR
+- HERMANO MÍO GUSTAR CAFÉ
+
+  a mi prima le gusta el café
+  PRIMO MUJER MÍA CAFÉ GUSTAR
+- PRIMA MUJER MÍO GUSTAR CAFÉ
+
+  a mi primo no le gusta el café
+  PRIMO MÍO CAFÉ GUSTAR NO
+- None
+
+  a mi tía le gusta el café
+  TÍO MUJER MÍA CAFÉ GUSTAR
+- TÍA MUJER MÍO GUSTAR CAFÉ
+
+  a mi tía no le gusta el café
+  TÍO MUJER MÍA CAFÉ GUSTAR NO
+- TÍA MUJER MÍO NO GUSTAR CAFÉ
+
+  a mi tío no le gusta el café
+  TÍO MÍO CAFÉ GUSTAR NO
+- CÁFE NO GUSTAR TÍO MÍO
+
+  a mi tío le gusta el café
+  TÍO MÍO CAFÉ GUSTAR
+- TIO MÍO GUSTAR CAFÉ
+
+  a mi abuelo le gusta el café
+  ABUELO MÍO CAFÉ GUSTAR
+- None
+
+  a mi abuelo no le gusta el café
+  ABUELO MÍO CAFÉ GUSTAR NO
+- CAFÉ NO GUSTAR ABUELO MÍO
+
+  a mi abuela no le gusta el café
+  ABUELO MUJER MÍA CAFÉ GUSTAR NO
+- CAFÉ NO GUSTAR ABUELA MUJER MÍO
+
+  a mi abuela le gusta el café
+  ABUELO MUJER MÍA CAFÉ GUSTAR
+- ABUELA MUJER MÍO GUSTAR CAFÉ
+
+  a tu mamá le gusta el café
+  MAMÁ TUYA CAFÉ GUSTAR
+- CAFÉ GUSTAR MAMÁ TUYO
+
+  a tu mamá no le gusta el café
+  MAMÁ TUYA CAFÉ GUSTAR NO
+- MAMÁ MUJER TUYO NO GUSTAR CAFÉ
+
+  a tu papá le gusta el café
+  PAPÁ TUYO CAFÉ GUSTAR
+- PAPÁ TÚYO GUSTAR CAFÉ
+
+  a tu papá no le gusta el café
+  PAPÁ TUYO CAFÉ GUSTAR NO
+- PAPÁ TUYO NO GUSTAR CAFÉ
+
+  a tu hermano no le gusta el café
+  HERMANO TUYO CAFÉ GUSTAR NO
+- CAFÉ HERMANO TUYO NO GUSTAR
+
+  a tu hermano le gusta el café
+  HERMANO TUYO CAFÉ GUSTAR
+- CAFÉ A HERMANO TUYO GUSTAR
+
+  a tu hermana no le gusta el café
+  HERMANO MUJER TUYA CAFÉ GUSTAR NO
+- None
+
+  a tu hermano le gusta el café
+  HERMANO TUYO CAFÉ GUSTAR
+- CÁFE A HERMANO TUYO GUSTAR
+
+  a tu prima le gusta el café
+  PRIMO MUJER TUYA CAFÉ GUSTAR
+- CAFÉ GUSTAR PRIMA MUJER TUYO
+
+  a tu primo no le gusta el café
+  PRIMO TUYO CAFÉ GUSTAR NO
+- None
+
+  a tu tía le gusta el café
+  TÍO MUJER TUYA CAFÉ GUSTAR
+- TÍA MUJER TUYO GUSTAR CAFÉ
+
+  a tu tía no le gusta el café
+  TÍO MUJER TUYA CAFÉ GUSTAR NO
+- None
+
+  a tu tío no le gusta el café
+  TÍO TUYO CAFÉ GUSTAR NO
+- None
+
+  a tu tío le gusta el café
+  TÍO TUYO CAFÉ GUSTAR
+- CAFÉ GUSTAR TÍO TUYO
+
+  a tu abuelo le gusta el café
+  ABUELO TUYO CAFÉ GUSTAR
+- CÁFE A ABUELO TÚYO GUSTAR
+
+  a tu abuelo no le gusta el café
+  ABUELO TUYO CAFÉ GUSTAR NO
+- ABUELO TÚYO CAFÉ NO GUSTAR
+
+  a tu abuela no le gusta el café
+  ABUELO MUJER TUYA CAFÉ GUSTAR NO
+- ABUELA MUJER TUYO NO GUSTAR CAFÉ
+
+  a tu abuela le gusta el café
+  ABUELO MUJER TUYA CAFÉ GUSTAR
+- ABUELO MUJER TUYO GUSTAR CAFÉ
+
+  te gusta pasear
+  TU PASEAR GUSTAR
+- TÚ GUSTAR PASEAR
+
+  nos gusta la música clásica
+  NOSOTROS MÚSICA CLÁSICA GUSTAR
+- NOSOTROS GUSTAR MUSICA CLASICO
+
+  no nos gusta la música clásica
+  NOSOTROS MÚSICA CLÁSICA GUSTAR NO
+- None
+
+  nos agrada la música clásica
+  NOSOTROS MÚSICA CLÁSICA GUSTAR
+- NOSOTROS AGRADAR MÚSICA CLÁSICO
+
+  nos desagrada la música clásica
+  NOSOTROS MÚSICA CLÁSICA GUSTAR NO
+- NOSOTROS DESAGRADAR MÚSICA CLÁSICO
+
+  nos agrada platicar
+  NOSOTROS PLATICAR GUSTAR
+- None
+
+  nos desagrada platicar
+  NOSOTROS PLATICAR GUSTAR NO
+- None
+
+  nos gusta platicar
+  NOSOTROS PLATICAR GUSTAR
+- NOSOTROS GUSTAR PLATICAR
+
+  no nos gusta platicar
+  NOSOTROS PLATICAR GUSTAR NO
+- NOSOTROS NO GUSTAR PLATICAR
+
+  nos agrada reír
+  NOSOTROS REÍR AGRADAR
+- None
+
+  no nos agrada reír
+  NOSOTROS REÍR GUSTAR NO
+- None
+
+  nos gusta reír
+  NOSOTROS REÍR GUSTAR
+- NOSOTROS GUSTAR REÍR
+
+  no nos gusta reír
+  NOSOTROS REÍR GUSTAR NO
+- NO GUSTAR REÍR NOSOTROS
+
+  nos gusta caminar
+  NOSOTROS CAMINAR GUSTAR
+- NOSOTROS GUSTAR CAMINAR
+
+  nos agrada caminar
+  NOSOTROS CAMINAR GUSTAR
+- None
+
+  nos desagrada caminar
+  NOSOTROS CAMINAR GUSTAR NO
+- NOSOTROS CAMINAR DESAGRADAR
+
+  nos gusta pasear
+  NOSOTROS PASEAR GUSTAR
+- NOSOTROS GUSTAR PASEAR
+
+  no nos gusta pasear
+  NOSOTROS PASEAR GUSTAR NO
+- NOSOTROS NO GUSTAR PASEAR
+
+  les gusta platicar
+  USTEDES PLATICAR GUSTAR
+- None
+
+  les gusta platicar
+  ELLOS PLATICAR GUSTAR
+- ELLOS GUSTAR PLATICAR
+
+  el niño juega a la pelota
+  NIÑO PELOTA JUGAR
+- NIÑO JUGAR PELOTA
+
+  los niños juegan a la pelota
+  NIÑO ELLOS PELOTA JUGAR
+- NIÑO JUGAR PELOTA
+
+  las niñas construyen una casa
+  NIÑO MUJER ELLAS CASA CONSTRUIR
+- NIÑO MUJER CONSTRUIR CASA
+
+  mi mamá usa la lavadora
+  MAMÁ MÍA LAVADORA USAR
+- MAMÁ MUJER MÍO USAR LAVADORA
+
+  a mi abuela le gusta cocinar
+  ABUELO MUJER MÍA COCINAR GUSTAR
+- None
+
+  a mi abuela no le gusta cocinar
+  ABUELO MUJER MÍA COCINAR GUSTAR NO
+- ABUELA MUJER MÍO NO GUSTAR COCINAR
+
+  a mi mamá le gusta leer
+  MAMÁ MÍA LEER GUSTAR
+- None
+
+  a mi mamá no le gusta leer
+  MAMÁ MÍA LEER GUSTAR NO
+- None
+
+  a mi mamá le agrada leer
+  MAMÁ MÍA LEER GUSTAR
+- None
+
+  a mi mamá le gusta platicar
+  MAMÁ MÍA PLATICAR GUSTAR
+- None
+
+  a mi mamá no le gusta platicar
+  MAMÁ MÍA PLATICAR GUSTAR NO
+- PLATICAR NO GUSTAR MAMÁ MUJER MÍO
+
+  a mi mamá le agrada platicar
+  MAMÁ MÍA PLATICAR GUSTAR
+- None
+
+  a mi mamá no le agrada platicar
+  MAMÁ MÍA PLATICAR GUSTAR NO
+- MAMÁ MUJER MÍO NO AGRADAR PLATICAR
+
+  manzana
+  MANZANA
++ MANZANA
+
+  manzanas
+  MANZANA
++ MANZANA
+
+  las manzanas
+  MANZANA+MANZANA+MANZANA
+- MANZANA
+
+  muchas manzanas
+  MANZANA MUCHAS
+- MUCHO MANZANA
+
+  pocas manzanas
+  MANZANA POCAS
+- POCAS MANZANA
+
+  algunas manzanas
+  MANZANA ALGUNAS
+- ALGUN MANZANA
+
+  árbol
+  ÁRBOL
++ ÁRBOL
+
+  árboles
+  ÁRBOL+ÁRBOL+ÁRBOL
+- ÁRBOL
+
+  los arboles son verdes
+  ÁRBOL+ÁRBOL+ÁRBOL VERDES
+- ARBOL VERDE
+
+  los árboles
+  ÁRBOL+ÁRBOL+ÁRBOL
+- ÁRBOL
+
+  muchos árboles
+  ÁRBOL MUCHOS
+- MUCHO ARBOL
+
+  algunos árboles
+  ÁRBOL ALGUNOS
+- None
+
+  pocos árboles
+  ÁRBOL POCO
+- POCO ÁRBOL
+
+  auto
+  AUTO
+- None
+
+  los autos
+  AUTO CL+CL+CL
+- AUTO
+
+  autos
+  AUTO CL+CL+CL
+- CAR
+
+  muchos autos
+  AUTO MUCHOS
+- MUCHO AUTO
+
+  pocos autos
+  AUTO POCOS
+- POCO AUTO
+
+  algunos autos
+  AUTO ALGUNOS
+- ALGUN AUTO
+
+  los esposos
+  ESPOSO ELLOS
+- ESPOSO
+
+  muchos esposos
+  ESPOSO MUCHOS
+- MUCHO ESPOSO
+
+  algunos esposos
+  ESPOSO ALGUNOS
+- ALGUNOS ESPOSO
+
+  pocos esposos
+  ESPOSO POCOS
+- ESPOSO POCO
+
+  esposo
+  ESPOSO
++ ESPOSO
+
+  esposa
+  ESPOSO MUJER
++ ESPOSO MUJER
+
+  mujer
+  MUJER
+- HOMBRE MUJER
+
+  mujeres
+  MUJER ELLAS
+- MUJER
+
+  las mujeres
+  MUJER ELLAS
+- MUJER
+
+  muchas mujeres
+  MUJER MUCHAS
+- MUCHO HOMBRE MUJER
+
+  pocas mujeres
+  MUJER POCAS
+- POCO MUJER
+
+  algunas mujeres
+  MUJER ALGUNAS
+- UN POCO MUJER
+
+  hombre
+  HOMBRE
++ HOMBRE
+
+  los hombres
+  HOMBRE ELLOS
+- HOMBRE
+
+  hombres
+  HOMBRE ELLOS
+- HOMBRE
+
+  muchos hombres
+  HOMBRE MUCHOS
+- MUCHO HOMBRE
+
+  pocos hombres
+  HOMBRE POCOS
+- POCOS HOMBRE
+
+  algunos hombres
+  HOMBRE ALGUNOS
+- None
+
+  niño
+  NIÑO
++ NIÑO
+
+  los niños
+  NIÑO ELLOS
+- NIÑO
+
+  muchos niños
+  NIÑO MUCHOS
+- MUCHO NIÑO
+
+  pocos niños
+  NIÑO POCOS
+- NIÑO MUJER POCO
+
+  algunos niños
+  NIÑO ALGUNOS
+- ALGUN NIÑO
+
+  niños
+  HOMBRE ELLOS
+- NIÑO
+
+  las niñas
+  NIÑA MUJER ELLAS
+- NIÑO MUJER
+
+  niña
+  NIÑO MUJER
++ NIÑO MUJER
+
+  niñas
+  NIÑO MUJER ELLAS
+- NIÑO MUJER
+
+  hijo
+  HIJO
++ HIJO
+
+  hijos
+  HIJO ELLOS
+- HIJO
+
+  hija
+  HIJO MUJER
++ HIJO MUJER
+
+  hijas
+  HIJO MUJER ELLAS
+- HIJO MUJER
+
+  novio
+  NOVIO
++ NOVIO
+
+  novios
+  NOVIO ELLOS
+- NOVIO
+
+  novia
+  NOVIO MUJER
++ NOVIO MUJER
+
+  novias
+  NOVIO MUJER ELLAS
+- NOVIA MUJER
+
+  tío
+  TÍO
+- TIO
+
+  tíos
+  TÍO ELLOS
+- TIO
+
+  tía
+  TÍO MUJER
++ TÍO MUJER
+
+  tías
+  TÍO MUJER ELLAS
+- TÍO MUJER
+
+  suegro
+  SUEGRO
++ SUEGRO
+
+  suegros
+  SUEGRO ELLOS
+- SUERGO
+
+  suegra
+  SUEGRO MUJER
++ SUEGRO MUJER
+
+  suegras
+  SUEGRO MUJER ELLAS
+- SUERGO MUJER
+
+  hermano
+  HERMANO
++ HERMANO
+
+  hermanos
+  HERMANO ELLOS
+- HERMANO
+
+  hermana
+  HERMANO MUJER
++ HERMANO MUJER
+
+  hermanas
+  HERMANO MUJER ELLAS
+- HERMANO MUJER
+
+  primo
+  PRIMO 
++ PRIMO
+
+  primos
+  PRIMO ELLOS
+- PRIMO
+
+  prima
+  PRIMO MUJER
++ PRIMO MUJER
+
+  primas
+  PRIMO MUJER ELLAS
+- PRIMO MUJER
+
+  abuelo
+  ABUELO
++ ABUELO
+
+  abuelos
+  ABUELO ELLOS
+- ABUELO
+
+  abuela
+  ABUELO MUJER
++ ABUELO MUJER
+
+  abuelas
+  ABUELO MUJER ELLAS
+- ABUELA MUJER
+
+  sobrino
+  SOBRINO
++ SOBRINO
+
+  sobrinos
+  SOBRINO ELLOS
+- None
+
+  sobrina
+  SOBRINO MUJER
++ SOBRINO MUJER
+
+  sobrinas
+  SOBRINO MUJER ELLAS
+- SOBRINO MUJER
+
+  perro
+  PERRO
++ PERRO
+
+  perros
+  PERRO CL+CL+CL
+- PERRO
+
+  muchos perros juegan en el parque
+  PARQUE AHÍ MUCHOS PERROS JUGAR
+- PARQUE AHÍ MUCHO PERRO JUGAR
+
+  pocos perros juegan en el parque
+  PARQUE AHÍ POCOS PERROS JUGAR
+- None
+
+  mi perro juega con su peluche en la casa
+  CASA AHÍ PERRO MÍO PELUCHE JUGAR
+- None
+
+  tu perro juega con su peluche en la casa
+  CASA AHÍ PERRO TUYO PELUCHE JUGAR
+- PERRO TUYO CON PELUCHE SUYO JUGAR CASA AHÍ PERRO JUGAR
+
+  hay muchos perros en la calle
+  CALLE AHÍ MUCHOS PERROS HABER
+- HAY MUCHO PERRO CALLE
+
+  no hay muchos perros en la calle
+  CALLE AHÍ MUCHOS PERROS HABER NO
+- NO-HAY PERRO MUCHOS EN CALLE
+
+  algunos perros son muy agresivos
+  ALGUNOS PERROS MUY AGRESIVOS
+- PERRO MUY AGRESIVO
+
+  los perros están asustados
+  PERRO CL+CL+CL ASUSTADOS
+- PERRO ASUSTADO
+
+  mis perros están asustados
+  PERRO CL+CL+CL MÍOS ASUSTADOS
+- PERRO MÍOS ASUSTADO
+
+  tus perros están asustados
+  PERRO CL+CL+CL TUYOS ASUSTADOS
+- PERROS TUYO ASUSTADO
+
+  el perro gris es tuyo
+  PERRO GRIS TUYO
+- PERRO GRIS TÚYO
+
+  el perro café es tuyo
+  PERRO CAFÉ TUYO
+- PERRO CAFÉ TÚYO
+
+  el perro negro es mío
+  PERRO MÍO NEGRO
+- PERRO NEGRO MÍO
+
+  lo perros beben agua
+  PERRO CL+CL+CL AGUA BEBER
+- PERRO BEBER AGUA
+
+  gato
+  GATO
++ GATO
+
+  los gatos juegan en el parque
+  PARQUE AHÍ GATO CL+CL+CL JUGAR
+- PARQUE AHÍ GATOS JUGAR
+
+  gatos
+  GATO CL+CL+CL
+- GATO
+
+  muchos gatos juegan en el parque
+  PARQUE AHÍ MUCHOS GATOS JUGAR
+- PARQUE AHÍ MUCHO GATO JUGAR
+
+  pocos gatos juegan en el parque
+  PARQUE AHÍ POCOS GATOS JUGAR
+- PARQUE AHÍ POCO GATOS JUGAR
+
+  mi gato juega con su peluche en la casa
+  CASA AHÍ GATO MÍO PELUCHE JUGAR
+- CASA AHÍ GATO MÍO CON PELUCHO SUYO JUGAR
+
+  tu gato juega con su peluche en la casa
+  CASA AHÍ GATO TUYO PELUCHE JUGAR
+- None
+
+  hay muchos gatos en la calle
+  CALLE AHÍ MUCHOS GATOS HABER
+- HAY MUCHO GATO CALLE
+
+  no hay muchos gatos en la calle
+  CALLE AHÍ MUCHOS GATOS HABER NO
+- NO-HAY MUCHO GATO EN CALLE
+
+  algunos gatos son muy agresivos
+  ALGUNOS GATOS MUY AGRESIVOS
+- GATOS ALGUNOS MUY AGRESIVO
+
+  los gatos están asustados
+  GATO CL+CL+CL ASUSTADOS
+- GATOS ASUSTADO ASÍ
+
+  mis gatos están asustados
+  GATO CL+CL+CL MÍOS ASUSTADOS
+- YO GATOS MÍOS ASUSTADO
+
+  tus perros están asustados
+  GATO CL+CL+CL TUYOS ASUSTADOS
+- PERROS TUYO ASUSTADO
+
+  el gato blanco es tuyo
+  GATO BLANCO TUYO
++ GATO BLANCO TUYO
+
+  el gato café es tuyo
+  GATO CAFÉ TUYO
+- GATO CAFÉ TÚYO
+
+  el gato negro es mío
+  GATO MÍO NEGRO
+- GATO NEGRO MÍO
+
+  lo gatos comen pescado
+  GATO CL+CL+CL PESCADO COMER
+- GATO COMER PESCADO
+
+  casa
+  CASA
++ CASA
+
+  casas
+  CASA+CASA+CASA
+- CASA
+
+  muchas casas
+  CASA MUCHAS
+- CASA MUCHO
+
+  pocas casas
+  CASA POCAS
+- POCAS CASA
+
+  algunas casas
+  CASA ALGUNAS
+- ALGUN CASA
+
+  mesa
+  MESA
+- MES
+
+  las mesas
+  MESA+MESA+MESA
+- None
+
+  mesas
+  MESA+MESA+MESA
+- None
+
+  muchas mesas
+  MESA MUCHAS
+- MUCHO MESA
+
+  pocas mesas
+  MESA POCAS
++ MESA POCAS
+
+  puerta
+  PUERTA
++ PUERTA
+
+  puertas
+  PUERTA+PUERTA+PUERTA
+- PUERTA
+
+  las puertas
+  PUERTA+PUERTA+PUERTA
+- PUERTA
+
+  muchas puertas
+  PUERTA MUCHAS
+- MUCHO PUERTA
+
+  pocas puertas
+  PUERTA POCAS
+- POCO PUERTA
+
+  algunas puertas
+  PUERTA ALGUNAS
+- ALGUNAS PUERTA
+
+  ventana
+  VENTANA
++ VENTANA
+
+  ventanas
+  VENTANA+VENTANA+VENTANA
+- VENTANA
+
+  las ventanas
+  VENTANA+VENTANA+VENTANA
+- VENTANA
+
+  muchas ventanas
+  VENTANA MUCHAS
+- MUCHO VENTANA
+
+  pocas ventanas
+  VENTANA POCAS
+- POCAS VENTANA
+
+  algunas ventanas
+  VENTANA ALGUNAS
+- ALGUNAS VENTANA
+
+  silla
+  SILLA
++ SILLA
+
+  sillas
+  SILLA+SILLA+SILLA
+- SILLA
+
+  las sillas
+  SILLA+SILLA+SILLA
+- SILLA
+
+  muchas sillas
+  SILLA MUCHAS
++ SILLA MUCHAS
+
+  pocas sillas
+  SILLA POCAS
+- POCAS SILLA
+
+  algunas sillas
+  SILLA ALGUNAS
+- ALGUNAS SILLA
+
+  lámpara
+  LÁMPARA
++ LÁMPARA
+
+  lámparas
+  LÁMPARA+LÁMPARA+LÁMPARA
+- LÁMPARA
+
+  muchas lámparas
+  LÁMPARA MUCHAS
+- MUCHO LÁMPARA
+
+  pocas lámparas
+  LÁMPARA POCAS
++ LÁMPARA POCAS
+
+  algunas lámparas
+  LÁMPARA ALGUNAS
+- None
+
+  licuadora
+  LICUADORA
++ LICUADORA
+
+  licuadoras
+  LICUADORA+LICUADORA+LICUADORA
+- LICUADORA
+
+  las licuadoras
+  LICUADORA+LICUADORA+LICUADORA
+- LICUADOR
+
+  muchas licuadoras
+  LICUADORA MUCHAS
+- MUCHO LICUADOR
+
+  pocas licuadoras
+  LICUADORA POCAS
+- LICUADORA POCO
+
+  foco
+  FOCO
++ FOCO
+
+  focos
+  FOCO+FOCO+FOCO
+- FÓCO
+
+  los focos
+  FOCO+FOCO+FOCO
+- FOCO
+
+  muchos focos
+  FOCO MUCHOS
+- MUCHO FOCO
+
+  pocos focos
+  FOCO POCOS
+- POCO FOCO
+
+  lavadora
+  LAVADORA
++ LAVADORA
+
+  lavadoras
+  LAVADORA+LAVADORA+LAVADORA
+- DOS LAVADORA
+
+  las lavadoras
+  LAVADORA+LAVADORA+LAVADORA
+- LAVADORA
+
+  muchas lavadoras
+  LAVADORA MUCHAS
+- MUCHO LAVADORA
+
+  pocas lavadoras
+  LAVADORA POCAS
+- POCAS LAVADORA
+
+  algunas lavadoras
+  LAVADORAS ALGUNAS
+- ALGUNAS LAVADORA
+
+  la gente
+  GENTE
++ GENTE
+
+  mucha gente baila
+  GENTE MUCHA BAILAR
+- MUCHA GENTE BAILAR
+
+  mucha gente
+  GENTE MUCHA
+- MUCHO GENTE
+
+  poca gente
+  GENTE POCA
+- POCO GENTE
+
+  me gusta el color verde
+  YO COLOR VERDE GUSTAR
+- YO GUSTAR COLOR VERDE
+
+  no me gusta el color verde
+  YO COLOR VERDE GUSTAR NO
+- COLOR VERDE NO GUSTAR YO
+
+  me gusta el café caliente
+  YO CAFÉ CALIENTE GUSTAR
+- YO GUSTAR CAFÉ CALIENTE
+
+  no me gusta el café caliente
+  YO CAFÉ CALIENTE GUSTAR NO
+- NO YO GUSTAR CAFÉ CALIENTE
+
+  me gusta el helado
+  YO HELADO GUSTAR
+- HELADO GUSTAR YO
+
+  no me gusta el helado
+  YO HELADO GUSTAR NO
+- HELADO NO GUSTAR YO
+
+  me gustan las bebidas frías
+  YO BEBIDAS FRÍAS GUSTAR
+- BEBIDA FRÍO GUSTAR YO
+
+  no me gustan las bebidas frías
+  YO BEBIDAS FRÍAS GUSTAR NO
+- BEBIDA FRÍO NO GUSTAR YO
+
+  me gusta la pizza hawaiana
+  YO PIZZA HAWAIANA GUSTAR
+- YO GUSTAR PIZZA HAWAÍN
+
+  no me gusta la pizza hawaiana
+  YO PIZZA HAWAIANA GUSTAR NO
+- PIZZA HAWAIANO NO GUSTAR YO
+
+  me gusta el sabor picante
+  YO SABOR PICANTE GUSTAR
+- SABOR PICANTE GUSTAR MÍO
+
+  no me gusta el sabor picante
+  YO SABOR PICANTE GUSTAR NO
+- YO NO GUSTAR SABOR PICANTE
+
+  me gusta el color morado
+  YO COLOR MORADO GUSTAR
+- YO GUSTAR COLOR MORADO
+
+  no me gusta el color morado
+  YO COLOR MORADO GUSTAR NO
+- COLOR MORADO NO GUSTAR YO
+
+  me gusta el color rosa
+  YO COLOR ROSA GUSTAR
+- None
+
+  no me gusta el color rosa
+  YO COLOR ROSA GUSTAR NO
+- YO NO GUSTAR COLOR ROSA
+
+  me gusta la pizza
+  YO PIZZA GUSTAR
+- PIZZA GUSTAR YO
+
+  no me gusta la pizza
+  YO PIZZA GUSTAR NO
+- PIZZA NO GUSTAR YO
+
+  yo soy distraída
+  YO DISTRAÍDA ASÍ
+- YO DISTRAÍDO
+
+  tú eres distraída
+  TÚ DISTRAÍDO ASÍ
+- TÚ DISTRAÍDO
+
+  él es distraído
+  ÉL DISTRAÍDO ASÍ
++ ÉL DISTRAÍDO ASÍ
+
+  somos distraídos
+  NOSOTROS DISTRAÍDOS ASÍ
+- NOSOTROS DISTRAÍDO ASÍ
+
+  ellas son distraídas
+  ELLAS DISTRAÍDAS ASÍ
+- ELLOS DISTRAIDO
+
+  ellos son distraídos
+  ELLOS DISTRAÍDOS ASÍ
+- ELLOS DISTRAÍDO ASÍ
+
+  ustedes son distraídos
+  USTEDES DISTRAÍDOS ASÍ
+- VOSOTROS DISTRAÍDO
+
+  mi mamá es distraída
+  MAMÁ DISTRAÍDA ASÍ
+- MAMÁ MUJER MÍO DISTRAÍDO ASÍ
+
+  mi papá es distraído
+  PAPÁ DISTRAÍDO ASÍ
+- PAPÁ MÍO DISTRAÍDO
+
+  las niñas son distraídas
+  NIÑO MUJER ELLAS DISTRAÍDAS ASÍ
+- NIÑO MUJER DISTRAÍDO
+
+  los niños son distraídos
+  NIÑO ELLOS DISTRAÍDOS ASÍ
+- NIÑO DISTRAÍDO ASÍ
+
+  mi tía es distraída
+  TÍO MUJER MÍA DISTRAÍDA ASÍ
+- MÍO TIO MUJER DISTRAÍDO ASÍ
+
+  mi tío es distraído
+  TÍO MÍO DISTRAÍDO ASÍ
+- TIO MÍO DISTRAÍDO
+
+  mi abuelo es distraído
+  ABUELO MÍO DISTRAÍDO ASÍ
+- ABUELO MÍO DISTRAÍDO
+
+  mi abuela es distraída
+  ABUELO MUJER MÍA DISTRAÍDA ASÍ
+- MÍO ABUELO MUJER DISTRAÍDO ASÍ
+
+  mi amigo es distraído
+  AMIGO MÍO DISTRAÍDO ASÍ
+- AMIGO MÍO DISTRAÍDO
+
+  mi hermana es distraída
+  HERMANO MUJER MÍA DISTRAÍDA ASÍ
+- HERMANO MUJER MÍO DISTRAÍDO
+
+  mi hermano es distraído
+  HERMANO MÍO DISTRAÍDO ASÍ
+- HERMANO MÍO DISTRAÍDO
+
+  mi amiga es distraída
+  AMIGO MUJER MÍA DISTRAÍDA ASÍ
+- MÍO AMIGO MUJER DISTRAÍDO
+
+  mi novio es distraído
+  NOVIO MÍO DISTRAÍDO ASÍ
+- NOVIO MÍO DISTRAÍDO
+
+  mi novia es distraída
+  NOVIO MUJER MÍA DISTRAÍDA ASÍ
+- NOVIA MUJER MÍO DISTRAIDO
+
+  tu tía es distraída
+  TÍO MUJER TUYA DISTRAÍDA ASÍ
+- TÍA MUJER TUYO DISTRAÍDO ASÍ
+
+  tu tío es distraído
+  TÍO TUYO DISTRAÍDO ASÍ
+- TIO TUYO DISTRAÍDO
+
+  tu abuelo es distraído
+  ABUELO TUYO DISTRAÍDO ASÍ
+- ABUELO TUYO DISTRAÍDO
+
+  tu abuela es distraída
+  ABUELO TUYO MÍA DISTRAÍDA ASÍ
+- ABUELA MUJER TUYO DISTRAÍDO ASÍ
+
+  tu amigo es distraído
+  AMIGO TUYO DISTRAÍDO ASÍ
+- AMIGO TUYO DISTRAÍDO
+
+  tu amiga es distraída
+  AMIGO MUJER TUYA DISTRAÍDA ASÍ
+- AMIGO MUJER TUYO DISTRAIDO ASÍ
+
+  tu novio es distraído
+  NOVIO TUYO DISTRAÍDO ASÍ
+- NOVIO TUYO DISTRAÍDO
+
+  tu novia es distraída
+  NOVIO MUJER TUYA DISTRAÍDA ASÍ
+- TU NOVIA MUJER DISTRAÍDO
+
+  nuestro amigo es distraído
+  AMIGO NUESTRO DISTRAÍDO ASÍ
+- None
+
+  nuestra amiga es distraída
+  AMIGO MUJER NUESTRA DISTRAÍDA ASÍ
+- None
+
+  yo estoy distraída
+  YO DISTRAÍDA
+- YO DISTRAÍDO
+
+  tú estás distraído
+  TÚ DISTRAÍDO
++ TÚ DISTRAÍDO
+
+  él está distraído
+  ÉL DISTRAÍDO
++ ÉL DISTRAÍDO
+
+  estamos distraídos
+  NOSOTROS DISTRAÍDOS
+- NOSOTROS DISTRAIDO
+
+  ellas están distraídas
+  ELLAS DISTRAÍDAS
+- ELLOS DISTRAÍDO
+
+  ellos están distraídos
+  ELLOS DISTRAÍDOS
+- ELLOS DISTRAÍDO
+
+  ustedes están distraídos
+  USTEDES DISTRAÍDOS 
+- VOSOTROS DISTRAÍDO
+
+  mi mamá está distraída
+  MAMÁ MÍA DISTRAÍDA
+- MÍO MAMÁ MUJER DISTRAÍDO
+
+  mi papá está distraído
+  PAPÁ MÍO DISTRAÍDO
++ PAPÁ MÍO DISTRAÍDO
+
+  las niñas están distraídas
+  NIÑO MUJER ELLAS DISTRAÍDAS
+- NIÑO MUJER DISTRAÍDO
+
+  los niños están distraídos
+  NIÑO ELLOS DISTRAÍDOS
+- NIÑO DISTRAÍDO
+
+  mi tía está distraída
+  TÍA MÍA DISTRAÍDA
+- MÍO TIA MUJER DISTRAÍDO
+
+  mi tío está distraído
+  TÍO MÍO DISTRAÍDO
+- TIO MÍO DISTRAÍDO
+
+  mi abuelo está distraído
+  ABUELO MÍO DISTRAÍDO
++ ABUELO MÍO DISTRAÍDO
+
+  mi abuela está distraída
+  ABUELO MUJER MÍA DISTRAÍDA
+- ABUELA MUJER MÍO DISTRAÍDO
+
+  mi amigo está distraído
+  AMIGO MÍO DISTRAÍDO
++ AMIGO MÍO DISTRAÍDO
+
+  mi hermano está distraído
+  HERMANO MÍO DISTRAÍDO
++ HERMANO MÍO DISTRAÍDO
+
+  mi amiga está distraída
+  AMIGO MUJER MÍA DISTRAÍDA
+- AMIGO MUJER MÍO DISTRAÍDO
+
+  mi novio está distraído
+  NOVIO MÍO DISTRAÍDO
++ NOVIO MÍO DISTRAÍDO
+
+  mi novia está distraída
+  NOVIO MUJER MÍA DISTRAÍDA
+- NOVIO MUJER MÍO DISTRAÍDO
+
+  tu tía está distraída
+  TÍO MUJER TUYA DISTRAÍDA
+- TÍA MUJER TUYO DISTRAÍDO
+
+  tu tío está distraído
+  TÍO TUYO DISTRAÍDO
+- TÚ TIO DISTRAÍDO
+
+  tu abuelo está distraído
+  ABUELO TUYO DISTRAÍDO
++ ABUELO TUYO DISTRAÍDO
+
+  tu abuela está distraída
+  ABUELO MUJER TUYA DISTRAÍDA
+- ABUELO MUJER TUYO DISTRAÍDO
+
+  tu amigo está distraído
+  AMIGO TUYO DISTRAÍDO
+- AMIGO TÚYO DISTRAÍDO
+
+  tu amiga está distraída
+  AMIGO MUJER TUYA DISTRAÍDA
+- TUYO AMIGO MUJER DISTRAÍDO
+
+  tu novio está distraído
+  NOVIO TUYO DISTRAÍDO
++ NOVIO TUYO DISTRAÍDO
+
+  tu novia está distraída
+  NOVIO MUJER TUYA DISTRAÍDA
+- NOVIA MUJER TUYO DISTRAÍDO
+
+  nuestro amigo está distraído
+  AMIGO NUESTRO DISTRAÍDO
+- None
+
+  nuestra amiga está distraída
+  AMIGO MUJER NUESTRA DISTRAÍDA
+- None
+
+  la manzana es roja
+  MANZANA ROJA
+- MANZANA ROJO
+
+  la ropa está mojada
+  ROPA MOJADA
+- ROPA MOJADO
+
+  el clima es frío
+  CLIMA FRÍO
+- CLIMA FRIO
+
+  el clima es caliente
+  CLIMA CALIENTE
++ CLIMA CALIENTE
+
+  el edificio es alto
+  EDIFICIO ALTO
++ EDIFICIO ALTO
+
+  el cielo es azul
+  CIELO AZUL
++ CIELO AZUL
+
+  el perro es café
+  PERRO CAFÉ
++ PERRO CAFÉ
+
+  los perros son peludos
+  PERRO+PERRO+PERRO PELUDOS
+- PERROS PELUDO ASÍ
+
+  tu mamá
+  MAMÁ TUYA
+- MAMÁ MUJER TUYO
+
+  mi mamá
+  MAMÁ MÍA
+- MÍO MAMÁ MUJER
+
+  su mamá
+  MAMÁ SUYA
+- MAMÁ MUJER SUYO
+
+  tu papá
+  PAPÁ TUYO
++ PAPÁ TUYO
+
+  mi papá
+  PAPÁ MÍO
+- PADRE MÍO
+
+  su abuelo
+  ABUELO SUYO
+- ABUELO SUEYO
+
+  tu abuelo
+  ABUELO TUYO
++ ABUELO TUYO
+
+  mi abuelo
+  ABUELO MÍO
+- MÍO ABUELO
+
+  su abuela
+  ABUELA SUYA
+- ABUELO MUJER SUYO
+
+  mi abuela
+  ABUELO MUJER MÍA
+- ABUELO MUJER MÍO
+
+  mis tíos
+  TÍO ELLOS MÍOS
+- TIÓ MÍOS
+
+  mi tío
+  TÍO MÍO
++ TÍO MÍO
+
+  tu tío
+  TÍO TUYO
++ TÍO TUYO
+
+  mi hijo
+  HIJO MÍO
+- HÍJO MÍO
+
+  tu hijo
+  HIJO TUYO
+- TÚ HÍJO TUYO
+
+  mi hija
+  HIJO MUJER MÍA
+- HIJO MUJER MÍO
+
+  mi sobrino
+  SOBRINO MÍO
++ SOBRINO MÍO
+
+  mi sobrina
+  SOBRINO MUJER MÍA
+- MÍO SOBRINO MUJER
+
+  mi hermano
+  HERMANO MÍO
++ HERMANO MÍO
+
+  mis hermanos
+  SOBRINO ELLOS
+- HERMANO MÍOS
+
+  mi hermana
+  HERMANO MUJER MÍA
+- HERMANO MUJER MÍO
+
+  mi primo
+  PRIMO MÍO
++ PRIMO MÍO
+
+  mis primos
+  PRIMO ELLOS MÍOS
+- PRIMO MÍOS
+
+  mi prima 
+  PRIMO MUJER MÍA
+- PRIMA MUJER MÍO
+
+  mis primas
+  TIÓ ELLOS MÍOS
+- PRIMA MUJER MÍOS
+
+  mi amigo
+  AMIGO MÍO
++ AMIGO MÍO
+
+  mis amigos
+  AMIGO ELLOS MÍOS
+- AMIGO MÍOS
+
+  mi amiga
+  AMIGO MUJER MÍA
+- AMIGO MUJER MÍO
+
+  mis amigas
+  AMIGO MUJER ELLAS MÍAS
+- AMIGO MUJER MÍOS
+
+  los maestros
+  MAESTRO ELLOS
+- MAESTRO
+
+  mi maestro
+  MAESTRO MÍO
++ MAESTRO MÍO
+
+  mi maestra
+  MAESTRO MUJER MÍA
+- MAESTRO MUJER MÍO
+
+  las maestras
+  MAESTRO MUJER ELLAS
+- MAESTRO MUJER
+
+  mi tía
+  TÍO MUJER MÍO
+- MÍO TIA MUJER
+
+  mis tías
+  TÍO MUJER PLURA MÍO
+- TÍA MUJER MÍOS
+
+  mi novia
+  NOVIO MUJER MÍA
+- MÍO NOVIA MUJER
+
+  mi novio
+  NOVIO MÍO
++ NOVIO MÍO
+
+  mis perros
+  PERRO CL+CL+CL MÍOS
+- PERRO MÍOS
+
+  mi perro
+  PERRO MÍO
++ PERRO MÍO
+
+  mi perra
+  PERRO MUJER MÍA
+- PERRA MÍO
+
+  mi casa
+  CASA MÍA
+- CASA MÍO
+
+  mi gato
+  GATO MÍO
++ GATO MÍO
+
+  mis gatos
+  GATO CL+CL+CL MÍO
+- GATO MÍOS
+
+  mi abuelo
+  ABUELO MÍO
+- MÍO ABUELO
+
+  mis abuelos
+  ABUELO ELLOS MÍOS
+- ABUELO MÍOS
+
+  mis autos
+  AMIGO MUJER ELLAS MÍAS
+- AUTO MÍOS
+
+  él viaja en avión
+  ÉL AVIÓN VIAJAR
+- ÉL VIAJAR AVIÓN
+
+  tu gato está enfermo
+  GATO TUYO ENFERMO
++ GATO TUYO ENFERMO
+
+  mi gato está enfermo
+  GATO MÍO ENFERMO
++ GATO MÍO ENFERMO
+
+  su gato está bonito
+  GATO SUYO BONITO
++ GATO SUYO BONITO
+
+  mi mamá está pensativa
+  MAMÁ MÍA PENSATIVA
+- None
+
+  tu mamá está seria
+  MAMÁ TUYA SERIA
+- None
+
+  su mamá está loca
+  MAMÁ SUYA LOCA
+- MAMÁ MUJER SUYO LOCO
+
+  mi papá está enojado
+  PAPÁ MÍO ENOJADO
++ PAPÁ MÍO ENOJADO
+
+  mi papá es enojón
+  PAPÁ MÍO ENOJÓN ASÍ
+- PAPÁ MÍO ENOJÓN
+
+  su hermano está alegre
+  HERMANO SUYO ALEGRE
+- HERMANO SUYO ALEGRI
+
+  mi mamá está alegre
+  MAMÁ MÍA ALEGRE
+- None
+
+  tu perro está agresivo
+  PERRO TUYO AGRESIVO
+- TUYO PERRO AGRESIVO
+
+  tu perro es agresivo
+  PERRO TUYO AGRESIVO ASÍ
+- PERRO TUYO AGRESIVO
+
+  su perro está limpio
+  PERRO SUYO LIMPIO
++ PERRO SUYO LIMPIO
+
+  tu amiga es tierna
+  AMIGA TUYA TIERNA ASÍ
+- AMIGO MUJER TUYO TIERNO
+
+  mi amiga está enojada
+  AMIGO MUJER MÍA ENOJADA
+- AMIGO MUJER MÍO ENOJADO
+
+  su amiga está tranquila
+  AMIGO MUJER SUYA TRANQUILA
+- AMIGO MUJER SUYO TRANQUILO
+
+  mi papá está gritando
+  PAPÁ MÍO GRITAR
++ PAPÁ MÍO GRITAR
+
+  tu papá está jugando ajedrez
+  PAPÁ TUYO AJEDREZ JUGAR
+- PAPÁ TUYO JUGAR
+
+  me gusta aprender
+  YO APRENDER GUSTAR
+- YO GUSTAR APRENDER
+
+  te gusta aprender
+  TU APRENDER GUSTAR
+- TÚ GUSTAR APRENDER
+
+  nos gusta aprender
+  NOSOTROS APRENDER GUSTAR
++ NOSOTROS APRENDER GUSTAR
+
+  les gusta aprender
+  ELLOS APRENDER GUSTAR
+- ELLOS GUSTAR APRENDER
+
+  le gusta aprender
+  ELLA APRENDER GUSTAR
+- ÉL GUSTAR APRENDER
+
+  le gusta aprender
+  ÉL APRENDER GUSTAR
+- ÉL GUSTAR APRENDER
+
+  les gusta aprender
+  USTEDES APRENDER GUSTAR
+- ELLOS GUSTAR APRENDER
+
+  su papá está aprendiendo inglés
+  PAPÁ SUYO INGLÉS APRENDER
+- PAPÁ SUYO APRENDER INGLÉS
+
+  el tiene una pelota roja
+  EL PELOTA ROJA TENER
+- ÉL TENER PELOTA ROJO
+
+  ella tiene una bicicleta gris
+  ELLA BICICLETA GRIS TENER
+- None
+
+  mi cuñado tiene un carro blanco
+  CUÑADO MÍO CARRO BLANCO TENER
+- CUÑADO MÍO TENER CARRO BLANCO
+
+  mi prima tiene amigos
+  PRIMO MUJER AMIGO ELLOS TENER
+- PRIMA MUJER MÍO TENER AMIGO
+
+  mi prima tiene un suéter gris
+  PRIMO MUJER MÍA SUÉTER GRIS TENER
+- None
+
+  mi prima tiene un reloj
+  PRIMO MUJER MÍA RELOJ TENER
+- PRIMO MUJER MÍO TENER RELOJ
+
+  mi abuela tiene hambre
+  ABUELO MUJER MÍA HAMBRE TENER
+- None
+
+  mi primo tiene un carro
+  PRIMO MÍO CARRO TENER
+- PRIMO MÍO TIENE CARRO
+
+  mis primos tienen un carro
+  PRIMO ELLOS MÍOS CARRO TENER
+- PRIMOS MÍOS TENER CARRO
+
+  la pelota de mi nieto
+  NIETO MÍO PELOTA SUYA
+- NIETO PELOTA MÍO
+
+  los juguetes del perro
+  ABUELO ELLOS MÍOS
+- None
+
+  las ventanas de la casa
+  CASA VENTANA+VENTANA+VENTANA SUYAS
+- CASA VENTANA SUYOS
+
+  la guitarra de mi cuñado
+  CUÑADO MÍO GUITARRA SUYA
+- CUÑADO GUITARRA MÍO
+
+  las puertas de la casa
+  CASA PUERTA+PUERTA+PUERTA SUYAS
+- CASA PUERTAS SUS
+
+  la casa de mi abuelo
+  ABUELO MÍO CASA SUYA
+- ABUELO CASA MÍO
+
+  la sudadera de mi mamá
+  MAMÁ MÍA SUDADERA SUYA
+- MAMÁ MUJER SUDADERA MÍO
+
+  la hija de mi tía
+  TÍO MUJER MÍA HIJO MUJER ELLA SUYA
+- TÍA MUJER HIJA MUJER MÍO
+
+  las hijas de mi tía
+  TÍO MUJER MÍA HIJO MUJER ELLAS SUYA
+- TÍA MUJER HIJA MUJER MÍO
+
+  la escuela de mi sobrina
+  SOBRINO MUJER MÍA ESCUELA SUYA
+- NIÑO MUJER ESCUELA MÍO
+
+  mi hijo va a la escuela de lunes a viernes
+  LUNES A VIERNES HIJO MÍO ESCUELA IR
+- HÍJO MÍO IR ESCUELA LUNES A VIERNES
+
+  mi hija va a la escuela de lunes a viernes
+  LUNES A VIERNES HIJO MUJER MÍO ESCUELA IR
+- NIÑO MUJER MÍO IR ESCUELA LUNES A VIERNES
+
+  mis hijos van a la escuela de lunes a viernes
+  LUNES A VIERNES HIJOS MÍOS ESCUELA IR
+- HIGJO MÍO IR ESCUELA LUNES A VIERNES
+
+  mi hermana está distraída
+  HERMANO MUJER MÍA DISTRAÍDA
+- HERMANO MUJER MÍO DISTRAÍDO
+
+  mis sobrinos van a la escuela de lunes a viernes
+  LUNES A VIERNES SOBRINO ELLOS MÍO ESCUELA IR
+- None
+
+  mis sobrinas van a  la escuela semanalmente
+  LUNES A VIERNES SOBRINA ELLAS MÍO ESCUELA IR
+- NIÑO MUJER MÍOS IR A ESCUELA LUNES A VIERNES
+
+  los niños van a la escuela semanalmente
+  LUNES A VIERNES NIÑO ELLOS ESCUELA IR
+- SEMANALES NIÑO IR ESCUELA
+
+  las niñas van a la escuela de lunes a viernes
+  LUNES A VIERNES NIÑO MUJER ELLAS ESCUELA IR
+- NIÑO MUJER IR ESCUELA LUNES A VIERNES
+
+  las niñas van a la escuela semanalmente
+  LUNES A VIERNES NIÑO MUJER ELLAS ESCUELA IR
+- NIÑO MUJER IR ESCUELA LUNES A VIERNES
+
+  mi sobrina va a la escuela de lunes a viernes
+  LUNES A VIERNES SOBRINO MUJER ELLA IR
+- SOBRINO MUJER MÍO IR A ESCUELA LUNES A VIERNES
+
+  mi sobrino va a la escuela de lunes a viernes
+  LUNES A VIERNES SOBRINO ÉL IR
+- SOBRINO MÍO IR ESCUELA LUNES A VIERNES
+
+  el desayuno está listo
+  DESAYUNO LISTO
++ DESAYUNO LISTO
+
+  la comida está lista
+  COMIDA LISTA
+- COMIDA LISTO
+
+  el desayuno está caliente
+  DESAYUNO CALIENTE
++ DESAYUNO CALIENTE
+
+  la cena está fría
+  CENA FRÍA
+- CENA FRIO
+
+  el desayuno está servido
+  DESAYUNO SERVIDO
++ DESAYUNO SERVIDO
+
+  la comida está servida
+  COMIDA SERVIDA
++ COMIDA SERVIDA
+
+  la cena está servida
+  CENA SERVIDA
+- CENA SERVIDO
+
+  el suéter es blanco
+  SUÉTER BLANCO
+- SUÉTER BLANCO ASÍ
+
+  el suéter es negro
+  SUÉTER NEGRO
++ SUÉTER NEGRO
+
+  el suéter es rosa
+  SUÉTER ROSA
+- None
+
+  el suéter es amarillo
+  SUÉTER AMARILLO
++ SUÉTER AMARILLO
+
+  el suéter es verde
+  SUÉTER VERDE
++ SUÉTER VERDE
+
+  el suéter es azul
+  SUÉTER AZUL
++ SUÉTER AZUL
+
+  tus ojos son cafés
+  OJOS TUYOS CAFÉS
+- OJO TUYO CAFÉ
+
+  su cabello es rizado
+  CABELLO SUYO RIZADO
+- CABELO SUYO RIZADO
+
+  su frente es amplia
+  FRENTE SUYA AMPLIA
+- FRENTE SUYO AMPLIO
+
+  el cielo es azul
+  CIELO AZUL
++ CIELO AZUL
+
+  el cielo está azul
+  CIELO AZUL
++ CIELO AZUL
+
+  la pelota es roja
+  PELOTA ROJA
+- PELOTA ROJO
+
+  la pelota es negra
+  PELOTA NEGRA
+- PELOTA NEGRO
+
+  la pelota es azul
+  PELOTA AZUL
++ PELOTA AZUL
+
+  la pelota es rosa
+  PELOTA ROSA
++ PELOTA ROSA
+
+  la pelota es amarilla
+  PELOTA AMARILLA
+- PELOTA AMARILLO
+
+  la pelota es café
+  PELOTA CAFÉ
++ PELOTA CAFÉ
+
+  la ropa está sucia
+  ROPA SUCIA
+- ROPA SUCIO
+
+  la ropa está limpia
+  ROPA LIMPIA
+- ROPA LIMPIO
+
+  el clima es frío
+  CLIMA FRÍO
+- CLIMA FRIO
+
+  el clima parece cálido
+  CLIMA PARECE CÁLIDO
+- CLIMA PARECER CALIDO
+
+  el clima es cálido
+  CLIMA CÁLIDO
+- CLIMA CALIDO
+
+  el niño es enojón
+  NIÑO ENOJADO ASÍ
+- NIÑO ENOJÓN
+
+  el niño está enojado
+  NIÑO ENOJADO
++ NIÑO ENOJADO
+
+  las niñas juegan en el parque
+  PARQUE AHÍ NIÑO MUJER ELLAS JUGAR
+- PARQUE AHÍ NIÑO MUJER JUGAR
+
+  yo juego futbol en la calle
+  CALLE AHÍ YO FUTBOL JUGAR
++ CALLE AHÍ YO FUTBOL JUGAR
+
+  él juega futbol en la calle
+  CALLE AHÍ ÉL FUTBOL JUGAR
+- CALLE AHÍ ÉL JUGAR FUTBOL
+
+  tú juegas futbol en la calle
+  CALLE AHÍ TÚ FUTBOL JUGAR
+- CALLE AHÍ TÚ JUGAR FUTBOL
+
+  jugamos futbol en la calle
+  CALLE AHÍ NOSOTROS FUTBOL JUGAR
++ CALLE AHÍ NOSOTROS FUTBOL JUGAR
+
+  ellos juegan futbol en la calle
+  CALLE AHÍ ELLOS FUTBOL JUGAR
+- ELLOS JUGAR FUTBOL EN CALLE
+
+  juegan futbol en la calle
+  CALLE AHÍ ELLOS (AS) (USTEDES) FUTBOL JUGAR
+- CALLE AHÍ ELLOS FUTBOL JUGAR
+
+  ellas juegan futbol en la calle
+  CALLE AHÍ ELLAS FUTBOL JUGAR
+- None
+
+  los niños juegan futbol en la calle
+  CALLE AHÍ NIÑO ELLOS FUTBOL JUGAR
+- NIÑO MUJER JUGAR FUTBOL CALLE AHÍ
+
+  las niñas juegan futbol en la calle
+  CALLE AHÍ NIÑO MUJER ELLAS FUTBOL JUGAR
+- CALLE AHÍ
+
+  mis amigos juegan futbol en la calle
+  CALLE AHÍ AMIGOS ELLOS FUTBOL JUGAR
+- CALLE AHÍ AMIGOS MÍOS JUGAR FUTBOL
+
+  mi tío juega futbol en la calle
+  CALLE AHÍ TÍO MÍO FUTBOL JUGAR
+- TIO MÍO JUGAR FUTBOL CALLE
+
+  el niño juega en el parque
+  PARQUE AHÍ NIÑO JUGAR
++ PARQUE AHÍ NIÑO JUGAR
+
+  mi primo juega futbol en la calle
+  PRIMO MÍO FUTBOL JUGAR
+- CALLE AHÍ PRIMO MÍO FUTBOL JUGAR
+
+  el siempre está feliz
+  SIEMPRE ÉL FELIZ
++ SIEMPRE ÉL FELIZ
+
+  siempre estamos felices
+  SIEMPRE NOSOTROS FELICES
+- SIEMPRE NOSOTROS FELIZ ASÍ
+
+  siempre están felices
+  SIEMPRE ELLOS FELICES
+- SIEMPRE ELLOS FELIZ
+
+  ella siempre está feliz
+  SIEMPRE ELLA FELIZ
+- SIEMPRE ÉL FELIZ
+
+  siempre estamos contentos
+  SIEMPRE NOSOTROS CONTENTOS
+- SIEMPRE NOSOTROS CONTENIDO ASÍ
+
+  siempre están contentos
+  SIEMPRE ELLOS CONTENTOS
+- SIEMPRE ELLOS CONTENIDO
+
+  el siempre está contento
+  SIEMPRE ÉL CONTENTO
+- SIEMPRE EL CONTENTO
+
+  ella siempre está contenta
+  SIEMPRE ELLA CONTENTA
+- SIEMPRE ÉL CONTENTO
+
+  siempre estamos contentos
+  SIEMPRE NOSOTROS CONTENTOS
+- None
+
+  siempre están contentos
+  SIEMPRE USTEDES CONTENTOS
+- SIEMPRE ELLOS CONTENTO
+
+  siempre están contentos
+  SIEMPRE ELLOS CONTENTOS
+- SIEMPRE ELLOS CONTENTO
+
+  la maestra parece enojada
+  MAESTRO MUJER ELLA ENOJADA
+- MAESTRO MUJER PARECER ENOJADO
+
+  la maestra está enojada
+  MAESTRO MUJER ELLA ENOJADA
+- MAESTRO MUJER ENOJADO
+
+  las niñas bailan
+  NIÑO MUJER ELLAS BAILAR
+- NIÑO MUJER BAITAR
+
+  las niñas cantan
+  NIÑO MUJER ELLAS CANTAR
+- NIÑO MUJER CANTAR
+
+  las niñas gritan
+  NIÑO MUJER ELLAS GRITAR
+- NIÑO MUJER GRITAR
+
+  las niñas juegan
+  NIÑO MUJER ELLAS JUGAR
+- NIÑO MUJER JUGAR
+
+  las niñas estudian
+  NIÑO MUJER ELLAS ESTUDIAR
+- NIÑO MUJER ESTUDIAR
+
+  las niñas corren
+  NIÑO MUJER ELLAS CORRER
+- NIÑO MUJER CORRER
+
+  las niñas nadan
+  NIÑO MUJER ELLAS NADAR
+- NIÑO MUJER NADAR
+
+  las niñas son alegres
+  NIÑO MUJER ELLAS ALEGRES ASÍ
+- None
+
+  las niñas son enojonas
+  NIÑO MUJER ELLAS ENOJONAS ASÍ
+- NIÑO MUJER ENOJON ASÍ
+
+  los niños son tiernos
+  NIÑO ELLOS TIERNOS ASÍ
+- NIÑO TIERNO
+
+  los niños son jóvenes
+  NIÑO ELLOS JOVENES ASÍ
+- NIÑO JOVEN
+
+  los niños bailan
+  NIÑO ELLOS BAILAR
+- NIÑO BAILAR
+
+  los niños cantan
+  NIÑO ELLOS CANTAR
+- NIÑO CANTAR
+
+  los niños gritan
+  NIÑO ELLOS GRITAR
+- NIÑO GRITAR
+
+  los niños juegan
+  NIÑOS ELLOS JUGAR
+- NIÑO JUGAR
+
+  los niños estudian
+  NIÑOS ELLOS ESTUDIAR
+- NIÑO ESTUDIAR
+
+  los niños corren
+  NIÑOS ELLOS CORRER
+- None
+
+  los niños nadan
+  NIÑOS ELLOS NADAR
+- NIÑO NADAR
+
+  el monumento es viejo
+  MONUMENTO VIEJO
++ MONUMENTO VIEJO
+
+  mi abuelo es viejo
+  ABUELO MÍO VIEJO
+- ABUELO MÍO VIEJO ASÍ
+
+  mi abuelo está viejo
+  ABUELO MÍO VIEJO
+- ABUELO MÍO VIEJO ASÍ
+
+  los abuelos son viejos
+  ABUELO ELLOS VIEJOS
+- ABUELO VIEJO ASÍ
+
+  el pasto es verde
+  PASTO VERDE
++ PASTO VERDE
+
+  el gato café es tranquilo
+  GATO CAFÉ TRANQUILO
+- GATO CAFÉ TRANQUILO ASÍ
+
+  el gato café parece tranquilo
+  GATO CAFÉ PARECE TRANQUILO
+- GATO CAFÉ PARECER TRANQUILO
+
+  el gato café es calmado
+  GATO CAFÉ TRANQUILO
+- GATO CAFÉ CALMADO
+
+  el gato blanco parece tranquilo
+  GATO BLANCO TRANQUILO
+- GATO BLANCO PARECER TRANQUILO
+
+  el gato café está tranquilo
+  GATO CAFÉ TRANQUILO
++ GATO CAFÉ TRANQUILO
+
+  el gato está arriba de la mesa
+  MESA CL GATO CL
+- None
+
+  el gatito café es tranquilo
+  GATO CAFÉ TRANQUILO
+- GATITO CAFÉ TRANQUILO
+
+  los gatos son ruidosos
+  GATO CL+CL+CL RUIDOSOS
+- GATOS RUIDOSO
+
+  los gatitos son ruidosos
+  GATO CL+CL+CL RUIDOSOS
+- GATITO RUÍDO
+
+  mis amigos son serios
+  AMIGO ELLOS MÍOS SERIOS
+- AMIGO MÍOS SERIO ASÍ
+
+  el paisaje es hermoso
+  PAISAJE HERMOSO
+- PAISAJE HERMO ASÍ
+
+  el perro
+  PERRO 
++ PERRO
+
+  los perros son agresivos
+  PERRO CL+CL+CL AGRESIVOS
+- PERRO AGRESIVO
+
+  los perros parecen agresivos
+  PERRO CL+CL+CL PARECEN AGRESIVOS
+- PERRO PARECER AGRESIVO
+
+  los perros
+  PERRO CL+CL+CL
+- PERRO
+
+  las casas
+  CASA +CASA+CASA
+- CASA
+
+  la casa
+  CASA
++ CASA
+
+  la playa está desierta
+  PLAYA DESIERTA
+- PLAYA DESIERTO
+
+  la playa parece desierta
+  PLAYA  PARECE  DESIERTA
+- PLAYA PARECER DESIERTO
+
+  las casas están abandonadas
+  CASA+CASA+CASA PARECEN ABANDONADAS
+- CASA ABANDONADO ASÍ
+
+  las casas parecen abandonadas
+  CASA+CASA+CASA PARECEN ABANDONADA
+- CASA PARECER ABANDONADO
+
+  el auto es plateado
+  AUTO PLATEADO
+- AUTO PLATEADO ASÍ
+
+  los autos descompuestos son blancos
+  AUTO+AUTO+AUTO BLANCO DESCOMPUESTOS
+- AUTOS DESCOMPUESTO BLANCO ASÍ
+
+  los autos están descompuestos
+  AUTO DESCOMPUESTO
++ AUTO DESCOMPUESTO
+
+  los árboles
+  ARBOL+ARBOL+ARBOL
+- ÁRBOL
+
+  los árboles son verdes
+  ARBOL+ARBOL+ARBOL VERDES
+- ARBOL VERDE ASÍ
+
+  las sillas
+  SILLA+SILLA+SILLA
+- SILLA
+
+  los autos
+  AUTO+AUTO+AUTO
+- AUTO
+
+  las puertas
+  PUERTA+PUERTA+PUERTA
+- PUERTA
+
+  el auto azul es grande
+  AUTO AZUL GRANDE
+- AUTO AZUL GRANDE ASÍ
+
+  los autos azules son lindos
+  AUTO+AUTO+AUTO LINDOS
+- AUTO AZUL LINDO ASÍ
+
+  la casa blanca es chica
+  CASA BLANCA CHICA
+- CASA BLANCO CHICO
+
+  las casas blancas son chicas
+  CASA+CASA+CASA BLANCAS CHICAS
+- CASA BLANCO CHICO ASÍ
+
+  los niños son gordos
+  NIÑO ELLOS GORDO
+- NIÑO GORDO ASÍ
+
+  los hombres son serios
+  HOMBRE ELLOS SERIOS
+- HOMBRE SERIO
+
+  los hombres parecen serios
+  HOMBRE ELLOS PARECEN SERIOS
+- HOMBRE PARECER SERIO
+
+  yo soy enojona
+  YO ENOJONA ASÍ
+- YO ENOJÓN
+
+  tú eres enojón
+  TÚ ENOJÓN ASÍ
+- TÚ ENOJÓN
+
+  él es enojón
+  ÉL ENOJÓN ASÍ
+- ÉL ENOJÓN
+
+  ella es enojona
+  ELLA ENOJONA ASÍ
+- ÉL ENOJÓN ASÍ
+
+  ustedes son enojones
+  USTEDES ENOJONES ASÍ
+- VOSOTROS ENOJÓN
+
+  nosotros somos enojones
+  NOSOTROS ENOJONES ASÍ
+- NOSOTROS ENOJÓN
+
+  ellos son enojones
+  ELLOS ENOJONES ASÍ
+- ELLOS ENOJÓN
+
+  ellas son enojonas
+  ELLAS ENOJONAS ASÍ
+- ELLOS ENOJÓN
+
+  ustedes son enojones
+  USTEDES ENOJONES ASÍ
+- VOSOTROS ENOJÓN
+
+  ustedes son enojonas
+  USTEDES ENOJONAS ASÍ
+- VOSOTROS ENOJÓN
+
+  la niña es enojona
+  NIÑO MUJER ENOJONA ASÍ
+- NIÑO MUJER ENOJON ASÍ
+
+  los niños son enojones
+  NIÑO ELLOS ENOJONES ASÍ
+- NIÑO ENOJON
+
+  las niñas son enojonas
+  NIÑO MUJER ELLAS ENOJONAS ASÍ
+- NIÑO MUJER ENOJON ASÍ
+
+  el niño es enojón
+  NIÑO ENOJON ASÍ
+- NIÑO ENOJÓN ASÍ
+
+  mi mamá es enojona
+  MAMÁ MÍA ENOJONA ASÍ
+- MÍO MAMÁ MUJER ENOJÓN ASÍ
+
+  mi papá es enojón
+  PAPÁ MÍO ENOJÓN ASÍ
+- PADRE MÍO ENOJÓN ASÍ
+
+  mi tía es enojona
+  TÍO MUJER MÍA ENOJONA ASÍ
+- TIA MUJER MÍO ENOJON ASÍ
+
+  mi tío es enojón
+  TÍO MÍO ENOJÓN ASÍ
+- TÍO MÍO ENOJÓN
+
+  mi abuela es enojona
+  ABUELO MUJER MÍA ENOJONA ASÍ
+- None
+
+  mi abuelo es enojón
+  ABUELO MÍO ENOJÓN ASÍ
+- ABUELO MÍO ENOJÓN
+
+  mi amigo es enojón
+  AMIGO MÍO ENOJÓN ASÍ
+- AMIGO MÍO ENOJÓN
+
+  mi amiga es enojona
+  AMIGO MUJER ENOJONA ASÍ
+- MÍO AMIGO MUJER ENOJADO ASÍ
+
+  tu mamá es enojona
+  MAMÁ TUYA ENOJONA ASÍ
+- MAMÁ MUJER TUYO ENOJADO
+
+  tu papá es enojón
+  PAPÁ TUYO ENOJÓN ASÍ
+- PAPÁ TUYO ENJO
+
+  tu tía es enojona
+  TÍO MUJER TUYA ENOJONA ASÍ
+- TUYO TIA MUJER ENOJADO ASÍ
+
+  tu amiga es enojona
+  AMIGA TUYA ENOJONA ASÍ
+- TUYO AMIGO MUJER ENOJADO ASÍ
+
+  tu amigo es enojón
+  AMIGO TUYO ENOJÓN ASÍ
+- TUYO AMIGO ENOJÓN
+
+  tu tío es enojón
+  TÍO TUYO ENOJÓN ASÍ
+- TIO TUYO ENOJÓN
+
+  tu abuela es enojona
+  ABUELO MUJER TUYA ENOJONA ASÍ
+- ABUELA MUJER TUYO ENOJON
+
+  tu abuelo es enojón
+  ABUELO TUYO ENOJÓN ASÍ
+- ABUELO TÚYO ENJO
+
+  tu prima es enojona
+  PRIMO MUJER TUYA ENOJONA ASÍ
+- PRIMO MUJER TUYO ENOJON
+
+  tu primo es enojón
+  PRIMO TUYO ENOJÓN ASÍ
+- PRIMO TUYO ENOJON
+
+  yo estoy enojado
+  YO ENOJADO
++ YO ENOJADO
+
+  yo estoy enojada
+  YO ENOJADA
+- YO ENOJADO
+
+  tú estás enojado
+  TÚ ENOJADO
++ TÚ ENOJADO
+
+  él está enojado
+  ÉL ENOJADO
++ ÉL ENOJADO
+
+  ella está enojada
+  ELLA ENOJADA
+- ÉL ENOJADO
+
+  ustedes están enojados
+  USTEDES ENOJADOS
+- VOSOTROS ENOJADO
+
+  nosotros estamos enojados
+  NOSOTROS ENOJADOS
+- NOSOTROS ENOJADO
+
+  ellos están enojados
+  ELLOS ENOJADOS
+- ELLOS ENOJADO
+
+  ellas están enojadas
+  ELLAS ENOJADAS
+- ELLOS ENOJADO
+
+  ustedes están enojadas
+  USTEDES ENOJADAS
+- VOSOTROS ENOJADO
+
+  ustedes están enojados
+  USTEDES ENOJADOS 
+- VOSOTROS ENOJADO
+
+  mi mamá está enojada
+  MAMÁ MÍA ENOJADA
+- MÍO MAMÁ MUJER ENOJADO
+
+  mi papá está enojado
+  PAPÁ MÍO ENOJADO
++ PAPÁ MÍO ENOJADO
+
+  mi tía está enojada
+  TÍO MUJER MÍA ENOJADA
+- TÍA MUJER MÍO ENOJADO
+
+  mi tío está enojado
+  TÍO MÍO ENOJADO
+- TIO MÍO ENOJADO
+
+  mi abuela está enojada
+  ABUELO MUJER MÍA ENOJADA
+- ABUELA MUJER MÍO ENOJADA
+
+  mi abuelo está enojado
+  ABUELO MÍO ENOJADO
++ ABUELO MÍO ENOJADO
+
+  mi amigo está enojado
+  AMIGO MÍO ENOJADO
++ AMIGO MÍO ENOJADO
+
+  mi amiga está enojada
+  AMIGO MUJER ENOJADA
+- AMIGO MUJER MÍO ENOJADO
+
+  tu mamá está enojada
+  MAMÁ TUYA ENOJADA
+- MAMÁ MUJER TUYO ENOJADO
+
+  tu papá está enojado
+  PAPÁ TUYO ENOJADO
+- TÚ PAPÁ ENOJADO
+
+  tu tía está enojada
+  TÍO MUJER TUYA ENOJADA
+- TIA MUJER TUYO ENOJADO
+
+  tu amiga está enojada
+  AMIGA TUYA ENOJADA
+- AMIGO MUJER TUYO ENOJADO
+
+  tu amigo está enojado
+  AMIGO TUYO ENOJADO
++ AMIGO TUYO ENOJADO
+
+  tu tío está enojado
+  TÍO TUYO ENOJADO
+- TIO TUYO ENOJADO
+
+  tu abuela está enojada
+  ABUELO MUJER TUYA ENOJADA
+- ABUELA MUJER TUYO ENOJADO
+
+  tu abuelo está enojado
+  ABUELO TUYO ENOJADO
++ ABUELO TUYO ENOJADO
+
+  tu prima está enojada
+  PRIMO MUJER TUYA ENOJADA
+- PRIMA MUJER TUYO ENOJADO
+
+  tu primo está enojado
+  PRIMO TUYO ENOJADO
++ PRIMO TUYO ENOJADO
+
+  los niños están enojados
+  NIÑO ELLOS ENOJADOS
+- NIÑO ENOJADO
+
+  las niñas están enojadas
+  NIÑO MUJER ELLAS ENOJADAS
+- NIÑO MUJER ENOJADO
+
+  la mujer está enojada
+  MUJER ENOJADA
+- MUJER MUJER ENOJADO
+
+  la mujer es enojona
+  MUJER ENOJONA ASÍ
+- MUJER MUJER ENOJÓN
+
+  yo soy alegre
+  YO ALEGRE ASÍ
+- None
+
+  tú eres alegre
+  TÚ ALEGRE ASÍ
+- None
+
+  él es alegre
+  ÉL ALEGRE ASÍ
++ ÉL ALEGRE ASÍ
+
+  nosotros somos alegres
+  NOSOTROS ALEGRES ASÍ
+- NOSOTROS ALEGR
+
+  ustedes son alegres
+  USTEDES ALEGRES ASÍ
+- VOSOTROS ALEGR
+
+  ellos son alegres
+  ELLOS ALEGRES ASÍ
+- ELLOS ALEGR
+
+  ellas son alegres
+  ELLAS ALEGRES ASÍ
+- ELLOS ALEGR
+
+  mi mamá es alegre
+  MAMÁ MÍA ALEGRE ASÍ
+- MÍO PADRE MUJER ALEGRI
+
+  mi papá es alegre
+  PAPÁ MÍO ALEGRE ASÍ
+- MÍO PADRE ALEGRI
+
+  mi amigo es alegre
+  AMIGO MÍO ALEGRE ASÍ
+- None
+
+  mi amiga es alegre
+  AMIGO MUJER MÍA ALEGRE ASÍ
+- AMIGO MUJER MÍO ALEGRÉ
+
+  mi abuelo es alegre
+  ABUELO MÍO ALEGRE ASÍ
+- ABUELO MÍO ALEGRÉ
+
+  mi abuela es alegre
+  ABUELO MUJER MÍA ALEGRE ASÍ
+- None
+
+  mi tío es alegre
+  TÍO MÍO ALEGRE ASÍ
+- TIO MÍO ALEGRI
+
+  mi tía es alegre
+  TÍO MUJER MÍA ALEGRE ASÍ
+- None
+
+  mi novio es alegre
+  NOVIO MÍO ALEGRE ASÍ
+- NOVIO MÍO ALEGR
+
+  la niña es alegre
+  NIÑO MUJER ALEGRE ASÍ
+- NIÑO MUJER ALEGRI
+
+  el niño es alegre
+  NIÑO ALEGRE ASÍ
+- NIÑO ALEGRI
+
+  yo estoy alegre
+  YO ALEGRE
+- YO ALEGRÉ
+
+  tú estás alegre
+  TÚ ALEGRE 
+- TÚ ALEGRI
+
+  él está alegre
+  ÉL ALEGRE
+- None
+
+  nosotros estamos alegres
+  NOSOTROS ALEGRES
+- NOSOTROS ALEGR
+
+  ustedes están alegres
+  USTEDES ALEGRES
+- VOSOTROS ALEGR
+
+  ellos están alegres
+  ELLOS ALEGRES
+- ELLOS ALEGRÉ
+
+  ellas están alegres
+  ELLAS ALEGRES
+- ELLOS ALEGRI
+
+  mi mamá está alegre
+  MAMÁ MÍA ALEGRE
+- None
+
+  mi papá está alegre
+  PAPÁ MÍO ALEGRE
+- None
+
+  mi amigo está alegre
+  AMIGO MÍO ALEGRE
+- None
+
+  mi amiga está alegre
+  AMIGO MUJER MÍA ALEGRE
+- AMIGO MUJER MÍO ALEGRI
+
+  mi abuelo está alegre
+  ABUELO MÍO ALEGRE
+- ABUELO MÍO ALEGRÉ
+
+  mi abuela está alegre
+  ABUELO MUJER MÍA ALEGRE
+- ABUELA MUJER MÍO ALEGRI
+
+  mi tío está alegre
+  TÍO MÍO ALEGRE
+- TIO MÍO ALEGRÉ
+
+  mi tía está alegre
+  TÍO MUJER MÍA ALEGRE 
+- None
+
+  mi novio es alegre
+  NOVIO MÍO ALEGRE
+- NOVIO MÍO ALEGR
+
+  la niña está alegre
+  NIÑO MUJER ALEGRE
+- None
+
+  el niño está alegre
+  NIÑO ALEGRE
+- NIÑO ALEGRI
+
+  las niñas están alegres
+  NIÑO MUJER ELLAS ALEGRES
+- NIÑO MUJER ALEGRÉ
+
+  los niños están alegres
+  NIÑO ELLOS ALEGRES
+- NIÑO ALEGRI
+
+  las mujeres están cansadas
+  MUJER ELLAS CANSADAS
+- MUJER CANSADO
+
+  el niño es gordo
+  NIÑO GORDO
+- NIÑO GORDO ASÍ
+
+  la niña es gorda
+  NIÑO MUJER GORDA
+- NIÑO MUJER GORDO ASÍ
+
+  el niño
+  NIÑO
++ NIÑO
+
+  los niños parecen felices
+  NIÑO ELLOS PARECEN FELICES
+- NIÑO PARECER FELIZ
+
+  los niños son felices
+  NIÑO ELLOS FELIZ ASÍ
+- NIÑOS FELIZ ASÍ
+
+  los niños están felices
+  NIÑO ELLOS FELIZ
+- NIÑO FELIZ
+
+  el niño está feliz
+  NIÑO FELIZ
++ NIÑO FELIZ
+
+  el niño es feliz
+  NIÑO FELIZ ASÍ
+- NIÑO FELIZ
+
+  el niño llora
+  NIÑO LLORA
+- NIÑO LLORAR
+
+  los niños están felices
+  NIÑO ELLOS FELICES
+- NIÑO FELIZ
+
+  los niños parecen felices
+  NIÑO ELLOS PARECEN FELICES
+- NIÑO PARECER FELIZ
+
+  la niña está triste
+  NIÑO MUJER TRISTE
++ NIÑO MUJER TRISTE
+
+  las mujeres están tristes
+  MUJER ELLAS TRISTES
+- MUJER TRISTE
+
+  los hombres están tristes
+  HOMBRE ELLOS TRISTES
+- HOMBRE TRISTE
+
+  los hombres están nerviosos
+  HOMBRE ELLOS NERVIOSOS
+- HOMBRES NERVIOSO
+
+  los niños están impacientes
+  NIÑO ELLOS IMPACIENTES
+- NIÑO IMPACIENTE
+
+  las niñas están impacientes
+  NIÑO MUJER ELLAS IMPACIENTES
+- NIÑO MUJER IMPACIENTE
+
+  las niñas están felices
+  NIÑO MUJER ELLAS FELICES
+- NIÑO MUJER FELIZ
+
+  la maestra es gorda
+  MAESTRO MUJER GORDA
+- MAESTRO MUJER GORDO
+
+  la niña
+  NIÑO MUJER
++ NIÑO MUJER
+
+  la bandera es verde, blanco y rojo
+  BANDERA VERDE BLANCO ROJO
+- BANDERA VERDE BLANCO ROJO ASÍ
+
+  mi papá tiene un carro azul
+  PAPÁ MÍO CARRO AZUL TENER
+- PAPÁ MÍO TENER CARRO AZUL
+
+  mi mamá usa un vestido rojo
+  MAMÁ MÍA VESTIDO ROJO USAR
+- MAESTRO MUJER MÍO USAR VESTIDO ROJO
+
+  mi perro come carne roja
+  PERRO MÍO CARNE ROJA COMER
+- PERRO MÍO COMER CARNE ROJO
+
+  mi tía corta el pasto seco
+  TÍO MUJER MÍA PASTO VERDE CORTAR
+- TÍA MUJER MÍO CORTAR PASTO SECO
+
+  tu abuela prepara chocolate caliente
+  ABUELA TUYA CHOCOLATE CALIENTE PREPARAR
+- ABUELA MUJER TUYO PREPARAR CHOCOLATE CALIENTE
+
+  mi novio tiene lentes redondos
+  NOVIO MÍO LENTES REDONDOS TENER
+- NOVIO MÍO TENER LENTES REDONDO
+
+  tu tía maneja un carro pequeño
+  TÍA TUYA CARRO PEQUEÑO MANEJAR
+- TÍO MUJER TUYO CARRO PEQUEÑO MANEJAR
+
+  mi prima fue a una fiesta ayer
+  AYER FIESTA PRIMO MUJER IR
+- AYER PRIMA MUJER MÍO IR FIESTA
+
+  el murió ayer
+  AYER EL MORIR
+- AYER ÉL MORIR
+
+  ayer estuve ocupada
+  AYER YO OCUPADO ESTAR
+- AYER YO OCUPADO
+
+  ayer estuve ocupado
+  AYER YO OCUPADO ESTAR
+- AYER YO OCUPADO
+
+  ayer hacía calor
+  AYER CALOR
+- AYER TIEMPO CALOR
+
+  ayer hacía frío
+  AYER FRÍO
++ AYER FRÍO
+
+  murió ayer
+  AYER EL MORIR
+- AYER ÉL MORIR
+
+  hablamos ayer
+  AYER NOSOTROS HABLAR
++ AYER NOSOTROS HABLAR
+
+  habló ayer
+  AYER YO HABLAR
+- AÑER ÉL HABLAR
+
+  hablaron ayer
+  AYER USTEDES HABLAR
+- AYER ELLOS HABLAR
+
+  hablaron ayer
+  AYER ELLOS HABLAR
++ AYER ELLOS HABLAR
+
+  hablaron ayer
+  AYER ELLAS HABLAR
+- AYER ELLOS HABLAR
+
+  hablaste ayer
+  AYER TÚ HABLASTE
+- TÚ HABLAR AÑER
+
+  murió ayer
+  AYER ELLA MORIR
+- AYER ÉL MORIR
+
+  ayer vino TOM
+  AYER TOM VENIR
++ AYER TOM VENIR
+
+  mi primo fue a la escuela ayer
+  AYER ESCUELA PRIMO MÍO IR
+- AYER PRIMO MÍO IR ESCUELA
+
+  ayer hizo calor
+  AYER CALOR
+- None
+
+  ayer nevó
+  AYER NEVAR
++ AYER NEVAR
+
+  ayer comí huevos
+  AYER YO HUEVOS COMER
+- AYER YO HUEVO COMER
+
+  comí pescado ayer
+  AYER YO PESCADO COMER
+- YO AYER COMER PESCADO
+
+  ayer comí pescado
+  AYER YO PESCADO COMER
+- AYER YO COMER PESCADO
+
+  estuve enfermo ayer
+  AYER YO ENFERMO
++ AYER YO ENFERMO
+
+  ayer estaba enfermo
+  AYER YO ENFERMO
++ AYER YO ENFERMO
+
+  estuve ocupado la semana pasada
+  SEMANA PASADA YO OCUPADO ESTAR
+- YO OCUPADO SEMANA PASADO
+
+  estuve ocupada la semana pasada
+  SEMANA PASADA YO OCUPADA ESTAR
+- YO OCUPADO MUJER SEMANA PASADA
+
+  el anciano murió la semana pasada
+  SEMANA PASADA ANCIANO MORIR
+- SEMANA PASADO ANCIANO MORIR
+
+  la semana pasada estaba en el hospital
+  SEMANA PASADA HOSPITAL YO ESTAR
+- SEMANA PASADA YO HOSPITAL
+
+  estuve en el hospital la semana pasada
+  SEMANA PASADA HOSPITAL YO ESTAR
+- SEMANA PASADA HOSPITAL AHÍ YO ESTAR
+
+  ella se fue de viaje la semana pasada
+  SEMANA PASADA ELLA VIAJAR
+- None
+
+  recibí una carta la semana pasada
+  SEMANA PASADA YO CARTA RECIBIR
+- YO RECIBIR CARTA SEMANA PASADO
+
+  recibí un correo la semana pasada
+  SEMANA PASADA YO CORREO RECIBIR
+- YO RECIBIR CORREO SEMANA PASADO
+
+  la semana pasada comí pizza todos los días
+  SEMANA PASADA TODOS LOS DÍAS YO PIZZA COMER
+- None
+
+  él fue a la playa la semana pasada
+  SEMANA PASADA PLAYA ÉL IR
+- SEMANA PASADA ÉL IR PLAYA
+
+  ella compró un coche la semana pasada
+  SEMANA PASADA ELLA COCHE COMPRAR
+- PASADO SEMANA ÉL COMPRAR COCHÉ
+
+  él hizo eso la semana pasada
+  SEMANA PASADA ÉLESO HACER
+- PASADO SEMANA ÉL HACER ESO
+
+  fui a ver a su hermana la semana pasada
+  SEMANA PASADA HERMANA SUYA ELLA, YO VER
+- None
+
+  su padre murió la semana pasada
+  SEMANA PASADA PADRE SUYO MORIR
+- PADRE SUYO MORIR SEMANA PASADO
+
+  ¿cuántos plátanos te comiste la semana pasada?
+  ¿SEMANA PASADA TÚ PLATANOS COMER CUÁNTOS?
+- None
+
+  ¿cuánto dinero gastaste la semana pasada?
+  ¿SEMANA PASADA TÚ DINERO GASTAR CUÁNTO?
+- TÚ CUÁNTO DINERO GASTAR SEMANA PASADA
+
+  Él fue a Estados Unidos la semana pasada
+  SEMANA PASADA ESTADOS UNIDOS ÉL IR
+- PASADO SEMANA IR A ESTADOS UNIDOS
+
+  ayer estaba enferma
+  AYER YO ENFERMO
++ AYER YO ENFERMO
+
+  fui a la escuela ayer
+  AYER ESCUELA YO IR
+- AYER ESCUELA AHÍ YO IR
+
+  ayer fue lunes
+  AYER LUNES
++ AYER LUNES
+
+  comí curri ayer
+  AYER YO CURRI COMER
++ AYER YO CURRI COMER
+
+  ¿estudiaste ayer?
+  ¿AYER TÚ ESTUDIAR?
+- AYER TÚ ESTUDIAR
+
+  ¿Hizo frío ayer?
+  ¿AYER FRÍO?
+- None
+
+  ayer estaba nublado
+  AYER NUBLADO 
+- None
+
+  nos conocimos ahí ayer
+  AYER AHÍ NOSOTROS CONOCER
+- AYER LUGAR AHÍ NOSOTROS CONOCER
+
+  pasó ayer
+  AYER PASAR
+- AÑER ÉL PASAR
+
+  ¿nadaste ayer?
+  ¿AYER TÚ NADAR?
+- TÚ NADAR AYER
+
+  ¿trabajaste ayer?
+  ¿AYER TÚ TRABAJAR?
+- AYER TÚ TRABAJAR
+
+  ocurrió ayer
+  AYER OCURRIR
+- None
+
+  ayer estuve allí
+  AYER ALLÍ ESTAR
+- AYER YO ALLÍ
+
+  TOM vió a ANA ayer
+  AYER ANA ELLA, TOM VER
+- AYER TOM NIÑO MUJER VER
+
+  el se fue a casa ayer
+  AYER CASA AHÍ ÉL IR
+- ÉL CASA AHÍ IR AÑER
+
+  ayer no comí
+  AYER YO COMER NADA
+- AYER YO NO COMER
+
+  ayer le ayudé
+  AYER ÉL, YO AYUDAR
+- None
+
+  ayer les ayudé
+  AYER ELLOS, YO AYUDAR
+- None
+
+  ayer les ayudé
+  AYER USTEDES, YO AYUDAR
+- None
+
+  ayer compré esto
+  AYER YO ESTO COMPRAR
+- AYER YO COMPRAR ESTO
+
+  ayer vine aquí
+  AYER AQUÍ AHÍ YO VENIR
+- AYER YO VENIR AQUÍ
+
+  ellos nos vieron ayer
+  AYER NOSOTROS ELLOS VER
+- ELLOS VER NOS AYER
+
+  me despidieron ayer
+  AYER YO DESPEDIDO
+- AYER ELLOS YO DESPEDIR
+
+  te veremos el próximo lunes
+  PRÓXIMO LUNES NOSOTROS TÚ VER
+- PRÓXIMO LUNES NOSOTROS VER TÚ
+
+  el próximo viernes comeré pizza
+  PRÓXIMO VIERNES YO PIZZA COMER
+- YO PRÓXIMO VIERNES COMER PIZZA
+
+  mi departamento tiene ventanas grandes
+  DEPARTAMENTO MÍO VENTANA+VENTANA+VENTANA TENER
+- DEPARTAMENTO MÍO TENER VENTANA GRANDE
+
+  tu casa es grande
+  CASA TUYA GRANDE
+- CASA TUYO GRANDE
+
+  tu casa está grande
+  CASA TUYA GRANDE
+- CASA TUYO GRANDE
+
+  los lentes son negros
+  LENTES NEGROS
+- LENTES NEGRO
+
+  los autos
+  AUTO ELLOS
+- AUTO
+
+  mi hija quiere comer
+  HIJO MUJER MÍA COMER QUERER
+- NIÑO MUJER MÍO QUERER COMER
+
+  mi hijo quiere comer
+  HIJO MÍO COMER QUERER
+- HÍJO MÍO QUERER COMER
+
+  a mi hermana le gusta platicar
+  HERMANO MUJER MÍO PLATICAR GUSTAR
+- HERMANO MUJER MÍO GUSTAR PLATICAR
+
+  a mi hermana no le gusta platicar
+  HERMANO MUJER MÍO PLATICAR GUSTAR NO
+- None
+
+  a mi hermano le gusta platicar
+  HERMANO MÍO PLATICAR GUSTAR
+- None
+
+  a mi hermano no le gusta platicar
+  HERMANO MÍO PLATICAR GUSTAR NO
+- ÉL NO GUSTAR MIHERMANO MÍO PLATICAR
+
+  a mi abuela no le gusta platicar
+  ABUELO MUJER MÍA PLATICAR GUSTAR NO
+- ABUELA MUJER MÍO NO GUSTA PLATICAR
+
+  a mi abuela le gusta platicar
+  ABUELO MUJER MÍA PLATICAR GUSTAR
+- None
+
+  a mi papá le gusta trabajar
+  PAPÁ MÍO TRABAJAR GUSTAR
+- PAPÁ MÍO GUSTAR TRABAJAR
+
+  a mi papá no le gusta trabajar
+  PAPÁ MÍO TRABAJAR GUSTAR NO
+- PAPÁ MÍO NO GUSTAR TRABAJAR
+
+  a mi mamá le gusta pasear
+  MAMÁ MÍA PASEAR GUSTAR
+- None
+
+  a mi mamá no le gusta pasear
+  MAMÁ MÍO PASEAR GUSTAR NO
+- None
+
+  tu papá tiene una corbata azul
+  PAPÁ TUYO CORBATA AZUL TENER
++ PAPÁ TUYO CORBATA AZUL TENER
+
+  tus amigos cuentan chistes graciosos
+  AMIGO ELLOS TUYOS CHISTES GRACIOSOS CONTAR
+- AMIGO TUYOS CHISTE GRACIOSO CONTAR
+
+  tu maestra es inteligente
+  MAESTRO MUJER INTELIGENTE TUYO
+- MAESTRO MUJER TUYO INTELIGENTE ASÍ
+
+  tu maestro está enojado
+  MAESTRO ENOJADO TUYO
+- MAESTRO TUYO ENOJADO
+
+  tu maestro es enojón
+  MAESTRO ENOJÓN TUYO ASÍ
+- MAESTRO TUYO ENOJÓN
+
+  tu mamá
+  MAMÁ TUYA
+- MAMÁ MUJER TUYO
+
+  tu papá
+  PAPÁ TUYO
++ PAPÁ TUYO
+
+  tu abuelo
+  ABUELO TUYO
++ ABUELO TUYO
+
+  tu abuela
+  ABUELO MUJER TUYA
+- ABUELA MUJER TUYO
+
+  tu tío
+  TÍO TUYO
++ TÍO TUYO
+
+  tu hijo
+  HIJO TUYO
+- TÚ HÍJO TUYO
+
+  tu hija
+  HIJO MUJER TUYA
+- HIJO MUJER TUYO
+
+  tu sobrino
+  SOBRINO TUYO
++ SOBRINO TUYO
+
+  tus sobrinos
+  SOBRINO ELLOS TUYOS
+- SOBRINO TUYOS
+
+  tu sobrina
+  SOBRINO MUJER TUYA
+- TUYO SOBRINO MUJER
+
+  tus sobrinas
+  AMIGO ELLOS TUYOS CHISTES GRACIOSOS CONTAR
+- SOBRINO MUJER TUYO
+
+  tu hermano
+  HERMANO TUYO
++ HERMANO TUYO
+
+  tu hermana
+  HERMANO MUJER TUYO
++ HERMANO MUJER TUYO
+
+  tus hermanas
+  HERMANO MUJER TUYOS
+- TÚ HERMANO TUYO
+
+  tu maestro
+  MAESTRO TUYO
++ MAESTRO TUYO
+
+  tu maestra
+  MAESTRA TUYA
+- MAESTRO MUJER TUYO
+
+  tu primo
+  PRIMO TUYO
++ PRIMO TUYO
+
+  tus primos
+  SOBRINO ELLOS TUYOS
+- PRIMOS TUYOS
+
+  tu prima 
+  PRIMO MUJER TUYA
+- PRIMA MUJER TUYO
+
+  tus primas
+  PRIMO MUJER ELLAS TUYAS
+- PRIMA MUJER TUYOS
+
+  tu hermana
+  HERMANO MUJER TUYA
+- HERMANO MUJER TUYO
+
+  tus hermanas
+  HERMANO MUJER ELLAS TUYAS
+- TÚ HERMANO TUYO
+
+  tu tía
+  TÍO MUJER TUYA
+- TUYO TÍA MUJER
+
+  tu abuelo
+  ABUELO TUYO
++ ABUELO TUYO
+
+  tus abuelos
+  ABUELO ELLOS TUYOS
+- ABUELO TUYO
+
+  tu abuela
+  ABUELO MUJER TUYA
+- ABUELA MUJER TUYO
+
+  tus abuelas
+  ABUELO MUJER ELLAS TUYAS
+- ABUELA MUJER TUYOS
+
+  tu amigo
+  AMIGO TUYO
++ AMIGO TUYO
+
+  tus amigos
+  AMIGO ELLOS TUYOS
+- AMIGO TUYOS
+
+  tu amiga
+  AMIGO MUJER TUYA
+- None
+
+  tus amigas
+  AMIGO MUJER ELLAS TUYAS
+- AMIGO MUJER TUYO
+
+  tu perro
+  PERRO TUYO
++ PERRO TUYO
+
+  tus perros
+  PERRO CL+CL+CL TUYOS
+- PERRO TUS
+
+  tu gato
+  GATO TUYO
++ GATO TUYO
+
+  tus gatos
+  GATO CL+CL+CL TUYOS
+- GATO TUYOS
+
+  tu novia
+  NOVIO MUJER TUYA
+- NOVIA MUJER TUYO
+
+  tu vida
+  VIDA TUYA
+- VIDA TÚYO
+
+  tu novio
+  NOVIO TUYO
++ NOVIO TUYO
+
+  tu amigo
+  AMIGO TUYO
++ AMIGO TUYO
+
+  tus amigos
+  PRIMO MUJER ELLAS MÍAS
+- AMIGO TUYOS
+
+  tu amiga
+  AMIGO MUJER TUYA
+- None
+
+  tus amigas
+  AMIGO MUJER ELLAS TUYAS
+- AMIGO MUJER TUYO
+
+  su mamá
+  MAMÁ SUYA
+- MAMÁ MUJER SUYO
+
+  su papá
+  PAPÁ SUYO
+- PAPA SUYO
+
+  su abuelo
+  ABUELO SUYO
+- ABUELO SUEYO
+
+  su abuela
+  ABUELO MUJER SUYA
+- ABUELO MUJER SUYO
+
+  su tío
+  TÍO SUYO
+- TIO SUYO
+
+  su tía
+  TÍO MUJER SUYO
+- SUYO TÍA MUJER SUYO
+
+  su hijo
+  HIJO SUYO
+- HÍJO SUYO
+
+  sus hijos
+  HIJO ELLOS SUYOS
+- HIGOS SUYOS
+
+  su hija
+  HIJO MUJER SUYA
+- NIÑO MUJER Suyo
+
+  sus hijas
+  HIJO MUJER ELLAS SUYA
+- HIJO MUJER SUYOS
+
+  su sobrino
+  SOBRINO SUYO
+- SUYO SOBRINO
+
+  su sobrina
+  SOBRINO MUJER SUYA
+- SOBRINO MUJER SUYO
+
+  sus sobrinas
+  SOBRINO MUJER ELLAS SUYAS
+- SOBRINO MUJER SUYOS
+
+  su hermano
+  HERMANO SUYO
++ HERMANO SUYO
+
+  sus hermanos
+  HERMANO ELLOS SUYOS
+- HERMANO SUYOS
+
+  su primo
+  PRIMO SUYO
++ PRIMO SUYO
+
+  sus primos
+  PRIMO MUJER ELLAS TUYAS
+- PRIMO SUYOS
+
+  su prima es baja
+  PRIMO MUJER SUYA BAJA
+- PRIMA MUJER SUYO BAJO
+
+  su prima 
+  PRIMO MUJER SUYA
+- PRIMO MUJER SUYO
+
+  sus primas
+  PRIMO MUJER ELLAS SUYAS
+- PRIMO MUJER SUYOS
+
+  su hermana
+  HERMANO MUJER SUYA
+- HERMANO MUJER SUYO
+
+  su tía
+  TÍO MUJER SUYA
+- SUYO TÍA MUJER SUYO
+
+  su abuelo
+  ABUELO SUYO
+- ABUELO SUEYO
+
+  su abuelo es viejo
+  ABUELO SUYO VIEJO
+- ABUELO SUYO VIEJO ASÍ
+
+  su amigo es inteligente
+  AMIGO SUYO INTELIGENTE
++ AMIGO SUYO INTELIGENTE
+
+  sus amigos
+  HIJO ELLOS SUYO
+- AMIGO SUYOS
+
+  su amigo
+  AMIGO SUYO
++ AMIGO SUYO
+
+  yo soy alta
+  YO ALTA
+- YO ALTO
+
+  tú eres alta
+  TÚ ALTA
+- TÚ ALTO
+
+  somos altos
+  NOSOTROS ALTOS
+- NOSOTROS ALTO ASÍ
+
+  ustedes son altos
+  USTEDES ALTOS
+- VOSOTROS ALTO ASÍ
+
+  ellos son altos
+  ELLOS ALTOS
+- ELLOS ALTO
+
+  ellas son altas
+  ELLAS ALTAS
+- ELLOS ALTO
+
+  mi mamá es alta
+  MAMÁ ALTA
+- MÍO PADRE MUJER ALTO
+
+  mi papá es alto
+  PAPÁ ALTO
+- PAPÁ MÍO ALTO
+
+  mi hermano es alto
+  HERMANO ALTO
+- HERMANO MÍO ALTO ASÍ
+
+  mi hermana es alta
+  HERMANA ALTA
+- HERMANO MUJER MÍO ALTO
+
+  mi novio es alto
+  NOVIO ALTO
+- NOVIO MÍO ALTO
+
+  él es alto
+  ÉL ALTO
+- ÉL ALTO ASÍ
+
+  mi novia es alta
+  NOVIA ALTA
+- NOVIA MUJER MÍO ALTA ASÍ
+
+  el niño es alto
+  NIÑO ALTO
++ NIÑO ALTO
+
+  la niña es alta
+  NIÑA ALTA
+- NIÑO MUJER ALTO ASÍ
+
+  los niños son altos
+  NIÑO ELLOS ALTOS
+- NIÑO ALTO ASÍ
+
+  las niñas son altas
+  NIÑA ELLAS ALTAS
+- NIÑO MUJER ALTO ASÍ
+
+  su amiga es alta
+  AMIGO MUJER SUYA ALTA
+- AMIGO MUJER SUYO ALTO ASÍ
+
+  su amiga
+  AMIGO SUYA
+- AMIGO MUJER SUYO
+
+  su casa es blanca
+  CASA SUYA BLANCA
+- CASA SUYO BLANCO
+
+  su perro es café
+  PERRO SUYO CAFÉ
++ PERRO SUYO CAFÉ
+
+  los perros son agresivos
+  PERRO CL+CL+CL AGRESIVOS
+- PERRO AGRESIVO
+
+  los perros juegan en el parque
+  PARQUE AHÍ PERRO CL+CL+CL JUGAR
+- PARQUE AHÍ PERRO JUGAR
+
+  sus perros son pequeños
+  PERRO CL+CL+CL SUYOS PEQUEÑOS
+- PERRO SUYOS PEQUEÑO
+
+  su gato es blanco
+  GATO SUYO BLANCO 
++ GATO SUYO BLANCO
+
+  su perro
+  PERRO SUYO
++ PERRO SUYO
+
+  sus perros
+  PERRO CL+CL+CL SUYOS
+- PERRO SUYOS
+
+  su gato
+  GATO SUYO
++ GATO SUYO
+
+  sus gatos
+  GATO CL+CL+CL SUYO
+- GATO SUYOS
+
+  su familia
+  FAMILIA SUYA
+- FAMILIA SUYO
+
+  su casa
+  CASA SUYA
+- CASA SUYO
+
+  su novio 
+  NOVIO SUYO
++ NOVIO SUYO
+
+  su novio es guapo
+  NOVIO SUYO GUAPO
++ NOVIO SUYO GUAPO
+
+  su novia
+  NOVIA SUYA
+- NOVIA MUJER SUYO
+
+  su novia es celosa
+  NOVIO MUJER SUYA CELOSA
+- NOVIO MUJER SUYO CELOSO
+
+  su vida
+  VIDA SUYA
+- VIDA SUYO
+
+  su maestra
+  MAESTRA SUYA
+- MAESTRO MUJER SUYO
+
+  su maestro
+  MAESTRO SUYO
++ MAESTRO SUYO
+
+  nombre
+  NOMBRE
++ NOMBRE
+
+  nuestra mamá
+  MAMÁ NUESTRA
+- None
+
+  nuestro papá
+  PAPÁ NUESTRO
+- None
+
+  nuestro abuelo
+  ABUELO NUESTRO
+- None
+
+  nuestra abuela
+  ABUELA NUESTRA
+- None
+
+  nuestro tío
+  TÍO NUESTRO
+- None
+
+  nuestro hijo
+  HIJO NUESTRO
+- None
+
+  nuestra hija
+  HIJO MUJER NUESTRA
+- NIÑO MUJER MÍOS
+
+  nuestro sobrino
+  SOBRINO NUESTRO
+- None
+
+  nuestra sobrina
+  SOBRINO MUJER NUESTRA
+- None
+
+  nuestro hermano
+  HERMANO SUYO
+- None
+
+  nuestro primo
+  PRIMO NUESTRO
++ PRIMO NUESTRO
+
+  nuestra prima 
+  PRIMO MUJER NUESTRA
+- PRIMO MUJER MÍO
+
+  nuestra hermana
+  HERMANO MUJER NUESTRA
+- None
+
+  nuestra tía
+  TÍO MUJER NUESTRA
+- None
+
+  nuestro abuelo
+  ABUELO NUESTRO
+- None
+
+  nuestra abuela
+  ABUELO MUJER NUESTRA
+- None
+
+  nuestro amigo
+  AMIGO NUESTRO
++ AMIGO NUESTRO
+
+  nuestra amiga
+  AMIGO MUJER NUESTRA
+- None
+
+  nuestro perro
+  PERRO NUESTRO
++ PERRO NUESTRO
+
+  nuestro gato
+  GATO NUESTRO
+- None
+
+  nuestra familia
+  FAMILIA NUESTRA
+- None
+
+  nuestra casa
+  CASA NUESTRA
++ CASA NUESTRA
+
+  nuestro novio
+  NOVIO NUESTRO
+- None
+
+  nuestra novia
+  NOVIO MUJER NUESTRA
+- None
+
+  ella se peina
+  ELLA PEINAR
+- ÉL PEINAR
+
+  la niña se peina
+  NIÑO MUJER ELLA PEINAR
+- NIÑO MUJER PEINAR
+
+  la mujer se arrepiente
+  MUJER ELLA ARREPENTIR
+- None
+
+  la maestra se queja
+  MAESTRO MUJER ELLA QUEJAR
+- MAESTRO MUJER QUEJAR
+
+  mi papá se enoja
+  PAPÁ MÍO ENOJADO
+- PADRE MÍO ENOJAR
+
+  él se baña
+  ÉL BAÑAR
++ ÉL BAÑAR
+
+  ella se viste
+  ELLA VESTIR
+- ÉL VESTIR
+
+  el niño se peina
+  NIÑO ÉL PEINAR
+- NIÑO PEINAR
+
+  el hombre se arrepiente
+  HOMBRE ÉL ARREPENTIR
+- HOMBRE ARREPENTIR
+
+  el maestro se queja
+  MAESTRO ÉL QUEJAR
+- MAESTRO QUEJAR
+
+  mi mamá se molesta
+  MAMÁ MÍA MOLESTAR
+- None
+
+  ella se baña
+  ELLA BAÑAR
+- ÉL BAÑAR
+
+  tu papá se peina
+  PAPÁ TUYO PEINAR
++ PAPÁ TUYO PEINAR
+
+  él se queja
+  ÉL QUEJAR
+- ÉL QUEJARSE
+
+  ella se divierte
+  ELLA DIVERTIR
+- ÉL DIVERTIR
+
+  él se divierte
+  ÉL DIVERTIR
++ ÉL DIVERTIR
+
+  el hombre se peina
+  HOMBRE ÉL PEINAR
+- HOMBRE PEINAR
+
+  tú te admiras a ti mismo
+  TÚ SOLITA ADMIRAR
+- TÚ ADMIAR
+
+  yo me amo a mí misma
+  YO SOLITA AMAR
+- YO AMAR SOLO
+
+  tú te amas a ti mismo
+  TÚ SOLITO AMAR
+- TÚ AMAR SOLO
+
+  él se ama a si mismo
+  ÉL SOLITO AMAR
+- ÉL AMAR SOLO
+
+  el maestro se ama a si mismo
+  MAESTRO SOLITO AMAR
+- MAESTRO AMAR SOLO
+
+  las niñas venden zapatos
+  NIÑO MUJER ELLAS ZAPATOS VENDER
+- NIÑO MUJER VENDER ZAPATO
+
+  los niños venden dulces
+  NIÑO ELLOS DULCES VENDER
+- NIÑO VENDER DULCE
+
+  el maestro quiere un libro
+  MAESTRO ÉL REVISTA QUERER
+- MAESTRO QUERER LIBRO
+
+  la maestra quiere una manzana
+  MAESTRO MUJER ELLA MANZANA QUERER
+- MAESTRO MUJER QUERER MANZANA
+
+  los niños quieren dulces
+  NIÑO ELLOS DULCES QUERER
+- NIÑO QUIERER DULCE
+
+  las niñas quieren comer
+  NIÑO MUJER ELLAS COMER QUERER
+- NIÑO MUJER QUIERER COMER
+
+  mamá quiere un yogur
+  MAMÁ YOGUR QUERER
+- None
+
+  papá quiere bailar
+  PAPÁ BAILAR QUERER
+- None
+
+  su vida
+  VIDA SUYA
+- VIDA SUYO
+
+  hola, ¡gusto en conocerte!
+  HOLA GUSTAR CONOCER TÚ
+- HOLA YO GUSTO CONOCER TÚ
+
+  mucho gusto conocerte
+  GUSTAR CONOCER TÚ
+- MUCHO GUSTO YO CONOCER TÚ
+
+  hola, ¡gusto en conocerlos!
+  HOLA GUSTAR CONOCER USTEDES
+- HOLA GUSTO CONOCER ELLOS
+
+  mucho gusto conocerlos
+  GUSTAR CONOCER USTEDES
+- YO MUCHO GUSTO CONOCER ELLOS
+
+  hola, ¡gusto en conocerlos!
+  HOLA GUSTAR CONOCER ELLOS
+- HOLA YO GUSTO EN CONOCER ELLOS
+
+  mucho gusto conocerlos
+  HOLA GUSTAR CONOCER ELLOS
+- None
+
+  ¿cómo?
+  ¿CÓMO?
+- CÓMO
+
+  ¿cómo estás?
+  ¿CÓMO ESTAR TÚ?
+- TÚ ESTAR CÓMO
+
+  ¿cómo están?
+  ¿CÓMO ESTAR USTEDES?
+- VOSOTROS CÓMO
+
+  ¿cómo están?
+  ¿CÓMO ESTAR ELLOS?
+- VOSOTROS CÓMO
+
+  ¿cómo está tu mamá?
+  ¿CÓMO ESTAR ELLOS?
+- MAMA MUJER TUYO ESTAR CÓMO
+
+  ¿cuál?
+  ¿CUÁL?
+- CUÁL
+
+  ¿cuál es tu nombre?
+  ¿TÚ NOMBRE CUÁL?
+- None
+
+  ¿cuál es su nombre?
+  ¿USTED NOMBRE CUÁL?
+- None
+
+  ¿cuál es su nombre?
+  ¿ELLOS NOMBRE CUÁL?
+- CUÁL NOMBRE SUYO
+
+  ¿qué?
+  ¿QUÉ?
+- None
+
+  ¿qué haces?
+  ¿TÚ HACER QUÉ?
+- None
+
+  ¿qué haces de lunes a viernes?
+  ¿LUNES A VIERNES TÚ HACER QUÉ?
+- QUÉ TÚ HACER LUNES A VIERNES
+
+  ¿qué hacen de lunes a viernes?
+  ¿LUNES A VIERNES ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- None
+
+  ¿qué hacen?
+  ¿ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- None
+
+  ¿qué estás haciendo ?
+  ¿AHORITA TÚ HACER QUÉ?
+- None
+
+  ¿qué están haciendo ?
+  ¿AHORITA ELLOS (ELLAS) USTEDES HACER QUÉ?
+- ELLOS HACER QUÉ
+
+  ¿qué harás mañana?
+  ¿MAÑANA TÚ HACER QUÉ?
+- None
+
+  ¿qué harán mañana?
+  ¿ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- MAÑANA ELLOS HACER QUÉ
+
+  ¿qué harás en la noche?
+  ¿FUTURO NOCHE TÚ HACER QUE?
+- QUÉ TÚ HACER NOCHE AHÍ
+
+  ¿qué harás en la tarde?
+  ¿FUTURO TARDE TÚ HACER QUE?
+- None
+
+  ¿qué harán en la noche?
+  ¿FUTURO NOCHE ELLOS (ELLAS) (USTEDES) HACER QUE?
+- QUÉ ELLOS HACER NOCHE AHÍ
+
+  ¿qué harás hoy?
+  ¿HOY TÚ HACER QUÉ?
+- QUÉ TÚ HACER HOY
+
+  ¿qué harás el viernes?
+  ¿FUTURO VIERNES TÚ HACER QUÉ?
+- QUÉ FUTURO TÚ HACER VIERNES
+
+  ¿qué harás el lunes?
+  ¿FUTURO VIERNES TÚ HACER QUÉ?
+- LUNES QUÉ TÚ HACER
+
+  ¿qué harás el martes?
+  ¿FUTURO MARTES TÚ HACER QUÉ?
+- QUÉ TÚ FUTURO HACER MARTES
+
+  ¿qué harás el jueves?
+  ¿FUTURO JUEVES TÚ HACER QUÉ?
+- None
+
+  ¿qué harás el miércoles?
+  ¿MIÉRCOLES TÚ HACER QUÉ?
+- QUÉ TÚ HACER MIÉRCOLES
+
+  ¿qué harás el sábado?
+  ¿SÁBADO TÚ HACER QUÉ?
+- None
+
+  ¿qué harás el domingo?
+  ¿DOMINGO TÚ HACER QUÉ?
+- FUTURO TÚ HACER DOMINGO QUÉ
+
+  ¿qué harás el próximo viernes?
+  ¿PRÓXIMO VIERNES TÚ HACER QUÉ?
+- QUÉ TÚ HACER VIERNES PRÓXIMO
+
+  ¿qué harás el próximo lunes?
+  ¿PRÓXIMO LUNES TÚ HACER QUÉ?
+- None
+
+  ¿qué harás el próximo martes?
+  ¿PRÓXIMO MARTES TÚ HACER QUÉ?
+- QUÉ TÚ FUTURO HACER PRÓXIMO MARTES
+
+  ¿qué harás el próximo jueves?
+  ¿PRÓXIMO JUEVES TÚ HACER QUÉ?
+- None
+
+  ¿qué harás el próximo miércoles?
+  ¿PRÓXIMO MIÉRCOLES TÚ HACER QUÉ?
+- QUÉ TÚ HACER PRÓXIMO MIÉRCOLES
+
+  ¿qué harás el próximo sábado?
+  ¿PRÓXIMO SÁBADO TÚ HACER QUÉ?
+- QUÉ TÚ HACER PRÓXIMO SÁBADO
+
+  ¿qué harás el próximo domingo?
+  ¿PRÓXIMO DOMINGO TÚ HACER QUÉ?
+- TÚ HACER DOMINGO PRÓXIMO QUÉ
+
+  ¿que hiciste en la noche?
+  ¿PASADONOCHE TÚ HACER QUÉ?
+- None
+
+  ¿que hiciste en la tarde?
+  ¿PASADO NOCHE TÚ HACER QUÉ?
+- TARDE TÚ HACER QUÉ
+
+  ¿qué hicieron en la tarde?
+  ¿PASADO TARDE ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- TARDE ELLOS HACER QUÉ
+
+  ¿qué hicieron en la noche?
+  ¿PASADO NOCHE ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- NOCHE AHÍ ELLOS HACER QUÉ
+
+  ¿qué hiciste el viernes?
+  ¿PASADO VIERNES TÚ HACER QUÉ?
+- QUÉ TÚ HACER VIERNES
+
+  ¿qué hiciste el lunes?
+  ¿PASADO LUNES TÚ HACER QUÉ?
+- None
+
+  ¿qué hiciste el martes?
+  ¿PASADO MARTES TÚ HACER QUÉ?
+- QUÉ TÚ HACER MARTES
+
+  ¿qué hiciste el jueves?
+  ¿PASADO JUEVES TÚ HACER QUÉ?
+- JUEVES TÚ HACER QUÉ
+
+  ¿qué hiciste el miércoles?
+  ¿PASADO MIÉRCOLES TÚ HACER QUÉ?
+- QUÉ TÚ HACER MIÉRCOLES
+
+  ¿qué hiciste el sábado?
+  ¿PASADO SÁBADO TÚ HACER QUÉ?
+- PASADO QUÉ TÚ HACER SÁBADO
+
+  ¿qué hiciste el domingo?
+  ¿PASADO DOMINGO TÚ HACER QUÉ?
+- QUÉ TÚ HACER DOMINGO
+
+  ¿qué hiciste el viernes?
+  ¿PASADO VIERNES TÚ HACER QUÉ?
+- QUÉ VIERNES TÚ HACER
+
+  ¿qué hiciste el lunes pasado?
+  ¿LUNES PASADO TÚ HACER QUÉ?
+- LUNES PASADO TÚ HACER QUÉ
+
+  ¿qué hiciste el martes pasado?
+  ¿MARTES PASADO TÚ HACER QUÉ?
+- QUÉ TÚ HACER MARTES PASADO
+
+  ¿qué hiciste el jueves pasado?
+  ¿JUEVES PASADO TÚ HACER QUÉ?
+- TÚ HACER PASADO JUEVES QUÉ
+
+  ¿qué hiciste el  miércoles pasado?
+  ¿MIÉRCOLES PASADO TÚ HACER QUÉ?
+- MIÉRCOLES PASADO TÚ HACER QUÉ
+
+  ¿qué hiciste el sábado pasado?
+  ¿SÁBADO PASADO TÚ HACER QUÉ?
+- TÚ HACER SÁBADO PASADO QUÉ
+
+  ¿qué hiciste el domingo pasado?
+  ¿DOMINGO PASADO TÚ HACER QUÉ?
+- QUÉ TÚ HACER DOMINGO PASADO
+
+  ¿qué hicieron el viernes?
+  ¿ VIERNES PASADO ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- ELLOS HACER VIERNES QUÉ
+
+  ¿qué hiciste ayer?
+  ¿AYER TÚ HACER QUÉ?
+- AYER TÚ HACER QUÉ
+
+  ¿qué hicieron ayer?
+  ¿AYER ELLOS (ELLAS) (USTEDES) HACER QUÉ?
+- AYER ELLOS HACER QUÉ
+
+  ¿qué dijiste?
+  ¿TÚ DECIR QUÉ?
+- QUÉ TÚ DECIR
+
+  ¿qué dijo?
+  ¿ÉL (ELLA) DECIR QUÉ?
+- ÉL QUÉ DECIR
+
+  ¿qué es eso?
+  ¿ESO QUÉ?
+- ESO SER QUÉ
+
+  hacer
+  HACER
++ HACER
+
+  puedo hacerlo
+  YO HACER PODER
+- None
+
+  puedes hacerlo
+  TÚ HACER PODER
+- POR FAVOR, PROPORCIONA EL TEXTO EN ESPAÑOL QUE DESEAS TRADUCIR.
+
+  podemos hacerlo
+  NOSOTROS HACER PODER
+- None
+
+  podríamos hacerlo
+  NOSOTROS HACER PODER
+- NOSOTROS PODER HACER LO
+
+  yo puedo hacer eso
+  ESO YO HACER PODER
+- YO PODER HACER ESO
+
+  no puedo hacer eso
+  ESO YO HACER PODER NO 
+- YO NO PODER HACER ESO
+
+  no puedo tomar leche
+  YO LECHE PODER NO TOMAR
+- YO NO PODER TOMAR LECHE
+
+  no puedo hacerlo
+  YO LECHE TOMAR PODER NO
+- YO NO PODER HACER LO
+
+  no se puede pasar el alto
+  ALTO NO PASAR PODER NO
+- None
+
+  no podemos hacerlo
+  NOSOTROS HACER PODER NO
+- NO NOSOTROS PODER HACER LO
+
+  tienes que hacer eso
+  ESO TÚ HACER DEBER
+- TÚ NECESITAR HACER ESO
+
+  tienes que hacerlo
+  TÚ HACER DEBER
+- ¿Podrías proporcionar las frases en español que deseas traducir a glosas en lengua de señas mexicana?
+
+  tienen que hacer eso
+  ESO ELLOS HACER DEBER
+- ELLOS NECESITAR HACER ESO
+
+  tienen que hacerlo
+  ELLOS HACER DEBER
+- None
+
+  pueden hacerlo
+  ELLOS HACER PODER
+- ELLOS PODER HACER LO
+
+  no pueden hacerlo
+  USTEDES HACER PODER NO
+- ELLOS NO PODER HACER LO
+
+  pueden hacerlo
+  USTEDES HACER PODER
+- ELLOS PODER HACER LO
+
+  no puedo ver bien
+  YO VER BIEN PODER NO
+- YO NO PODER VER BIEN
+
+  no puedo decirlo
+  YO DECIR PODER NO
+- YO NO PODER DECIR LO
+
+  ella hace un arroz delicioso
+  ELLA ARROZ DELICIOSO HACER
+- ÉL HACER ARROZ DELICIOSO
+
+  mi prima enseña a niños
+  PRIMO MUJER NIÑO ELLOS ENSEÑAR
+- None
+
+  yo trabajo de lunes a viernes
+  LUNES A VIERNES YO TRABAJAR
+- YO TRABAJAR LUNES A VIERNES
+
+  tú trabajas de lunes a viernes
+  LUNES A VIERNES TÚ TRABAJAR
+- TÚ TRABAJAR LUNES A VIERNES
+
+  él trabaja de lunes a viernes
+  LUNES A VIERNES ÉL TRABAJAR
++ LUNES A VIERNES ÉL TRABAJAR
+
+  ella trabaja de lunes a viernes
+  LUNES A VIERNES ELLA TRABAJAR
+- ÉL TRABAJAR LUNES A VIERNES
+
+  nosotros trabajamos de lunes a viernes
+  LUNES A VIERNES NOSOTROS TRABAJAR
+- NOSOTROS TRABAJAR LUNES A VIERNES
+
+  ustedes trabajan de lunes a viernes
+  LUNES A VIERNES USTEDES TRABAJAR
+- VOSOTROS TRABAJAR LUNES A VIERNES
+
+  ellos trabajan de lunes a viernes
+  LUNES A VIERNES ELLOS TRABAJAR
++ LUNES A VIERNES ELLOS TRABAJAR
+
+  ellas trabajan de lunes a viernes
+  LUNES A VIERNES ELLAS TRABAJAR
+- None
+
+  trabajan de lunes a viernes
+  LUNES A VIERNES ELLOS (AS) (USTEDES) TRABAJAR
+- ELLOS TRABAJAR LUNES A VIERNES
+
+  mi mamá trabaja de lunes a viernes
+  LUNES A VIERNES MAMÁ TRABAJAR
+- None
+
+  mi papá trabaja de lunes a viernes
+  LUNES A VIERNES PAPÁ TRABAJAR
+- PAPÁ MÍO TRABAJAR DE LUNES A VIERNES
+
+  mi tío trabaja de lunes a viernes
+  LUNES A VIERNES TÍO MÍO TRABAJAR
+- TIO MÍO TRABAJAR LUNES A VIERNES
+
+  mi tía trabaja de lunes a viernes
+  LUNES A VIERNES TÍO MUJER MÍA TRABAJAR
+- TIO MUJER MÍO TRABAJAR LUNES A VIERNES
+
+  mi hijo trabaja de lunes a viernes
+  LUNES A VIERNES HIJO MÍO TRABAJAR
+- HÍJO MÍO TRABAJAR LUNES A VIERNES
+
+  mi hija trabaja de lunes a viernes
+  LUNES A VIERNES HIJO MUJER MÍA TRABAJAR
+- None
+
+  mi abuelo trabaja de lunes a viernes
+  LUNES A VIERNES ABUELO MÍO TRABAJAR
+- ABUELO MÍO TRABAJAR LUNES A VIERNES
+
+  mi abuela trabaja de lunes a viernes
+  LUNES A VIERNES ABUELO MUJER TRABAJAR
+- ABUELA MUJER MÍO TRABAJAR LUNES A VIERNES
+
+  tu mamá trabaja de lunes a viernes
+  LUNES A VIERNES MAMÁ TUYA TRABAJAR
+- MAMÁ MUJER TUYO TRABAJAR LUNES A VIERNES
+
+  tu papá trabaja de lunes a viernes
+  LUNES A VIERNES PAPÁ TUYO TRABAJAR
+- TÚ PAPA TRABAJAR LUNES A VIERNES
+
+  tu tío trabaja de lunes a viernes
+  LUNES A VIERNES TÍO TUYO TRABAJAR
+- TÍO TUYO TRABAJAR DE LUNES A VIERNES
+
+  tu tía trabaja de lunes a viernes
+  LUNES A VIERNES TÍO MUJER TUYA TRABAJAR
+- TIO MUJER TUYO TRABAJAR LUNES A VIERNES
+
+  tu hijo trabaja de lunes a viernes
+  LUNES A VIERNES HIJO TUYO TRABAJAR
+- HIJO TUYO TRABAJAR LUNES A VIERNES
+
+  tu hija trabaja de lunes a viernes
+  LUNES A VIERNES HIJO MUJER TUYA TRABAJAR
+- TUYO HIJO MUJER TRABAJAR LUNES A VIERNES
+
+  tu abuelo trabaja de lunes a viernes
+  LUNES A VIERNES ABUELO TUYO TRABAJAR
+- ABUELO TUYO TRABAJAR LUNES A VIERNES
+
+  tu abuela trabaja de lunes a viernes
+  LUNES A VIERNES ABUELO MUJER TUYA TRABAJAR
+- ABUELA MUJER TUYO TRABAJAR LUNES A VIERNES
+
+  la abuela aconseja a su nieto
+  ABUELO MUJER NIETO SUYO ACONSEJAR
+- ABUELA MUJER CONSEJAR NIETO SUYO
+
+  tu papá te regaña
+  PAPÁ TUYO TÚ REGAÑAR
+- None
+
+  su papá lo regaña
+  PAPÁ SUYO ÉL REGAÑAR
+- PAPÁ SUYO REGAÑAR ÉL
+
+  su papá la regaña
+  PAPÁ SUYO ELLA REGAÑAR
+- None
+
+  mi papá me enseña
+  PAPÁ MÍO YO ENSEÑAR
+- None
+
+  mi abuela hace arroz en la cacerola
+  ABUELO MUJER MÍA CACEROLA ARROZ COCINAR
+- None
+
+  él hace ejercicio
+  ÉL EJERCICIO HACER
+- ÉL HACER EJERCICIO
+
+  está haciendo calor
+  CALOR
+- ÉL HACER CALOR
+
+  ayer hizo calor
+  AYER CALOR
+- None
+
+  mañana hará calor
+  MAÑANA CALOR
+- MAÑANA HAY CALOR
+
+  está haciendo mucho calor
+   CALOR MUCHO
+- TIEMPO CALOR MUCHO
+
+  el día está caluroso
+  DÍA CALUROSO
++ DÍA CALUROSO
+
+  el mes pasado hizo mucho calor
+  MES PASADO CALOR MUCHO
+- MES PASADO HACER MUCHO CALOR
+
+  el próximo mes hará calor
+  PRÓXIMO MES CALOR
+- MES PRÓXIMO HACER CALOR
+
+  antier hizo calor
+  ANTIER CALOR
+- None
+
+  la próxima semana hará calor
+  PRÓXIMA SEMANA CALOR
+- SEMANA PRÓXIMO CALOR
+
+  hace viento 
+  VIENTO
+- HAY VIENTO
+
+  está haciendo mucho viento
+  VIENTO MUCHO
+- VIENTO MUCHO HACER
+
+  hace calor
+  CALOR
+- HAY CALOR
+
+  hace mucho calor
+  CALOR MUCHO
+- HACER MUCHO CALOR
+
+  hace frío
+  FRÍO
+- HAY FRÍO
+
+  está haciendo frío
+  FRÍO
+- TIEMPO FRÍO
+
+  hace mucho frío
+   FRÍO MUCHO
+- TIEMPO HACER MUCHO FRÍO
+
+  se está haciendo muy tarde
+  TARDE MUCHO
+- HACER MUY TARDE
+
+  se hace tarde
+  TARDE
+- HACER TARDE
+
+  hace una hora
+  ANTES HORA UNO
+- HACER UNO HORA
+
+  hace siete años
+  ANTES AÑOS SIETE
+- None
+
+  está lloviendo en la ciudad
+  CIUDAD AHÍ LLOVER
++ CIUDAD AHÍ LLOVER
+
+  está nevando en el campo
+  CAMPO AHÍ NEVAR
+- None
+
+  está granizando en el parque
+  PARQUE AHÍ GRANIZAR
+- None
+
+  el día está fresco
+  HOY DÍA FRESCO
+- DIA FRESCO
+
+  quiero comprar un auto
+  YO AUTO COMPRAR QUERER
+- YO QUERER AUTO
+
+  no quiero comprar un auto
+  YO AUTO COMPRAR NO QUERER
+- YO NO QUERER COMPRAR AUTO
+
+  quieren comprar un auto
+  ELLOS (AS) /USTEDES AUTO COMPRAR QUERER
+- ELLOS QUERER COMPRAR AUTO
+
+  no quieren comprar un auto
+  ELLOS (AS) /USTEDES AUTO COMPRAR NO QUERER
+- ELLOS NO QUIERER COMPRAR AUTO
+
+  ustedes quieren comprar un auto
+  USTEDES AUTO COMPRAR QUERER
+- VOSOTROS QUERER COMPRAR AUTO
+
+  ustedes no quieren comprar un auto
+  USTEDES AUTO COMPRAR NO QUERER
+- VOSOTROS NO QUERER COMPRAR AUTO
+
+  ellas quieren comprar auto
+  ELLAS AUTO COMPRAR QUERER
+- ELLOS QUERER COMPRAR AUTO
+
+  ellos quieren comprar auto
+  ELLOS AUTO COMPRAR NO QUERER
+- ELLOS QUERER COMPRAR AUTO
+
+  quieres comprar un auto
+  TÚ AUTO COMPRAR QUERER
+- TÚ QUERER COMPRAR AUTO
+
+  no quieres comprar un auto
+  TÚ AUTO COMPRAR NO QUERER
+- TÚ NO QUERER COMPRAR AUTO
+
+  quiere comprar un auto
+  ÉL (ELLA) AUTO COMPRAR QUERER
+- ÉL QUERER COMPRAR AUTO
+
+  no quiere comprar un auto
+  ÉL (ELLA) AUTO COMPRAR NO QUERER
+- ÉL NO QUERER COMPRAR AUTO
+
+  ella quiere comprar un auto
+  ELLA AUTO COMPRAR QUERER
+- ÉL QUERER COMPRAR AUTO
+
+  ella no quiere comprar un auto
+  ELLA AUTO COMPRAR NO QUERER
+- ÉL NO QUIERER COMPRAR AUTO
+
+  él quiere comprar un auto
+  ÉL AUTO COMPRAR QUERER
+- ÉL QUERER COMPRAR AUTO
+
+  él no quiere comprar un auto
+  ÉL AUTO COMPRAR NO QUERER
+- ÉL NO QUERER COMPRAR AUTO
+
+  nosotros queremos comprar un auto
+  NOSOTROS AUTO COMPRAR QUERER
+- NOSOTROS QUERER COMPRAR AUTO
+
+  nosotros no queremos comprar un auto
+  NOSOTROS AUTO COMPRAR NO QUERER
+- NOSOTROS NO QUERER COMPRAR AUTO
+
+  queremos comprar un auto
+  NOSOTROS AUTO COMPRAR QUERER
+- NOSOTROS QUERER AUTO
+
+  no queremos comprar un auto
+  NOSOTROS AUTO COMPRAR NO QUERER
+- NOSOTROS NO QUERER COMPRAR AUTO
+
+  quiero trabajar
+  YO TRABAJAR QUERER
+- YO TRABAJAR
+
+  no quiero trabajar
+  YO TRABAJAR NO QUERER
+- YO NO QUERER TRABAJAR
+
+  él quiere trabajar
+  ÉL TRABAJAR QUERER
+- ÉL QUERER TRABAJAR
+
+  él no quiere trabajar
+  ÉL TRABAJAR NO QUERER
+- ÉL NO QUERER TRABAJAR
+
+  ella quiere trabajar
+  ELLA TRABAJAR QUERER
+- ÉL QUERER TRABAJAR
+
+  ella no quiere trabajar
+  ELLA TRABAJAR NO QUERER
+- ÉL NO QUERER TRABAJAR
+
+  quiere trabajar
+  ÉL (ELLA) TRABAJAR QUERER
+- ÉL QUERER TRABAJAR
+
+  no quiere trabajar
+  ÉL (ELLA) TRABAJAR NO QUERER
+- ÉL NO QUERER TRABAJAR
+
+  quieres trabajar
+  TÚ TRABAJAR QUERER
+- TÚ TRABAJAR
+
+  no quieres trabajar
+  TÚ TRABAJAR NO QUERER
+- TÚ NO QUERER TRABAJAR
+
+  quieren trabajar
+  ELLOS (AS)/USTEDES TRABAJAR QUERER
+- ELLOS QUERER TRABAJAR
+
+  no quieren trabajar
+  ELLOS (AS)/USTEDES TRABAJAR NO QUERER
+- ELLOS NO QUERER TRABAJAR
+
+  nosotros queremos trabajar
+  NOSOTROS TRABAJAR QUERER
+- NOSOTROS QUERER TRABAJAR
+
+  queremos trabajar
+  NOSOTROS TRABAJAR QUERER
+- NOSOTROS QUERER TRABAJAR
+
+  quiero comer
+  YO COMER QUERER
+- YO COMER
+
+  no quiero comer
+  YO COMER NO QUERER
+- YO NO QUERER COMER
+
+  quieren comer
+  ELLOS COMER QUERER
+- ELLOS QUERER COMER
+
+  no quieren comer
+  ELLOS COMER NO QUERER
+- ELLOS NO QUERER COMER
+
+  quieren comer
+  USTEDES COMER QUERER
+- ELLOS QUERER COMER
+
+  no quieren comer
+  USTEDES COMER NO QUERER
+- ELLOS NO QUERER COMER
+
+  quiere comer
+  ÉL (ELLA) COMER QUERER
+- ÉL QUERER COMER
+
+  no quiere comer
+  ÉL (ELLA) COMER NO QUERER
+- ÉL NO QUERER COMER
+
+  ella quiere comer
+  ELLA COMER QUERER
+- ÉL QUERER COMER
+
+  ella no quiere comer
+  ELLA COMER NO QUERER
+- ÉL NO QUERER COMER
+
+  él quiere comer
+  ÉL COMER QUERER
+- ÉL QUERER COMER
+
+  él no quiere comer
+  ÉL COMER NO QUERER
+- ÉL NO QUERER COMER
+
+  queremos comer
+  NOSOTROS COMER QUERER
+- NOSOTROS QUERER COMER
+
+  no queremos comer
+  NOSOTROS COMER NO QUERER
+- NOSOTROS NO QUERER COMER
+
+  nosotros queremos comer
+  NOSOTROS COMER QUERER
+- NOSOTROS QUERER COMER
+
+  no queremos comer
+  NOSOTROS COMER NO QUERER
+- NOSOTROS NO QUERER COMER
+
+  quiero un abrazo
+  YO ABRAZO QUERER
+- YO QUERER ABRAZO
+
+  no quiero un abrazo
+  YO ABRAZO NO QUERER
+- YO NO QUERER ABRAZO
+
+  quiere un abrazo
+  ÉL (ELLA) ABRAZO QUERER
+- ÉL QUIERER ABRAZO
+
+  no quiere un abrazo
+  ÉL (ELLA) ABRAZO NO QUERER
+- ÉL NO QUIERER ABRAZO
+
+  él quiere un abrazo
+  ÉL ABRAZO QUERER
+- ÉL QUERER ABRAZO
+
+  él no quiere un abrazo
+  ÉL ABRAZO NO QUERER
+- ÉL NO QUERER ABRAZO
+
+  ella quiere un abrazo
+  ELLA ABRAZO QUERER
+- ÉL QUIERER ABRAZO
+
+  ella no quiere un abrazo
+  ELLA ABRAZO NO QUERER
+- ÉL NO QUIERER ABRAZO
+
+  quieres un abrazo
+  TÚ ABRAZO QUERER
+- TÚ QUERER ABRAZO
+
+  no quieres un abrazo
+  TÚ ABRAZO NO QUERER
+- TÚ NO QUERER ABRAZO
+
+  quieren un abrazo
+  ELLOS (AS)/USTEDES ABRAZO QUERER
+- ELLOS QUERER ABRAZO
+
+  no quieren un abrazo
+  ELLOS (AS)/USTEDES ABRAZO NO QUERER
+- ELLOS NO QUERER ABRAZO
+
+  ellas quieren un abrazo
+  ELLAS ABRAZO QUERER
+- ELLOS QUERER ABRAZO
+
+  ellas no quieren un abrazo
+  ELLAS ABRAZO NO QUERER
+- ELLOS NO QUIERER ABRAZO
+
+  ellos quieren un abrazo
+  ELLOS ABRAZO QUERER
+- ELLOS QUERER ABRAZO
+
+  ellas quieren un abrazo
+  ELLAS ABRAZO NO QUERER
+- ELLOS QUERER ABRAZO
+
+  ustedes quieren un abrazo
+  USTEDES ABRAZO QUERER
+- VOSOTROS QUERER ABRAZO
+
+  ustedes no quieren un abrazo
+  USTEDES ABRAZO NO QUERER
+- VOSOTROS NO QUERER ABRAZO
+
+  queremos un abrazo
+  NOSOTROS ABRAZO QUERER
+- NOSOTROS QUERER ABRAZO
+
+  no queremos un abrazo
+  NOSOTROS ABRAZO NO QUERER
+- NOSOTROS NO QUERER ABRAZO
+
+  quiero adoptar un perro
+  YO PERRO ADOPTAR QUERER
+- YO QUERER ADOPTAR PERRO
+
+  no quiero adoptar un perro
+  YO PERRO ADOPTAR NO QUERER
+- YO NO QUERER ADOPTAR PERRO
+
+  quieres adoptar un perro
+  TÚ PERRO ADOPTAR QUERER
+- TÚ QUERER ADOPTAR PERRO
+
+  no quieres adoptar un perro
+  TÚ PERRO ADOPTAR NO QUERER
+- TÚ NO QUIERER ADOPTAR PERRO
+
+  quieren adoptar un perro
+  ELLOS PERRO ADOPTAR QUERER
+- ELLOS QUERER ADOPTAR PERRO
+
+  no quieren adoptar un perro
+  ELLOS PERRO ADOPTAR NO QUERER
+- ELLOS NO QUERER ADOPTAR PERRO
+
+  quieren adoptar un perro
+  USTEDES PERRO ADOPTAR QUERER
+- ELLOS QUERER ADOPTAR PERRO
+
+  no quieren adoptar un perro
+  USTEDES PERRO ADOPTAR NO QUERER
+- ELLOS NO QUERER ADOPTAR PERRO
+
+  queremos adoptar un perro
+  NOSOTROS PERRO ADOPTAR QUERER
+- NOSOTROS QUERER ADOPTAR PERRO
+
+  no queremos adoptar un perro
+  NOSOTROS PERRO ADOPTAR NO QUERER
+- NOSOTROS NO QUERER ADOPTAR PERRO
+
+  quiero ir
+  YO IR QUERER
+- YO QUERER IR
+
+  no quiero ir
+  YO IR NO QUERER
+- YO NO QUERER IR
+
+  quieres ir
+  TÚ IR QUERER
+- TÚ QUERER IR
+
+  tú no quieres ir
+  TÚ IR NO QUERER
+- TÚ NO QUERER IR
+
+  no quieres ir
+  TÚ IR NO QUERER
+- TÚ NO QUERER IR
+
+  él quiere ir
+  ÉL IR QUERER
+- ÉL QUERER IR
+
+  ella quiere ir
+  ELLA IR QUERER
+- ÉL QUERER IR
+
+  quiere ir
+  EL (ELLA) IR QUERER
+- ÉL QUERER IR
+
+  quieren ir
+  ELLOS (AS)/USTEDES IR QUERER
+- ELLOS QUERER IR
+
+  ellas quieren ir
+  ELLAS IR QUERER
+- ELLOS QUERER IR
+
+  ellos quieren ir
+  ELLOS IR QUERER
+- ELLOS QUERER IR
+
+  ustedes quieren ir
+  USTEDES IR QUERER
+- VOSOTROS QUERER IR
+
+  no quieren ir
+  ELLOS IR NO QUERER
+- ELLOS NO QUIERER IR
+
+  quieren ir
+  ELLAS IR QUERER
+- ELLOS QUERER IR
+
+  quieren ir
+  USTEDES IR QUERER
+- ELLOS QUERER IR
+
+  quiero a mi mamá
+  YO MAMÁ MÍA QUERER
+- YO QUERER MAMÁ MUJER MÍO
+
+  quiero a mi madre
+  YO MADRE MÍA QUERER
+- YO QUERER MADRE MUJER MÍO
+
+  yo me quiero a mi misma
+  YO SOLITA QUERER
+- YO AMAR SOLO
+
+  yo bebo cerveza
+  YO CERVEZA BEBER
+- YO BEBER CERVEZA
+
+  bebo jugo de manzana
+  YO JUGOMANZANA BEBER
+- None
+
+  bebe refresco
+  ÉL (ELLA) REFRESCO
+- ÉL BEBER REFRESCO
+
+  él bebe cerveza
+  ÉL CERVEZA BEBER
+- ÉL BEBER CERVEZA
+
+  ella bebe cerveza
+  ELLA CERVEZA BEBER
+- ÉL BEBER CERVEZA
+
+  tú bebes cerveza
+  TÚ CERVEZA BEBER
+- TÚ BEBER CERVEZA
+
+  beben leche
+  ELLOS (AS)/ USTEDES LECHE BEBER
+- ELLOS BEBER LECHE
+
+  ellas beben té
+  ELLAS TÉ BEBER
+- ELLOS BEBER TE
+
+  ellos beben limonada
+  ELLOS LIMONADA BEBER
+- ELLOS BEBER LIMONADA
+
+  bebemos tequila
+  NOSOTROS TEQUILA BEBER
+- NOSOTROS BEBER TEQUILA
+
+  nosotros bebemos cerveza
+  NOSOTROS CERVEZA BEBER
+- NOSOTROS BEBER CERVEZA
+
+  nosotros bebemos refresco
+  NOSOTROS REFRESCO BEBER
+- NOSOTROS BEBER REFRESCO
+
+  leo un libro
+  YO LIBRO LEER
+- YO LEER LIBRO
+
+  lees un libro
+  TÚ LIBRO LEER
+- TÚ LEER LIBRO
+
+  tú lees un libro
+  TÚ LIBRO LEER
+- TÚ LEER LIBRO
+
+  lee un libro
+  ÉL (ELLA) LIBRO LEER
+- TÚ LEER LIBRO
+
+  ella lee un libro
+  ELLA LIBRO LEER
+- ÉL LIBRO LEER
+
+  él lee un libro
+  ÉL LIBRO LEER
+- ÉL LEER LIBRO
+
+  leen un libro
+  ELLOS (AS) (USTEDES) LIBROS LEER
+- ELLOS LEER
+
+  ellos leen un libro
+  ELLOS LIBRO LEER
+- ELLOS LEER LIBRO
+
+  ellas leen un libro
+  ELLAS LIBRO LEER
+- ELLOS LEER LIBRO
+
+  ustedes leen un libro
+  USTEDES LIBRO LEER
+- VOSOTROS LEER LIBRO
+
+  leemos un libro
+  NOSOTROS LIBRO LEER
+- NOSOTROS LEER LIBRO
+
+  nosotros leemos un libro
+  NOSOTROS LIBRO LEER
++ NOSOTROS LIBRO LEER
+
+  los niños leen un libro
+  NIÑO ELLOS LIBRO LEER
+- NIÑO LEER LIBRO
+
+  las niñas leen un libro
+  NIÑO MUJER ELLAS NADAR
+- NIÑO MUJER LEER LIBRO
+
+  quiero café
+  YO CAFÉ QUERER
+- YO QUERER CAFÉ
+
+  no quiero café
+  YO CAFÉ NO QUERER
+- YO NO QUERER CAFÉ
+
+  quiero a mi mamá
+  YO MAMÁ MÍA ELLA QUERER
+- YO QUERER MAMA MUJER MÍO
+
+  quiero llorar
+  YO LLORAR QUERER
+- YO QUERER LLORAR
+
+  no quiero llorar
+  YO LLORAR NO QUERER
+- YO NO QUERER LLORAR
+
+  quieres llorar
+  TÚ LLORAR QUERER
+- TÚ LLORAR
+
+  quiere llorar
+  ÉL (ELLA) LLORAR QUERER
+- ÉL QUERER LLORAR
+
+  él quiere llorar
+  ÉL LLORAR QUERER
+- ÉL QUERER LLORAR
+
+  ella quiere llorar
+  ELLA LLORAR QUERER
+- ÉL QUIERER LLORAR
+
+  nosotros queremos llorar
+  NOSOTROS LLORAR QUERER
+- NOSOTROS QUERER LLORAR
+
+  queremos llorar
+  NOSOTROS LLORAR QUERER
+- NOSOTROS QUERER LLORAR
+
+  ustedes quieren llorar
+  USTEDES LLORAR QUERER
+- VOSOTROS QUERER LLORAR
+
+  quieren llorar
+  ELLOS (ELLAS) LLORAR QUERER
+- ELLOS QUERER LLORAR
+
+  ellas quieren llorar
+  ELLAS LLORAR QUERER
+- ELLOS QUERER LLORAR
+
+  ellos quieren llorar
+  ELLOS LLORAR QUERER
+- ELLOS QUERER LLORAR
+
+  quiero morir
+  YO MORIR QUERER
+- YO QUERER MORIR
+
+  no quiero morir
+  YO MORIR NO QUERER
+- YO NO QUERER MORIR
+
+  quiero correr en la pista
+  PISTA AHÍ YO CORRER QUERER
+- PISTA AHÍ YO CARRER
+
+  quieres correr en la pista
+  PISTA AHÍ TÚ CORRER QUERER
+- PISTA AHÍ TÚ Correr
+
+  quiere correr en la pista
+  PISTA AHÍ ÉL (ELLA) CORRER QUERER
+- ÉL Correr EN PISTA
+
+  él quiere correr en la pista
+  PISTA AHÍ ÉL CORRER
+- None
+
+  ella quiere correr en la pista
+  PISTA AHÍ ELLA CORRER
+- ÉL QUIERER CORRER PISTA AHÍ
+
+  queremos correr en la pista
+  PISTA AHÍ NOSOTROS CORRER
+- None
+
+  quieren correr en la pista
+  PISTA AHÍ ELLOS/ELLAS CORRER
+- None
+
+  mi tío quiere correr en la pista
+  PISTA AHÍ TÍO MÍO CORRER
+- None
+
+  mi tía quiere correr en la pista
+  PISTA AHÍ TÍO MUJER MÍA CORRER
+- None
+
+  mi hija quiere correr en la pista
+  PISTA AHÍ HIJO MUJER MÍA CORRER
+- None
+
+  mi hijo quiere correr en la pista
+  PISTA AHÍ HIJO MÍO CORRER
+- None
+
+  mi prima quiere correr en la pista
+  PISTA AHÍ PRIMO MUJER MÍA CORRER
+- None
+
+  mi primo quiere correr en la pista
+  PISTA AHÍ PRIMO MÍO CORRER
+- None
+
+  mi sobrino quiere correr en la pista
+  PISTA AHÍ SOBRINO MÍO CORRER
+- None
+
+  mi sobrina quiere correr en la pista
+  PISTA AHÍ SOBRINO MUJER MÍO CORRER
+- None
+
+  mi abuelo quiere correr en la pista
+  PISTA AHÍ ABUELO CORRER
+- None
+
+  mi abuela quiere correr en la pista
+  PISTA AHÍ ABUELO MUJER CORRER
+- None
+
+  quiero dormir
+  YO DORMIR QUERER
+- YO QUERER DORMIR
+
+  quieres dormir
+  TÚ DORMIR QUERER
+- TÚ DORMIR
+
+  quiere dormir
+  ÉL/(ELLA) DORMIR QUERER
+- ÉL QUERER DORMIR
+
+  él quiere dormir
+  ÉL DORMIR QUERER
+- ÉL QUIERER DORMIR
+
+  ella quiere dormir
+  ELLA DORMIR QUERER
+- ÉL QUERER DORMIR
+
+  él quiere dormir
+  ÉL DORMIR QUERER
+- ÉL QUIERER DORMIR
+
+  quieren dormir
+  ELLOS (AS)/USTEDES DORMIR QUERER
+- ELLOS QUIERER DORMIR
+
+  ellos quieren dormir
+  ELLOS DORMIR QUERER
+- ELLOS QUERER DORMIR
+
+  ellas quieren dormir
+  ELLAS DORMIR QUERER
+- ELLOS QUERER DORMIR
+
+  queremos dormir
+  NOSOTROS DORMIR QUERER
+- NOSOTROS QUERER
+
+  nosotros queremos dormir
+  NOSOTROS DORMIR QUERER
+- NOSOTROS QUERER DORMIR
+
+  quiero descansar
+  YO DESCANSAR QUERER
+- YO DESCANSAR
+
+  quieres descansar
+  TÚ DESCANSAR QUERER
+- TÚ DESCANSAR
+
+  él quiere descansar
+  ÉL DESCANSAR QUERER
+- ÉL QUERER DESCANSAR
+
+  ustedes quieren descansar
+  USTEDES DESCANSAR QUERER
+- VOSOTROS QUERER DESCANSAR
+
+  ellos quieren descansar
+  ELLOS DESCANSAR QUERER
+- ELLOS QUERER DESCANSAR
+
+  ellas quieren descansar
+  ELLAS DESCANSAR QUERER
+- ELLOS QUERER DESCANSAR
+
+  quieren descansar
+  ELLOS (AS) (USTEDES) DESCANSAR QUERER
+- ELLOS QUERER DESCANSAR
+
+  queremos descansar
+  NOSOTROS DESCANSAR QUERER
+- NOSOTROS QUERER DESCANSAR
+
+  nosotros queremos descansar
+  NOSOTROS DESCANSAR QUERER
+- NOSOTROS QUERER DESCANSAR
+
+  los niños quieren descansar
+  NIÑO ELLOS DESCANSAR QUERER
+- NIÑO QUIERER DESCANSAR
+
+  las niñas quieren descansar
+  NIÑO MUJER ELLAS DESCANSAR
+- NIÑO MUJER QUIERER DESCANSAR
+
+  mi tía quiere descansar
+  TÍO MUJER MÍA DESCANSAR QUERER
+- TIO MUJER MÍO QUERER DESCANSAR
+
+  mi tío quiere descansar
+  TÍO MÍO DESCANSAR QUERER
+- TIO MÍO QUERER DESCANSAR
+
+  mi abuelo quiere descansar
+  ABUELO MÍO DESCANSAR QUERER
+- ABUELO MÍO QUERER DESCANSAR
+
+  mi abuela quiere descansar
+  ABUELO MUJER MÍA DESCANSAR QUERER
+- ABUELA MUJER MÍO QUERER DESCANSAR
+
+  mi sobrina quiere descansar
+  SOBRINO MUJER MÍA DESCANSAR QUERER
+- NIÑO MUJER MÍO QUERER DESCANSAR
+
+  mi sobrino quiere descansar
+  SOBRINO MÍO DESCANSAR QUERER
+- SOBRINO MÍO QUERER DESCANSAR
+
+  mi hija quiere descansar
+  HIJO MUJER MÍA DESCANSAR QUERER
+- NIÑO MUJER MÍO QUIERER DESCANSAR
+
+  mi hijo quiere descansar
+  HIJO MÍA DESCANSAR QUERER
+- None
+
+  yo estudio inglés todos los días
+  TODOS LOS DÍAS YO INGLÉS ESTUDIAR
+- None
+
+  tú estudias inglés todos los días
+  TODOS LOS DÍAS TÚ INGLÉS ESTUDIAR
+- TÚ ESTUDIAR INGLÉS DÍA TODOS
+
+  él estudia inglés todos los días
+  TODOS LOS DÍAS ÉL INGLÉS ESTUDIAR
+- ÉL INGLES ESTUDIAR DÍA TODOS
+
+  ella estudia inglés todos los días
+  TODOS LOS DÍAS ELLA INGLÉS ESTUDIAR
+- ÉL ESTUDIAR INGLÉS TODOS DÍAS
+
+  nosotros estudiamos inglés todos los días
+  TODOS LOS DÍAS NOSOTROS INGLÉS ESTUDIAR
+- None
+
+  ellos estudian inglés todos los días
+  TODOS LOS DÍAS ELLOS INGLÉS ESTUDIAR
+- ELLOS ESTUDIAR INGLÉS TODOS DÍA
+
+  ellas estudian inglés todos los días
+  TODOS LOS DÍAS ELLAS INGLÉS ESTUDIAR
+- ELLOS ESTUDIAR INGLES DÍA TODOS
+
+  estudian inglés todos los días
+  TODOS LOS DÍAS ELLOS (AS) (USTEDES) INGLÉS ESTUDIAR
+- None
+
+  mi mamá estudia inglés todos los días
+  TODOS LOS DÍAS MAMÁ MÍA INGLÉS ESTUDIAR
+- None
+
+  mi papá estudia inglés todos los días
+  TODOS LOS DÍAS PAPÁ MÍO INGLÉS ESTUDIAR
+- None
+
+  las niñas estudian inglés todos los días
+  TODOS LOS DÍAS NIÑO MUJER ELLAS INGLÉS ESTUDIAR
+- NIÑO MUJER ESTUDIAR INGLES TODOS DÍA
+
+  los niños estudian inglés todos los días
+  TODOS LOS DÍAS NIÑO ELLOS INGLÉS ESTUDIAR
+- None
+
+  mi novio estudia inglés todos los días
+  TODOS LOS DÍAS NOVIO MÍO INGLES ESTUDIAR
+- None
+
+  quiero enseñar
+  YO ENSEÑAR QUERER
+- YO QUERER ENSEÑAR
+
+  yo camino
+  YO CAMINAR
++ YO CAMINAR
+
+  él camina
+  ÉL CAMINAR
++ ÉL CAMINAR
+
+  tú caminas
+  TÚ CAMINAR
++ TÚ CAMINAR
+
+  ella camina
+  ELLA CAMINAR
+- ÉL CAMINAR
+
+  nosotros caminamos
+  NOSOTROS CAMINAR
++ NOSOTROS CAMINAR
+
+  ustedes caminan
+  USTEDES CAMINAR
+- VOSOTROS CAMINAR
+
+  ellos caminan
+  ELLOS CAMINAR
++ ELLOS CAMINAR
+
+  ella es agradable
+  ELLA AGRADABLE
+- ÉL AGRADABLE ASÍ
+
+  yo soy agradable
+  YO AGRADABLE
++ YO AGRADABLE
+
+  él es agradable
+  ÉL AGRADABLE
+- ÉL AGRADABLE ASÍ
+
+  tú eres agradable
+  TÚ AGRADABLE
++ TÚ AGRADABLE
+
+  nosotros somos agradables
+  NOSOTROS AGRADABLES
+- NOSOTROS AGRADABLE
+
+  ustedes son agradables
+  USTEDES AGRADABLES
+- VOSOTROS AGRADABLE ASÍ
+
+  ellos son agradables
+  ELLOS AGRADABLES
+- ELLOS AGRADABLE
+
+  yo estoy ocupada
+  YO OCUPADA
+- YO OCUPADO
+
+  tú estás ocupada
+  TÚ OCUPADA
+- TÚ OCUPADO
+
+  ella está ocupada
+  ELLA OCUPADA
+- ÉL OCUPADO
+
+  él está ocupado
+  ÉL OCUPADO
++ ÉL OCUPADO
+
+  nosotros estamos ocupados
+  NOSOTROS OCUPADOS
+- NOSOTROS OCUPADO
+
+  ellos están ocupados
+  ELLOS OCUPADOS
+- ELLOS OCUPADO
+
+  ellas están ocupadas
+  ELLAS OCUPADAS
+- ELLOS OCUPADO
+
+  yo soy simpática
+  YO SIMPÁTICA 
+- YO SIMPÁTICO ASÍ
+
+  tú eres simpática
+  TÚ SIMPÁTICA
+- TÚ SIMPÁTICO
+
+  él es simpático
+  ÉL SIMPÁTICO
+- ÉL SIMPÁTICO ASÍ
+
+  ella es simpática
+  ELLA SIMPÁTICA
+- ÉL SIMPATICO ASÍ
+
+  nosotros somos simpáticos
+  NOSOTROS SIMPÁTICOS
+- NOSOTROS SIMPÁTICO
+
+  ellos son simpáticos
+  ELLOS SIMPÁTICOS
+- ELLOS SIMPÁTICO
+
+  ellas son simpáticas
+  ELLAS SIMPÁTICAS
+- ELLOS SIMPÁTICO ASÍ
+
+  yo soy amable
+  YO AMABLE
++ YO AMABLE
+
+  ella es amable
+  ELLA AMABLE
+- ÉL AMABLE
+
+  él es amable
+  ÉL AMABLE
+- ÉL AMABLE ASÍ
+
+  nosotros somos amables
+  NOSOTROS AMABLES
+- NOSOTROS AMABLE
+
+  ustedes son amables
+  USTEDES AMABLES
+- VOSOTROS AMABLE
+
+  ellos son amables
+  ELLOS AMABLES
+- ELLOS AMABLE
+
+  ellas son amables
+  ELLAS AMABLES
+- ELLOS AMABLE
+
+  mi mamá es amable
+  MAMÁ MÍA AMABLE
+- MAMÁ MUJER MÍO AMABLE
+
+  mi papá es amable
+  PAPÁ MÍO AMABLE
++ PAPÁ MÍO AMABLE
+
+  el maestro es amable
+  MAESTRO AMABLE
++ MAESTRO AMABLE
+
+  la maestra es amable
+  MAESTRO MUJER AMABLE
++ MAESTRO MUJER AMABLE
+
+  mi hermano es amable
+  HERMANO MÍO AMABLE
++ HERMANO MÍO AMABLE
+
+  mi hermana es amable
+  HERMANO MUJER MÍA AMABLE
+- HERMANO MUJER MÍO AMABLE
+
+  mi primo es amable
+  PRIMO MÍO AMABLE
++ PRIMO MÍO AMABLE
+
+  mi prima es amable
+  PRIMA MÍA AMABLE
+- PRIMA MUJER MÍO AMABLE ASÍ
+
+  mi tía es amable
+  TÍA MÍA AMABLE
+- MÍO TIA MUJER AMABLE ASÍ
+
+  mi tío es amable
+  TÍO MÍO AMABLE
+- TIO MÍO AMABLE
+
+  yo soy gentil
+  YO GENTIL
++ YO GENTIL
+
+  tú eres gentil
+  TÚ GENTIL
++ TÚ GENTIL
+
+  él es gentil
+  ÉL GENTIL
+- ÉL GENTIL ASÍ
+
+  ella es gentil
+  ELLA GENTIL
+- ÉL GENTIL
+
+  nosotros gentiles
+  NOSOTROS GENTILES
+- NOSOTROS GENTIL
+
+  ustedes son gentiles
+  USTEDES GENTILES
+- VOSOTROS GENTIL
+
+  ellos son gentiles
+  ELLOS GENTILES
+- ELLOS GENTIL
+
+  ellas son gentiles
+  ELLAS GENTILES
+- ELLOS GENTIL
+
+  yo loco
+  YO LOCO
++ YO LOCO
+
+  yo loca
+  YO LOCA
+- YO LOCO
+
+  tú estás loco
+  TÚ LOCO
++ TÚ LOCO
+
+  tú estás loca
+  TÚ LOCA
+- TÚ LOCO
+
+  ella está loca
+  ELLA LOCA
+- ÉL LOCO
+
+  nosotros estamos locos
+  NOSOTROS LOCOS
++ NOSOTROS LOCOS
+
+  ustedes están locos
+  USTEDES LOCOS
+- VOSOTROS LOCO
+
+  ellos están locos
+  ELLOS LOCOS
+- ELLOS LÓCO
+
+  mi tío está loco
+  TÍO MÍO LOCO
+- TIO MÍO LOCO
+
+  mi tía está loca
+  TÍA MÍA LOCA
+- TÍA MUJER MÍO LOCO
+
+  mi mamá está loca
+  MAMÁ MÍA LOCA
+- MAMA MUJER MÍO LOCO
+
+  mi papá está loco
+  PAPÁ MÍO LOCO
++ PAPÁ MÍO Loco
+
+  mi hija está loca
+  HIJO MUJER MÍA LOCA
+- HIJO MUJER MÍO LOCO
+
+  mi hijo está loco
+  HIJO MÍO LOCO
++ HIJO MÍO LOCO
+
+  la niña está loca
+  NIÑO MUJER LOCA
+- NIÑO MUJER LOCO
+
+  el niño está loco
+  NIÑO LOCO
++ NIÑO LOCO
+
+  ellas están locas
+  ELLAS LOCAS
+- ELLOS LOCO
+
+  yo soy feliz
+  YO FELIZ ASÍ
+- YO FELIZ
+
+  tú eres feliz
+  TÚ FELIZ ASÍ
+- TÚ FELIZ
+
+  ella es feliz
+  ELLA FELIZ ASÍ
+- ÉL FELIZ ASÍ
+
+  ella está feliz
+  ELLA FELIZ
+- ÉL FELIZ
+
+  él es feliz
+  ÉL FELIZ ASÍ
++ ÉL FELIZ ASÍ
+
+  él está feliz
+  ÉL FELIZ
++ ÉL FELIZ
+
+  nosotros somos felices
+  NOSOTROS FELICES ASÍ
+- NOSOTROS FELIZ
+
+  nosotros estamos felices
+  NOSOTROS FELICES
+- NOSOTROS FELIZ
+
+  ustedes son felices
+  USTEDES FELICES ASÍ
+- VOSOTROS FELIZ
+
+  ustedes están felices
+  USTEDES FELICES
+- VOSOTROS FELIZ
+
+  ellos son felices
+  ELLOS FELICES ASÍ
+- ELLOS FELIZ
+
+  ella es tranquila
+  ELLA TRANQUILA
+- ÉL TRANQUILO ASÍ
+
+  él es tranquilo
+  ÉL TRANQUILO
+- ÉL TRÁNCIL ASÍ
+
+  soy tranquilo
+  YO TRANQUILO
+- YO TRANQUILO ASÍ
+
+  tú eres tranquilo
+  TÚ TRANQUILO
++ TÚ TRANQUILO
+
+  nosotros somos tranquilos
+  NOSOTROS TRANQUILOS
+- NOSOTROS TRANQUILO ASÍ
+
+  ustedes son tranquilos
+  USTEDES TRANQUILOS
+- VOSOTROS TRANQUILO
+
+  son tranquilos
+  ELLOS (AS) (USTEDES) TRANQUILOS
+- ELLOS TRANQUILO
+
+  ellos son tranquilos
+  ELLOS TRANQUILOS
+- ELLOS TRANQUILO ASÍ
+
+  ellas son tranquilas
+  ELLAS TRANQUILAS
+- ELLOS TRANQUILO ASÍ
+
+  somos tranquilos
+  NOSOTROS TRANQUILOS
+- NOSOTROS TRANQUILO
+
+  estoy ocupada
+  YO OCUPADA
+- YO OCUPADO
+
+  estoy ocupado
+  YO OCUPADO
++ YO OCUPADO
+
+  estamos ocupados
+  NOSOTROS OCUPADOS
+- NOSOTROS OCUPADO
+
+  nosotros estamos ocupados
+  NOSOTROS OCUPADOS
+- NOSOTROS OCUPADO
+
+  están ocupados
+  ELLOS (AS) (USTEDES) OCUPADOS
+- ELLOS OCUPADO
+
+  ella estaba ocupada ayer
+  AYER ELLA OCUPADA
+- AYER ÉL OCUPADO
+
+  él estaba ocupado ayer
+  AYER ÉL OCUPADO
++ AYER ÉL OCUPADO
+
+  yo estaba ocupado ayer
+  AYER YO OCUPADO
++ AYER YO OCUPADO
+
+  estábamos ocupados ayer
+  AYER NOSOTROS OCUPADOS
+- AYER NOSOTROS OCUPADO
+
+  ellas estaban ocupadas ayer
+  AYER ELLAS OCUPADAS
+- AYER ELLOS OCUPADO
+
+  ellos estaban ocupados ayer
+  AYER ELLOS OCUPADOS
+- AYER ELLOS OCUPADO
+
+  estaban ocupados ayer
+  AYER ELLOS (AS) (USTEDES) OCUPADOS
+- AYER ELLOS OCUPADO
+
+  ustedes estaban ocupados ayer
+  AYER USTEDES OCUPADOS
+- AYER VOSOTROS OCUPADO
+
+  mi mamá estaba ocupada ayer
+  AYER MAMÁ OCUPADA
+- AYER MAMA MUJER MÍO OCUPADO
+
+  mi papá estaba ocupado ayer
+  AYER PAPÁ OCUPADO
+- AYER PAPÁ MÍO OCUPADO
+
+  mi hermano estaba ocupado ayer
+  AYER HERMANO MÍO OCUPADO
++ AYER HERMANO MÍO OCUPADO
+
+  mi hermana estaba ocupada ayer
+  AYER HERMANO MUJER MÍA OCUPADA
+- AYER HERMANO MUJER MÍO OCUPADO
+
+  mi novio estaba ocupado ayer
+  AYER NOVIO MÍO OCUPADO
++ AYER NOVIO MÍO OCUPADO
+
+  mi novia estaba ocupada ayer
+  AYER NOVIO MUJER MÍA OCUPADA
+- AYER NOVIA MUJER MÍO OCUPADO
+
+  mi tío estaba ocupado ayer
+  AYER TÍO MÍO OCUPADO
+- AYER TIO MIO OCUPADO
+
+  mi tía estaba ocupada ayer
+  AYER TÍO MUJER OCUPADA
+- AYER TÍA MUJER MÍO OCUPADO
+
+  los niños estaban ocupados ayer
+  AYER NIÑO ELLOS OCUPADOS 
+- AYER NIÑOS OCUPADO
+
+  las niñas estaban ocupadas ayer
+  AYER NIÑO MUJER ELLAS OCUPADAS
+- AYER NIÑO MUJER OCUPADO
+
+  mi abuelo estaba ocupado ayer
+  AYER ABUELO MÍO OCUPADO
++ AYER ABUELO MÍO OCUPADO
+
+  mi abuela estaba ocupada ayer
+  AYER ABUELA MÍA OCUPADA 
+- AYER ABUELA MUJER MÍO OCUPADO
+
+  yo como pizza
+  YO PIZZA COMER
+- YO COMER PIZZA
+
+  tú comes hamburguesa con papas
+  TÚ HAMBURGUESA PAPAS COMER
+- TÚ COMER HAMBURGUESA CON PAPA
+
+  él come ensalada
+  ÉL ENSALADA COMER
+- ÉL COMER ENSALADA
+
+  nosotros comemos pastel de chocolate
+  NOSOTROS PASTEL CHOCOLATE COMER
+- NOSOTROS COMER CHOCOLATE PASTEL
+
+  ustedes comen un hotdog
+  USTEDES HOTDOG COMER
+- VOSOTROS COMER HOTDOG
+
+  ellos comen caldo de pollo
+  ELLOS CALDO POLLO COMER
+- ELLOS COMER POLLO CALDO
+
+  ellas comen una manzana
+  ELLAS MANZANA COMER
+- ELLOS COMER MANZANA
+
+  comen ensalada
+  ELLOS (AS) (USTEDES) ENSALADA COMER
+- ELLOS COMER ENSALADA
+
+  mi mamá come yogur
+  MAMÁ MÍA YOGUR COMER
+- PADRE MUJER MÍO COMER YOGUR
+
+  mi papá come pasta
+  PAPÁ MÍO PASTA COMER
+- PAPÁ MÍO COMER PASTA
+
+  mi hermana come pescado
+  HERMANO MUJER MÍA PESCADO COMER
+- HERMANO MUJER MÍO COMER PESCADO
+
+  mi hermano come pollo
+  HERMANO MÍO POLLO COMER
+- HERMANO MÍO COMER POLLO
+
+  mi tía come helado de chocolate
+  TÍO MUJER MÍA HELADO CHOCOLATE COMER
+- TÍA MUJER MÍO COMER HELADO CHOCOLATE
+
+  mi tío come gelatina de fresa
+  TÍO MÍO GELATINA FRASE COMER
+- None
+
+  mi abuelo come una manzana
+  ABUELO MÍO MANZANA COMER
+- ABUELO MÍO COMER MANZANA
+
+  mi abuela come pastel de chocolate
+  ABUELO MUJER MÍA PASTEL CHOCOLATE COMER
+- ABUELA MUJER MÍO COMER CHOCOLATE PASTEL
+
+  mi novio come pizza
+  NOVIO MÍO PIZZA COMER
+- NOVIO MÍO COMER PIZZA
+
+  mi novia come yogur
+  NOVIO MUJER MÍO YOGUR COMER
+- NOVIA MUJER MÍO COMER YOGUR
+
+  mi amigo come ensalada
+  AMIGO MÍO ENSALADA COMER
+- AMIGO MÍO COMER ENSALADA
+
+  mi amiga come pan dulce
+  AMIGO MUJER MÍA PAN DULCE COMER
+- AMIGO MUJER MÍO COMER PAN DULCE
+
+  tu mamá come un hotdog
+  MAMÁ TUYA HOTDOG COMER
+- MAMA MUJER TUYO COMER HOTDOG
+
+  tu papá come una hamburguesa con papas
+  PAPÁ TUYO HAMBURGUESA PAPAS COMER
+- None
+
+  tu hermana come dulces
+  HERMANO MUJER TUYA DULCES COMER
+- TUYO HERMANO MUJER COMER DULCE
+
+  tu hermano come galletas
+  HERMANO TUYO GALLETAS COMER
+- HERMANO TÚYO COMER GALLETA
+
+  tu tía come fruta
+  TÍO MUJER TUYA FRUTA COMER
+- TIA MUJER TUYO COMER FRUTA
+
+  tu tío come cereal
+  TÍO TUYO CEREAL COMER
+- TIO TUYO COMER CEREAL
+
+  tu abuelo come gelatina de fresa
+  ABUELO TUYO GELATINA FRESA COMER
+- None
+
+  tu abuela come fruta
+  ABUELO MUJER TUYA FRUTA COMER
+- TU ABUELO MUJER COMER FRUTA
+
+  tu novio come carne con paas
+  NOVIO TUYO CARNE PAPAS COMER
+- NOVIO TUYO COMER CARNE CON PAAS
+
+  tu novia come pizza
+  NOVIO MUJER TUYA PIZZA COMER
+- NOVIO MUJER TUYO COMER
+
+  tu amigo come pescado
+  AMIGO TUYO PESCADO COMER
+- AMIGO TUYO COMER PESCADO
+
+  tu amiga come ensalada
+  AMIGO MUJER TUYA ENSALADA COMER
+- None
+
+  ella está hablando
+  ELLA HABLAR
+- ÉL HABLAR
+
+  ella está embarazada
+  ELLA EMBARAZADA
+- ÉL EMBARAZADO
+
+  mi mamá está embarazada
+  MAMÁ MÍA EMBARAZADA
+- MAMA MUJER MÍO EMBARAZADA
+
+  mi prima está embarazada
+  PRIMO MUJER MÍA EMBARAZADA
+- PRIMA MUJER MÍO EMBARAZADO
+
+  mi hermana está embarazada
+  HERMANO MUJER MÍA EMBARAZADA
+- HERMANA MUJER MÍO EMBARAZADO
+
+  mi tía está embarazada
+  TÍO MUJER MÍA EMBARAZADA
+- TÍA MUJER MÍO EMBARAZADA
+
+  mi novia está embarazada
+  NOVIO MUJER MÍA EMBARAZADA
+- NOVIA MUJER MÍO EMBARAZADO
+
+  quiero aprender lsm
+  YO LSM APRENDER QUERER
+- YO QUERER APRENDER LSM
+
+  tú quieres aprender lsm
+  TÚ LSM APRENDER QUERER
+- TÚ QUERER APRENDER LSM
+
+  él quiere aprender lsm
+  ÉL LSM APRENDER QUERER
+- ÉL QUERER APRENDER LSM
+
+  queremos aprender lsm
+  NOSOTROS LSM APRENDER QUERER
+- NOSOTROS QUERER APRENDER LENGUA SEÑAS MEXICANA
+
+  quieren aprender lsm
+  USTEDES LSM APRENDER QUERER
+- ELLOS QUERER APRENDER LSM
+
+  mi mamá quiere aprender lsm
+  MAMÁ MÍA LSM APRENDER QUERER
+- None
+
+  mi papá quiere aprender lsm
+  PAPÁ MÍO LSM APRENDER QUERER
+- PAPÁ MÍO QUERER APRENDER LSM
+
+  mi hermano quiere aprender lsm
+  HERMANO MÍO LSM APRENDER QUERER
+- HERMANO MÍO QUERER APRENDER LSM
+
+  mi hermana quiere aprender lsm
+  HERMANO MUJER MÍA LSM APRENDER QUERER
+- HERMANO MUJER MÍO QUERER APRENDER LENGUA SEÑA MEXICANO
+
+  mi sobrino quiere aprender lsm
+  SOBRINO MÍO LSM APRENDER QUERER
+- SOBRINO MÍO QUERER APRENDER LENGUA SEÑAS MEXICANA
+
+  mi sobrina quiere aprender lsm
+  SOBRINO MUJER MÍA LSM APRENDER QUERER
+- MÍO SOBRINO MUJER QUERER APRENDER LENGUA SEÑA MEXICANA
+
+  mi tío quiere aprender lsm
+  TÍO MÍO LSM APRENDER QUERER
+- TIO MÍO QUERER APRENDER LSM
+
+  mi tía quiere aprender lsm
+  TÍO MUJER MÍA LSM APRENDER QUERER
+- MÍO TIO MUJER QUERER APRENDER LSM
+
+  nosotros somos doctores
+  NOSOTROS DOCTORES
+- NOSOTROS DOCTOR ASÍ
+
+  nosotros somos sus hijos
+  NOSOTROS HIJOS SUYOS
+- NOSOTROS HIGOS SUYOS
+
+  nosotros humanos
+  NOSOTROS HUMANOS
+- NOSOTROS HUMANO
+
+  nosotros somos humanos
+  NOSOTROS HUMANOS
+- NOSOTROS HUMANO
+
+  el domingo pasado no salí
+  DOMINGO PASADO YO SALIR NADA
+- DOMINGO PASADO YO NO SALIR
+
+  no hay agua
+  AGUA HABER NO
+- NO-HAY AGUA
+
+  no hay café
+  CAFÉ HABER NO
+- NO-HAY CAFÉ
+
+  no hay peligro
+  PELIGRO HABER NO
+- NO-HAY PELIGRO
+
+  no hay dinero
+  DINERO HABER NO
+- NO-HAY DINERO
+
+  no hay tiempo
+  TIEMPO HABER NO
+- NO-HAY TIEMPO
+
+  no hay límite
+  LÍMITE HABER NO
+- NO-HAY LÍMITE
+
+  no hay sal
+  SAL HABER NO
+- NO-HAY SAL
+
+  el agua es azul
+  AGUA AZUL
++ AGUA AZUL
+
+  el viento es fuerte
+  VIENTO FUERTE
+- None
+
+  el agua es pura
+  AGUA PURA
+- AGUA PURO
+
+  el agua está limpia
+  AGUA LIMPIA
++ AGUA LIMPIA
+
+  el agua está helada
+  AGUA HELADA
+- AGUA HELADO
+
+  el agua está caliente
+  AGUA CALIENTE
++ AGUA CALIENTE
+
+  no hay opción
+  OPCIÓN HABER NO
+- NO-HAY OPCIÓN
+
+  no hay azúcar
+  AZÚCAR HABER NO
+- NO-HAY AZÚCAR
+
+  no hay reglas
+  REGLAS HABER NO
+- NO-HAY REGLA
+
+  no hay luz
+  LUZ HABER NO
+- NO-HAY LUZ
+
+  no hay comida
+  COMIDA HABER NO
+- NO-HAY COMIDA
+
+  no hay problema
+  PROBLEMA HABER NO
+- NO-HAY PROBLEMA
+
+  mis tenis son blancos
+  TENIS MÍOS BLANCOS
+- TENIS MÍOS BLANCO
+
+  los tenis de mi mamá son blancos
+  TENIS SUYOS MAMÁ MÍA BLANCOS
+- MAESTRO MUJER TENIS MÍO BLANCO
+
+  los tenis de mi papá son cafés
+  TENIS SUYOS PAPÁ MÍO CAFÉS
+- PAPÁ TENIS MÍO CAFÉ
+
+  los tenis de mi tío son grandes
+  TENIS SUYOS TÍO MÍO GRANDES
+- None
+
+  tus tenis son rosas
+  TENIS TUYOS ROSAS
+- TENIS TUYO ROSA
+
+  mis tenis son azules
+  TENIS MÍOS AZULES
+- TENIS MÍOS AZUL ASÍ
+
+  mis tenis son negros
+  TENIS MÍOS NEGROS
+- TENIS MÍOS NEGRO
+
+  mis tenis están limpios
+  TENIS MÍOS LIMPIOS
+- TENIS MÍOS LIMPIO
+
+  tus tenis están limpios
+  TENIS TUYOS LIMPIOS
+- TENIS TUS LIMPIO
+
+  los zapatos son negros
+  ZAPATOS NEGROS
+- ZAPATOS NEGRO
+
+  mis ojos son azules
+  OJOS AZULES MÍOS
+- OJOS MÍOS AZUL
+
+  hay un libro en el estante
+  ESTANTE AHÍ UN LIBRO HABER
+- ESTANTE AHÍ LIBRO HAY
+
+  hay dos libros en el estante
+  ESTANTE AHÍ LIBROS DOS HABER
+- HAY 2 LIBRO EN ESTANTE
+
+  hay tres libros en el estante
+  ESTANTE AHÍ LIBROS TRES HABER
+- HAY TRES LIBRO ESTANTE AHÍ
+
+  hay cuatro libros en el estante
+  ESTANTE AHÍ LIBROS CUATRO HABER
+- HAY CUATRO LIBRO EN ESTANTE
+
+  hay cinco libros en el estante
+  ESTANTE AHÍ LIBROS CINCO HABER
+- HAY CINCO LIBRO ESTANTE
+
+  hay seis libros en el estante
+  ESTANTE AHÍ LIBROS SEIS HABER
+- None
+
+  hay siete libros en el estante
+  ESTANTE AHÍ LIBROS SIETE HABER
+- Siete LIBRO HAY ESTANTE AHÍ
+
+  hay ocho libros en el estante
+  ESTANTE AHÍ OCHO LIBROS HABER
+- HAY OCHO LIBRO EN ESTANTE
+
+  hay nueve libros en el estante
+  ESTANTE AHÍ NUEVE LIBROS HABER
+- None
+
+  hay diez libros en el estante
+  ESTANTE AHÍ DIEZ LIBROS HABER
+- HAY DIEZ LIBRO EN ESTANTE
+
+  hay una pera en el plato
+  PLATO AHÍ PERAS UNA HABER
+- HAY PERA PLATO
+
+  hay dos peras en el plato
+  PLATO AHÍ DOS PERAS HABER
+- HAY PERA DOS EN PLATO
+
+  hay dos manzanas en el plato
+  PLATO AHÍ DOS MANZANAS HABER
+- HAY DOS MANZANA EN PLATO
+
+  hay tres peras en el plato
+  PLATO AHÍ PERAS TRES HABER
+- HAY TRES PERA PLATO
+
+  hay cuatro peras en el plato
+  PLATO AHÍ PERAS CUATRO HABER
+- HAY CUATRO PERA PLATO AHÍ
+
+  hay cinco peras en el plato
+  PLATO AHÍ PERAS CINCO HABER
+- PLATO AHÍ CINCO PERA HAY
+
+  hay seis peras en el plato
+  PLATO AHÍ PERAS SEIS HABER
+- HAY SEIS PERA PLATO AHÍ
+
+  hay siete peras en el plato
+  PLATO AHÍ PERAS SIETE HABER
+- HAY PERA SIEVE PLATO AHÍ
+
+  hay ocho peras en el plato
+  PLATO AHÍ PERAS OCHO HABER
+- HAY OCHO PERA PLATO AHÍ
+
+  hay nueve peras en el plato
+  PLATO AHÍ PERAS NUEVE HABER
+- HAY NUEVE PERA PLATO AHÍ
+
+  hay diez peras en el plato
+  PLATO AHÍ PERAS DIEZ HABER
+- PERA DIEZ HAY EN PLATO
+
+  hay un problema
+  PROBLEMA HABER
+- HAY PROBLEMA
+
+  hoy hace mucho viento
+  HOY MUCHO VIENTO
+- None
+
+  hace mucho frío hoy
+  HOY MUCHO FRÍO
+- HAY FRÍO MUCHO HOY
+
+  en la cocina hace mucho calor
+  COCINA AHÍ MUCHO CALOR
+- None
+
+  aprendí hace mucho tiempo
+  MUCHO TIEMPO YO APRENDER
++ MUCHO TIEMPO YO APRENDER
+
+  estoy loco
+  YO LOCO
++ YO Loco
+
+  estás loco
+  TÚ LOCO
++ TÚ Loco
+
+  estamos locos
+  NOSOTROS LOCOS
++ NOSOTROS LOCOS
+
+  están locos
+  ELLOS (AS) (USTEDES) LOCOS
+- ELLOS LOCO
+
+  ellos están locos
+  ELLOS ESTÁN LOCOS
+- ELLOS LÓCO
+
+  ustedes están locos
+  USTEDES LOCOS
+- VOSOTROS LOCO
+
+  estoy loca
+  YO LOCA
+- YO LOCO
+
+  mi mamá está loca
+  MAMÁ MÍA LOCA
+- MAMA MUJER MÍO LOCO
+
+  mi papá está loco
+  PAPÁ MÍO LOCO
++ PAPÁ MÍO Loco
+
+  mi hermano está loco
+  HERMANO MÍO LOCO
++ HERMANO MÍO Loco
+
+  mi hermana está loca
+  HERMANO MUJER MÍA LOCA
+- HERMANA MUJER MÍO LOCO
+
+  mi novio está loco
+  NOVIO MÍO LOCO
+- NOVIO MÍO Loco ASÍ
+
+  mi novia está loca
+  NOVIO MUJER MÍA LOCA
+- NOVIA MUJER MÍO LOCO
+
+  mi tía está loca
+  TÍO MUJER MÍA LOCA
+- TÍA MUJER MÍO LOCO
+
+  mi tío está loco
+  TÍO MÍO LOCO
+- TIO MÍO LÓCO
+
+  los niños están locos
+  NIÑOS ELLOS LOCOS
+- NIÑO LOCO
+
+  las niñas están locas
+  NIÑO MUJER ELLAS LOCAS
+- NIÑO MUJER LOCO
+
+  mi abuelo está loco
+  ABUELO MÍO LOCO
+- ABUELO MÍO LÓCO ASÍ
+
+  mi abuela está loca
+  ABUELO MUJER MÍA LOCA
+- ABUELA MUJER MÍO LOCO
+
+  mi amiga está loca
+  AMIGO MUJER MÍA LOCA
+- AMIGO MUJER MÍO LOCO
+
+  mi amigo está loco
+  AMIGO MÍO LOCO
++ AMIGO MÍO LOCO
+
+  mi hijo está loco
+  HIJO MÍO LOCO
++ HIJO MÍO LOCO
+
+  mi hija está loca
+  HIJO MUJER MÍA LOCA
+- HIJO MUJER MÍO LOCO
+
+  soy desesperado
+  YO DESESPERADO ASÍ
+- YO DESPERADO
+
+  eres desesperado
+  TÚ DESESPERADO ASÍ
+- TÚ DESPERADO
+
+  él es desesperado
+  ÉL DESESPERADO ASÍ
+- ÉL DESPERADO ASÍ
+
+  ella es desesperada
+  ELLA DESESPERADA ASÍ
+- ÉL DESPERADO ASÍ
+
+  ellos son desesperados
+  ELLOS DESESPERADOS ASÍ
+- ELLOS DESPERADO ASÍ
+
+  ustedes son desesperados
+  USTEDES DESESPERADOS ASÍ
+- VOSOTROS DESPERADO
+
+  nosotros somos desesperados
+  NOSOTROS DESESPERADOS ASÍ
+- NOSOTROS DESPERADO
+
+  mi mamá es desesperada
+  MAMÁ MÍA DESESPERADA ASÍ
+- MÍO MAMÁ MUJER DESPERADO ASÍ
+
+  mi papá es desesperado
+  PAPÁ MÍO DESESPERADO ASÍ
+- PAPÁ MÍO DESPERADO
+
+  mi hermano es desesperado
+  HERMANO MÍO DESESPERADO ASÍ
+- HERMANO MÍO DESPERADO
+
+  mi hermana es desesperada
+  HERMANO MUJER MÍA DESESPERADA ASÍ
+- HERMANO MUJER MÍO DESPERADO ASÍ
+
+  mi novio es desesperado
+  NOVIO MÍO DESESPERADO ASÍ
+- NOVIO MÍO DESPERADO
+
+  mi novia es desesperada
+  NOVIO MUJER MÍA DESESPERADA ASÍ
+- NOVIO MUJER DESPERADO ASÍ
+
+  mi tío es desesperado
+  TÍO MÍO DESESPERADO ASÍ
+- TIO MÍO DESPERADO
+
+  mi tía es desesperada
+  TÍO MUJER MÍA DESESPERADA ASÍ
+- TÍA MUJER MÍO DESESPERADO
+
+  los niños son desesperados
+  NIÑO ELLOS DESESPERADOS ASÍ
+- NIÑOS DESPERADO ASÍ
+
+  las niñas son desesperadas
+  NIÑO MUJER ELLAS DESESPERADAS ASÍ
+- NIÑO MUJER DESPERADO ASÍ
+
+  mi abuelo es desesperado
+  ABUELO MÍO DESESPERADO ASÍ
+- ABUELO MÍO DESPERADO
+
+  mi abuela es desesperada
+  ABUELO MUJER MÍA DESESPERADA ASÍ
+- MÍO ABUELO MUJER DESESPERADO ASÍ
+
+  mi amiga es desesperada
+  AMIGO MUJER MÍA DESESPERADA ASÍ
+- MÍO AMIGO MUJER DESPERADO
+
+  mi amigo es desesperado
+  AMIGO MÍO DESESPERADO ASÍ
+- AMIGO MÍO DESPERADO
+
+  tu mamá es desesperada
+  MAMÁ TUYA DESESPERADA ASÍ
+- MAMÁ MUJER TUYO DESPERADO
+
+  tu papá es desesperado
+  PAPÁ TUYO DESESPERADO ASÍ
+- PAPA TUYO DESPERADO
+
+  tu hermano es desesperado
+  HERMANO TUYO DESESPERADO ASÍ
+- HERMANO TUYO DESPERADO
+
+  tu hermana es desesperado
+  HERMANO MUJER TUYO DESESPERADA ASÍ
+- HERMANA MUJER TUYO DESPERADO
+
+  tu novio es desesperado
+  NOVIO TUYO DESESPERADO ASÍ
+- TUYO NOVIO DESPERADO
+
+  tu novia es desesperada
+  NOVIO MUJER TUYA DESESPERADA ASÍ
+- NOVIA MUJER TUYO DESPERADO
+
+  tu tío es desesperado
+  TÍO TUYO DESESPERADO ASÍ
+- TIO TUYO DESPERADO
+
+  tu tía es desesperada
+  TÍO MUJER TUYA DESESPERADA ASÍ
+- None
+
+  tu abuelo es desesperado
+  ABUELO TUYO DESESPERADO ASÍ
+- ABUELO TUYO DESPERADO
+
+  tu abuela es desesperada
+  ABUELO MUJER TUYA DESESPERADA ASÍ
+- None
+
+  tu amiga es desesperada
+  AMIGO MUJER TUYA DESESPERADA ASÍ
+- AMIGO MUJER TUYO DESPERADO ASÍ
+
+  tu amigo es desesperado
+  AMIGO TUYO DESESPERADO ASÍ
+- AMIGO TÚYO DESPERADO
+
+  estoy desesperado
+  YO DESESPERADO
+- YO DESPERADO
+
+  estás desesperado
+  TÚ DESESPERADO
+- TÚ DESPERADO
+
+  está desesperado
+  ÉL DESESPERADO
++ ÉL DESESPERADO
+
+  está desesperada
+  ELLA DESESPERADA
+- ÉL DESPERADO
+
+  están desesperados
+  ELLOS DESESPERADOS
+- ELLOS DESPERADO
+
+  ustedes están desesperados
+  USTEDES DESESPERADOS
+- VOSOTROS DESPERADO
+
+  nosotros estamos desesperados
+  NOSOTROS DESESPERADOS
+- NOSOTROS DESPERADO
+
+  mi mamá está desesperada
+  MAMÁ MÍA DESESPERADA
+- MAMA MUJER MÍO DESPERADO
+
+  mi papá está desesperado
+  PAPÁ MÍO DESESPERADO
+- PAPÁ MÍO DESPERADO
+
+  mi hermano está desesperado
+  HERMANO MÍO DESESPERADO
+- HERMANO MÍO DESPERADO
+
+  mi hermana está desesperada
+  HERMANO MUJER MÍA DESESPERADA
+- HERMANO MUJER MÍO DESPERADO
+
+  mi novio está desesperado
+  NOVIO MÍO DESESPERADO
+- NOVIO MÍO DESPERADO
+
+  mi novia es desesperada
+  NOVIO MUJER MÍA DESESPERADA
+- NOVIA MUJER MÍO DESPERADO
+
+  mi tío está desesperado
+  TÍO MÍO DESESPERADO
+- TIO MÍO DESPERADO
+
+  mi tía está desesperada
+  TÍO MUJER MÍA DESESPERADA
+- TÍA MUJER MÍO DESPERADO
+
+  tu papá es desesperado
+  PAPÁ TUYO DESESPERADO
+- TU PAPA DESESPERADO
+
+  tu hermano es desesperado
+  HERMANO TUYO DESESPERADO
+- HERMANO TUYO DESPERADO
+
+  tu hermana es desesperado
+  HERMANO MUJER TUYA DESESPERADA
+- HERMANO MUJER TUYO DESPERADO
+
+  tu novio es desesperado
+  NOVIO TUYO DESESPERADO
+- NOVIO TUYO DESPERADO
+
+  tu novia es desesperada
+  NOVIO MUJER TUYA DESESPERADO
+- NOVIA MUJER TUYO DESPERADO
+
+  tu tío es desesperado
+  TÍO TUYO DESESPERADO
+- TIO TUYO DESPERADO
+
+  tu tía es desesperada
+  TÍO MUJER TUYA DESESPERADO
+- TIA MUJER TUYO DESPERADO ASÍ
+
+  tu abuelo es desesperado
+  ABUELO TUYO DESESPERADO
+- ABUELO TUYO DESPERADO
+
+  tu abuela es desesperada
+  ABUELO MUJER TUYA DESESPERADA
+- ABUELA MUJER TUYO DESPERADO ASÍ
+
+  tu amiga es desesperada
+  AMIGO MUJER TUYA DESESPERADA
+- TUYO AMIGO MUJER DESPERADO
+
+  tu amigo es desesperado
+  AMIGO TUYO DESESPERADO
+- AMIGO TÚYO DESPERADO
+
+  soy sorda
+  YO SORDA
+- YO SORDO ASÍ
+
+  soy sordo
+  YO SORDO
+- YO SORDO ASÍ
+
+  eres sordo
+  TÚ SORDO
++ TÚ SORDO
+
+  eres sorda
+  TÚ SORDA
+- TÚ SORDO ASÍ
+
+  él es sordo
+  ÉL SORDO
+- ÉL SORDO ASÍ
+
+  ella es sorda
+  ELLA SORDA
+- ÉL SORDO ASÍ
+
+  nosotros somos sordos
+  NOSOTROS SORDOS
+- NOSOTROS SORDO
+
+  ustedes son sordos
+  USTEDES SORDOS
+- VOSOTROS SORDO
+
+  ellas son sordas
+  ELLAS SORDAS
+- ELLOS SORDO
+
+  ellos son sordos
+  ELLOS SORDOS
+- ELLOS SORDO
+
+  ustedes son sordas
+  USTEDES SORDAS
+- VOSOTROS SORDO ASÍ
+
+  mi mamá es sorda
+  MAMÁ MÍA SORDA
+- None
+
+  mi papá es sordo
+  PAPÁ MÍO SORDO
+- MÍO PAPÁ SORDO
+
+  mi hermano es sordo
+  HERMANO MÍO SORDO
++ HERMANO MÍO SORDO
+
+  mi hermana es sorda
+  HERMANO MUJER MÍA SORDA
+- HERMANO MUJER MÍO SORDO ASÍ
+
+  mi novio es sordo
+  NOVIO MÍO SORDO
++ NOVIO MÍO SORDO
+
+  mi novia es sorda
+  NOVIO MUJER MÍA SORDA
+- MÍO NOVIA MUJER SORDO
+
+  mi tío es sordo
+  TÍO MÍO MÍO SORDO
+- TIO MÍO SORDO
+
+  mi tía está sorda
+  TÍO MUJER MÍA SORDA
+- TÍA MUJER MÍO SORDO
+
+  tu mamá es sorda
+  MAMÁ TUYA SORDA
+- None
+
+  tu papá es sordo
+  PAPÁ TUYO SORDO
+- TÚ PAPÁ SORDO
+
+  tu hermano es sordo
+  HERMANO TUYO SORDO
+- HERMANO TÚYO SORDO ASÍ
+
+  tu hermana es sorda
+  HERMANO MUJER TUYA SORDA
+- TUYO HERMANO MUJER SORDO ASÍ
+
+  tu novio es sordo
+  NOVIO TUYO SORDO
++ NOVIO TUYO SORDO
+
+  tu novia es sorda
+  NOVIO MUJER SORDA
+- NOVIA MUJER TUYO SORDO ASÍ
+
+  tu tío es sordo
+  TÍO TUYO SORDO
+- TIO TUYO SORDO
+
+  tu tía es sordo
+  TÍO MUJER TUYA SORDA
+- TIO MUJER TÚYO SORDO
+
+  tu abuelo es sordo
+  ABUELO TUYO SORDO
+- ABUELO TUYO SORDO ASÍ
+
+  tu abuela es sorda
+  ABUELO MUJER TUYA SORDA
+- ABUELA MUJER TUYO SORDO
+
+  tu amiga es sorda
+  AMIGO MUJER TUYA SORDA
+- AMIGO MUJER TUYO SORDO ASÍ
+
+  tu amigo es sordo
+  AMIGO TUYO SORDO
++ AMIGO TUYO SORDO
+
+  soy oyente
+  YO OYENTE
++ YO OYENTE
+
+  eresi mamá es profesora
+  MAMÁ MÍA PROFESORA
+- None
+
+  mi papá es profesor
+  PAPÁ MÍO PROFESOR
+- PAPÁ MÍO PROFESOR ASÍ
+
+  mi tío es profesor
+  TÍO MÍO PROFESOR
+- TIO MÍO PROFESOR
+
+  mi tía es profesora
+  TÍO MUJER MÍA PROFESORA
+- TIA MUJER MÍO PROFESOR MUJER
+
+  mi hermana es profesora
+  HERMANO MUJER MÍA PROFESORA
+- HERMANA MUJER MÍO PROFESOR MUJER
+
+  mi hermano es profesor
+  HERMANO MÍO PROFESOR
++ HERMANO MÍO PROFESOR
+
+  mi prima es profesora
+  PRIMO MUJER MÍA PROFESORA
+- PRIMO MUJER MÍO PROFESOR MUJER ASÍ
+
+  mi primo es profesor
+  PRIMO MÍO PROFESOR
++ PRIMO MÍO PROFESOR
+
+  mi amigo es profesor
+  AMIGO MÍO PROFESOR
++ AMIGO MÍO PROFESOR
+
+  mi amiga es profesora
+  AMIGO MUJER MÍA PROFESORA
+- AMIGO MUJER MÍO PROFESOR MUJER
+
+  tu mamá es profesora
+  MAMÁ TUYA PROFESORA
+- MAMA MUJER TUYO PROFESOR
+
+  tu papá es profesor
+  PAPÁ TUYO PROFESOR
++ PAPÁ TUYO PROFESOR
+
+  tu tío es profesor
+  TÍO TUYO PROFESOR
+- TIO TUYO PROFESOR
+
+  tu tía es profesora
+  TÍO MUJER TUYA PROFESORA
+- TIA MUJER TUYO PROFESOR
+
+  tu hermana es profesora
+  HERMANO MUJER TUYA PROFESORA
+- TUYO HERMANO MUJER PROFESOR MUJER
+
+  tu hermano es profesor
+  HERMANO TUYO PROFESOR
++ HERMANO TUYO PROFESOR
+
+  tu prima es profesora
+  PRIMO MUJER TUYA PROFESORA
+- TUYO PRIMO MUJER PROFESOR
+
+  tu primo es profesor
+  PRIMO TUYO PROFESOR
++ PRIMO TUYO PROFESOR
+
+  tu amigo es profesor
+  AMIGO TUYO PROFESOR
+- AMIGO TUYO PROFESOR ASÍ
+
+  tu amiga es profesora
+  AMIGO MUJER TUYA PROFESORA
+- AMIGO MUJER TUYO PROFESOR MUJER
+
+  soy artista
+  YO ARTISTA
+- YO ARTISTA ASÍ
+
+  eres artista
+  TÚ ARTISTA
++ TÚ ARTISTA
+
+  ella es artista
+  ELLA ARTISTA
+- ÉL ARTISTA ASÍ
+
+  ellas artistas
+  NOSOTROS ARTISTAS
+- ELLOS ARTISTA MUJER
+
+  ustedes son artistas
+  USTEDES ARTISTAS
+- VOSOTROS ARTISTA
+
+  ellos son artistas
+  ELLOS ARTISTAS
+- ELLOS ARTISTA
+
+  ellas son artistas
+  ELLAS ARTISTAS
+- ELLOS ARTISTA
+
+  mi mamá es artista
+  MAMÁ MÍA ARTISTA
+- MAMA MUJER MÍO ARTISTA
+
+  mi papá es artista
+  PAPÁ MÍO ARTISTA
++ PAPÁ MÍO ARTISTA
+
+  mi tío es artista
+  TÍO MÍO ARTISTA
+- TIO MÍO ARTISTA
+
+  mi tía es artista
+  TÍO MUJER MÍA ARTISTA
+- TIO MUJER MÍO ARTISTA ASÍ
+
+  mi hermana es artista
+  HERMANO MUJER MÍA ARTISTA
+- HERMANA MUJER MÍO ARTISTA ASÍ
+
+  mi hermano es artista
+  HERMANO MÍO ARTISTA
++ HERMANO MÍO ARTISTA
+
+  mi prima es artista
+  PRIMO MUJER MÍA ARTISTA
+- PRIMA MUJER MÍO ARTISTA
+
+  mi primo es artista
+  PRIMO MÍO ARTISTA
++ PRIMO MÍO ARTISTA
+
+  mi amigo es artista
+  AMIGO MÍO ARTISTA
++ AMIGO MÍO ARTISTA
+
+  mi amiga es artista
+  AMIGO MUJER MÍA ARTISTA
+- AMIGO MUJER MÍO ARTISTA
+
+  tu mamá es artista
+  MAMÁ TUYA ARTISTA
+- MAMA MUJER TUYO ARTISTA
+
+  tu papá es artista
+  PAPÁ TUYO ARTISTA
+- TU PAPA ARTISTA
+
+  tu tío es artista
+  TÍO TUYO ARTISTA
+- TÚ TÍO ARTISTA
+
+  tu tía es artista
+  TÍO MUJER TUYA ARTISTA
+- TIA MUJER TUYO ARTISTA
+
+  tu hermana es artista
+  HERMANO MUJER TUYA ARTISTA
+- TUYO HERMANO MUJER ARTISTA
+
+  tu hermano es artista
+  HERMANO TUYO ARTISTA
++ HERMANO TUYO ARTISTA
+
+  tu prima es artista
+  PRIMO MUJER TUYA ARTISTA
+- TUYO PRIMO MUJER ARTISTA
+
+  tu primo es artista
+  PRIMO TUYO ARTISTA
++ PRIMO TUYO ARTISTA
+
+  tu amigo es artista
+  AMIGO TUYO ARTISTA
++ AMIGO TUYO ARTISTA
+
+  tu amiga es artista
+  AMIGO MUJER TUYA ARTISTA
+- AMIGO MUJER TUYO ARTISTA
+
+  soy artista
+  YO ARTISTA
+- YO ARTISTA ASÍ
+
+  eres artista
+  TÚ ARTISTA
++ TÚ ARTISTA
+
+  ella es artista
+  ELLA ARTISTA
+- ÉL ARTISTA ASÍ
+
+  nosotros somos artistas
+  NOSOTROS ARTISTAS
+- NOSOTROS ARTISTA
+
+  ustedes son artistas
+  USTEDES ARTISTAS
+- VOSOTROS ARTISTA
+
+  ellos son artistas
+  ELLOS ARTISTAS
+- ELLOS ARTISTA
+
+  ellas son artistas
+  ELLAS ARTISTAS
+- ELLOS ARTISTA
+
+  mi mamá es artista
+  MAMÁ MÍA ARTISTA
+- MAMA MUJER MÍO ARTISTA ASÍ
+
+  mi papá es artista
+  PAPÁ MÍO ARTISTA
++ PAPÁ MÍO ARTISTA
+
+  mi tío es artista
+  TÍO MÍO ARTISTA
++ TÍO MÍO ARTISTA
+
+  mi tía es artista
+  TÍO MUJER MÍA ARTISTA
+- TIO MUJER MÍO ARTISTA
+
+  mi hermana es artista
+  HERMANO MUJER MÍA ARTISTA
+- HERMANA MUJER MÍO ARTISTA ASÍ
+
+  mi hermano es artista
+  HERMANO MÍO ARTISTA
++ HERMANO MÍO ARTISTA
+
+  mi prima es artista
+  PRIMO MUJER MÍA ARTISTA
+- PRIMA MUJER MÍO ARTISTA
+
+  mi primo es artista
+  PRIMO MÍO ARTISTA
++ PRIMO MÍO ARTISTA
+
+  mi amigo es artista
+  AMIGO MÍO ARTISTA
++ AMIGO MÍO ARTISTA
+
+  mi amiga es artista
+  AMIGO MUJER MÍA ARTISTA
+- AMIGO MUJER MÍO ARTISTA
+
+  tu mamá es artista
+  MAMÁ TUYA ARTISTA
+- MAMA MUJER TUYO ARTISTA
+
+  tu papá es artista
+  PAPÁ TUYO ARTISTA
+- TU PAPA ARTISTA
+
+  tu tío es artista
+  TÍO TUYO ARTISTA
+- TÚ TIO ARTISTA
+
+  tu tía es artista
+  TÍO MUJER TUYA ARTISTA
+- TIA MUJER TUYO ARTISTA
+
+  tu hermana es artista
+  HERMANO MUJER TUYA ARTISTA
+- TUYO HERMANO MUJER ARTISTA
+
+  tu hermano es artista
+  HERMANO TUYO ARTISTA
++ HERMANO TUYO ARTISTA
+
+  tu prima es artista
+  PRIMO MUJER TUYA ARTISTA
+- TUYO PRIMO MUJER ARTISTA
+
+  tu primo es artista
+  PRIMO TUYO ARTISTA
++ PRIMO TUYO ARTISTA
+
+  tu amigo es artista
+  AMIGO TUYO ARTISTA
++ AMIGO TUYO ARTISTA
+
+  tu amiga es artista
+  AMIGO MUJER TUYA ARTISTA
+- AMIGO MUJER TUYO ARTISTA
+
+  soy arquitecto
+  YO ARQUITECTO
++ YO ARQUITECTO
+
+  eres arquitecto
+  TÚ ARQUITECTO
+- TÚ ARQUITECTO ASÍ
+
+  ella es arquitecta
+  ELLA ARQUITECTA
+- ÉL ARQUITECTO
+
+  nosotros somos arquitectos
+  NOSOTROS ARQUITECTOS
+- NOSOTROS ARQUITECTO
+
+  ustedes son arquitectos
+  USTEDES ARQUITECTOS
+- VOSOTROS ARQUITECTO
+
+  ellos son arquitectos
+  ELLOS ARQUITECTOS
+- ELLOS ARQUITECTO ASÍ
+
+  ellas son arquitectas
+  ELLAS ARQUITECTAS
+- ELLOS ARQUITECTO ASÍ
+
+  mi mamá es arquitecta
+  MAMÁ MÍA ARQUITECTA
+- MAMA MUJER MÍO ARQUITECTO ASÍ
+
+  mi papá es arquitecto
+  PAPÁ MÍO ARQUITECTO
+- PAPÁ MÍO ARQUITECTO ASÍ
+
+  mi tío es arquitecto
+  TÍO MÍO ARQUITECTO
++ TÍO MÍO ARQUITECTO
+
+  mi tía es arquitecta
+  TÍO MUJER MÍA ARQUITECTA
+- TÍA MUJER MÍO ARQUITECTO ASÍ
+
+  mi hermana es arquitecta
+  HERMANO MUJER MÍA ARQUITECTA
+- HERMANO MUJER MÍO ARQUITECTO
+
+  mi hermano es arquitecto
+  HERMANO MÍO ARQUITECTO
+- HERMANO MÍO ARQUITECTO ASÍ
+
+  mi prima es arquitecta
+  PRIMO MUJER MÍA ARQUITECTA
+- PRIMA MUJER MÍO ARQUITECTO ASÍ
+
+  mi primo es arquitecta
+  PRIMO MÍO ARQUITECTA
+- PRIMO MÍO ARQUITECTO MUJER
+
+  mi amigo es arquitecta
+  AMIGO MÍO ARQUITECTA
+- MÍO AMIGO ARQUITECTO MUJER
+
+  mi amiga es arquitecta
+  AMIGO MUJER MÍA ARQUITECTA
+- AMIGO MUJER MÍO ARQUITECTO
+
+  tu mamá es arquitecta
+  MAMÁ TUYA ARQUITECTA
+- MAMA MUJER TUYO ARQUITECTO
+
+  tu papá es arquitecto
+  PAPÁ TUYO ARQUITECTO
+- TÚ PAPÁ ARQUITECTO ASÍ
+
+  tu tío es arquitecto
+  TÍO TUYO ARQUITECTO
+- TÚ TIO ARQUITECTO ASÍ
+
+  tu tía es arquitecta
+  TÍO MUJER TUYA ARQUITECTA
+- TIA MUJER TUYO ARQUITECTO
+
+  tu hermana es arquitecta
+  HERMANO MUJER TUYA ARQUITECTA
+- TUYO HERMANO MUJER ARQUITECTO
+
+  tu hermano es arquitecto
+  HERMANO TUYO ARQUITECTO
++ HERMANO TUYO ARQUITECTO
+
+  tu prima es arquitecta
+  PRIMO MUJER TUYA ARQUITECTA
+- PRIMO MUJER TUYO ARQUITECTO
+
+  tu primo es arquitecto
+  PRIMO TUYO ARQUITECTO
+- PRIMO TUYO ARQUITECTO ASÍ
+
+  tu amigo es arquitecto
+  AMIGO TUYO ARQUITECTO
++ AMIGO TUYO ARQUITECTO
+
+  tu amiga es arquitecta
+  AMIGO MUJER TUYA ARQUITECTA
+- AMIGO MUJER TUYO ARQUITECTO ASÍ
+
+  soy abogado
+  YO ABOGADO
++ YO ABOGADO
+
+  eres abogado
+  TÚ ABOGADO
++ TÚ ABOGADO
+
+  ella es abogada
+  ELLA ABOGADA
+- ÉL ABOGADO MUJER
+
+  nosotros somos abogados
+  NOSOTROS ABOGADOS
+- NOSOTROS ABOGADO
+
+  ustedes son abogados
+  USTEDES ABOGADOS
+- VOSOTROS ABOGADO
+
+  ellos son abogados
+  ELLOS ABOGADOS
+- ELLOS ABOGADO
+
+  ellas son abogadas
+  ELLAS ABOGADAS
+- ELLOS ABOGADO
+
+  mi mamá es abogada
+  MAMÁ MÍA ABOGADA
+- MÍO MAMÁ MUJER ABOGADO MUJER ASÍ
+
+  mi papá es abogado
+  PAPÁ MÍO ABOGADO
++ PAPÁ MÍO ABOGADO
+
+  mi tío es abogado
+  TÍO MÍO ABOGADO
+- TIO MÍO ABOGADO ASÍ
+
+  mi tía es abogada
+  TÍO MUJER MÍA ABOGADA
+- TIA MUJER MÍO ABOGADO
+
+  mi hermana es abogada
+  HERMANO MUJER MÍA ABOGADA
+- MÍO HERMANO MUJER ABOGADO
+
+  mi hermano es abogado
+  HERMANO MÍO ABOGADO
++ HERMANO MÍO ABOGADO
+
+  mi prima es abogada
+  PRIMO MUJER MÍA ABOGADA
+- PRIMA MUJER MÍO ABOGADO MUJER
+
+  mi primo es abogada
+  PRIMO MÍO ABOGADA
+- PRIMO MÍO ABOGADO ASÍ
+
+  mi amigo es abogada
+  AMIGO MÍO ABOGADA
+- AMIGO MÍO ABOGADO
+
+  mi amiga es abogada
+  AMIGO MUJER MÍA ABOGADA
+- MÍO AMIGO MUJER ABOGADO MUJER ASÍ
+
+  tu mamá es abogada
+  MAMÁ TUYA ABOGADA
+- TUYO MAMA MUJER ABOGADO
+
+  tu papá es abogado
+  PAPÁ TUYO ABOGADO
+- TU PAPÁ ABOGADO
+
+  tu tío es abogado
+  TÍO TUYO ABOGADO
+- TIÓ TUYO ABOGADO
+
+  tu tía es abogada
+  TÍO MUJER TUYA ABOGADA
+- TIA MUJER TUYO ABOGADO
+
+  tu hermana es abogada
+  HERMANO MUJER TUYA ABOGADA
+- TUYO HERMANO MUJER ABOGADO ASÍ
+
+  tu hermano es abogado
+  HERMANO TUYO ABOGADO
+- None
+
+  tu prima es abogada
+  PRIMO MUJER TUYA ABOGADA
+- PRIMO MUJER TUYO ABOGADO
+
+  tu primo es abogado
+  PRIMO TUYO ABOGADO
+- TUYO PRIMO ABOGADO ASÍ
+
+  tu amigo es abogado
+  AMIGO TUYO ABOGADO
++ AMIGO TUYO ABOGADO
+
+  tu amiga es abogada
+  AMIGO MUJER TUYA ABOGADA
+- TUYO AMIGO MUJER ABOGADO ASÍ
+
+  soy ingeniero
+  YO INGENIERO
++ YO INGENIERO
+
+  eres ingeniero
+  TÚ INGENIERO
++ TÚ INGENIERO
+
+  ella es ingeniera
+  ELLA INGENIERA
+- ÉL INGENIERO MUJER
+
+  nosotros somos ingenieros
+  NOSOTROS INGENIEROS
+- NOSOTROS INGENIERO
+
+  ustedes son ingenieros
+  USTEDES INGENIEROS
+- VOSOTROS INGENIERO ASÍ
+
+  ellos son ingenieros
+  ELLOS INGENIEROS
+- ELLOS INGENIERO
+
+  ellas son ingenieras
+  ELLAS INGENIERAS
+- ELLOS INGENIERO ASÍ
+
+  mi mamá es ingeniera
+  MAMÁ MÍA INGENIERA
+- MAMA MUJER MÍO INGENIERO MUJER ASÍ
+
+  mi papá es ingeniero
+  PAPÁ MÍO INGENIERO
++ PAPÁ MÍO INGENIERO
+
+  mi tío es ingeniero
+  TÍO MÍO INGENIERO
+- TIO MÍO INGENIERO
+
+  mi tía es ingeniera
+  TÍO MUJER MÍA INGENIERA
+- MÍO TIA MUJER INGENIERO ASÍ
+
+  mi hermana es ingeniera
+  HERMANO MUJER MÍA INGENIERA
+- MÍO HERMANO MUJER INGENIERO ASÍ
+
+  mi hermano es ingeniero
+  HERMANO MÍO INGENIERO
++ HERMANO MÍO INGENIERO
+
+  mi prima es ingeniera
+  PRIMO MUJER MÍA INGENIERA
+- PRIMO MUJER MÍO INGENIERO MUJER
+
+  mi primo es ingeniera
+  PRIMO MÍO INGENIERA
+- PRIMO MÍO INGENIERO MUJER
+
+  mi amigo es ingeniera
+  AMIGO MÍO INGENIERA
+- AMIGO MÍO INGENIERO MUJER
+
+  mi amiga es ingeniera
+  AMIGO MUJER MÍA INGENIERA
+- AMIGO MUJER MÍO INGENIERO ASÍ
+
+  tu mamá es ingeniera
+  MAMÁ TUYA INGENIERA
+- None
+
+  tu papá es ingeniero
+  PAPÁ TUYO INGENIERO
++ PAPÁ TUYO INGENIERO
+
+  tu tío es ingeniero
+  TÍO TUYO INGENIERO
+- TIO TUYO INGENIERO
+
+  tu tía es ingeniera
+  TÍO MUJER TUYA INGENIERA
+- TUYO TIA MUJER INGENIERO
+
+  tu hermana es ingeniera
+  HERMANO MUJER TUYA INGENIERA
+- TUYO HERMANO MUJER INGENIERO MUJER
+
+  tu hermano es ingeniero
+  HERMANO TUYO INGENIERO
+- HERMANO TÚYO INGENIERO
+
+  tu prima es ingeniera
+  PRIMO MUJER TUYA INGENIERA
+- PRIMO MUJER TUYO INGENIERO MUJER
+
+  tu primo es ingeniero
+  PRIMO TUYO INGENIERO
++ PRIMO TUYO INGENIERO
+
+  tu amigo es ingeniero
+  AMIGO TUYO INGENIERO
++ AMIGO TUYO INGENIERO
+
+  tu amiga es ingeniera
+  AMIGO MUJER TUYA INGENIERA
+- TUYO AMIGO MUJER INGENIERO ASÍ
+
+  soy científico
+  YO CIENTÍFICO
+- YO CIENTIFICO
+
+  eres científico
+  TÚ CIENTÍFICO
++ TÚ CIENTÍFICO
+
+  ella es ingeniera
+  ELLA INGENIERA
+- ÉL INGENIERO MUJER
+
+  nosotros somos científicos
+  NOSOTROS CIENTÍFICOS
+- NOSOTROS CIENTIFICO
+
+  ustedes son científicos
+  USTEDES CIENTÍFICOS
+- VOSOTROS CIENTÍFICO
+
+  ellos son científicos
+  ELLOS CIENTÍFICOS
+- ELLOS CIENTÍFICO
+
+  ellas son científicas
+  ELLAS CIENTÍFICAS
+- ELLOS CIENTÍFICO ASÍ
+
+  mi mamá es ingeniera
+  MAMÁ MÍA CIENTÍFICA
+- MAMA MUJER MÍO INGENIERO MUJER ASÍ
+
+  mi papá es científico
+  PAPÁ MÍO CIENTÍFICO
++ PAPÁ MÍO CIENTÍFICO
+
+  mi tío es científico
+  TÍO MÍO CIENTÍFICO
++ TÍO MÍO CIENTÍFICO
+
+  mi tía es científica
+  TÍO MUJER MÍA CIENTÍFICA
+- MÍO TÍA MUJER CIENTÍFICO ASÍ
+
+  mi hermana es científica
+  HERMANO MUJER MÍA CIENTÍFICA
+- HERMANO MUJER MÍO CIENTÍFICO
+
+  mi hermano es científico
+  HERMANO MÍO CIENTÍFICO
++ HERMANO MÍO CIENTÍFICO
+
+  mi prima es científica
+  PRIMO MUJER MÍA CIENTÍFICA
+- PRIMA MUJER MÍO CIENTIFICO ASÍ
+
+  mi primo es científica
+  PRIMO MÍO CIENTÍFICA
+- MÍO PRIMO CIENTÍFICO MUJER
+
+  mi amigo es científica
+  AMIGO MÍO CIENTÍFICA
+- MÍO AMIGO CIENTÍFICO MUJER ASÍ
+
+  mi amiga es científica
+  AMIGO MUJER MÍA CIENTÍFICA
+- AMIGO MUJER MÍO CIENTÍFICO
+
+  tu mamá es científica
+  MAMÁ TUYA CIENTÍFICA
+- MAMA MUJER TUYO CIENTIFICO
+
+  tu papá es científico
+  PAPÁ TUYO CIENTÍFICO
++ PAPÁ TUYO CIENTÍFICO
+
+  tu tío es científico
+  TÍO TUYO CIENTÍFICO
+- TÚ TIO CIENTIFICO
+
+  tu tía es científica
+  TÍO MUJER TUYA CIENTÍFICA
+- TIA MUJER TÚYO CIENTIFICO
+
+  tu hermana es científica
+  HERMANO MUJER TUYA CIENTÍFICA
+- TUYO HERMANO MUJER CIENTÍFICO
+
+  tu hermano es científico
+  HERMANO TUYO CIENTÍFICO
+- HERMANO TUYO CIENTIFICO
+
+  tu prima es científica
+  PRIMO MUJER TUYA CIENTÍFICA
+- TUYO PRIMERO MUJER CIENTÍFICO
+
+  tu primo es científico
+  PRIMO TUYO CIENTÍFICO
++ PRIMO TUYO CIENTÍFICO
+
+  tu amigo es científico
+  AMIGO TUYO CIENTÍFICO
+- AMIGO TÚYO CIENTÍFICO
+
+  tu amiga es científica
+  AMIGO MUJER TUYA CIENTÍFICA
+- AMIGO MUJER TÚYO CIENTÍFICO
+
+  ¿porqué llegaste tarde?
+  TÚ LLEGAR TARDE PORQUÉ
+- None
+
+  ¿porqué llegaron tarde?
+  USTEDES LLEGAR TARDE PORQUÉ
+- None
+
+  ¿porqué llegaron tarde?
+  ELLOS LLEGAR TARDE PORQUÉ
+- POR QUÉ ELLOS LLEGAR TARDE
+
+  Hola, ¿cómo estás?
+  HOLA CÓMO ESTAR TÚ
+- HOLA TÚ COMO ESTAR
+
+  Hola, ¿cómo están?
+  HOLA CÓMO ESTAR USTEDES
+- HOLA ELLOS ESTAR COMO
+
+  vivo en México
+  MÉXICO YO VIVIR
+- MÉXICO AHÍ YO VIVIR
+
+  yo vivo en México
+  MÉXICO YO VIVIR
+- MEXICO AHÍ YO VIVIR
+
+  el vive en México
+  MÉXICO ÉL VIVIR
+- MÉXICO AHÍ ÉL VIVIR
+
+  ella vive en México
+  MÉXICO ELLA VIVIR
+- MÉXICO AHÍ ÉL VIVIR
+
+  vivimos en México
+  MÉXICO NOSOTROS VIVIR
+- NOSOTROS VIVIR MÉXICO AHÍ
+
+  ellos viven en México
+  MÉXICO ELLOS VIVIR
+- MÉXICO AHÍ ELLOS VIVIR
+
+  ellas viven en México
+  MÉXICO ELLAS VIVIR
+- None
+
+  ellos viven en México
+  MÉXICO ELLOS VIVIR
+- MÉXICO AHÍ ELLOS VIVIR
+
+  ustedes viven en México
+  MÉXICO USTEDES VIVIR
+- MÉXICO AHÍ VOSOTROS VIVIR
+
+  mi mamá vive en México
+  MÉXICO MAMÁ MÍA VIVIR
+- MAMÁ MUJER MÍO VIVIR MÉXICO
+
+  mi papá vive en México
+  MÉXICO PAPÁ MÍO VIVIR
+- MÉXICO AHÍ PAPÁ MÍO VIVIR
+
+  mi hermano vive en México
+  MÉXICO HERMANO MÍO VIVIR
+- MÉXICO AHÍ HERMANO MÍO VIVIR
+
+  mi hermana vive en México
+  MÉXICO HERMANO MUJER MÍA VIVIR
+- MÉXICO AHÍ HERMANA MUJER MÍO VIVIR
+
+  mi novio vive en México
+  MÉXICO NOVIO MÍO VIVIR
+- NOVIO MÍO VIVIR MÉXICO AHÍ
+
+  mi novia vive en México
+  MÉXICO NOVIO MUJER MÍA VIVIR
+- MÉXICO AHÍ NOVIA MUJER MÍO VIVIR
+
+  mi tío vive en México
+  MÉXICO TÍO MÍO VIVIR
+- MÉXICO AHÍ TIO MÍO VIVIR
+
+  mi tía vive en México
+  MÉXICO TÍO MUJER MÍA VIVIR
+- MÉXICO AHÍ TÍA MUJER MÍO VIVIR
+
+  mi abuelo vive en México
+  MÉXICO ABUELO MÍO VIVIR
+- MÉXICO AHÍ ABUELO MÍO VIVIR
+
+  mi abuela vive en México
+  MÉXICO ABUELO MUJER MÍA VIVIR
+- None
+
+  mis hijos viven en México
+  MÉXICO HIJO ELLOS MÍOS VIVIR
+- MÉXICO AHÍ HIGOS MÍOS VIVIR
+
+  mis hijas viven en México
+  MÉXICO HIJO MUJER ELLAS VIVIR
+- None
+
+  tu mamá vive en México
+  MÉXICO MAMÁ TUYA VIVIR
+- None
+
+  tu papá vive en México
+  MÉXICO PAPÁ TUYO VIVIR
+- MÉXICO AHÍ PADRE TUYO VIVIR
+
+  tu hermano vive en México
+  MÉXICO HERMANO TUYO VIVIR
+- HERMANO TUYO VIVIR MÉXICO
+
+  tu hermana vive en México
+  MÉXICO HERMANO MUJER TUYA VIVIR
+- MÉXICO AHÍ HERMANO MUJER TÚYO VIVIR
+
+  tu novio vive en México
+  MÉXICO NOVIO TUYO VIVIR
+- MÉXICO AHÍ TUYO NOVIO VIVIR
+
+  tu novia vive en México
+  MÉXICO NOVIO MUJER TUYA VIVIR
+- MÉXICO AHÍ NOVIO MUJER TUYO VIVIR
+
+  tu tío vive en México
+  MÉXICO TÍO TUYO VIVIR
+- MÉXICO AHÍ TIO TUYO VIVIR
+
+  tu tía vive en México
+  MÉXICO TÍO MUJER TUYA VIVIR
+- MÉXICO AHÍ TÍA MUJER TUYO VIVIR
+
+  tu abuelo vive en México
+  MÉXICO ABUELO TUYO VIVIR
+- ABUELO TUYO VIVIR MÉXICO
+
+  tu abuela vive en México
+  MÉXICO ABUELO MUJER TUYA VIVIR
+- ABUELA MUJER TUYO VIVIR MÉXICO
+
+  tus hijos viven en México
+  MÉXICO HIJO ELLOS TUYOS VIVIR
+- None
+
+  tus hijas viven en México
+  MÉXICO HIJO MUJER TUYAS VIVIR
+- None
+
+  no hay árboles
+  ÁRBOLES HABER NO
+- NO-HAY ÁRBOL
+
+  no hay comida
+  COMIDA HABER NO
+- NO-HAY COMIDA
+
+  no hay leche
+  LECHE HABER NO
+- NO HAY LECHE
+
+  no hay dinero
+  DINERO HABER NO
+- NO-HAY DINERO
+
+  no hay trabajo
+  TRABAJO HABER NO
+- NO-HAY TRABAJO
+
+  no hay espacio
+  ESPACIO HABER NO
+- NO-HAY ESPACIO
+
+  tomo café diariamente
+  DIARIO YO CAFÉ TOMAR
+- DIARIO YO TOMAR CAFÉ
+
+  ella corre diario
+  DIARIO  ELLA CORRER
+- ÉL Correr DIARIO
+
+  él come verduras diario
+  DIARIO ÉL VERDURAS COMER
+- DIARIO ÉL VERDURA COMER
+
+  yo como carne y sopa
+  YO SOPA CARNE COMER
+- YO COMER CARNE Y SOPA
+
+  comemos frutas diario
+  DIARIO YO FRUTAS COMER
+- NOSOTROS COMER FRUTAS DIARIO
+
+  la medicina es una ciencia
+  MEDICINA CIENCIA
+- MEDICINA CIENCIA ASÍ
+
+  yo bebo café diario
+  DIARIO YO CAFÉ TOMAR
+- YO BEBER CAFÉ DIARIO
+
+  quiero aprender inglés
+  YO INGLÉS APRENDER QUERER
+- YO QUERER APRENDER INGLES
+
+  quieres aprender inglés
+  TÚ INGLÉS APRENDER QUERER
+- TÚ QUERER APRENDER INGLES
+
+  quiere aprender inglés
+  ÉL INGLÉS APRENDER QUERER
+- None
+
+  queremos aprender inglés
+  NOSOTROS INGLÉS APRENDER QUERER
+- NOSOTROS QUERER APRENDER INGLES
+
+  quieren aprender inglés
+  ELLOS (AS) (USTEDES) INGLÉS APRENDER QUERER
+- ELLOS QUERER APRENDER INGLES
+
+  ellos quieren aprender inglés
+  ELLOS INGLÉS APRENDER QUERER
+- ELLOS QUERER APRENDER INGLES
+
+  ellas quieren aprender inglés
+  ELLAS INGLÉS APRENDER QUERER
+- ELLOS QUERER APRENDER INGLES
+
+  ustedes quieren aprender inglés
+  USTEDES INGLÉS APRENDER QUERER
+- VOSOTROS QUERER APRENDER INGLÉS
+
+  mi mamá quiere aprender inglés
+  MAMÁ MÍA INGLÉS APRENDER QUERER
+- None
+
+  mi papá quiere aprender inglés
+  PAPÁ MÍO INGLÉS APRENDER QUERER
+- PAPÁ MÍO QUERER APRENDER INGLÉS
+
+  mi novio quiere aprender inglés
+  NOVIO MÍO INGLÉS APRENDER QUERER
+- NOVIO MÍO QUERER APRENDER INGLÉS
+
+  mi novia quiere aprender inglés
+  NOVIO MUJER MÍA INGLÉS APRENDER QUERER
+- NOVIA MUJER MÍO QUERER APRENDER INGLÉS
+
+  mi tía quiere aprender inglés
+  TÍO MUJER MÍA INGLÉS APRENDER QUERER
+- TÍA MUJER MÍO QUIERER APRENDER INGLÉS
+
+  mi tío quiere aprender inglés
+  TÍO MÍO INGLÉS APRENDER QUERER
+- TIO MÍO QUERER APRENDER INGLES
+
+  mi abuela quiere aprender inglés
+  ABUELO MUJER MÍA INGLÉS APRENDER QUERER
+- None
+
+  mi abuelo quiere aprender inglés
+  ABUELO MÍO INGLÉS APRENDER QUERER
+- ABUELO MÍO QUERER APRENDER INGLES
+
+  mi prima quiere aprender inglés
+  PRIMO MUJER MÍA INGLÉS APRENDER QUERER
+- None
+
+  mi primo quiere aprender inglés
+  PRIMO MÍO INGLÉS APRENDER QUERER
+- None
+
+  mi sobrina quiere aprender inglés
+  SOBRINO MUJER MÍA INGLÉS APRENDER QUERER
+- None
+
+  mi sobrino quiere aprender inglés
+  SOBRINO MÍO INGLÉS APRENDER QUERER
+- SOBRINO MÍO QUERER APRENDER INGLÉS
+
+  mi hermana quiere aprender inglés
+  HERMANO MUJER MÍA INGLÉS APRENDER QUERER
+- None
+
+  mi hermano quiere aprender inglés
+  HERMANO MÍO INGLÉS APRENDER QUERER
+- HERMANO MÍO QUERER APRENDER INGLÉS
+
+  tu mamá quiere aprender inglés
+  MAMÁ TUYA INGLÉS APRENDER QUERER
+- None
+
+  tu papá quiere aprender inglés
+  PAPÁ TUYO INGLÉS APRENDER QUERER
+- PADRE TUYO QUERER APRENDER INGLES
+
+  tu novio quiere aprender inglés
+  NOVIO TUYO INGLÉS APRENDER QUERER
+- NOVIO TUYO QUERER APRENDER INGLES
+
+  tu novia quiere aprender inglés
+  NOVIO MUJER TUYA INGLÉS APRENDER QUERER
+- NOVIA MUJER TUYO QUERER APRENDER INGLÉS
+
+  tu tía quiere aprender inglés
+  TÍO MUJER TUYA INGLÉS APRENDER QUERER
+- None
+
+  tu tío quiere aprender inglés
+  TÍO TUYO INGLÉS APRENDER QUERER
+- TIÓ TUYO QUERER APRENDER INGLÉS
+
+  tu abuela quiere aprender inglés
+  ABUELO MUJER TUYA INGLÉS APRENDER QUERER
+- ABUELA MUJER TUYO QUIERER APRENDER INGLES
+
+  tu abuelo quiere aprender inglés
+  ABUELO TUYO INGLÉS APRENDER QUERER
+- TÚ ABUELO TUYO QUERER APRENDER INGLÉS
+
+  tu prima quiere aprender inglés
+  PRIMO MUJER TUYA INGLÉS APRENDER QUERER
+- PRIMO MUJER TUYO QUERER APRENDER INGLES
+
+  tu primo quiere aprender inglés
+  PRIMO TUYO INGLÉS APRENDER QUERER
+- PRIMO TUYO QUERER APRENDER INGLES
+
+  tu sobrina quiere aprender inglés
+  SOBRINO MUJER TUYA INGLÉS APRENDER QUERER
+- None
+
+  tu sobrino quiere aprender inglés
+  SOBRINO TUYO INGLÉS APRENDER QUERER
+- None
+
+  tu hermana quiere aprender inglés
+  HERMANO MUJER TUYA INGLÉS APRENDER QUERER
+- None
+
+  tu hermano quiere aprender inglés
+  HERMANO TUYO INGLÉS APRENDER QUERER
+- None
+
+  mi nombre es VANIA
+  MI NOMBRE VANIA
+- NOMBRE MÍO VANIA
+
+  tu nombre es VANIA
+  TU NOMBRE VANIA
+- TU NOMBRE VANIA MUJER
+
+  su nombre es VANIA
+  SU NOMBRE VANIA
+- NOMBRE SUYO VANIA
+
+  yo entiendo
+  ENTENDER
+- YO ENTENDER
+
+  no entiendo
+  ENTENDER NO
+- YO NO ENTENDER
+
+  tú entiendes
+  TÚ ENTENDER
++ TÚ ENTENDER
+
+  tú no entiendes
+  TÚ ENTENDER NO
+- TÚ NO ENTENDER
+
+  él entiende
+  ÉL ENTENDER
++ ÉL ENTENDER
+
+  él no entiende
+  ÉL ENTENDER NO
+- ÉL NO ENTENDER
+
+  entendemos
+  NOSOTROS ENTENDER
++ NOSOTROS ENTENDER
+
+  no entendemos
+  NOSOTROS ENTENDER NO
+- NOSOTROS NO ENTENDER
+
+  entienden
+  ELLOS ENTENDER
++ ELLOS ENTENDER
+
+  no entienden
+  ELLOS ENTENDER NO
+- ELLOS NO ENTENDER
+
+  ellos entienden
+  ELLOS ENTENDER
++ ELLOS ENTENDER
+
+  ellos no entienden
+  ELLOS ENTENDER NO
+- ELLOS NO ENTENDER
+
+  ustedes entienden
+  USTEDES ENTENDER
+- VOSOTROS ENTENDER
+
+  ustedes no entienden 
+  USTEDES ENTENDER NO
+- VOSOTROS NO ENTENDER
+
+  mi papá entiende
+  PAPÁ MÍO ENTENDER
+- MÍO PAPÁ ENTENDER
+
+  mi mamá entiende
+  MAMÁ MÍA ENTENDER
+- MÍO PAPA MUJER ENTENDER
+
+  mi tía entiende
+  TÍO MUJER MÍA ENTENDER
+- TIA MUJER MÍO ENTENDER
+
+  mi tío entiende
+  TÍO MÍO ENTENDER
+- TIO MÍO ENTENDER
+
+  mi amiga entiende
+  AMIGO MUJER MÍA ENTENDER
+- AMIGO MUJER MÍO ENTENDER
+
+  mi amiga no entiende
+  AMIGO MUJER MÍA ENTENDER NO
+- AMIGO MUJER MÍO NO ENTENDER
+
+  mi tía no entiende
+  TÍO MUJER MÍA ENTENDER NO
+- TIA MUJER MÍO NO ENTENDER
+
+  mi tío no entiende
+  TÍO ENTENDER NO
+- TIO MÍO NO ENTENDER
+
+  mi amigo entiende
+  AMIGO MÍO ENTENDER
++ AMIGO MÍO ENTENDER
+
+  mi amigo no entiende
+  AMIGO MÍO ENTENDER NO
+- AMIGO MÍO NO ENTENDER
+
+  mi amiga entiende
+  AMIGO MUJER MÍA ENTENDER
+- AMIGO MUJER MÍO ENTENDER
+
+  mi amiga no entiende
+  AMIGO MUJER MÍA ENTENDER NO
+- AMIGO MUJER MÍO NO ENTENDER
+
+  mi novio entiende
+  NOVIO MÍO ENTENDER
+- MÍO NOVIO ENTRAR
+
+  mi novio no entiende
+  NOVIO MÍO ENTENDER NO
+- MÍO NOVIO NO ENTENDER
+
+  mi novia entiende
+  NOVIO MUJER MÍA ENTENDER NO
+- MÍO NOVIA MUJER ENTENDER
+
+  mi novia no entiende 
+  NOVIO MUJER MÍA ENTENDER NO
+- NOVIA MUJER MÍO NO ENTENDER
+
+  yo soy miedosa
+  YO MIEDOSA ASÍ
+- YO MIEDO ASÍ
+
+  yo soy miedoso
+  YO MIEDOSO ASÍ
+- YO MIEDO ASÍ
+
+  tú eres miedosa
+  TÚ DISTRAÍDO ASÍ
+- TÚ MIEDO
+
+  él es miedoso
+  ÉL MIEDOSO ASÍ
++ ÉL MIEDOSO ASÍ
+
+  somos miedosos
+  NOSOTROS MIEDOSOS ASÍ
+- NOSOTROS MIEDO
+
+  ellas son miedosas
+  ELLAS MIEDOSAS ASÍ
+- ELLOS MIEDO ASÍ
+
+  ellos son miedosos
+  ELLOS MIEDOSOS ASÍ
+- ELLOS MIEDOSO
+
+  ustedes son miedosos
+  USTEDES MIEDOSOS ASÍ
+- VOSOTROS MIEDOS
+
+  mi mamá es miedosa
+  MAMÁ MIEDOSA ASÍ
+- PADRE MUJER MÍO MIEDO ASÍ
+
+  mi papá es miedoso
+  PAPÁ MIEDOSO ASÍ
+- MÍO PAPÁ MIEDOSO
+
+  las niñas son miedosas
+  NIÑO MUJER ELLAS MIEDOSAS ASÍ
+- None
+
+  los niños son miedosos
+  NIÑO ELLOS MIEDOSOS ASÍ
+- NIÑO MIEDOSO ASÍ
+
+  mi tía es miedosa
+  TÍO MUJER MÍA MIEDOSA ASÍ
+- TÍA MUJER MÍO MIEDO ASÍ
+
+  mi tío es miedoso
+  TÍO MÍO MIEDOSO ASÍ
+- MÍO TIO MIEDO
+
+  mi abuelo es miedoso
+  ABUELO MÍO MIEDOSO ASÍ
+- ABUELO MÍO MIEDOSO
+
+  mi abuela es miedosa
+  ABUELO MUJER MÍA MIEDOSA ASÍ
+- ABUELO MUJER MÍO MIEDO
+
+  mi amigo es miedoso
+  AMIGO MÍO MIEDOSO ASÍ
+- AMIGO MÍO MIEDOSO
+
+  mi hermana es miedosa
+  HERMANO MUJER MÍA MIEDOSA ASÍ
+- HERMANO MUJER MÍO MIEDO
+
+  mi hermano es miedoso
+  HERMANO MÍO MIEDOSO ASÍ
+- HERMANO MÍO MIEDOSO
+
+  mi amiga es miedosa
+  AMIGO MUJER MÍA MIEDOSA ASÍ
+- MÍO AMIGO MUJER MIEDOSO
+
+  mi novio es miedoso
+  NOVIO MÍO MIEDOSO ASÍ
+- MÍO NOVIO MIEDOSO
+
+  mi novia es miedosa
+  NOVIO MUJER MÍA MIEDOSA ASÍ
+- NOVIO MUJER MÍO MIEDOSO
+
+  tu tía es miedosa
+  TÍO MUJER TUYA MIEDOSA ASÍ
+- TÍA MUJER TUYO MIEDOSO ASÍ
+
+  tu tío es miedoso
+  TÍO TUYO MIEDOSO ASÍ
+- TIO TUYO MIEDO
+
+  tu abuelo es miedoso
+  ABUELO TUYO MIEDOSO ASÍ
+- TÚ ABUELO MIEDOSO
+
+  tu abuela es miedosa
+  ABUELO TUYO MÍA MIEDOSA ASÍ
+- TUYO ABUELA MUJER MIEDO
+
+  tu amigo es miedoso
+  AMIGO TUYO MIEDOSO ASÍ
+- AMIGO TUYO MIEDO ASÍ
+
+  tu amiga es miedosa
+  AMIGO MUJER TUYA MIEDOSA ASÍ
+- AMIGO MUJER TÚYO MIEDOSO
+
+  tu novio es miedoso
+  NOVIO TUYO MIEDOSO ASÍ
+- NOVIO TUYO MIEDO
+
+  tu novia es miedosa
+  NOVIO MUJER TUYA MIEDOSA ASÍ
+- NOVIA MUJER TUYO MIEDOSO
+
+  nuestro amigo es miedoso
+  AMIGO NUESTRO MIEDOSO ASÍ
+- AMIGO MÍO MIEDO
+
+  nuestra amiga es miedosa
+  AMIGO MUJER NUESTRA MIEDOSA ASÍ
+- None
+
+  yo estoy apenado
+  YO APENADO
++ YO APENADO
+
+  yo estoy apenada
+  YO APENADA
+- YO APENADO
+
+  tú estás apenado
+  TÚ APENADO
++ TÚ APENADO
+
+  él está apenado
+  ÉL APENADO
++ ÉL APENADO
+
+  estamos apenados
+  NOSOTROS APENADOS
+- NOSOTROS APENADO
+
+  ellas están apenadas
+  ELLAS APENADAS
+- ELLOS APENADO
+
+  ellos están apenados
+  ELLOS APENADOS
+- ELLOS APENADO
+
+  ustedes están apenados
+  USTEDES APENADOS 
+- VOSOTROS APENADO
+
+  mi mamá está apenada
+  MAMÁ MÍA APENADA
+- MÍO MAMÁ MUJER APENADO
+
+  mi papá está apenado
+  PAPÁ MÍO APENADO
++ PAPÁ MÍO APENADO
+
+  las niñas están apenadas
+  NIÑO MUJER ELLAS APENADAS
+- NIÑO MUJER APENADO
+
+  los niños están apenados
+  NIÑO ELLOS APENADOS
+- NIÑO APENADO
+
+  mi tía está apenada
+  TÍA MÍA APENADA
+- TÍA MUJER MÍO APENADO
+
+  mi tío está apenado
+  TÍO MÍO APENADO
+- TIO MÍO APENADO
+
+  mi abuelo está apenado
+  ABUELO MÍO APENADO
+- MÍO ABUELO APENADO
+
+  mi abuela está apenado
+  ABUELO MUJER MÍA APENADA
+- ABUELA MUJER MÍO APENADO
+
+  mi amigo está apenado
+  AMIGO MÍO APENADO
++ AMIGO MÍO APENADO
+
+  mi hermano está apenado
+  HERMANO MÍO APENADO
++ HERMANO MÍO APENADO
+
+  mi amiga está apenada
+  AMIGO MUJER MÍA APENADA
+- MÍO AMIGO MUJER APENADO ASÍ
+
+  mi novio está apenado
+  NOVIO MÍO APENADO
++ NOVIO MÍO APENADO
+
+  mi novia está apenada
+  NOVIO MUJER MÍA APENADA
+- NOVIA MUJER MÍO APENADO
+
+  tu tía está apenada
+  TÍO MUJER TUYA APENADA
+- TÍA MUJER TUYO APENADO
+
+  tu tío está apenado
+  TÍO TUYO APENADO
+- TÚ TIÓ APENADO
+
+  tu abuelo está apenado
+  ABUELO TUYO APENADO
++ ABUELO TUYO APENADO
+
+  tu abuela está apenada
+  ABUELO MUJER TUYA APENADA
+- TÚ ABUELA MUJER APENADO
+
+  tu amigo está apenado
+  AMIGO TUYO APENADO
+- TUYO AMIGO APENADO
+
+  tu amiga está apenada
+  AMIGO MUJER TUYA APENADA
+- AMIGO MUJER TUYO APENADO
+
+  tu novio está apenado
+  NOVIO TUYO APENADO
++ NOVIO TUYO APENADO
+
+  tu novia está apenada
+  NOVIO MUJER TUYA APENADA
+- NOVIO MUJER TUYO APENADO
+
+  nuestro amigo está apenado
+  AMIGO NUESTRO APENADO
+- AMIGO MÍO APENADO
+
+  nuestra amiga está apenada
+  AMIGO MUJER NUESTRA APENADA
+- AMIGO MUJER APENADO
+
+  yo estoy triste
+  YO TRISTE
++ YO TRISTE
+
+  tú estás triste
+  TÚ TRISTE
++ TÚ TRISTE
+
+  él está triste
+  ÉL TRISTE
++ ÉL TRISTE
+
+  estamos tristes
+  NOSOTROS TRISTES
+- NOSOTROS TRISTE
+
+  ellas están tristes
+  ELLAS TRISTES
+- ELLOS TRISTE
+
+  ellos están tristes
+  ELLOS TRISTES
+- ELLOS TRISTE
+
+  ustedes están tristes
+  USTEDES TRISTES 
+- VOSOTROS TRISTE
+
+  mi mamá está triste
+  MAMÁ MÍA TRISTE
+- MAMA MUJER MÍO TRISTE
+
+  mi papá está triste
+  PAPÁ MÍO TRISTE
++ PAPÁ MÍO TRISTE
+
+  las niñas están tristes
+  NIÑO MUJER ELLAS TRISTES
+- NIÑO MUJER TRISTE
+
+  los niños están tristes
+  NIÑO ELLOS TRISTES
+- NIÑO TRISTE
+
+  mi tía está triste
+  TÍA MÍA TRISTE
+- TÍA MUJER MÍO TRISTE
+
+  mi tío está triste
+  TÍO MÍO TRISTE
+- TIO MÍO TRISTE
+
+  mi abuelo está triste
+  ABUELO MÍO TRISTE
++ ABUELO MÍO TRISTE
+
+  mi abuela está triste
+  ABUELO MUJER MÍA TRISTE
+- ABUELA MUJER MÍO TRISTE
+
+  mi amigo está triste
+  AMIGO MÍO TRISTE
++ AMIGO MÍO TRISTE
+
+  mi hermano está triste
+  HERMANO MÍO TRISTE
++ HERMANO MÍO TRISTE
+
+  mi amiga está triste
+  AMIGO MUJER MÍA TRISTE
+- AMIGO MUJER MÍO TRISTE
+
+  mi novio está triste
+  NOVIO MÍO TRISTE
++ NOVIO MÍO TRISTE
+
+  mi novia está triste
+  NOVIO MUJER MÍA TRISTE
+- NOVIA MUJER MÍO TRISTE
+
+  tu tía está triste
+  TÍO MUJER TUYA TRISTE
+- TÚ TIO MUJER TRISTE
+
+  tu tío está triste
+  TÍO TUYO TRISTE
+- TIO TUYO TRISTE
+
+  tu abuelo está triste
+  ABUELO TUYO TRISTE
++ ABUELO TUYO TRISTE
+
+  tu abuela está triste
+  ABUELO MUJER TUYA TRISTE
+- ABUELO MUJER TUYO TRISTE
+
+  tu amigo está triste
+  AMIGO TUYO TRISTE
++ AMIGO TUYO TRISTE
+
+  tu amiga está triste
+  AMIGO MUJER TUYA TRISTE
+- AMIGO MUJER TUYO TRISTE
+
+  tu novio está triste
+  NOVIO TUYO TRISTE
++ NOVIO TUYO TRISTE
+
+  tu novia está triste
+  NOVIO MUJER TUYA TRISTE
+- NOVIA MUJER TUYO TRISTE
+
+  nuestro amigo está triste
+  AMIGO NUESTRO TRISTE
+- None
+
+  nuestra amiga está triste
+  AMIGO MUJER NUESTRA TRISTE
+- None
+
+  yo soy tímido
+  YO TÍMIDO ASÍ
+- YO TÍMIDO
+
+  tú eres tímido
+  TÚ TÍMIDO ASÍ
+- TÚ TÍMIDO
+
+  él es tímido
+  ÉL TÍMIDO ASÍ
++ ÉL TÍMIDO ASÍ
+
+  ella es tímida
+  ELLA TÍMIDA ASÍ
+- ÉL TÍMIDO ASÍ
+
+  ustedes son tímidos
+  USTEDES TÍMIDOS ASÍ
+- VOSOTROS TÍMIDO
+
+  nosotros somos tímidos
+  NOSOTROS TÍMIDOS ASÍ
+- NOSOTROS TÍMIDO ASÍ
+
+  ellos son tímidos
+  ELLOS TÍMIDOS ASÍ
+- ELLOS TÍMIDOS
+
+  ellas son tímidas
+  ELLAS TÍMIDAS ASÍ
+- ELLOS TÍMIDO
+
+  ustedes son tímidos
+  USTEDES TÍMIDOS ASÍ
+- VOSOTROS TÍMIDO ASÍ
+
+  ustedes son tímidos
+  USTEDES TÍMIDOS ASÍ
+- VOSOTROS TÍMIDO ASÍ
+
+  la niña es tímida
+  NIÑO MUJER TÍMIDA ASÍ
+- NIÑO MUJER TÍMIDO ASÍ
+
+  los niños son enojones
+  NIÑO ELLOS ENOJONES ASÍ
+- NIÑO ENOJON
+
+  las niñas son tímidas
+  NIÑO MUJER ELLAS TÍMIDAS ASÍ
+- NIÑO MUJER TÍMIDO ASÍ
+
+  el niño es tímido
+  NIÑO TÍMIDO ASÍ
+- NIÑO TÍMIDO
+
+  mi mamá es tímida
+  MAMÁ MÍA TÍMIDA ASÍ
+- PAPA MUJER MÍO TÍMIDO ASÍ
+
+  mi papá es tímido
+  PAPÁ MÍO TÍMIDO ASÍ
+- PAPÁ MÍO TÍMIDO
+
+  mi tía es tímida
+  TÍO MUJER MÍA TÍMIDA ASÍ
+- MÍO TIA MUJER TIMIDO ASÍ
+
+  mi tío es tímido
+  TÍO MÍO TÍMIDO ASÍ
+- TIO MÍO TÍMIDO
+
+  mi abuela es tímida
+  ABUELO MUJER MÍA TÍMIDA ASÍ
+- ABUELO MUJER MÍO TÍMIDO ASÍ
+
+  mi abuelo es tímido
+  ABUELO MÍO TÍMIDO ASÍ
++ ABUELO MÍO TÍMIDO ASÍ
+
+  mi amigo es tímido
+  AMIGO MÍO TÍMIDO ASÍ
+- AMIGO MÍO TÍMIDO
+
+  mi amiga es tímida
+  AMIGO MUJER TÍMIDA ASÍ
+- AMIGO MUJER MÍO TÍMIDO
+
+  tu mamá es tímida
+  MAMÁ TUYA TÍMIDA ASÍ
+- None
+
+  tu papá es tímido
+  PAPÁ TUYO TÍMIDO ASÍ
++ PAPÁ TUYO TÍMIDO ASÍ
+
+  tu tía es tímida
+  TÍO MUJER TUYA TÍMIDA ASÍ
+- TÍA MUJER TUYO TÍMIDO ASÍ
+
+  tu amiga es tímida
+  AMIGA TUYA TÍMIDA ASÍ
+- TUYO AMIGO MUJER TÍMIDO ASÍ
+
+  tu amigo es tímido
+  AMIGO TUYO TÍMIDO ASÍ
+- AMIGO TUYO TÍMIDO
+
+  tu tío es tímido
+  TÍO TUYO TÍMIDO ASÍ
+- TIO TUYO TÍMIDO
+
+  tu abuela es tímida
+  ABUELO MUJER TUYA TÍMIDA ASÍ
+- ABUELA MUJER TUYO TÍMIDA ASÍ
+
+  tu abuelo es tímido
+  ABUELO TUYO TÍMIDO ASÍ
+- ABUELO TUYO TÍMIDO
+
+  tu prima es tímida
+  PRIMO MUJER TUYA TÍMIDA ASÍ
+- PRIMA MUJER TUYO TIMIDO
+
+  tu primo es tímido
+  PRIMO TUYO TÍMIDO ASÍ
+- PRIMO TUYO TÍMIDO
+
+  yo estoy preocupado
+  YO PREOCUPADO
++ YO PREOCUPADO
+
+  tú estás preocupado
+  TÚ PREOCUPADO
++ TÚ PREOCUPADO
+
+  él está preocupado
+  ÉL PREOCUPADO
++ ÉL PREOCUPADO
+
+  estamos preocupados
+  NOSOTROS PREOCUPADOS
+- None
+
+  ellas están preocupadas
+  ELLAS PREOCUPADAS
+- ELLOS PREOCUPADO
+
+  ellos están preocupados
+  ELLOS PREOCUPADOS
+- ELLOS PREOCUPADO
+
+  ustedes están preocupados
+  USTEDES PREOCUPADOS 
+- VOSOTROS PREOCUPADO
+
+  mi mamá está preocupada
+  MAMÁ MÍA PREOCUPADA
+- MAMA MUJER MÍO PREOCUPADO
+
+  mi papá está preocupado
+  PAPÁ MÍO PREOCUPADO
++ PAPÁ MÍO PREOCUPADO
+
+  las niñas están preocupadas
+  NIÑO MUJER ELLAS PREOCUPADAS
+- NIÑO MUJER PREOCUPADO
+
+  los niños están preocupados
+  NIÑO ELLOS PREOCUPADOS
+- NIÑO PREOCUPADO
+
+  mi tía está preocupada
+  TÍA MÍA PREOCUPADA
+- TÍA MUJER MÍO PREOCUPADO
+
+  mi tío está preocupado
+  TÍO MÍO PREOCUPADO
++ TÍO MÍO PREOCUPADO
+
+  mi abuelo está preocupado
+  ABUELO MÍO PREOCUPADO
++ ABUELO MÍO PREOCUPADO
+
+  mi abuela está preocupado
+  ABUELO MUJER MÍA PREOCUPADA
+- ABUELO MUJER MÍO PREOCUPADO
+
+  mi amigo está preocupado
+  AMIGO MÍO PREOCUPADO
++ AMIGO MÍO PREOCUPADO
+
+  mi hermano está preocupado
+  HERMANO MÍO PREOCUPADO
++ HERMANO MÍO PREOCUPADO
+
+  mi amiga está preocupada
+  AMIGO MUJER MÍA PREOCUPADA
+- AMIGO MUJER MÍO PREOCUPADO
+
+  mi novio está preocupado
+  NOVIO MÍO PREOCUPADO
++ NOVIO MÍO PREOCUPADO
+
+  mi novia está preocupada
+  NOVIO MUJER MÍA PREOCUPADA
+- NOVIA MUJER MÍO PREOCUPADO
+
+  tu tía está preocupada
+  TÍO MUJER TUYA PREOCUPADA
+- TIA MUJER TUYO PREOCUPADO
+
+  tu tío está preocupado
+  TÍO TUYO PREOCUPADO
+- TÚYO TIO PREOCUPADO
+
+  tu abuelo está preocupado
+  ABUELO TUYO PREOCUPADO
++ ABUELO TUYO PREOCUPADO
+
+  tu abuela está preocupada
+  ABUELO MUJER TUYA PREOCUPADA
+- ABUELA MUJER TUYO PREOCUPADO
+
+  tu amigo está preocupado
+  AMIGO TUYO PREOCUPADO
+- TÚ AMIGO PREOCUPADO
+
+  tu amiga está preocupada
+  AMIGO MUJER TUYA PREOCUPADA
+- AMIGO MUJER TÚYO PREOCUPADO
+
+  tu novio está preocupado
+  NOVIO TUYO PREOCUPADO
++ NOVIO TUYO PREOCUPADO
+
+  tu novia está preocupada
+  NOVIO MUJER TUYA PREOCUPADA
+- None
+
+  nuestro amigo está preocupado
+  AMIGO NUESTRO PREOCUPADO
++ AMIGO NUESTRO PREOCUPADO
+
+  nuestra amiga está preocupada
+  AMIGO MUJER NUESTRA PREOCUPADA
+- None
+
+  yo entiendo la lsm
+  YO LSM ENTENDER
+- YO ENTENDER LSM
+
+  no entiendo las matemáticas
+  YO MATEMÁTICAS ENTENDER NO
+- YO NO ENTENDER MATEMÁTICAS
+
+  tú entiendes el español
+  TÚ ESPAÑOL ENTENDER NO
+- TÚ ENTENDER ESPAÑOL
+
+  tú no entiendes el árabe
+  TÚ ÁRABE ENTENDER NO
+- TÚ NO ENTENDER ARÁBÉ
+
+  él entiende el alemán
+  ÉL ALEMÁN ENTENDER
++ ÉL ALEMÁN ENTENDER
+
+  él no entiende la lsm
+  ÉL LSM ENTENDER NO
+- ÉL NO ENTENDER LSM
+
+  entendemos el italiano
+  NOSOTROS ITALIANO ENTENDER
+- NOSOTROS ENTENDER ITALIANO
+
+  no entendemos el español
+  NOSOTROS ESPAÑOL ENTENDER NO
+- NOSOTROS NO ENTENDER ESPAÑOL
+
+  entienden las matemáticas
+  ELLOS MATEMÁTICAS ENTENDER
+- MATEMÁTICA ENTENDER
+
+  no entienden el inglés
+  ELLOS INGLÉS ENTENDER NO
+- ELLOS NO ENTENDER INGLÉS
+
+  ellos entienden el alemán
+  ELLOS ALEMÁN ENTENDER
++ ELLOS ALEMÁN ENTENDER
+
+  ellos no entienden el español
+  ELLOS ESPAÑOL ENTENDER NO
+- ELLOS NO ENTENDER ESPAÑOL
+
+  ustedes entienden la lsm
+  USTEDES LSM ENTENDER
+- VOSOTROS ENTENDER LSM
+
+  ustedes no entienden el español
+  USTEDES ESPAÑOL ENTENDER NO
+- VOSOTROS NO ENTENDER ESPAÑOL
+
+  mi papá entiende las matemáticas
+  PAPÁ MÍO MATEMÁTICAS ENTENDER
+- PAPA MÍO ENTENDER MATEMÁTICAS
+
+  mi mamá entiende el inglés
+  MAMÁ MÍA INGLÉS ENTENDER
+- MAMÁ MUJER MÍO ENTENDER INGLES
+
+  mi tía entiende el italiano
+  TÍO MUJER MÍA LSM ENTENDER
+- TÍA MUJER MÍO ENTENDER ITALIANO
+
+  mi tío entiende la lsm
+  TÍO MÍO LSM ENTENDER
+- TIO MÍO ENTENDER LSM
+
+  mi amiga entiende el español
+  AMIGO MUJER MÍA ESPAÑOL ENTENDER
+- AMIGO MUJER MÍO ENTENDER
+
+  mi amiga no entiende el francés
+  AMIGO MUJER MÍA FRANCÉS ENTENDER NO
+- AMIGO MUJER MÍO NO ENTENDER FRANCO
+
+  mi tía no entiende el inglés
+  TÍO MUJER MÍA INGLÉS ENTENDER NO
+- TÍA MUJER MÍO NO ENTENDER INGLÉS
+
+  mi tío no entiende la ortografía
+  TÍO ORTOGRAFÍA ENTENDER NO
+- TIO MÍO NO ENTENDER ORTOGRAFÍA
+
+  mi amigo entiende el alemán
+  AMIGO MÍO ALEMÁN ENTENDER
+- AMIGO MÍO ENTENDER ALEMAN
+
+  mi amigo no entiende la lsm
+  AMIGO MÍO LSM ENTENDER NO
+- AMIGO MÍO NO ENTENDER LSM
+
+  mi amiga entiende la lsm
+  AMIGO MUJER MÍA LSM ENTENDER
+- MÍO AMIGO MUJER ENTENDER LSM
+
+  mi amiga no entiende la lsm
+  AMIGO MUJER MÍA LSM ENTENDER NO
+- AMIGO MUJER MÍO NO ENTENDER LSM
+
+  mi novio entiende la lsm
+  NOVIO MÍO LSM ENTENDER
+- MÍO NOVIO ENTENDER LSM
+
+  mi novio no entiende la lsm
+  NOVIO MÍO LSM ENTENDER NO
+- MÍO NOVIO NO ENTENDER LENGUA DE SEÑA MEXICANO
+
+  mi novia entiende la lsm
+  NOVIO MUJER MÍA LSM ENTENDER NO
+- NOVIA MUJER MÍO ENTENDER LSM
+
+  mi novia no entiende la lsm
+  NOVIO MUJER MÍA LSM ENTENDER NO
+- NOVIA MUJER MÍO NO ENTENDER LSM
+
+  yo entiendo el español
+  YO ESPAÑOL ENTENDER
+- YO ENTENDER ESPAÑOL
+
+  no entiendo el español
+  YO ESPAÑOL ENTENDER NO
+- YO NO ENTENDER ESPAÑOL
+
+  tú entiendes el español
+  TÚ ESPAÑOL ENTENDER NO
+- TÚ ENTENDER ESPAÑOL
+
+  tú no entiendes el español
+  TÚ ESPAÑOL ENTENDER NO
+- TÚ NO ENTENDER ESPAÑOL
+
+  él entiende el español
+  ÉL ESPAÑOL ENTENDER
+- ÉL ENTENDER ESPAÑOL
+
+  él no entiende el español
+  ÉL ESPAÑOL ENTENDER NO
+- ÉL NO ENTENDER ESPAÑOL
+
+  entendemos el español
+  NOSOTROS ESPAÑOL ENTENDER
+- NOSOTROS ENTENDER ESPAÑOL
+
+  no entendemos el español
+  NOSOTROS ESPAÑOL ENTENDER NO
+- NOSOTROS NO ENTENDER ESPAÑOL
+
+  entienden el español
+  ELLOS ESPAÑOL ENTENDER
+- ELLOS ENTENDER ESPAÑOL
+
+  no entienden el español
+  ELLOS ESPAÑOL ENTENDER NO
+- ELLOS NO ENTENDER ESPAÑOL
+
+  ellos entienden el español
+  ELLOS ESPAÑOL ENTENDER
+- ELLOS ENTENDER ESPAÑOL
+
+  ellos no entienden el español
+  ELLOS ESPAÑOL ENTENDER NO
+- ELLOS NO ENTENDER ESPAÑOL
 

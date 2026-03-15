@@ -1,2 +1,92 @@
   ¿Por qué has llegado tarde?
   TÚ LLEGAR TARDE POR-QUÉ
+- None
+
+  ¿Por qué has venido tan tarde?
+  TÚ VENIR TARDE POR-QUÉ
+- None
+
+  Yo quiero una manzana
+  QUERER MANZANA
+- YO QUERER MANZANA
+
+  Tú quieres una pera
+  TÚ QUERER PERA
++ TÚ QUERER PERA
+
+  Él quiere un dulce
+  ÉL QUERER DULCE
+- ÉL QUIERER DULCE
+
+  Nosotros queremos un plátano
+  NOSOTROS QUERER PLÁTANO
++ NOSOTROS QUERER PLÁTANO
+
+  El maestro y la maestra se besan
+  MAESTRO MAESTRO MUJER ELLOS-DOS BESARSE
+- MAESTRO MAESTRO MUJER SE BESAR BESAR
+
+  El auto es azul
+  AUTO AZUL
++ AUTO AZUL
+
+  El niño está enojado
+  NIÑO (ÉL) ENOJADO
+- NIÑO ENOJADO
+
+  La casa verde es chica
+  CASA VERDE CHICO
++ CASA VERDE CHICO
+
+  La niña está enojada
+  NIÑO FEMENINO ENOJADO
+- NIÑO MUJER ENOJADO
+
+  La maestra es gorda
+  MAESTRO MUJER GORDO
++ MAESTRO MUJER GORDO
+
+  La niña es gorda
+  NIÑO FEMENINO ÉL GORDO
+- NIÑO MUJER GORDO ASÍ
+
+  El niño parece enojado
+  NIÑO (ÉL) PARECER ENOJADO
+- NIÑO PARECER ENOJADO
+
+  La maestra parece enojada
+  MAESTRO MUJER (ÉL) PARECER ENOJADO
+- MAESTRO MUJER PARECER ENOJADO
+
+  El maestro es un enojón
+  MAESTRO ENOJÓN ASÍ
+- None
+
+  La niña canta
+  NIÑO FEMENINO CANTAR
+- NIÑO MUJER CANTAR
+
+  El niño llora
+  NIÑO LLORAR
++ NIÑO LLORAR
+
+  Los niños rien
+  NIÑOS ELLOS RIEN
+- NIÑO REÍR
+
+  Las niñas nadan
+  NIÑO FEMENINO ELLOS NADAR
+- NIÑO MUJER NADAR
+
+  La niña se peina
+  NIÑO FEMENINO ELLA PEINAR
+- NIÑO MUJER PEINAR
+
+  El maestro se baña
+  MAESTRO ÉL-ELLA BAÑAR
+- MAESTRO BAÑAR
+
+  Pedro se castiga a sí mismo
+  PEDRO ÉL-ELLA SOLO CASTIGAR
+- PEDRO CASTIGAR SOLO
+

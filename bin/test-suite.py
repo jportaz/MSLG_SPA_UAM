@@ -57,16 +57,22 @@ if __name__ == "__main__":
     import sys
     import csv
 
+    system_prompt = ""
     with open(args.prompt, "r") as f:
-        system_prompt = f.read()
+        for line in f:
+            if line.startswith("#"):
+                pass
+            else:
+                system_prompt += line + "\n"
 
     hits = 0
     total = 0
+
     with open(args.test_suite, "r") as f:
         test_suite = csv.reader(f)
         for row in test_suite:
             print(" ", row[0])
-            print(" ", row[1])
+            print(" ", row[1].upper())
             result = send_code_to_vllm(
                 system_prompt=system_prompt,
                 user_prompt=row[0].strip(),
@@ -74,11 +80,14 @@ if __name__ == "__main__":
                 model_name=args.model_name,
                 reasoning_effort=args.reasoning_effort
             )
-            print("-" if result.lower().strip() != row[1].lower().strip() else "+", result)
+            if result:
+                result = result.strip().upper()
+            print("-" if not result or result.lower().strip() != row[1].lower().strip() else "+", result)
             print()
             sys.stdout.flush()
-            if result.lower().strip() == row[1].lower().strip():
+            if result and result.lower().strip() == row[1].lower().strip():
                 hits += 1
             total += 1
+
     print(f"Hits: {hits}/{total}")
 

@@ -14,6 +14,12 @@ test1:
 test2:
 	python bin/test-suite.py \
 		--model $(model) \
+		--test_suite data/test-suite2.csv \
+	| tee results/test-suite2.out.txt
+
+esp-lsm:
+	python bin/test-suite.py \
+		--model $(model) \
 		--test_suite data/esp-lsm_glosses_corpus.csv \
-    | tee results/esp-lsm_glosses_corpus.out.txt
+	| tee results/esp-lsm_glosses_corpus.out.txt
 
