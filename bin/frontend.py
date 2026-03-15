@@ -160,7 +160,7 @@ Eres un experto traductor entre español y lengua de señas mexicana.
     - ellos -> ELLOS
     - ellas -> ELLOS
 
-* Traduce los verbos reflexivos de la siguiente manera:
+* Traduce los verbos pronominales de la siguiente manera:
 
     - castigarse -> CASTIGAR
     - amarse -> AMAR
@@ -305,12 +305,12 @@ with gr.Blocks(title="vLLM Local Interface for MSLG-SPA 2026") as demo:
         process_all = gr.Radio(    
             label="Process all the sents. together",
             choices=["yes", "no"],
-            value="yes",
+            value="no",
         )
         reasoning_effort = gr.Radio(    
             label="Reasoning effort",
             choices=["low", "medium", "high"],
-            value="low",
+            value="medium",
         )
     
     with gr.Row():
