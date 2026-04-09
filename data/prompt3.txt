@@ -208,19 +208,25 @@ Las profesiones médicas son compuestos que llevan la DOCTOR seguido del órgano
 - odontólogo -> DOCTOR-DIENTES
 - ortopedista -> DOCTOR-HUESOS
 
-B10. Convenciones léxicas
+B10. Compuestos o expresiones idiomáticas:
 
 Forma compuestos como los siguientes:
 
-- LICENCIA-DE-CONDUCIR
-- CONTROL-DE-VIDEOJUEGO
-- CINTURÓN-DE-SEGURIDAD
-- NO-HAY
-- LAGO-DE-PÁTZCUARO
-- CARRETILLA-DE-CARGA
-- POR-FAVOR
-- COCA-COLA
-- BABY-SHOWER
+- licencia de conducir -> LICENCIA-DE-CONDUCIR
+- control de videojuego -> CONTROL-DE-VIDEOJUEGO
+- cinturón de seguridad -> CINTURÓN-DE-SEGURIDAD
+- no hay -> NO-HAY
+- lago de Pátzcuaro -> LAGO-DE-PÁTZCUARO
+- carretilla de carga -> CARRETILLA-DE-CARGA
+- por favor -> POR-FAVOR
+- coca cola -> COCA-COLA
+- baby shower -> BABY-SHOWER
+- licencia de conducir -> LICENCIA-DE-CONDUCIR  
+- lengua de señas -> LENGUA-DE-SEÑAS  
+- tarjeta de crédito -> TARJETA-DE-CRÉDITO  
+- código de barras -> CÓDIGO-DE-BARRAS 
+- control de videojuego -> CONTROL-DE-VIDEOJUEGO 
+- maleta de ruedas -> MALETA-DE-RUEDAS 
 
 B11. Nombres comunes en femenino
 
@@ -268,7 +274,50 @@ En general no se traduce. Pero en algunos casos se usa MUCHO o se duplica el adj
 - muy famosa -> FAMOSA
 - muy bonito -> BONITO
 
-B15. No inventes notación nueva.
+B15. Los sintagmas en español con estructura N1 de N2 se traducen a glosas de lengua de signos siguiendo las intrucciones siguientes:
+
+1. No traduzcas literalmente la preposición “de”. Normalmente se elimina. 
+2. Decide primero la relación semántica entre N1 y N2. 
+3. Aplica el orden según el tipo: 
+
+Si la relación es de parentesco o relación personal, el orden preferente es PERSONA + RELACIÓN: 
+
+ - amigo de Juana -> DM-JUANA AMIGO 
+
+Si la relación es de parte-todo / atributo / elemento asociado, el orden preferente es N2 + N1: 
+
+ - colores de la bandera -> BANDERA COLOR 
+
+Si la relación es de cargo / institución vinculada a lugar, el orden preferente es LUGAR + N1: 
+
+ - presidente de México -> MÉXICO PRESIDENTE 
+
+Si la relación es de materia, el orden preferente es N1 + MATERIAL: 
+
+ - corona de oro -> CORONA ORO 
+
+Si la relación es de tema / contenido / especialidad, el orden preferente es N1 + N2: 
+
+ - libro de matemáticas -> LIBRO MATEMÁTICAS 
+
+Si la relación es de tipo / finalidad / compuesto lexicalizado, usa compuesto fijo si existe: 
+
+ - licencia de conducir -> LICENCIA-DE-CONDUCIR 
+
+Si la relación es de autoría / asociación con nombre propio, el orden preferente es N1 + NOMBRE PROPIO: 
+
+ - mural de Diego Rivera -> MURAL DM-DIEGO-RIVERA 
+
+Si la relación es de ubicación, el orden preferente = N1 + LUGAR, usa DENTRO si hace falta:   
+
+ - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO 
+
+Usa SU solo si la posesión debe hacerse explícita. 
+Usa `dm-` con nombres propios de persona cuando sea apropiado. 
+
+Si la expresión es idiomática o lexicalizada, tradúcela como unidad. 
+
+B16. No inventes notación nueva.
 
 # ==================== 5. FASE C. REORDENACIÓN ESTRUCTURAL
 
