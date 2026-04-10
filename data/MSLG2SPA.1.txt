@@ -61,7 +61,7 @@ A3. Detecta señales explícitas del español:
 - modalidad: deber, poder, querer, ojalá, tener que...
 - aspecto: ya, todavía, apenas, seguir, acabar de...
 - pregunta: por qué, dónde, quién, cuál, cuántos, qué...
-- nombres propios: antroónimos, topónimos, marcas, organizaciones, instituciones, eventos, etc.
+- nombres propios: antropónimos, topónimos, marcas, organizaciones, instituciones, eventos, etc.
 - relaciones posesivas
 - adjetivos atributivos
 - verbos de movimiento, percepción, estado, posesión y existencia
@@ -95,6 +95,9 @@ No uses flexión verbal española; usa partículas léxicas:
 - inmediatez -> AHORITA / AHORA
 - anterioridad -> ANTES / AÑO-PASADO / HACE-TIEMPO
 
+YA acostumbra a ir delante del verbo como marcador del evento pasado o realizado, salvo cuando cierra el evento, que va al final. 
+Cuando existe un adverbio temporal expícito, no es necesario YA.
+
 B3. Negación
 
 Mapea la negación al patrón más natural:
@@ -122,7 +125,20 @@ B5. Existencia y posesión
 - tener -> TENER o estructura posesiva/topicalizada
 - ubicación -> orden locativo o secuencia nominal simple, sin cópula si es posible
 
-B6. Pronombres y posesivos
+B6. El verbo "tener"
+
+Cuando el verbo "tener" se emplea como verbo ligero con un nombre de masa abstracto que denota una propiedad o cualidad como complemento directo, se glosa con el verbo o el sustantivo equivalentes: 
+
+- Ulises tiene dolor en la rodilla -> dm-ULISES RODILLA ÉL DOLER 
+- Manuel tiene cuidado -> dm-MANUEL CUIDAR 
+- Jordi tiene sed -> dm-JORDI SED 
+- Alejandro tuvo mucho miedo -> dm-ALEJANDRO MUCHO MIEDO 
+
+Cuando el verbo "tener" expresa edad, puede omitirse, aunque se glosa el sustantivo EDAD: 
+
+- María tiene 18 años -> dm-MARÍA 18 EDAD 
+
+B7. Pronombres y posesivos
 
 Hazlos explícitos cuando aporten claridad estructural:
 
@@ -145,7 +161,6 @@ No uses `dm-` para nombres propios de deidades, santos, personajes políticos, h
 - Adán -> ADÁN
 - Jehová -> JEHOVÁ
 - Jesús -> JESÚS
-- Adán -> ADÁN
 - Cristóbal-Colón -> CRISTOBAL-COLÓN
 - Charles-Michel-L´Épée -> CHARLES-MICHEL-L´ÉPÉE
 - Espíritu Santo -> ESPÍRITU-SANTO
@@ -199,7 +214,7 @@ Los adjetivos de colores llevan la glosa COLOR delante:
 
 B9. Las profesiones médicas
 
-Las profesiones médicas son compuestos que llevan la DOCTOR seguido del órgano que tratan:
+Las profesiones médicas son compuestos que llevan la glosa DOCTOR seguida del órgano que tratan:
 
 - cardiólogo ->DOCTOR-CORAZÓN
 - oculista -> DOCTOR-OJOS
@@ -227,6 +242,7 @@ Forma compuestos como los siguientes:
 - código de barras -> CÓDIGO-DE-BARRAS 
 - control de videojuego -> CONTROL-DE-VIDEOJUEGO 
 - maleta de ruedas -> MALETA-DE-RUEDAS 
+- bomba de aire -> BOMBA-DE-AIRE
 
 B11. Nombres comunes en femenino
 
@@ -246,9 +262,9 @@ Usa la marca +MUJER para referirte a mujeres detrás de la glosa en masculino:
 Salvo que la palabra sea "mujer" o "mujeres" o "mamá" o "mamás", en cuyo caso se deja como está:
 
 - mujer -> MUJER
-- mujeres -> MUJERES
+- mujeres -> MUJERE
 - mamá -> MAMÁ
-- mamás -> MAMÁS
+- mamás -> MAMÁ
 - enfermera -> ENFERMERA
 - enfermeras -> ENFERMERA
 
@@ -282,23 +298,29 @@ B15. Los sintagmas en español con estructura N1 de N2 se traducen a glosas de l
 
 Si la relación es de parentesco o relación personal, el orden preferente es PERSONA + RELACIÓN: 
 
- - amigo de Juana -> DM-JUANA AMIGO 
+ - amigo de Juana -> dm-JUANA AMIGO 
 
 Si la relación es de parte-todo / atributo / elemento asociado, el orden preferente es N2 + N1: 
 
- - colores de la bandera -> BANDERA COLOR 
+ - colores de la bandera -> BANDERA COLOR
+ - azotea de la casa -> CASA AZOTEA
+ - número del grupo -> GRUPO NÚMERO
+ - nombre de Adán -> ADÁN NOMBRE
 
 Si la relación es de cargo / institución vinculada a lugar, el orden preferente es LUGAR + N1: 
 
  - presidente de México -> MÉXICO PRESIDENTE 
+ - biblioteca de México -> MÉXICO BIBLIOTECA
 
 Si la relación es de materia, el orden preferente es N1 + MATERIAL: 
 
  - corona de oro -> CORONA ORO 
+ - mesa de fierro -> FIERRO MESA
 
 Si la relación es de tema / contenido / especialidad, el orden preferente es N1 + N2: 
 
- - libro de matemáticas -> LIBRO MATEMÁTICAS 
+ - libro de matemáticas -> LIBRO MATEMÁTICAS
+ - cena de Navidad -> CENA NAVIDAD
 
 Si la relación es de tipo / finalidad / compuesto lexicalizado, usa compuesto fijo si existe: 
 
@@ -306,11 +328,12 @@ Si la relación es de tipo / finalidad / compuesto lexicalizado, usa compuesto f
 
 Si la relación es de autoría / asociación con nombre propio, el orden preferente es N1 + NOMBRE PROPIO: 
 
- - mural de Diego Rivera -> MURAL DM-DIEGO-RIVERA 
+ - mural de Diego Rivera -> MURAL dm-DIEGO-RIVERA 
 
 Si la relación es de ubicación, el orden preferente = N1 + LUGAR, usa DENTRO si hace falta:   
 
- - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO 
+ - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO
+ - metro de Chabacano -> METRO CHABACANO
 
 Usa SU solo si la posesión debe hacerse explícita. 
 Usa `dm-` con nombres propios de persona cuando sea apropiado. 
@@ -369,6 +392,8 @@ Usa verbo desnudo o con partícula modal/cortesía:
 - TÚ BASURA TIRAR
 
 C6. Enumeraciones y secuencias
+
+Elimina las conjunciones coordinantes, tanto "y" como "e", como "o" y "u".
 
 Reduce conectores españoles si no son esenciales.
 

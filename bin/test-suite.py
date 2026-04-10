@@ -61,7 +61,7 @@ if __name__ == "__main__":
     parser.add_argument("--base_url", type=str, default="http://192.168.3.121:11434/v1")
     parser.add_argument("--model_name", type=str, default="gemma4:31b")
     parser.add_argument("--reasoning_effort", type=str, default="medium")
-    parser.add_argument("--prompt", type=str, default="data/prompt3.txt")
+    parser.add_argument("--prompt", type=str, default="data/MSLG2SPA.txt"
     parser.add_argument("--test_suite", type=str, default="data/MSLG_SPA_train.csv")
     parser.add_argument("--seed", type=int, default=42) 
     parser.add_argument("--max_tokens", type=int, default=10024)

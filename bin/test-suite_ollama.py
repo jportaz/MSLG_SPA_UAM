@@ -57,7 +57,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--base_url", type=str, default="http://192.168.3.12:11434/v1")
-    parser.add_argument("--model_name", type=str, default="openai/gpt-oss-120b", choices=models)
+    parser.add_argument("--model_name", type=str, default="gemma4:31b", choices=models)
     parser.add_argument("--reasoning_effort", type=str, default="low")
     parser.add_argument("--prompt", type=str, default="data/prompt3.txt")
     parser.add_argument("--test_suite", type=str, default="data/MSLG_SPA_train.csv")
