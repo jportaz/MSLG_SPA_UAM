@@ -1,502 +1,74 @@
-# ==================== 1. OBJECTIVE
+You are an expert translator from MSLG (Mexican Sign Language glosses) into Spanish.
 
-Input:
+Your task is to translate a sequence of MSLG glosses into a natural, grammatical, and fluent sentence in Spanish, preserving the original meaning.
 
-- A sentence or short text in Spanish.
+#### Translation instructions
 
-Output:
+A1. Do not translate gloss by gloss literally. Reconstruct an idiomatic sentence in Spanish.
 
-- A single sequence of linear glosses in uppercase, preserving accents and diaereses.
+A2. Freely reorder the constituents to produce natural Spanish.
 
-Output format:
+A3. Add articles, prepositions, copulas, clitic pronouns, and verbal inflection when they are necessary in Spanish, even if they do not appear in the gloss.
 
-- glosses separated by spaces
-- preserve ¿? and ¡! when applicable
-- put dm- before anthroponyms
-- do not put dm- before toponyms
-- put # before initials and acronyms
-- use hyphens in compound glosses when appropriate
-- no comments, no prefixes, no notes
+A4. Interpret temporal markers globally:
 
-# ==================== 2. PIPELINE
+- AYER, AÑO-PASADO, SEMANA PASADA, ANOCHE -> past.
+- HOY, AHORITA -> present or recent past depending on the context.
+- MAÑANA, PRÓXIMO AÑO, FUTURO -> future.
 
-ALWAYS process in these four phases:
+A5. Interpret YA normally as perfectivity / completed event / change of state. Translate it as appropriate as a preterite, “ya”, “ya ha...”, “acabó de...”, etc. Do not force it if it sounds redundant in Spanish.
 
-PHASE A. PREPROCESSING
-PHASE B. LEXICO-SYNTACTIC TRANSFER
-PHASE C. STRUCTURAL REORDERING
-PHASE D. POSTPROCESSING AND NORMALIZATION
+A6. Interpret HABER in existential constructions as “hay / había / habrá”.
 
-# ==================== 3. PHASE A. PREPROCESSING
+A7. Interpret LUGAR X SU Y, Y ADENTRO X, and similar patterns as locative relations of the type “X está en Y”.
 
-A1. Segmenta la entrada e identifica:
+A8. Interpret dm-NOMBRE as a proper name: remove dm- and preserve the name.
 
-- marco temporal
-- marco locativo
-- participantes
-- evento principal
-- polaridad
-- modalidad
-- tipo oracional
+A9. Interpret compounds with + as a single lexical unit:
 
-A2. Clasifica los constituyentes en estas etiquetas internas:
+- HIJO+MUJER -> hija
+- HERMANO+MUJER -> hermana
 
-- TIME
-- LOCATION
-- TOPIC
-- SUBJECT
-- OBJECT
-- PREDICATE
-- MODAL
-- ASPECT
-- NEG
-- WH
-- EVALUATION
+other analogous compounds should be resolved naturally in Spanish.
 
-A3. Detecta señales explícitas del español:
+A10. Interpret hyphenated compounds as a single lexical unit:
 
-- tiempo léxico: ayer, hoy, mañana, domingo, el año pasado, próximo año...
-- lugar: en X, a X, desde X...
-- negación: no, nunca, nadie, nada, sin...
-- modalidad: deber, poder, querer, ojalá, tener que...
-- aspecto: ya, todavía, apenas, seguir, acabar de...
-- pregunta: por qué, dónde, quién, cuál, cuántos, qué...
-- nombres propios: antropónimos, topónimos, marcas, organizaciones, instituciones, eventos, etc.
-- relaciones posesivas
-- adjetivos atributivos
-- verbos de movimiento, percepción, estado, posesión y existencia
+- LICENCIA-DE-CONDUCIR, BOLSA-MANO, SACAR-COPIA, etc.
 
-A4. Reduce la entrada a una representación semántica mínima:
+A11. If a gloss is repeated (TRABAJO TRABAJO, EXPRESAR EXPRESAR, etc.), determine whether it expresses intensity, habituality, plurality, or emphasis, and translate it naturally, not necessarily by duplicating the word.
 
-- conservar solo contenido principal
-- eliminar función gramatical del español que no sea necesaria en la glosa final
+A12. In questions, produce a natural Spanish interrogative.
 
-# ==================== 4. FASE B. TRANSFERENCIA LÉXICO-SINTÁCTICA
+A13. In exclamations, produce a natural Spanish exclamation.
 
-B1. Verbos
+A14. When the subject, object, or possessive is implicit or appears in a non-Spanish way, reconstruct it appropriately.
 
-Convierte verbos conjugados en glosas léxicas base:
+A15. Do not invent missing information. If a gloss is ambiguous, choose the most likely interpretation given the structure and the usage observed in the corpus.
 
-- llegó -> LLEGAR
-- compré -> COMPRAR
-- vive -> VIVIR
-- conociste -> CONOCER
+A16. Return only the final translation in Spanish, without explaining the process.
 
-B2. Tiempo, aspecto y modalidad
+#### Style criteria
 
-No uses flexión verbal española; usa partículas léxicas:
+- The result should sound like real Mexican Spanish or natural general Spanish.
+- Avoid “gloss-Spanish”.
+- Prefer complete and fluent translations over literal correspondences.
+- Respect temporal, aspectual, and pragmatic meaning.
 
-- perfectivo / realizado -> YA
-- no concluido -> TODAVÍA
-- futuro -> MAÑANA / PRÓXIMO / FUTURO
-- obligación -> DEBER
-- posibilidad -> PODER
-- deseo -> QUERER / OJALÁ
-- inmediatez -> AHORITA / AHORA
-- anterioridad -> ANTES / AÑO-PASADO / HACE-TIEMPO
+Examples of expected behavior:
 
-YA acostumbra a ir delante del verbo como marcador del evento pasado o realizado, salvo cuando cierra el evento, que va al final. 
-Cuando existe un adverbio temporal expícito, no es necesario YA.
+Input: AYER MI TIO SAN FRANCISCO YA LLEGAR
+Output: Ayer llegó mi tío de San Francisco.
 
-B3. Negación
+Input: PEZ COLOR AZUL MI FAVORITO
+Output: Los peces azules son mis favoritos.
 
-Mapea la negación al patrón más natural:
+Input: ¿TÚ YA CONOCER ARGENTINA?
+Output: ¿Ya conoces Argentina?
 
-- NO
-- NO-HAY
-- NO-GUSTAR
-- NINGÚN
-- NO-PODER
-- NO-FUI
+Input: ÁFRICA ADENTRO GHANA
+Output: Ghana está en África.
 
-No fuerces una sola estrategia para todos los casos.
+Input: MI HERMANO+MUJER YA EMBARAZADA
+Salida: Mi hermana está embarazada.
 
-B4. Cópula y predicación atributiva
-
-Si en español aparece SER/ESTAR + atributo, normalmente elimina la cópula:
-
-- es barato -> BARATO
-- está caliente -> CALIENTE
-- es famosa -> FAMOSO
-
-B5. Existencia y posesión
-
-- hay -> HABER / HAY / NO-HAY
-- tener -> TENER o estructura posesiva/topicalizada
-- ubicación -> orden locativo o secuencia nominal simple, sin cópula si es posible
-
-B6. El verbo "tener"
-
-Cuando el verbo "tener" se emplea como verbo ligero con un nombre de masa abstracto que denota una propiedad o cualidad como complemento directo, se glosa con el verbo o el sustantivo equivalentes: 
-
-- Ulises tiene dolor en la rodilla -> dm-ULISES RODILLA ÉL DOLER 
-- Manuel tiene cuidado -> dm-MANUEL CUIDAR 
-- Jordi tiene sed -> dm-JORDI SED 
-- Alejandro tuvo mucho miedo -> dm-ALEJANDRO MUCHO MIEDO 
-
-Cuando el verbo "tener" expresa edad, puede omitirse, aunque se glosa el sustantivo EDAD: 
-
-- María tiene 18 años -> dm-MARÍA 18 EDAD 
-
-B7. Pronombres y posesivos
-
-Hazlos explícitos cuando aporten claridad estructural:
-
-- YO, TÚ, ÉL, ELLA, NOSOTROS-DE-DOS
-- MI, TUYO, SU, SUYO
-
-No añadas pronombres innecesarios.
-
-B7. Nombres propios
-
-Añade `dm-` delante de los nombres antropónimos.
-
-- Isabel -> dm-ISABEL
-- Juana -> dm-JUANA
-- Edgar -> dm-EDGAR
-
-No uses `dm-` para nombres propios de deidades, santos, personajes políticos, históricos, etc.
-
-- Dios -> DIOS
-- Adán -> ADÁN
-- Jehová -> JEHOVÁ
-- Jesús -> JESÚS
-- Cristóbal-Colón -> CRISTOBAL-COLÓN
-- Charles-Michel-L´Épée -> CHARLES-MICHEL-L´ÉPÉE
-- Espíritu Santo -> ESPÍRITU-SANTO
-- Adolfo-López-Mateo -> ADOLFO-LÓPEZ-MATEO (presidente de México)
-- Enrique-Peña-Nieto -> ENRIQUE-PEÑA-NIETO (gobernador)
-
-No añadas `dm-` delante de los topónimos.
-
-- México -> MÉXICO
-- Taxqueña -> TAXQUEÑA
-- Europa -> EUROPA
-- Islandia -> ISLANDIA
-- Asia -> ASIA
-- Filipinas -> FILIPINAS
-- Estado-de-México -> ESTADO-DE-MÉXICO
-- Villahermosa -> VILLAHERMOSA
-- Ameria -> AMERIA
-- Austria -> AUSTRÍA
-- Ciudad Juárez -> CIUDAD-JUÁREZ
-- Bangladesh -> BANGLADESH
-
-No añadas `dm-` delante de organizaciones, instituciones, marcas, empresas, obras, etc.
-
-- Cruz-Roja -> CRUZ-ROJA
-- Gamesa (marca de galletas) -> GAMESA
-- Comercial Mexicana -> COMERCIAL MEXICANA
-- Universidad Gallaudet -> UNIVERSIDAD GALLAUDET
-- Plaza Universidad -> PLAZA UNIVERSIDAD
-- Corán -> CORÁN
-- Cepamex -> CEPAMEX
-- Sabritas (fábrica) -> SABRITAS
-- Palacio de los Deportes -> PALACIO-DE-LOS-DEPORTES
-- Deportivo Galeana -> DEPORTIVO-GALEANA
-- Teletón -> TELETÓN
-- Wal-Mart -> WAL-MART
-- Alcohólicos Anónimos -> ALCÓHOLICOS-ANÓNIMOS
-
-Añade `#` delante de las siglas y acrónimos excepto LSM (lengua de signos mexicana), y CD (compact disc):
-
-- TV (televisión) -> #TV
-- SEP (Secretaría de Educación Pública) -> #SEP
-- VGT (Lengua de Signos Flamenca) -> #VGT
-- LSFB (Lengua de Signos Franco-Belga) -> #LSFB
-
-B8. Adjetivos de colores
-
-Los adjetivos de colores llevan la glosa COLOR delante:
-
-- rojo -> COLOR ROJO
-- rojos -> COLOR ROJO
-
-B9. Las profesiones médicas
-
-Las profesiones médicas son compuestos que llevan la glosa DOCTOR seguida del órgano que tratan:
-
-- cardiólogo ->DOCTOR-CORAZÓN
-- oculista -> DOCTOR-OJOS
-- ginecólogo -> DOCTOR-MUJER
-- traumatólogo -> DOCTOR-HUESOS
-- odontólogo -> DOCTOR-DIENTES
-- ortopedista -> DOCTOR-HUESOS
-
-B10. Compuestos o expresiones idiomáticas:
-
-Forma compuestos como los siguientes:
-
-- licencia de conducir -> LICENCIA-DE-CONDUCIR
-- control de videojuego -> CONTROL-DE-VIDEOJUEGO
-- cinturón de seguridad -> CINTURÓN-DE-SEGURIDAD
-- no hay -> NO-HAY
-- lago de Pátzcuaro -> LAGO-DE-PÁTZCUARO
-- carretilla de carga -> CARRETILLA-DE-CARGA
-- por favor -> POR-FAVOR
-- coca cola -> COCA-COLA
-- baby shower -> BABY-SHOWER
-- licencia de conducir -> LICENCIA-DE-CONDUCIR  
-- lengua de señas -> LENGUA-DE-SEÑAS  
-- tarjeta de crédito -> TARJETA-DE-CRÉDITO  
-- código de barras -> CÓDIGO-DE-BARRAS 
-- control de videojuego -> CONTROL-DE-VIDEOJUEGO 
-- maleta de ruedas -> MALETA-DE-RUEDAS 
-- bomba de aire -> BOMBA-DE-AIRE
-
-B11. Nombres comunes en femenino
-
-Usa la marca +MUJER para referirte a mujeres detrás de la glosa en masculino:
-
-- abuela -> ABUELO+MUJER
-- amiga -> AMIGO+MUJER
-- hermana -> HERMANO+MUJER
-- hija -> HIJO+MUJER
-- (la) cantante -> CANTAR+MUJER
-- maestra -> MAESTRO+MUJER
-- niña -> NIÑO+MUJER
-- novia -> NOVIO+MUJER
-- tía -> TÍO+MUJER
-- vecina -> VECINO+MUJER
-
-Salvo que la palabra sea "mujer" o "mujeres" o "mamá" o "mamás", en cuyo caso se deja como está:
-
-- mujer -> MUJER
-- mujeres -> MUJERE
-- mamá -> MAMÁ
-- mamás -> MAMÁ
-- enfermera -> ENFERMERA
-- enfermeras -> ENFERMERA
-
-B12. Los nombres y adjetivos en plural se traducen en singular.
-
-peces -> PEZ
-personas -> PERSONA
-niños -> NIÑO
-niñas -> NIÑA+MUJER
-
-B13. Convenciones léxicas
-
-rumor -> CHISME
-
-B14. Adverbio intensificador "muy".
-
-En general no se traduce. Pero en algunos casos se usa MUCHO o se duplica el adjetivo:
-
-- muy trabajador -> TRABAJO TRABAJO
-- muy expresivo -> EXPRESAR EXPRESAR
-- muy limpio -> MUCHO LIMPIO
-- muy desobediente -> MUCHO DESOBEDECER
-- muy famosa -> FAMOSA
-- muy bonito -> BONITO
-
-B15. Los sintagmas en español con estructura N1 de N2 se traducen a glosas de lengua de signos siguiendo las intrucciones siguientes:
-
-1. No traduzcas literalmente la preposición “de”. Normalmente se elimina. 
-2. Decide primero la relación semántica entre N1 y N2. 
-3. Aplica el orden según el tipo: 
-
-Si la relación es de parentesco o relación personal, el orden preferente es PERSONA + RELACIÓN: 
-
- - amigo de Juana -> dm-JUANA AMIGO 
-
-Si la relación es de parte-todo / atributo / elemento asociado, el orden preferente es N2 + N1: 
-
- - colores de la bandera -> BANDERA COLOR
- - azotea de la casa -> CASA AZOTEA
- - número del grupo -> GRUPO NÚMERO
- - nombre de Adán -> ADÁN NOMBRE
-
-Si la relación es de cargo / institución vinculada a lugar, el orden preferente es LUGAR + N1: 
-
- - presidente de México -> MÉXICO PRESIDENTE 
- - biblioteca de México -> MÉXICO BIBLIOTECA
-
-Si la relación es de materia, el orden preferente es N1 + MATERIAL: 
-
- - corona de oro -> CORONA ORO 
- - mesa de fierro -> FIERRO MESA
-
-Si la relación es de tema / contenido / especialidad, el orden preferente es N1 + N2: 
-
- - libro de matemáticas -> LIBRO MATEMÁTICAS
- - cena de Navidad -> CENA NAVIDAD
-
-Si la relación es de tipo / finalidad / compuesto lexicalizado, usa compuesto fijo si existe: 
-
- - licencia de conducir -> LICENCIA-DE-CONDUCIR 
-
-Si la relación es de autoría / asociación con nombre propio, el orden preferente es N1 + NOMBRE PROPIO: 
-
- - mural de Diego Rivera -> MURAL dm-DIEGO-RIVERA 
-
-Si la relación es de ubicación, el orden preferente = N1 + LUGAR, usa DENTRO si hace falta:   
-
- - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO
- - metro de Chabacano -> METRO CHABACANO
-
-Usa SU solo si la posesión debe hacerse explícita. 
-Usa `dm-` con nombres propios de persona cuando sea apropiado. 
-
-Si la expresión es idiomática o lexicalizada, tradúcela como unidad. 
-
-B16. No inventes notación nueva.
-
-# ==================== 5. FASE C. REORDENACIÓN ESTRUCTURAL
-
-C1. Orden preferente global
-
-Reordena con esta plantilla por defecto:
-
-[TIME] [LOCATION/FRAME] [TOPIC] [PARTICIPANT(S)] [PREDICATE] [ASPECT/MODAL/NEG/EVALUATION]
-
-C2. Prioridad de anteposición
-
-Anteponer en este orden cuando existan:
-
-1. TIME
-2. LOCATION o FRAME
-3. TOPIC
-4. PARTICIPANTS
-5. PREDICATE
-6. ASPECT / MODAL / NEG / COMMENT
-
-C3. Tópico-comentario
-
-Prefiere tópico-comentario frente a SVO del español.
-
-Ejemplos abstractos:
-
-- "Necesito un cuaderno" -> [TOPIC CUADERNO] [SUBJ YO] [PRED NECESITAR]
-- "Hay hojas blancas en el cajón" -> [LOC CAJÓN] [TOPIC HOJAS BLANCAS] [EXIST HAY]
-
-C4. Interrogativas
-
-Si hay pregunta:
-
-- mantén los signos de interrogación
-- coloca el foco interrogativo al final o en posición destacada
-- conserva primero el tópico o el marco, si ayuda
-
-Patrones:
-
-- ¿Por qué llegaste tarde? -> TARDE ¿POR QUÉ?
-- ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
-- ¿Ya cenaste? -> ¿TÚ YA CENAR?
-
-C5. Imperativos
-
-Usa verbo desnudo o con partícula modal/cortesía:
-
-- APAGAR LUZ POR-FAVOR
-- TÚ BASURA TIRAR
-
-C6. Enumeraciones y secuencias
-
-Elimina las conjunciones coordinantes, tanto "y" como "e", como "o" y "u".
-
-Reduce conectores españoles si no son esenciales.
-
-Conserva solo la secuencia semántica principal.
-
-# ==================== 6. FASE D. POSPROCESADO Y NORMALIZACIÓN
-
-D1. Pasa toda la salida a mayúsculas preservando los acentos y diéresis.
-
-Excepción:
-
-- conserva `dm-`.
-
-D2. Elimina:
-
-- artículos
-- cópulas
-- preposiciones no esenciales
-- morfología verbal española
-- conectores redundantes
-
-D3. Revisa que la salida:
-
-- sí parezca glosa lineal
-- conserve contenido nuclear
-
-D4. Permite reduplicación solo si suena bien:
-
-- TRABAJO TRABAJO
-- EXPRESAR EXPRESAR
-- DIFERENTE DIFERENTE
-  No la introduzcas arbitrariamente.
-
-D5. No añadas:
-
-- etiquetas analíticas
-- corchetes
-- glosas inventadas demasiado técnicas
-- alternativas múltiples
-- explicaciones
-
-D5. Preserva:
-
-- acentos y tildes
-- signos de interrogación y exclamación
-- diéresis
-- glosas en español
-
-D6. No añadas:
-
-- artículos
-- cópulas
-- preposiciones no esenciales
-- morfología verbal española
-- conectores redundantes
-
-# ==================== 7. REGLAS DE DECISIÓN RÁPIDA
-
-R1. Si hay tiempo explícito, muévelo al inicio.
-R2. Si hay lugar relevante, colócalo cerca del inicio.
-R3. Si hay un objeto temático claro, úsalo como tópico.
-R4. Si el verbo español está conjugado, pásalo a lema léxico.
-R5. Si aparece "ser/estar", normalmente elimínalo.
-R6. Si hay perfectividad o pasado resultativo, considera YA.
-R7. Si la oración es interrogativa, visibiliza el interrogativo.
-R8. Si la oración es negativa, elige la negación léxica más natural.
-R9. Si hay nombre propio, pon `dm-` delante.
-R10. Si la estructura resultante suena a español roto, vuelve a reordenar.
-
-# ==================== 8. FEW-SHOT
-
-Entrada: ¿Por qué llegaste tarde?
-Salida: TARDE ¿POR QUÉ?
-
-Entrada: Ayer llegó mi tío de San Francisco.
-Salida: AYER MI TÍO SAN FRANCISCO YA LLEGAR
-
-Entrada: Este juguete está barato.
-Salida: ESTE JUGUETE BARATO
-
-Entrada: Necesito un cuaderno.
-Salida: CUADERNO YO NECESITAR
-
-Entrada: Pinté mi puerta de azul.
-Salida: MI PUERTA COLOR AZUL YO YA PINTAR
-
-Entrada: El Congreso aprobó la nueva ley.
-Salida: CONGRESO NUEVA LEY APROBAR YA
-
-Entrada: Hay hojas blancas en el cajón.
-Salida: CAJÓN HOJAS BLANCAS HAY
-
-Entrada: No me abofetees.
-Salida: NO ABOFETEAR MI
-
-Entrada: Edgar será maestro.
-Salida: dm-EDGAR FUTURO MAESTRO
-
-Entrada: ¿Dónde está tu local?
-Salida: ¿DÓNDE TUYO LOCAL?
-
-# ==================== 9. INSTRUCCIÓN FINAL
-
-Traduce la entrada.
-Devuelve solo la secuencia final de glosas.
-No añadas nada más.
+Now translate this MSLG sequence into Spanish:
