@@ -36,7 +36,7 @@ def send_code_to_vllm(
             reasoning_effort=reasoning_effort,
             seed=seed,
         )
-        return response.choices[0].message.content
+        return response.choices[0].message
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
@@ -61,10 +61,11 @@ if __name__ == "__main__":
     parser.add_argument("--base_url", type=str, default="http://192.168.3.121:11434/v1")
     parser.add_argument("--model_name", type=str, default="gemma4:31b")
     parser.add_argument("--reasoning_effort", type=str, default="medium")
-    parser.add_argument("--prompt", type=str, default="data/MSLG2SPA.txt"
+    parser.add_argument("--prompt", type=str, default="data/SPA2MSLG.1.txt")
     parser.add_argument("--test_suite", type=str, default="data/MSLG_SPA_train.csv")
     parser.add_argument("--seed", type=int, default=42) 
     parser.add_argument("--max_tokens", type=int, default=10024)
+    parser.add_argument("--reverse", action="store_true")
     args = parser.parse_args()
 
     import sys
@@ -83,6 +84,8 @@ if __name__ == "__main__":
     with open(args.test_suite, "r") as f:
         test_suite = csv.reader(f)
         for row in test_suite:
+            if args.reverse:
+                row = [row[0], row[2], row[1]]
             print("I:", row[0])
             print("S:", row[1])
             print("T:", row[2])
@@ -101,8 +104,12 @@ if __name__ == "__main__":
             )
             #if result:
             #    result = result.strip().upper()
+            reasoning = result.reasoning
+            result = result.content
             print("-:" if not result or result.lower().strip() != row[2].lower().strip() else "+:", result)
             print()
+            print(reasoning)
+            print("--------------------------------------------\n")
             sys.stdout.flush()
             if result and result.lower().strip() == row[2].lower().strip():
                 hits += 1
