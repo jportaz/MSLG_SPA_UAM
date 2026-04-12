@@ -90,7 +90,7 @@ if __name__ == "__main__":
             print("S:", row[1])
             print("T:", row[2])
             system_prompt = prompt
-            user_prompt = "Entrada: {input}\nSalida: ".format(input=row[1].strip())
+            user_prompt = "Input: {input}\nOutput: ".format(input=row[1].strip())
             #print(system_prompt)
             #print(user_prompt)
             result = send_code_to_vllm(
@@ -108,7 +108,10 @@ if __name__ == "__main__":
             result = result.content
             print("-:" if not result or result.lower().strip() != row[2].lower().strip() else "+:", result)
             print()
+            print("Reasoning:")
             print(reasoning)
+            print()
+            print(f"Current hits: {hits}/{total}")
             print("--------------------------------------------\n")
             sys.stdout.flush()
             if result and result.lower().strip() == row[2].lower().strip():
