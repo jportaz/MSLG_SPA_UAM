@@ -12,9 +12,9 @@ A3. Añade artículos, preposiciones, copulativos, pronombres clíticos y flexi�
 
 A4. Interpreta los marcadores temporales globalmente:
 
-- AYER, AÑO-PASADO, SEMANA PASADA, ANOCHE → pasado.
-- HOY, AHORITA → presente o pasado reciente según el contexto.
-- MAÑANA, PRÓXIMO AÑO, FUTURO → futuro.
+- AYER, AÑO-PASADO, SEMANA PASADA, ANOCHE -> pasado.
+- HOY, AHORITA -> presente o pasado reciente según el contexto.
+- MAÑANA, PRÓXIMO AÑO, FUTURO -> futuro.
 
 A5. Interpreta YA normalmente como perfectividad / evento completado / cambio de estado. Tradúcelo según convenga como pretérito, “ya”, “ya ha...”, “acabó de...”, etc. No lo fuerces si en español suena redundante.
 
@@ -26,8 +26,8 @@ A8. Interpreta dm-NOMBRE como nombre propio: elimina dm- y conserva el nombre.
 
 A9. Interpreta compuestos con + como una sola unidad léxica:
 
-- HIJO+MUJER → hija
-- HERMANO+MUJER → hermana
+- HIJO+MUJER -> hija
+- HERMANO+MUJER -> hermana
 
 otros compuestos análogos deben resolverse de forma natural en español.
 

@@ -87,7 +87,7 @@ B2. Tense, aspect, and modality
 Do not use Spanish verbal inflection; use lexical particles:
 
 - perfective / completed -> YA
-- not completed -> TODAVÍA
+- not completed -> TODAVÍAex
 - future -> MAÑANA / PRÓXIMO / FUTURO
 - obligation -> DEBER
 - possibility -> PODER
@@ -140,7 +140,7 @@ When the verb "tener" expresses age, it may be omitted, although the noun EDAD i
 
 B7. Pronouns and possessives
 
-Make them explicit when they provide structural clarity:
+Make them explicit when they provide structural clarity or when are subjects or objects:
 
 - YO, TÚ, ÉL, ELLA, NOSOTROS-DE-DOS
 - MI, TUYO, SU, SUYO
@@ -161,11 +161,11 @@ Do not use `dm-` for names of deities, saints, political or historical figures, 
 - Adán -> ADÁN
 - Jehová -> JEHOVÁ
 - Jesús -> JESÚS
-- Cristóbal-Colón -> CRISTOBAL-COLÓN
-- Charles-Michel-L´Épée -> CHARLES-MICHEL-L´ÉPÉE
+- Cristóbal Colón -> CRISTOBAL-COLÓN
+- Charles-Michel L´Épée -> CHARLES-MICHEL-L´ÉPÉE
 - Espíritu Santo -> ESPÍRITU-SANTO
-- Adolfo-López-Mateo -> ADOLFO-LÓPEZ-MATEO (presidente de México)
-- Enrique-Peña-Nieto -> ENRIQUE-PEÑA-NIETO (gobernador)
+- Adolfo López Mateo -> ADOLFO-LÓPEZ-MATEO (presidente de México)
+- Enrique Peña Nieto -> ENRIQUE-PEÑA-NIETO (gobernador)
 
 Do not add `dm-` before toponyms.
 
@@ -243,6 +243,19 @@ Form compounds such as the following:
 - control de videojuego -> CONTROL-DE-VIDEOJUEGO 
 - maleta de ruedas -> MALETA-DE-RUEDAS 
 - bomba de aire -> BOMBA-DE-AIRE
+- correo electrónico -> CORREO-ELECTRÓNICO
+- acta de demanda -> ACTA-DEMANDA
+- olla exprés -> OLLA-EXPRÉS
+- cabello lácio -> CABELLO-LÁCIO
+- corona de olivo -> CORONA-OLIVO
+- me la vas a pagar -> ME-LA-VAS-A-APAGAR
+- llenar el formato -> LLENAR-FORMATO
+- no hay nadie -> NO-HAY-NADIE
+- poner gasolina -> PONER-GASOLINA
+- no te he visto -> NO-TE-HE-VISTO
+- sacar una copia -> SACAR-COPIA
+- él y yo -> DOS-DE-NOSOTROS
+- tú y yo -> DOS-DE-NOSOTROS
 
 B11. Feminine common nouns
 
@@ -270,14 +283,14 @@ Except when the word is "mujer" or "mujeres" or "mamá" or "mamás", in which ca
 
 B12. Plural nouns and adjectives are translated to their singular base form.
 
-peces -> PEZ
-personas -> PERSONA
-niños -> NIÑO
-niñas -> NIÑA+MUJER
+- peces -> PEZ
+- personas -> PERSONA
+- niños -> NIÑO
+- niñas -> NIÑA+MUJER
 
 B13. Lexical conventions
 
-rumor -> CHISME
+- rumor -> CHISME
 
 B14. Intensifying adverb "muy".
 
@@ -292,48 +305,48 @@ In general it is not translated. But in some cases MUCHO is used or the adjectiv
 
 B15. Spanish phrases with the structure N1 de N2 are translated into sign-language glosses following these instructions:
 
-1. Do not translate the preposition “de” literally. It is normally removed.
+1. Do not translate the preposition "de" literally. It is normally removed.
 2. First decide the semantic relation between N1 and N2.
 3. Apply the order according to the type:
 
 If the relation is kinship or personal relation, the preferred order is PERSON + RELATION:
 
- - amigo de Juana -> dm-JUANA AMIGO 
+- amigo de Juana -> dm-JUANA AMIGO 
 
 If the relation is part-whole / attribute / associated element, the preferred order is N2 + N1:
 
- - colores de la bandera -> BANDERA COLOR
- - azotea de la casa -> CASA AZOTEA
- - número del grupo -> GRUPO NÚMERO
- - nombre de Adán -> ADÁN NOMBRE
+- colores de la bandera -> BANDERA COLOR
+- azotea de la casa -> CASA AZOTEA
+- número del grupo -> GRUPO NÚMERO
+- nombre de Adán -> ADÁN NOMBRE
 
 If the relation is office / institution linked to a place, the preferred order is PLACE + N1:
 
- - presidente de México -> MÉXICO PRESIDENTE 
- - biblioteca de México -> MÉXICO BIBLIOTECA
+- presidente de México -> MÉXICO PRESIDENTE 
+- biblioteca de México -> MÉXICO BIBLIOTECA
 
 If the relation is material, the preferred order is N1 + MATERIAL:
 
- - corona de oro -> CORONA ORO 
- - mesa de fierro -> FIERRO MESA
+- corona de oro -> CORONA ORO 
+- mesa de fierro -> FIERRO MESA
 
 If the relation is topic / content / specialty, the preferred order is N1 + N2:
 
- - libro de matemáticas -> LIBRO MATEMÁTICAS
- - cena de Navidad -> CENA NAVIDAD
+- libro de matemáticas -> LIBRO MATEMÁTICAS
+- cena de Navidad -> CENA NAVIDAD
 
 If the relation is type / purpose / lexicalized compound, use a fixed compound if one exists:
 
- - licencia de conducir -> LICENCIA-DE-CONDUCIR 
+- licencia de conducir -> LICENCIA-DE-CONDUCIR 
 
 If the relation is authorship / association with a proper name, the preferred order is N1 + PROPER NAME:
 
- - mural de Diego Rivera -> MURAL dm-DIEGO-RIVERA 
+- mural de Diego Rivera -> MURAL dm-DIEGO-RIVERA 
 
 If the relation is location, preferred order = N1 + PLACE, use DENTRO if necessary:
 
- - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO
- - metro de Chabacano -> METRO CHABACANO
+- parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO
+- metro de Chabacano -> METRO CHABACANO
 
 Use SU only if possession must be made explicit.
 Use `dm-` with proper names of persons when appropriate.
@@ -370,13 +383,27 @@ Abstract examples:
 - "Necesito un cuaderno" -> [TOPIC CUADERNO] [SUBJ YO] [PRED NECESITAR]
 - "Hay hojas blancas en el cajón" -> [LOC CAJÓN] [TOPIC HOJAS BLANCAS] [EXIST HAY]
 
-C4. Interrogatives
+C4. Transitive verbs
+
+Participant order in transitive sentences is 
+
+- Object + Subject + Verb
+
+C5. Movement verbs
+
+Participant order in movement verbs is 
+
+- Destination/PLace + Subject + Verb
+
+C6. Questions and interrogatives
 
 If there is a question:
 
 - keep the question marks
 - place the interrogative focus at the end or in a prominent position
 - keep the topic or frame first if it helps
+- if the question is a yes/no question, add SÍ NO at the end.
+- ¿quieres venir? -> ¿TÚ VENIR? SÍ NO
 
 Patterns:
 
@@ -384,20 +411,21 @@ Patterns:
 - ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
 - ¿Ya cenaste? -> ¿TÚ YA CENAR?
 
-C5. Imperatives
+C7. Imperatives
 
 Use a bare verb or one with a modal/politeness particle:
 
 - APAGAR LUZ POR-FAVOR
 - TÚ BASURA TIRAR
 
-C6. Enumerations and sequences
+C8. Enumerations and sequences
 
 Remove coordinating conjunctions, both "y" and "e", and also "o" and "u".
 
 Reduce Spanish connectors if they are not essential.
 
 Keep only the main semantic sequence.
+
 
 # ==================== 6. PHASE D. POSTPROCESSING AND NORMALIZATION
 

@@ -270,14 +270,14 @@ Salvo que la palabra sea "mujer" o "mujeres" o "mamá" o "mamás", en cuyo caso 
 
 B12. Los nombres y adjetivos en plural se traducen en singular.
 
-peces -> PEZ
-personas -> PERSONA
-niños -> NIÑO
-niñas -> NIÑA+MUJER
+- peces -> PEZ
+- personas -> PERSONA
+- niños -> NIÑO
+- niñas -> NIÑA+MUJER
 
 B13. Convenciones léxicas
 
-rumor -> CHISME
+- rumor -> CHISME
 
 B14. Adverbio intensificador "muy".
 
