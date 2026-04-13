@@ -93,7 +93,7 @@ Do not use Spanish verbal inflection; use lexical particles:
 - possibility -> PODER
 - desire -> QUERER / OJALÁ
 - immediacy -> AHORITA / AHORA
-- anteriority -> ANTES / AÑO-PASADO / HACE-TIEMPO
+- anteriority -> ANTES / AÑO-PASADO / HACE-PASADO
 
 YA tends to go before the verb as a marker of a past or completed event, except when it closes the event, in which case it goes at the end.
 When there is an explicit temporal adverb, YA is not necessary.
@@ -291,6 +291,8 @@ B12. Plural nouns and adjectives are translated to their singular base form.
 B13. Lexical conventions
 
 - rumor -> CHISME
+- buenas noches -> buena noche
+- todos los días -> DIARIO
 
 B14. Intensifying adverb "muy".
 
@@ -353,7 +355,11 @@ Use `dm-` with proper names of persons when appropriate.
 
 If the expression is idiomatic or lexicalized, translate it as a unit.
 
-B16. Do not invent new notation.
+B16. Adverbios
+
+- anoche -> AYER NOCHE
+
+B17. Do not invent new notation.
 
 # ==================== 5. PHASE C. STRUCTURAL REORDERING
 

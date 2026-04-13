@@ -1,25 +1,21 @@
-model=openai/gpt-oss-20b
-
-all:
+model=gemma4:31b
 
 help:
-	@echo "make ..."
+	@echo "make SPA2MSLG"
+	@echo "make MSLG2SPA"
 
-test1:
+SPA2MSLG:
 	python bin/test-suite.py \
 		--model $(model) \
-		--test_suite data/test-suite1.csv \
-	| tee results/test-suite1.out.txt
+		--test_suite data/MSLG_SPA_train.csv \
+		--prompt data/SPA2MSLG.2.txt \
+	| tee results/SPA2MSLG.5.txt 
 
-test2:
+MSLG2SPA:
 	python bin/test-suite.py \
 		--model $(model) \
-		--test_suite data/test-suite2.csv \
-	| tee results/test-suite2.out.txt
-
-esp-lsm:
-	python bin/test-suite.py \
-		--model $(model) \
-		--test_suite data/esp-lsm_glosses_corpus.csv \
-	| tee results/esp-lsm_glosses_corpus.out.txt
+		--test_suite data/MSLG_SPA_train.csv \
+		--reverse \
+		--prompt data/MSLG2SPA.2.txt \
+	| tee results/MSLG2SPA.5.txt 
 
