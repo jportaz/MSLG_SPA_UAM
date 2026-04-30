@@ -87,7 +87,7 @@ B2. Tense, aspect, and modality
 Do not use Spanish verbal inflection; use lexical particles:
 
 - perfective / completed -> YA
-- not completed -> TODAVÍAex
+- not completed -> TODAVÍA
 - future -> MAÑANA / PRÓXIMO / FUTURO
 - obligation -> DEBER
 - possibility -> PODER
