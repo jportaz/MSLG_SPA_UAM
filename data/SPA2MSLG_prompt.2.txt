@@ -454,9 +454,17 @@ Participant order in transitive sentences is
 
 C5. Movement verbs
 
-Participant order in movement verbs is 
+Default participant order in movement verbs is:
 
-- Destination/PLace + Subject + Verb
+- [TIME] SUBJECT MOVEMENT-VERB LOCATION (PURPOSE)
+
+If there is topicalizacion then the order is:
+
+- [TIME] LOCATION SUBJECT MOVEMENT-VERB (PURPOSE)
+
+sometimes it appears as:
+
+- [TIME] SUBJECT PURPOSE MOVEMENT-VERB (LOCATION)
 
 C6. Questions and interrogatives
 
