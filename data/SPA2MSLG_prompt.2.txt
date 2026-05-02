@@ -117,7 +117,9 @@ Do not force a single strategy for all cases.
 
 B4. Copula and attributive predication
 
-If Spanish uses SER/ESTAR + attribute, normally remove the copula:
+If Spanish uses SER/ESTAR + attribute, normally remove the copula.
+
+Examples:
 
 - es barato -> BARATO
 - está caliente -> CALIENTE
@@ -131,14 +133,18 @@ B5. Existence and possession
 
 B6. The verb "tener"
 
-When the verb "tener" is used as a light verb with an abstract mass noun denoting a property or quality as direct object, gloss it with the equivalent verb or noun:
+When the verb "tener" is used as a light verb with an abstract mass noun denoting a property or quality as direct object, gloss it with the equivalent verb or noun.
+
+Examples:
 
 - Ulises tiene dolor en la rodilla -> dm-ULISES RODILLA ÉL DOLER 
 - Manuel tiene cuidado -> dm-MANUEL CUIDAR 
 - Jordi tiene sed -> dm-JORDI SED 
 - Alejandro tuvo mucho miedo -> dm-ALEJANDRO MUCHO MIEDO 
 
-When the verb "tener" expresses age, it may be omitted, although the noun EDAD is glossed:
+When the verb "tener" expresses age, it may be omitted, although the noun EDAD is glossed.
+
+Example:
 
 - María tiene 18 años -> dm-MARÍA 18 EDAD 
 
@@ -161,6 +167,8 @@ Add `dm-` before anthroponymic names.
 
 Do not use `dm-` for names of deities, saints, political or historical figures, etc.
 
+Examples:
+
 - Dios -> DIOS
 - Adán -> ADÁN
 - Jehová -> JEHOVÁ
@@ -172,6 +180,8 @@ Do not use `dm-` for names of deities, saints, political or historical figures, 
 - Enrique Peña Nieto -> ENRIQUE-PEÑA-NIETO (gobernador)
 
 Do not add `dm-` before toponyms.
+
+Examples:
 
 - México -> MÉXICO
 - Taxqueña -> TAXQUEÑA
@@ -200,7 +210,7 @@ Do not add `dm-` before organizations, institutions, brands, companies, works, e
 - Deportivo Galeana -> DEPORTIVO-GALEANA
 - Teletón -> TELETÓN
 - Wal-Mart -> WAL-MART
-- Alcohólicos Anónimos -> ALCÓHOLICOS-ANÓNIMOS
+- Alcohólicos Anónimos -> ALCOHÓLICOS-ANÓNIMOS
 
 Add `#` before initials and acronyms except LSM (lengua de signos mexicana) and CD (compact disc):
 
@@ -443,30 +453,56 @@ Prefer topic-comment over Spanish SVO order.
 
 Abstract examples:
 
-- "Necesito un cuaderno" -> [TOPIC CUADERNO] [SUBJ YO] [PRED NECESITAR]
-- "Hay hojas blancas en el cajón" -> [LOC CAJÓN] [TOPIC HOJAS BLANCAS] [EXIST HAY]
+- Necesito un cuaderno -> [TOPIC CUADERNO] [SUBJ YO] [PRED NECESITAR]
+- Hay hojas blancas en el cajón -> [LOC CAJÓN] [TOPIC HOJAS BLANCAS] [EXIST HAY]
 
 C4. Transitive verbs
 
-Participant order in transitive sentences is 
+Default participant order in transitive sentences is: 
 
-- Object + Subject + Verb
+[SUBJECT] [OBJECT] [VERB]
 
-C5. Movement verbs
+C5. Movement verbs (ir, venir, etc.)
 
 Default participant order in movement verbs is:
 
-- [TIME] SUBJECT MOVEMENT-VERB LOCATION (PURPOSE)
+[TIME] [SUBJECT] [MOVEMENT-VERB] [LOCATION] ([PURPOSE])
 
-If there is topicalizacion then the order is:
+Examples:
 
-- [TIME] LOCATION SUBJECT MOVEMENT-VERB (PURPOSE)
+- Ayer fui a la galería -> AYER YO YA IR GALERÍA
+- Voy al baño -> YO IR BAÑO
+- Frecuentemente voy al cine -> FRECUENTEMENTE YO IR CINE
 
-sometimes it appears as:
+If the location is topicalized then the order is:
 
-- [TIME] SUBJECT PURPOSE MOVEMENT-VERB (LOCATION)
+[TIME] [LOCATION] [SUBJECT] [MOVEMENT-VERB] ([PURPOSE])
 
-C6. Questions and interrogatives
+Examples:
+
+- Al baño voy a lavarme -> BAÑO YO IR LAVAR
+- El domingo, a la iglesia me iré a confesar -> DOMINGO IGLESIA YO IR CONFESAR
+
+C6. Clitic doubling rule
+
+When Spanish contains clitic doubling, do not translate the clitic as an extra sign.
+Recover the semantic role expressed by the clitic and the doubled phrase.
+
+For dative/experiencer constructions such as "gustar", "encantar", "faltar":
+
+- The doubled phrase introduced by "a" is the experiencer.
+- Express that experiencer explicitly in MSLG with the corresponding NP or pronoun.
+- Do not add a separate sign for "le"/"me"/"te".
+- A reinforcing pronoun/index may appear after the NP, especially with third persons.
+
+Examples:
+
+- A Mariana le gusta bailar -> dm-MARIANA BAILAR ELLA GUSTAR
+- A mí no me gusta el alcohol -> ALCOHOL YO NO-GUSTAR
+- Le regalé un cinturón a mi papá -> MI PAPÁ CINTURÓN YO REGALAR ÉL
+- Te confundo a ti y a tu mamá -> YO CONFUNDIR TI TU MAMÁ
+
+C7. Questions and interrogatives
 
 If there is a question:
 
@@ -476,20 +512,22 @@ If there is a question:
 - if the question is a yes/no question, add SÍ NO at the end.
 - ¿quieres venir? -> ¿TÚ VENIR? SÍ NO
 
-Patterns:
+Examples:
 
 - ¿Por qué llegaste tarde? -> TARDE ¿POR QUÉ?
 - ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
 - ¿Ya cenaste? -> ¿TÚ YA CENAR?
 
-C7. Imperatives
+C8. Imperatives
 
-Use a bare verb or one with a modal/politeness particle:
+Use a bare verb or one with a modal/politeness particle.
+
+Examples:
 
 - APAGAR LUZ POR-FAVOR
 - TÚ BASURA TIRAR
 
-C8. Enumerations and sequences
+C9. Enumerations and sequences
 
 Remove coordinating conjunctions, both "y" and "e", and also "o" and "u".
 

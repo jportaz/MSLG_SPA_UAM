@@ -12,7 +12,7 @@ SPA2MSLG_train:
 		--prompt data/SPA2MSLG_prompt.2.txt \
 		--input data/MSLG_SPA_train.txt \
 		--reverse \
-	| tee results/SPA2MSLG.7.txt 
+	| tee results/SPA2MSLG.8.txt 
 
 MSLG2SPA_train:
 	python bin/predict.py \
@@ -38,6 +38,16 @@ MSLG2SPA_test:
 		--input data/MSLG2SPA_test.txt \
 		--output results/UAM_ChineseRoom_MSLG2SPA.1.txt \
 	| tee results/UAM_ChineseRoom_MSLG2SPA.1.out.txt
+
+# -----
+
+IR_SPA2MSLG_train:
+	python bin/predict.py \
+		--model $(model) \
+		--prompt data/SPA2MSLG_prompt.2.txt \
+		--input /tmp/IR.txt \
+		--reverse \
+	| tee results/IR.7.out.txt
 
 
 
