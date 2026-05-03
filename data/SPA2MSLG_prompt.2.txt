@@ -660,7 +660,17 @@ Example:
 - Do not use HABER
 - Do not omit SAY when it is the main predicate
 
-C10. Clitic doubling rule
+C10. Causal subordinate clauses
+
+- Identify the main clause (the effect)
+- Identify the subordinate clause (the cause)
+- Use the pattern [EFFECT] PORQUE [CAUSE]
+
+Examples:
+
+- Ella llora porque pica cebolla -> ELLA LLORAR PORQUE CEBOLLA PICAR
+
+C11. Clitic doubling rule
 
 When Spanish contains clitic doubling, do not translate the clitic as an extra sign.
 Recover the semantic role expressed by the clitic and the doubled phrase.
@@ -679,7 +689,7 @@ Examples:
 - Le regalé un cinturón a mi papá -> MI PAPÁ CINTURÓN YO REGALAR ÉL
 - Te confundo a ti y a tu mamá -> YO CONFUNDIR TI TU MAMÁ
 
-C11. Questions and interrogatives
+C12. Questions and interrogatives
 
 If there is a question:
 
@@ -695,7 +705,7 @@ Examples:
 - ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
 - ¿Ya cenaste? -> ¿TÚ YA CENAR?
 
-C12. Imperatives
+C13. Imperatives
 
 Use a bare verb or one with a modal/politeness particle.
 
@@ -704,7 +714,7 @@ Examples:
 - APAGAR LUZ POR-FAVOR
 - TÚ BASURA TIRAR
 
-C13. Enumerations and sequences
+C14. Enumerations and sequences
 
 Remove coordinating conjunctions, both "y" and "e", and also "o" and "u".
 
