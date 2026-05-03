@@ -41,13 +41,13 @@ MSLG2SPA_test:
 
 # -----
 
-IR_SPA2MSLG_train:
+TMP_SPA2MSLG_train:
 	python bin/predict.py \
 		--model $(model) \
 		--prompt data/SPA2MSLG_prompt.2.txt \
-		--input /tmp/IR.txt \
+		--input /tmp/TMP.txt \
 		--reverse \
-	| tee results/IR.7.out.txt
+	| tee results/TMP.out.txt
 
 
 

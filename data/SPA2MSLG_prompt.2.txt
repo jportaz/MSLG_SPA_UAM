@@ -99,8 +99,7 @@ Do not use Spanish verbal inflection; use lexical particles:
 - immediacy -> AHORITA / AHORA
 - anteriority -> ANTES / AÑO-PASADO / HACE-PASADO
 
-YA tends to go before the verb as a marker of a past or completed event, except when it closes the event, in which case it goes at the end.
-When there is an explicit temporal adverb, YA is not necessary.
+YA tends to go before the verb as a marker of a past or completed event, except when it closes the event, in which case it goes at the end. When there is an explicit temporal adverb, YA is not necessary.
 
 B3. Negation
 
@@ -127,7 +126,8 @@ Examples:
 
 B5. Existence and possession
 
-- hay -> HABER / HAY / NO-HAY
+- haber / hay -> HABER
+- no haber / no hay ->  NO-HAY
 - tener -> TENER or a possessive/topicalized structure
 - location -> locative order or simple nominal sequence, without copula if possible
 
@@ -160,6 +160,8 @@ Do not add unnecessary pronouns.
 B7. Proper names
 
 Add `dm-` before anthroponymic names.
+
+Examples:
 
 - Isabel -> dm-ISABEL
 - Juana -> dm-JUANA
@@ -198,6 +200,8 @@ Examples:
 
 Do not add `dm-` before organizations, institutions, brands, companies, works, etc.
 
+Examples:
+
 - Cruz-Roja -> CRUZ-ROJA
 - Gamesa (marca de galletas) -> GAMESA
 - Comercial Mexicana -> COMERCIAL MEXICANA
@@ -214,6 +218,8 @@ Do not add `dm-` before organizations, institutions, brands, companies, works, e
 
 Add `#` before initials and acronyms except LSM (lengua de signos mexicana) and CD (compact disc):
 
+Examples:
+
 - TV (televisión) -> #TV
 - SEP (Secretaría de Educación Pública) -> #SEP
 - VGT (Lengua de Signos Flamenca) -> #VGT
@@ -223,12 +229,16 @@ B8. Color adjectives
 
 Color adjectives take the gloss COLOR before them:
 
+Examples:
+
 - rojo -> COLOR ROJO
 - rojos -> COLOR ROJO
 
 B9. Medical professions
 
 Medical professions are compounds that use the gloss DOCTOR followed by the organ they treat:
+
+Examples:
 
 - cardiólogo ->DOCTOR-CORAZÓN
 - oculista -> DOCTOR-OJOS
@@ -241,6 +251,7 @@ B10. Compounds or idiomatic expressions:
 
 Form compounds such as the following:
 
+- bolsa de mano -> BOLSA-MANO
 - crema para la cara -> CREMA-DE-COSMÉTICO
 - licencia de conducir -> LICENCIA-DE-CONDUCIR
 - control de videojuego -> CONTROL-DE-VIDEOJUEGO
@@ -273,12 +284,15 @@ Form compounds such as the following:
 - poner gasolina -> PONER-GASOLINA
 - sacar una copia -> SACAR-COPIA
 - mandar un mensaje -> MENSAJEAR
+- dar el avión -> DAR-EL-AVIÓN
 - abrir el horno -> ABRIR-HORNO
 - no haber nadie -> NO-HAY-NADIE
 
 B11. Feminine common nouns
 
-Use the marker +MUJER after the masculine gloss to refer to women:
+Use the marker +MUJER after the masculine gloss to refer to women.
+
+Examples:
 
 - abuela -> ABUELO+MUJER
 - amiga -> AMIGO+MUJER
@@ -291,7 +305,9 @@ Use the marker +MUJER after the masculine gloss to refer to women:
 - tía -> TÍO+MUJER
 - vecina -> VECINO+MUJER
 
-Except when the word is "mujer" or "mujeres" or "mamá" or "mamás", in which case it remains unchanged:
+Except when the word is "mujer" or "mujeres" or "mamá" or "mamás", in which case it remains unchanged.
+
+Examples:
 
 - mujer -> MUJER
 - mujeres -> MUJERE
@@ -302,6 +318,8 @@ Except when the word is "mujer" or "mujeres" or "mamá" or "mamás", in which ca
 
 B12. Plural nouns and adjectives are translated to their singular base form.
 
+Examples:
+
 - peces -> PEZ
 - personas -> PERSONA
 - niños -> NIÑO
@@ -309,13 +327,17 @@ B12. Plural nouns and adjectives are translated to their singular base form.
 
 B13. Lexical conventions
 
-- rumor -> CHISME
+- el rumor -> CHISME
 - buenas noches -> buena noche
 - todos los días -> DIARIO
+- sobrepoblación -> MUCHAS PERSONAS
+- cabello lacio -> CABELLO-LACIO
 
 B14. Intensifying adverb "muy".
 
-In general it is not translated. But in some cases MUCHO is used or the adjective is reduplicated:
+In general it is not translated. But in some cases MUCHO is used or the adjective is reduplicated.
+
+Examples:
 
 - muy trabajador -> TRABAJO TRABAJO
 - muy expresivo -> EXPRESAR EXPRESAR
@@ -330,41 +352,59 @@ B15. Spanish phrases with the structure N1 de N2 are translated into sign-langua
 2. First decide the semantic relation between N1 and N2.
 3. Apply the order according to the type:
 
-3.1. If the relation is kinship or personal relation, the preferred order is PERSON + RELATION:
+3.1. If the relation is kinship or personal relation, the preferred order is PERSON + RELATION.
+
+Example:
 
 - amigo de Juana -> dm-JUANA AMIGO 
 
-3.2. If the relation is part-whole / attribute / associated element, the preferred order is N2 + N1:
+3.2. If the relation is part-whole / attribute / associated element, the preferred order is N2 + N1.
+
+Examples:
 
 - colores de la bandera -> BANDERA COLOR
 - azotea de la casa -> CASA AZOTEA
 - número del grupo -> GRUPO NÚMERO
 - nombre de Adán -> ADÁN NOMBRE
 
-3.3. If the relation is office / institution linked to a place, the preferred order is PLACE + N1:
+Examples:
+
+3.3. If the relation is office / institution linked to a place, the preferred order is PLACE + N1.
+
+Examples:
 
 - presidente de México -> MÉXICO PRESIDENTE 
 - biblioteca de México -> MÉXICO BIBLIOTECA
 
-3.4. If the relation is material, the preferred order is N1 + MATERIAL:
+3.4. If the relation is material, the preferred order is N1 + MATERIAL.
+
+Examples:
 
 - corona de oro -> CORONA ORO 
 - mesa de fierro -> FIERRO MESA
 
-3.5. If the relation is topic / content / specialty, the preferred order is N1 + N2:
+3.5. If the relation is topic / content / specialty, the preferred order is N1 + N2.
+
+Examples:
 
 - libro de matemáticas -> LIBRO MATEMÁTICAS
 - cena de Navidad -> CENA NAVIDAD
 
-3.6. If the relation is type / purpose / lexicalized compound, use a fixed compound if one exists:
+3.6. If the relation is type / purpose / lexicalized compound, use a fixed compound if one exists.
+
+Example:
 
 - licencia de conducir -> LICENCIA-DE-CONDUCIR 
 
-3.7. If the relation is authorship / association with a proper name, the preferred order is N1 + PROPER NAME:
+3.7. If the relation is authorship / association with a proper name, the preferred order is N1 + PROPER NAME.
+
+Example:
 
 - mural de Diego Rivera -> MURAL dm-DIEGO-RIVERA 
 
-3.8. If the relation is location, preferred order = N1 + PLACE, use DENTRO if necessary:
+3.8. If the relation is location, preferred order = N1 + PLACE, use DENTRO if necessary.
+
+Examples:
 
 - parque de Azcapotzalco -> PARQUE DENTRO AZCAPOTZALCO
 - metro de Chabacano -> METRO CHABACANO
@@ -377,30 +417,38 @@ B15. Spanish phrases with the structure N1 de N2 are translated into sign-langua
 
 B16. Prepositions
 
-Translate Spanish "para" as PARA only when it explicitly marks beneficiary, destination, 
+1. Translate Spanish "para" as PARA only when it explicitly marks beneficiary, destination, 
 intended use, or a nominal purpose relation between constituents. When para introduces 
 purpose with an infinitive, prefer omitting PARA and express the meaning through direct 
 verb sequence, unless PARA is needed for clarity or disambiguation.
+
+Examples:
 
 - estudiar para el examen -> ESTUDIAR PARA EXAMEN
 - almohada para la cama -> ALMOHADA PARA CAMA
 - papel para absorber agua -> PAPEL PARA AGUA ABSORBER
 - un ultrasonido para saber si su bebé era niño -> ULTRASONIDO PARA SABER SUYO BEBÉ NIÑO
 
-Translate Spanish "pero" as PERO when it marks a clear adversative relation between two 
+2. Translate Spanish "pero" as PERO when it marks a clear adversative relation between two 
 propositions. Keep PERO especially when the second proposition contrasts with, restricts, 
 frustrates, or counters the expectation established by the first.
+
+Examples:
 
 - Compré este celular ayer pero está muy corriente -> AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE 
 - Miguel quiere declarse a su amiga, pero no se atreve -> dm-MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE 
 - Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen -> ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR 
 
-Spanish "con" is often omitted, but can surface when it contributes an independent instrumental/comitative meaning:
+3. Spanish "con" is often omitted, but can surface when it contributes an independent instrumental/comitative meaning:
+
+Examples:
 
 - películas con subtítulos -> PELÍCULAS CON SUBTÍTULOS
 - fresas con crema -> FRESAS CON CREMA
 
-Keep locative prepositions only if they mean things like inside, behind, under, near, outside, toward. 
+4. Keep locative prepositions only if they mean things like inside, behind, under, near, outside, toward. 
+
+Examples:
 
 - En la biblia está el nombre de Adán. -> BIBLIA DENTRO ADÁN NOMBRE HABER
 - Ghana está en África -> ÁFRICA ADENTRO GHANA
@@ -411,7 +459,9 @@ Keep locative prepositions only if they mean things like inside, behind, under, 
 - Caminemos hacia el sur para encontrar agua -> NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR
 - La tienda más cercana está a dos cuadras -> TIENDA CERCA DOS CUADRAS
 
-Omit locative prepositions for plain in / at / to when the place noun already identifies the location.
+5. Omit locative prepositions for plain in / at / to when the place noun already identifies the location.
+
+Examples:
 
 - en Guatemala -> GUATEMALA
 - en Chapultepec -> CHAPULTEPEC
@@ -419,7 +469,7 @@ Omit locative prepositions for plain in / at / to when the place noun already id
 - a Panamá -> PANAMÁ
 - a la iglesia -> IGLESIA
 
-Preserve prepositions like "hacia", "sobre", "contra", "entre" only when they encode a relation not 
+6. Preserve prepositions like "hacia", "sobre", "contra", "entre" only when they encode a relation not 
 otherwise recoverable from constituent order or lexical meaning.
 
 B17. Adverbios
@@ -456,34 +506,153 @@ Abstract examples:
 - Necesito un cuaderno -> [TOPIC CUADERNO] [SUBJ YO] [PRED NECESITAR]
 - Hay hojas blancas en el cajón -> [LOC CAJÓN] [TOPIC HOJAS BLANCAS] [EXIST HAY]
 
-C4. Transitive verbs
+C4. Existencial "haber"
+
+HABER placement:
+
+- Default: FRAME + HABER + ENTITY
+- If ENTITY is focus -> ENTITY + HABER (+ FRAME)
+- If listing/definition -> ENTITY + HABER
+
+Examples:
+
+- En la mesa hay un libro -> MESA HABER LIBRO
+- Mañana habrá una reunión -> MAÑANA HABER REUNIÓN
+- Hay tres coches en el garaje -> GARAJE HABER TRES COCHES
+
+C5. Patterns for "tener":
+
+Spanish "tener" must be semantically classified before translation.
+
+1. Possession (human/animate subject)
+
+   - Structure: [OWNER] + TENER + [OBJECT]
+   - Do NOT use HABER
+
+   Examples:
+
+   - Tengo un coche -> YO TENER COCHE
+   - María tiene una casa grande -> dm-MARÍA TENER CASA GRANDE
+
+2. Containment (location/container subject)
+
+   - Structure: [LOCATION] + HABER + [ENTITY]
+   - This is equivalent to existential "hay"
+
+   Examples:
+
+   - La caja tiene libros -> CAJA HABER LIBRO
+
+3. Part–whole (body, inherent properties)
+
+   - Structure: [ENTITY] + [ATTRIBUTE]
+   - No POSSESS verb needed
+
+   Examples:
+
+   - Tiene ojos azules -> OJOS COLOR AZUL
+   - El perro tiene la cola larga -> PERRO COLA LARGA
+
+4. Abstract/state (conditions, events)
+
+   - Use STATE predicate (e.g., PROBLEMA, FIEBRE)
+   - Optionally HABER if existential reading
+
+   Examples:
+
+   - Tiene fiebre -> ÉL FIEBRE TENER
+   - Tengo un problema -> YO PROBLEMA TENER
+
+C6. Movement verbs ("ir", "venir", etc.)
+
+1. Default participant order in movement verbs is:
+
+   [TIME] [SUBJECT] [MOVEMENT-VERB] [LOCATION] ([PURPOSE])
+
+   Examples:
+
+   - Ayer fui a la galería -> AYER YO YA IR GALERÍA
+   - Voy al baño -> YO IR BAÑO
+   - Frecuentemente voy al cine -> FRECUENTEMENTE YO IR CINE
+
+2. If the location is topicalized then the order is:
+
+   [TIME] [LOCATION] [SUBJECT] [MOVEMENT-VERB] ([PURPOSE])
+
+   Examples:
+
+   - Al baño voy a lavarme -> BAÑO YO IR LAVAR
+   - El domingo, a la iglesia me iré a confesar -> DOMINGO IGLESIA YO IR CONFESAR
+
+C7. Transitive verbs
 
 Default participant order in transitive sentences is: 
 
 [SUBJECT] [OBJECT] [VERB]
 
-C5. Movement verbs (ir, venir, etc.)
+Examples:
 
-Default participant order in movement verbs is:
+- Yo compro pan -> YO PAN COMPRAR
+- María vende coches -> dm-María COCHE VENDER
+- El niño come manzanas -> NIÑO MANZANA COMER
+- Ayer compré pan en el supermercado -> AYER SUPERMERCADO PAN COMER
 
-[TIME] [SUBJECT] [MOVEMENT-VERB] [LOCATION] ([PURPOSE])
+C8. Transfer verbs ("dar", "regalar", "enviar", etc.)
+
+[RECIPIENT] [THEME] [AGENT] [VERB] ([RECIPIENT-REF])
 
 Examples:
 
-- Ayer fui a la galería -> AYER YO YA IR GALERÍA
-- Voy al baño -> YO IR BAÑO
-- Frecuentemente voy al cine -> FRECUENTEMENTE YO IR CINE
+- Le di un libro a María -> dm-MARÍA LIBRO YO YA DAR
+- Ayer compré un regalo para mi mamá -> AYER MI MAMÁ REGALO YO COMPRAR
+- Le regalé un cinturón a mi papá -> MI PAPÁ CINTURÓN YO REGALAR ÉL
+- Ayer me dieron la constancia de la secundaria -> AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ
 
-If the location is topicalized then the order is:
+C9. Communication verbs
 
-[TIME] [LOCATION] [SUBJECT] [MOVEMENT-VERB] ([PURPOSE])
+1. Identify the use:
+   a) Communication -> an AGENT speaks
+   b) Evidential -> "they say that..."
+   c) Habitual -> repeated/ritual act
+   d) With recipient ->information transfer
 
-Examples:
+2. Structures:
 
-- Al baño voy a lavarme -> BAÑO YO IR LAVAR
-- El domingo, a la iglesia me iré a confesar -> DOMINGO IGLESIA YO IR CONFESAR
+2.1 Communication:
 
-C6. Clitic doubling rule
+([TIME]) [AGENT] [VERB] [CONTENT]
+
+Example:
+
+- En la iglésia decimos amén -> IGLESIA NOSOTROS DEDIR AMÉN
+
+2.2 With recipient:
+
+([TIME]) [AGENT] [RECIPIENT] [VERB] [CONTENT]
+
+2.3 Evidential:
+
+[SOURCE] [VERB] [PROPOSITION]
+
+Example:
+
+- Dicen que en Australia hay muchos canguros -> ELLOS DECIR AUSTRALIA HABER MUCHO CANGURO
+
+2.4 Evaluative:
+
+[AGENT] [VERB] [CONTENT] + [ADJECTIVE] (e.g., TRUE, SURE)
+
+3. Clitics:
+
+- Do not translate me/te/le/les
+- Express the recipient explicitly (ME, YOU, HIM/HER, or NP)
+
+4. Never:
+
+- Do not use HABER
+- Do not omit SAY when it is the main predicate
+
+C10. Clitic doubling rule
 
 When Spanish contains clitic doubling, do not translate the clitic as an extra sign.
 Recover the semantic role expressed by the clitic and the doubled phrase.
@@ -502,7 +671,7 @@ Examples:
 - Le regalé un cinturón a mi papá -> MI PAPÁ CINTURÓN YO REGALAR ÉL
 - Te confundo a ti y a tu mamá -> YO CONFUNDIR TI TU MAMÁ
 
-C7. Questions and interrogatives
+C11. Questions and interrogatives
 
 If there is a question:
 
@@ -518,7 +687,7 @@ Examples:
 - ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
 - ¿Ya cenaste? -> ¿TÚ YA CENAR?
 
-C8. Imperatives
+C12. Imperatives
 
 Use a bare verb or one with a modal/politeness particle.
 
@@ -527,7 +696,7 @@ Examples:
 - APAGAR LUZ POR-FAVOR
 - TÚ BASURA TIRAR
 
-C9. Enumerations and sequences
+C13. Enumerations and sequences
 
 Remove coordinating conjunctions, both "y" and "e", and also "o" and "u".
 
