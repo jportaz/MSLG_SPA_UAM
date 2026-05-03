@@ -150,7 +150,7 @@ Example:
 
 B7. Pronouns and possessives
 
-Make them explicit when they provide structural clarity or when are subjects or objects:
+Make them explicit when they provide structural clarity or when they are subjects or objects:
 
 - YO, TÚ, ÉL, ELLA, NOSOTROS-DE-DOS
 - MI, TUYO, SU, SUYO
@@ -225,7 +225,14 @@ Examples:
 - VGT (Lengua de Signos Flamenca) -> #VGT
 - LSFB (Lengua de Signos Franco-Belga) -> #LSFB
 
-B8. Color adjectives
+B8. Adjectives
+
+Place the adjective after the noun:
+
+Examples:
+
+- nuevo coche -> COCHE NUEVO
+- isla bonita -> ISLA BONITO
 
 Color adjectives take the gloss COLOR before them:
 
@@ -233,6 +240,7 @@ Examples:
 
 - rojo -> COLOR ROJO
 - rojos -> COLOR ROJO
+- verde y rojo -> COLOR VERDE ROJO
 
 B9. Medical professions
 
