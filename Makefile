@@ -12,7 +12,7 @@ SPA2MSLG_train:
 		--prompt data/SPA2MSLG_prompt.2.txt \
 		--input data/MSLG_SPA_train.txt \
 		--reverse \
-	| tee results/SPA2MSLG.8.txt 
+	| tee results/SPA2MSLG.9.txt 
 
 MSLG2SPA_train:
 	python bin/predict.py \
