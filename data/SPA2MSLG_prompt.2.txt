@@ -77,7 +77,29 @@ A4. Reduce the input to a minimal semantic representation:
 
 # ==================== 4. PHASE B. LEXICO-SYNTACTIC TRANSFER ====================
 
-B1. Verbs
+B1. Subjects
+
+Spanish frequently omits subject pronouns because person and number are encoded in verbal morphology. In MSLG, however, the subject is often expressed explicitly to maintain clarity and discourse coherence, especially when the subject is not recoverable from the immediate context.
+
+Therefore, when translating from Spanish into MSLG:
+
+- If the subject is omitted in Spanish but can be clearly inferred, explicitly introduce the corresponding pronoun or referent in MSLG when needed for disambiguation or fluency.
+
+- Explicit subjects are especially common with:
+
+    * first and second person predicates,
+    * verb chains,
+    * changes of subject,
+    * coordinated or subordinate clauses,
+    * and contexts where omission could create ambiguity.
+
+Examples:
+
+- Quiero vivir -> YO QUERER VIVIR
+- Mañana iremos al mercado -> MAÑANA NOSOTROS MERCADO IR
+- Dice que vendrá -> ÉL DECIR QUE VENIR
+
+B2. Verbs
 
 Convert conjugated verbs into base lexical glosses:
 
@@ -86,7 +108,7 @@ Convert conjugated verbs into base lexical glosses:
 - vive -> VIVIR
 - conociste -> CONOCER
 
-B2. Tense, aspect, and modality
+B3. Tense, aspect, and modality
 
 Do not use Spanish verbal inflection; use lexical particles:
 
@@ -101,7 +123,7 @@ Do not use Spanish verbal inflection; use lexical particles:
 
 YA tends to go before the verb as a marker of a past or completed event, except when it closes the event, in which case it goes at the end. When there is an explicit temporal adverb, YA is not necessary.
 
-B3. Negation
+B4. Negation
 
 Map negation to the most natural pattern:
 
@@ -114,7 +136,7 @@ Map negation to the most natural pattern:
 
 Do not force a single strategy for all cases.
 
-B4. Copula and attributive predication
+B5. Copula and attributive predication
 
 If Spanish uses SER/ESTAR + attribute, normally remove the copula.
 
@@ -124,14 +146,14 @@ Examples:
 - está caliente -> CALIENTE
 - es famosa -> FAMOSO
 
-B5. Existence and possession
+B6. Existence and possession
 
 - haber / hay -> HABER
 - no haber / no hay ->  NO-HAY
 - tener -> TENER or a possessive/topicalized structure
 - location -> locative order or simple nominal sequence, without copula if possible
 
-B6. The verb "tener"
+B7. The verb "tener"
 
 When the verb "tener" is used as a light verb with an abstract mass noun denoting a property or quality as direct object, gloss it with the equivalent verb or noun.
 
@@ -148,7 +170,7 @@ Example:
 
 - María tiene 18 años -> dm-MARÍA 18 EDAD 
 
-B7. Pronouns and possessives
+B8. Pronouns and possessives
 
 Make them explicit when they provide structural clarity or when they are subjects or objects:
 
@@ -157,7 +179,7 @@ Make them explicit when they provide structural clarity or when they are subject
 
 Do not add unnecessary pronouns.
 
-B7. Proper names
+B9. Proper names
 
 Add `dm-` before anthroponymic names.
 
@@ -225,7 +247,7 @@ Examples:
 - VGT (Lengua de Signos Flamenca) -> #VGT
 - LSFB (Lengua de Signos Franco-Belga) -> #LSFB
 
-B8. Adjectives
+B10. Adjectives
 
 Place the adjective after the noun:
 
@@ -242,7 +264,7 @@ Examples:
 - rojos -> COLOR ROJO
 - verde y rojo -> COLOR VERDE ROJO
 
-B9. Medical professions
+B11. Medical professions
 
 Medical professions are compounds that use the gloss DOCTOR followed by the organ they treat:
 
@@ -255,7 +277,7 @@ Examples:
 - odontólogo -> DOCTOR-DIENTES
 - ortopedista -> DOCTOR-HUESOS
 
-B10. Compounds or idiomatic expressions:
+B12. Compounds or idiomatic expressions:
 
 Form compounds such as the following:
 
@@ -296,7 +318,7 @@ Form compounds such as the following:
 - abrir el horno -> ABRIR-HORNO
 - no haber nadie -> NO-HAY-NADIE
 
-B11. Feminine common nouns
+B13. Feminine common nouns
 
 Use the marker +MUJER after the masculine gloss to refer to women.
 
@@ -324,7 +346,7 @@ Examples:
 - enfermera -> ENFERMERA
 - enfermeras -> ENFERMERA
 
-B12. Plural nouns and adjectives are translated to their singular base form.
+B14. Plural nouns and adjectives are translated to their singular base form.
 
 Examples:
 
@@ -333,7 +355,7 @@ Examples:
 - niños -> NIÑO
 - niñas -> NIÑA+MUJER
 
-B13. Lexical conventions
+B15. Lexical conventions
 
 - el rumor -> CHISME
 - buenas noches -> buena noche
@@ -341,7 +363,7 @@ B13. Lexical conventions
 - sobrepoblación -> MUCHAS PERSONAS
 - cabello lacio -> CABELLO-LACIO
 
-B14. Intensifying adverb "muy".
+B16. Intensifying adverb "muy".
 
 In general it is not translated. But in some cases MUCHO is used or the adjective is reduplicated.
 
@@ -354,7 +376,7 @@ Examples:
 - muy famosa -> FAMOSA
 - muy bonito -> BONITO
 
-B15. Spanish phrases with the structure N1 de N2 are translated into sign-language glosses following these instructions:
+B17. Spanish phrases with the structure N1 de N2 are translated into sign-language glosses following these instructions:
 
 1. Do not translate the preposition "de" literally. It is normally removed.
 2. First decide the semantic relation between N1 and N2.
@@ -421,7 +443,7 @@ Examples:
 
 3.11. If the expression is idiomatic or lexicalized, translate it as a unit.
 
-B16. Prepositions
+B17. Prepositions
 
 1. Translate Spanish "para" as PARA only when it explicitly marks beneficiary, destination, 
 intended use, or a nominal purpose relation between constituents. When para introduces 
@@ -478,11 +500,20 @@ Examples:
 6. Preserve prepositions like "hacia", "sobre", "contra", "entre" only when they encode a relation not 
 otherwise recoverable from constituent order or lexical meaning.
 
-B17. Adverbios
+B18. Adverbios
 
 - anoche -> AYER NOCHE
 
-B18. Do not invent new notation.
+B19. Imperatives
+
+Use a bare verb or one with a modal/politeness particle.
+
+Examples:
+
+- APAGAR LUZ POR-FAVOR
+- TÚ BASURA TIRAR
+
+B20. Do not invent new notation.
 
 # ==================== 5. PHASE C. STRUCTURAL REORDERING ====================
 
@@ -658,7 +689,33 @@ Example:
 - Do not use HABER
 - Do not omit SAY when it is the main predicate
 
-C10. Causal subordinate clauses
+C10. Verbal ordering in verbal chains
+
+When a verbal chain appears —including verbal periphrases, infinitival complements, or subordinate clauses with a dependent verb— apply the following heuristic:
+
+If V2 has an explicit argument complement —direct object, indirect object, or prepositional complement required by the verb—, that complement tends to be interpreted as the topic and moved to the beginning of the clause. The verbal order is then typically preserved as V1 + V2.
+
+Example:
+
+- Quiero ver la montaña -> MONTAÑA YO QUIERO VER
+
+If V2 does not have any explicit argument complement, the dependent verb tends to move forward, and the preferred order is usually V2 + subject + V1.
+
+Example:
+
+- Quiero vivir -> VIVIR YO QUIERO
+
+In summary:
+
+If V2 has a complement:
+
+COMPLEMENT + SUBJECT + V1 + V2
+
+If V2 has no complement:
+
+V2 + SUBJECT + V1
+
+C11. Causal subordinate clauses
 
 - Identify the main clause (the effect)
 - Identify the subordinate clause (the cause)
@@ -668,7 +725,7 @@ Examples:
 
 - Ella llora porque pica cebolla -> ELLA LLORAR PORQUE CEBOLLA PICAR
 
-C11. Clitic doubling rule
+C12. Clitic doubling rule
 
 When Spanish contains clitic doubling, do not translate the clitic as an extra sign.
 Recover the semantic role expressed by the clitic and the doubled phrase.
@@ -687,7 +744,7 @@ Examples:
 - Le regalé un cinturón a mi papá -> MI PAPÁ CINTURÓN YO REGALAR ÉL
 - Te confundo a ti y a tu mamá -> YO CONFUNDIR TI TU MAMÁ
 
-C12. Questions and interrogatives
+C13. Questions and interrogatives
 
 If there is a question:
 
@@ -702,15 +759,6 @@ Examples:
 - ¿Por qué llegaste tarde? -> TARDE ¿POR QUÉ?
 - ¿Dónde está tu local? -> ¿DÓNDE TUYO LOCAL?
 - ¿Ya cenaste? -> ¿TÚ YA CENAR?
-
-C13. Imperatives
-
-Use a bare verb or one with a modal/politeness particle.
-
-Examples:
-
-- APAGAR LUZ POR-FAVOR
-- TÚ BASURA TIRAR
 
 C14. Enumerations and sequences
 
