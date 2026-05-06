@@ -1,0 +1,1963 @@
+S: SPA	S: SPA
+T: MSLG	T: MSLG
+-: SPA	-: SPA
+--	--
+S: Los peces azules son mis favoritos.	S: Los peces azules son mis favoritos.
+T: PEZ COLOR AZUL MI FAVORITO	T: PEZ COLOR AZUL MI FAVORITO
++: PEZ COLOR AZUL MI FAVORITO	+: PEZ COLOR AZUL MI FAVORITO
+--	--
+S: Estoy feliz, mi hijo ya tiene licencia de conducir.	S: Estoy feliz, mi hijo ya tiene licencia de conducir.
+T: YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER	T: YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER
+-: YO FELIZ MI HIJO YA TENER LICENCIA-DE-CONDUCIR	-: YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR YA TENER
+--	--
+S: Saquen su libro de Matemáticas.	S: Saquen su libro de Matemáticas.
+T: SU LIBRO MATEMÁTICAS USTEDES SACAR	T: SU LIBRO MATEMÁTICAS USTEDES SACAR
+-: SU LIBRO MATEMÁTICAS SACAR	-: LIBRO MATEMÁTICAS SUYO USTEDES SACAR
+--	--
+S: Necesito papel para absorber el agua.	S: Necesito papel para absorber el agua.
+T: YO NECESITAR PAPEL PARA AGUA ABSORBER	T: YO NECESITAR PAPEL PARA AGUA ABSORBER
+-: PAPEL PARA AGUA ABSORBER YO NECESITAR	-: PAPEL PARA AGUA ABSORBER YO NECESITAR
+--	--
+S: Isabel tiene una corona de oro.	S: Isabel tiene una corona de oro.
+T: dm-ISABEL TENER SU CORONA ORO	T: dm-ISABEL TENER SU CORONA ORO
+-: dm-ISABEL TENER CORONA ORO	-: dm-ISABEL TENER CORONA ORO
+--	--
+S: Este juguete está barato.	S: Este juguete está barato.
+T: ESTE JUGUETE BARATO	T: ESTE JUGUETE BARATO
++: ESTE JUGUETE BARATO	+: ESTE JUGUETE BARATO
+--	--
+S: ¿Le pusiste atención a tu maestra?	S: ¿Le pusiste atención a tu maestra?
+T: ¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?	T: ¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?
+-: ¿TÚ TU MAESTRO+MUJER ATENCIÓN PONER? SÍ NO	-: ¿TU MAESTRO+MUJER TÚ ATENCIÓN PONER? SÍ NO
+--	--
+S: Mi mamá usa crema para la cara.	S: Mi mamá usa crema para la cara.
+T: MI MAMÁ USA CREMA-DE-COSMÉTICO	T: MI MAMÁ USA CREMA-DE-COSMÉTICO
+-: MI MAMÁ CREMA-DE-COSMÉTICO USAR	-: MI MAMÁ CREMA-DE-COSMÉTICO USAR
+--	--
+S: El bebé siempre es muy expresivo.	S: El bebé siempre es muy expresivo.
+T: SIEMPRE BEBÉ EXPRESAR EXPRESAR	T: SIEMPRE BEBÉ EXPRESAR EXPRESAR
++: SIEMPRE BEBÉ EXPRESAR EXPRESAR	+: SIEMPRE BEBÉ EXPRESAR EXPRESAR
+--	--
+S: Ayer llegó mi tío de San Francisco.	S: Ayer llegó mi tío de San Francisco.
+T: AYER MI TIO SAN FRANCISCO YA LLEGAR	T: AYER MI TIO SAN FRANCISCO YA LLEGAR
+-: AYER MI TÍO SAN FRANCISCO YA LLEGAR	-: AYER MI TÍO SAN FRANCISCO YA LLEGAR
+--	--
+S: Debes pagarme a fuerza.	S: Debes pagarme a fuerza.
+T: A-FUERZA TÚ DEBER TÚ PAGAR MÍ	T: A-FUERZA TÚ DEBER TÚ PAGAR MÍ
+-: TÚ YO PAGAR A-FUERZA DEBER	-: TÚ MÍ PAGAR DEBER A-FUERZA
+--	--
+S: Esa antena es muy cara.	S: Esa antena es muy cara.
+T: ESA ANTENA CARA VERDAD	T: ESA ANTENA CARA VERDAD
+-: ESA ANTENA CARA	-: ESA ANTENA MUCHO CARA
+--	--
+S: Tepito es un lugar muy conocido.	S: Tepito es un lugar muy conocido.
+T: TEPITO LUGAR FAMOSO	T: TEPITO LUGAR FAMOSO
+-: TEPITO LUGAR CONOCIDO	-: TEPITO LUGAR CONOCIDO
+--	--
+S: Yo gané el campeonato.	S: Yo gané el campeonato.
+T: YO YA GANAR CAMPEONATO	T: YO YA GANAR CAMPEONATO
+-: YO CAMPEONATO YA GANAR	-: YO CAMPEONATO YA GANAR
+--	--
+S: Debes sacar una copia.	S: Debes sacar una copia.
+T: SACAR-COPIA TÚ DEBER	T: SACAR-COPIA TÚ DEBER
+-: TÚ SACAR-COPIA DEBER	-: TÚ SACAR-COPIA DEBER
+--	--
+S: Él fue arrestado, qué feo.	S: Él fue arrestado, qué feo.
+T: YA ÉL ARRESTADO ESO FEO VERDAD	T: YA ÉL ARRESTADO ESO FEO VERDAD
+-: ÉL YA ARRESTAR FEO	-: ÉL YA ARRESTAR FEO
+--	--
+S: Mi sobrino es muy alto.	S: Mi sobrino es muy alto.
+T: MI SOBRINO ALTO	T: MI SOBRINO ALTO
++: MI SOBRINO ALTO	+: MI SOBRINO ALTO
+--	--
+S: El hijo de mi vecino siempre es muy desobediente.	S: El hijo de mi vecino siempre es muy desobediente.
+T: SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	T: SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER
+-: SIEMPRE MI VECINO HIJO MUCHO DESOBEDECER	-: SIEMPRE MI VECINO HIJO MUCHO DESOBEDECER
+--	--
+S: A mi hija le gustan los patos.	S: A mi hija le gustan los patos.
+T: MI HIJO+MUJER ELLA GUSTAR PATO MUCHO	T: MI HIJO+MUJER ELLA GUSTAR PATO MUCHO
+-: PATO MI HIJO+MUJER GUSTAR	-: PATO MI HIJO+MUJER ELLA GUSTAR
+--	--
+S: Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.	S: Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.
+T: SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER	T: SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER
+-: SIEMPRE MI HERMANO+MUJER SU AMIGO JUNTOS AHORA ELLA SU COMPORTAMIENTO IMITAR	-: SIEMPRE MI HERMANO+MUJER SU AMIGO JUNTOS AHORA ELLA SU COMPORTAMIENTO IMITAR
+--	--
+S: Iré a una confirmación el domingo.	S: Iré a una confirmación el domingo.
+T: DOMINGO YO CONFIRMACIÓN YO IR	T: DOMINGO YO CONFIRMACIÓN YO IR
+-: DOMINGO YO FUTURO IR CONFIRMACIÓN	-: DOMINGO YO FUTURO IR CONFIRMACIÓN
+--	--
+S: ¿Tú ya conoces Argentina?	S: ¿Tú ya conoces Argentina?
+T: ¿TÚ YA CONOCER ARGENTINA?	T: ¿TÚ YA CONOCER ARGENTINA?
+-: ARGENTINA ¿TÚ YA CONOCER? SÍ NO	-: ¿TÚ ARGENTINA YA CONOCER? SÍ NO
+--	--
+S: Ghana está en África.	S: Ghana está en África.
+T: ÁFRICA ADENTRO GHANA	T: ÁFRICA ADENTRO GHANA
++: ÁFRICA ADENTRO GHANA	+: ÁFRICA ADENTRO GHANA
+--	--
+S: Tú tienes unos audífonos, ¿me los prestas?	S: Tú tienes unos audífonos, ¿me los prestas?
+T: AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO	T: AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO
+-: TÚ TENER AUDÍFONOS ¿YO AUDÍFONOS TÚ PRESTAR? SÍ NO	-: TÚ AUDÍFONOS TENER ¿YO AUDÍFONOS TÚ PRESTAR? SÍ NO
+--	--
+S: En Chapultepec vi algunos delfines.	S: En Chapultepec vi algunos delfines.
+T: CHAPULTEPEC YO YA VER ALGUNO DELFÍN	T: CHAPULTEPEC YO YA VER ALGUNO DELFÍN
+-: CHAPULTEPEC YO DELFÍN YA VER	-: CHAPULTEPEC YO DELFÍN VER YA
+--	--
+S: La maestra de matemáticas dice muchas bromas.	S: La maestra de matemáticas dice muchas bromas.
+T: MAESTRA MATEMÁTICAS MUCHAS BROMAS	T: MAESTRA MATEMÁTICAS MUCHAS BROMAS
+-: MAESTRO+MUJER MATEMÁTICAS MUCHO BROMA DECIR	-: MAESTRO+MUJER MATEMÁTICAS BROMA MUCHO DECIR
+--	--
+S: ¿Estás seguro de lo que dices?	S: ¿Estás seguro de lo que dices?
+T: ¿TÚ DECIR ESO SEGURO?	T: ¿TÚ DECIR ESO SEGURO?
+-: ¿TÚ DECIR SEGURO? SÍ NO	-: ¿DECIR TÚ SEGURO? SÍ NO
+--	--
+S: Mi primo se peleó conmigo ayer.	S: Mi primo se peleó conmigo ayer.
+T: AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR	T: AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR
+-: AYER MI PRIMO YO PELEAR	-: AYER MI PRIMO YO PELEAR
+--	--
+S: Mi suegro es muy trabajador.	S: Mi suegro es muy trabajador.
+T: MI SUEGRO TRABAJO TRABAJO	T: MI SUEGRO TRABAJO TRABAJO
++: MI SUEGRO TRABAJO TRABAJO	+: MI SUEGRO TRABAJO TRABAJO
+--	--
+S: Olvidé mi contraseña.	S: Olvidé mi contraseña.
+T: YO OLVIDAR CONTRASEÑA	T: YO OLVIDAR CONTRASEÑA
+-: YO MI CONTRASEÑA YA OLVIDAR	-: MI CONTRASEÑA YO YA OLVIDAR
+--	--
+S: Sólo las mujeres tienen clítoris.	S: Sólo las mujeres tienen clítoris.
+T: ÚNICO MUJER TENER SU CLITORIS	T: ÚNICO MUJER TENER SU CLITORIS
+-: SÓLO MUJER CLÍTORIS	-: SÓLO MUJER CLÍTORIS
+--	--
+S: En Canadá están las Cataratas del Niágara, que son hermosas.	S: En Canadá están las Cataratas del Niágara, que son hermosas.
+T: CANADÁ CASCADA dm-CATARATAS DEL NIÁGARA BONITA	T: CANADÁ CASCADA dm-CATARATAS DEL NIÁGARA BONITA
+-: CANADÁ HABER CATARATAS NIÁGARA HERMOSO	-: CANADÁ HABER CATARATAS NIÁGARA HERMOSO
+--	--
+S: Hoy conocí al nuevo sacerdote.	S: Hoy conocí al nuevo sacerdote.
+T: HOY NUEVO SACERDOTE YO YA CONOCER ÉL	T: HOY NUEVO SACERDOTE YO YA CONOCER ÉL
+-: HOY YO NUEVO SACERDOTE CONOCER	-: HOY YO SACERDOTE NUEVO CONOCER
+--	--
+S: Ese elefante orejón es muy chistoso.	S: Ese elefante orejón es muy chistoso.
+T: ESE ELEFANTE OREJÓN CHISTOSO	T: ESE ELEFANTE OREJÓN CHISTOSO
+-: ESE ELEFANTE OREJA GRANDE MUCHO CHISTOSO	-: ESTE ELEFANTE OREJA GRANDE CHISTOSO
+--	--
+S: Alondra le prometió a su mamá ser médico.	S: Alondra le prometió a su mamá ser médico.
+T: dm-ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO	T: dm-ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO
+-: SU MAMÁ MÉDICO dm-ALONDRA YA PROMETER	-: SU MAMÁ MÉDICO dm-ALONDRA YA PROMETER
+--	--
+S: Mis amigos argentinos estudiaron antropología.	S: Mis amigos argentinos estudiaron antropología.
+T: MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA	T: MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA
+-: MI AMIGO ARGENTINO ANTROPOLOGÍA YA ESTUDIAR	-: MI AMIGO ARGENTINO ANTROPOLOGÍA ESTUDIAR YA
+--	--
+S: Necesito un cuaderno.	S: Necesito un cuaderno.
+T: CUADERNO YO NECESITAR	T: CUADERNO YO NECESITAR
++: CUADERNO YO NECESITAR	+: CUADERNO YO NECESITAR
+--	--
+S: Mi papá nos abandonó en México.	S: Mi papá nos abandonó en México.
+T: YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ	T: YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ
+-: MÉXICO MI PAPÁ NOSOTROS YA ABANDONAR	-: MÉXICO MI PAPÁ NOSOTROS YA ABANDONAR
+--	--
+S: Dale el chupón al bebé.	S: Dale el chupón al bebé.
+T: CHUPÓN DEBE DAR BEBÉ	T: CHUPÓN DEBE DAR BEBÉ
+-: BEBÉ CHUPÓN DAR	-: BEBÉ CHUPÓN DAR
+--	--
+S: Mi hermanito tiene los dientes chuecos.	S: Mi hermanito tiene los dientes chuecos.
+T: MI HERMANO TENER DIENTE DIENTE CHUECO	T: MI HERMANO TENER DIENTE DIENTE CHUECO
+-: MI HERMANO DIENTES CHUECOS	-: MI HERMANO DIENTES CHUECO
+--	--
+S: Yo compré una Coca Cola ayer.	S: Yo compré una Coca Cola ayer.
+T: AYER COCA-COLA YO COMPRAR	T: AYER COCA-COLA YO COMPRAR
+-: AYER YO COCA-COLA YA COMPRAR	-: AYER YO COCA-COLA COMPRAR
+--	--
+S: Es hora de mecer al niño Dios.	S: Es hora de mecer al niño Dios.
+T: AHORITA NIÑO DIOS YA MECER	T: AHORITA NIÑO DIOS YA MECER
+-: HORA NIÑO DIOS MECER	-: HORA NIÑO DIOS MECER
+--	--
+S: Remar es un ejercicio que ayuda a la salud.	S: Remar es un ejercicio que ayuda a la salud.
+T: EJERCER-REMAR AYUDA CUERPO SANO	T: EJERCER-REMAR AYUDA CUERPO SANO
+-: REMAR EJERCICIO SALUD AYUDAR	-: REMAR EJERCICIO SALUD AYUDAR
+--	--
+S: Tú tienes unos hermosos ojos color café.	S: Tú tienes unos hermosos ojos color café.
+T: TUS OJOS HERMOSOS COLOR CAFÉ	T: TUS OJOS HERMOSOS COLOR CAFÉ
+-: TÚ OJO HERMOSO COLOR CAFÉ	-: TÚ OJOS HERMOSO COLOR CAFÉ
+--	--
+S: Anoche el metro era un caos.	S: Anoche el metro era un caos.
+T: AYER NOCHE METRO CAOS	T: AYER NOCHE METRO CAOS
++: AYER NOCHE METRO CAOS	+: AYER NOCHE METRO CAOS
+--	--
+S: La hija de mi vecina tiene autismo.	S: La hija de mi vecina tiene autismo.
+T: MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO	T: MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO
+-: MI VECINO+MUJER HIJO+MUJER AUTISMO TENER	-: MI VECINO+MUJER HIJO+MUJER AUTISMO TENER
+--	--
+S: Lleva los costales en la carretilla.	S: Lleva los costales en la carretilla.
+T: CARRETILLA-DE-CARGA COSTALES LLEVAR	T: CARRETILLA-DE-CARGA COSTALES LLEVAR
+-: CARRETILLA COSTAL LLEVAR	-: CARRETILLA COSTAL TÚ LLEVAR
+--	--
+S: Al parecer va a llover en la tarde.	S: Al parecer va a llover en la tarde.
+T: LLOVER TARDE PARECE	T: LLOVER TARDE PARECE
+-: TARDE LLOVER FUTURO PARECER	-: TARDE LLOVER FUTURO PARECER
+--	--
+S: ¿Puedes contestar mi pregunta?	S: ¿Puedes contestar mi pregunta?
+T: ¿TÚ CONTESTAR MI PREGUNTA PODER?	T: ¿TÚ CONTESTAR MI PREGUNTA PODER?
+-: ¿TÚ MI PREGUNTA CONTESTAR PODER? SÍ NO	-: ¿MI PREGUNTA TÚ PODER CONTESTAR? SÍ NO
+--	--
+S: El senador explica por qué la gasolina está cara.	S: El senador explica por qué la gasolina está cara.
+T: SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR	T: SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR
+-: SENADOR EXPLICAR GASOLINA CARA ¿POR QUÉ?	-: SENADOR GASOLINA CARA ¿POR QUÉ? EXPLICAR
+--	--
+S: ¿Ya cenaste?	S: ¿Ya cenaste?
+T: ¿TÚ YA CENAR?	T: ¿TÚ YA CENAR?
++: ¿TÚ YA CENAR?	+: ¿TÚ YA CENAR?
+--	--
+S: La credencial del INE tiene mi huella.	S: La credencial del INE tiene mi huella.
+T: CREDENCIAL VOTAR HABER MI HUELLA	T: CREDENCIAL VOTAR HABER MI HUELLA
+-: CREDENCIAL #INE MI HUELLA HABER	-: CREDENCIAL #INE HABER MI HUELLA
+--	--
+S: Pinté mi puerta de color azul.	S: Pinté mi puerta de color azul.
+T: MI PUERTA COLOR AZUL YO YA PINTAR	T: MI PUERTA COLOR AZUL YO YA PINTAR
++: MI PUERTA COLOR AZUL YO YA PINTAR	+: MI PUERTA COLOR AZUL YO YA PINTAR
+--	--
+S: En la playa encontré muchos cocos.	S: En la playa encontré muchos cocos.
+T: PLAYA MUCHOS COCOS YO ENCONTRAR YA	T: PLAYA MUCHOS COCOS YO ENCONTRAR YA
+-: PLAYA YO MUCHO COCO YA ENCONTRAR	-: PLAYA YO MUCHO COCO YA ENCONTRAR
+--	--
+S: Nosotros viajaremos el próximo año al Lago de Pátzcuaro.	S: Nosotros viajaremos el próximo año al Lago de Pátzcuaro.
+T: PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	T: PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR
+-: PRÓXIMO AÑO LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	-: PRÓXIMO AÑO LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR
+--	--
+S: Yo no tengo la culpa.	S: Yo no tengo la culpa.
+T: YO TENER-CULPA	T: YO TENER-CULPA
+-: YO CULPA NO TENER	-: YO CULPA NO-TENER
+--	--
+S: No te he visto desde la última navidad.	S: No te he visto desde la última navidad.
+T: NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO	T: NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO
+-: ÚLTIMA NAVIDAD NO-TE-HE-VISTO	-: ÚLTIMA NAVIDAD YO NO-TE-HE-VISTO
+--	--
+S: Nos vemos en el metro chabacano a las 10 de la mañana	S: Nos vemos en el metro chabacano a las 10 de la mañana
+T: 10 MAÑANA NOS-VEMOS METRO CHABACANO	T: 10 MAÑANA NOS-VEMOS METRO CHABACANO
+-: 10 MAÑANA METRO CHABACANO NOSOTROS VER	-: 10 MAÑANA METRO CHABACANO NOSOTROS VER
+--	--
+S: Las vacunas te protegen de las enfermedades.	S: Las vacunas te protegen de las enfermedades.
+T: VACUNAS PROTEGER ENFERMEDAD	T: VACUNAS PROTEGER ENFERMEDAD
+-: VACUNA TÚ ENFERMEDAD PROTEGER	-: VACUNA TÚ ENFERMEDAD PROTEGER
+--	--
+S: Las barreras de comunicación pueden eliminarse.	S: Las barreras de comunicación pueden eliminarse.
+T: BARRERAS COMUNICACIÓN QUITAR PODER	T: BARRERAS COMUNICACIÓN QUITAR PODER
+-: BARRERAS COMUNICACIÓN ELIMINAR PODER	-: BARRERAS COMUNICACIÓN ELIMINAR PODER
+--	--
+S: Edgar es maestro.	S: Edgar es maestro.
+T: dm-EDGAR MAESTRO	T: dm-EDGAR MAESTRO
++: dm-EDGAR MAESTRO	+: dm-EDGAR MAESTRO
+--	--
+S: Sofía se aprovechó del apoyo de sus papás.	S: Sofía se aprovechó del apoyo de sus papás.
+T: dm-SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO	T: dm-SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO
+-: dm-SOFÍA SU PAPÁ APOYO APROVECHAR YA	-: dm-SOFÍA SU PAPÁ APOYO YA APROVECHAR
+--	--
+S: Japón es una isla bonita.	S: Japón es una isla bonita.
+T: JAPÓN ESE ISLA BONITO	T: JAPÓN ESE ISLA BONITO
+-: JAPÓN ISLA BONITO	-: JAPÓN ISLA BONITO
+--	--
+S: Eso es feo, parece vulgar.	S: Eso es feo, parece vulgar.
+T: ESO FEO PARECE VULGAR	T: ESO FEO PARECE VULGAR
+-: ESO FEO VULGAR PARECER	-: ESO FEO VULGAR PARECER
+--	--
+S: Mi tío vive en Guatemala.	S: Mi tío vive en Guatemala.
+T: MI TÍO GUATEMALA VIVIR	T: MI TÍO GUATEMALA VIVIR
+-: GUATEMALA MI TÍO VIVIR	-: GUATEMALA MI TÍO VIVIR
+--	--
+S: ¡Rompí el jarrón, perdón, fue un accidente!	S: ¡Rompí el jarrón, perdón, fue un accidente!
+T: ¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!	T: ¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!
+-: ¡YO JARRÓN YA ROMPER PERDÓN ACCIDENTE!	-: ¡YO JARRÓN YA ROMPER PERDÓN ACCIDENTE!
+--	--
+S: El niño siempre tiene sueño.	S: El niño siempre tiene sueño.
+T: SIEMPRE NIÑO SUEÑO	T: SIEMPRE NIÑO SUEÑO
++: SIEMPRE NIÑO SUEÑO	+: SIEMPRE NIÑO SUEÑO
+--	--
+S: El bloqueador me protege del sol.	S: El bloqueador me protege del sol.
+T: BLOQUEAR PROTEGER SOL	T: BLOQUEAR PROTEGER SOL
+-: BLOQUEADOR SOL YO PROTEGER	-: BLOQUEADOR YO SOL PROTEGER
+--	--
+S: Las playas de Baja California Sur son muy limpias.	S: Las playas de Baja California Sur son muy limpias.
+T: BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO	T: BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO
+-: BAJA-CALIFORNIA-SUR PLAYA MUCHO LIMPIO	-: PLAYA BAJA CALIFORNIA SUR MUCHO LIMPIO
+--	--
+S: Mi abuelo ayuda a la colecta navideña.	S: Mi abuelo ayuda a la colecta navideña.
+T: ADORNAR NAVIDAD MI ABUELO AYUDAR	T: ADORNAR NAVIDAD MI ABUELO AYUDAR
+-: NAVIDAD COLECTA MI ABUELO AYUDAR	-: MI ABUELO COLECTA NAVIDAD AYUDAR
+--	--
+S: Aumentó el sueldo en un 12%.	S: Aumentó el sueldo en un 12%.
+T: 12% SUELDO YA AUMENTAR	T: 12% SUELDO YA AUMENTAR
+-: SUELDO 12% YA AUMENTAR	-: SUELDO 12% YA AUMENTAR
+--	--
+S: Diario manejo mi auto, debo ponerle gasolina.	S: Diario manejo mi auto, debo ponerle gasolina.
+T: DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA	T: DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA
+-: DIARIO MI AUTO YO MANEJAR DEBER PONER-GASOLINA	-: DIARIO YO MI COCHE MANEJAR YO PONER-GASOLINA DEBER
+--	--
+S: El windsurf necesita del aire para deslizarse.	S: El windsurf necesita del aire para deslizarse.
+T: WINDSURF NECESITAR VIENTO MAR	T: WINDSURF NECESITAR VIENTO MAR
+-: WINDSURF AIRE NECESITAR DESLIZAR	-: WINDSURF AIRE DESLIZAR NECESITAR
+--	--
+S: Debes esforzarte mucho para alcanzar tu meta.	S: Debes esforzarte mucho para alcanzar tu meta.
+T: MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR	T: MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR
+-: TU META ALCANZAR TÚ MUCHO ESFORZAR DEBER	-: TU META ALCANZAR TÚ MUCHO ESFORZAR DEBER
+--	--
+S: Me gustan las galletas Gamesa.	S: Me gustan las galletas Gamesa.
+T: YO GUSTAR GALLETA DIFERENTE GAMESA	T: YO GUSTAR GALLETA DIFERENTE GAMESA
+-: GALLETA GAMESA YO GUSTAR	-: GALLETA GAMESA YO GUSTAR
+--	--
+S: Taiwán es una isla.	S: Taiwán es una isla.
+T: TAIWÁN ISLA	T: TAIWÁN ISLA
++: TAIWÁN ISLA	+: TAIWÁN ISLA
+--	--
+S: Tu control de videojuego se descompuso la semana pasada.	S: Tu control de videojuego se descompuso la semana pasada.
+T: SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE	T: SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE
+-: SEMANA-PASADA TUYO CONTROL-DE-VIDEOJUEGO YA DESCOMPONER	-: SEMANA-PASADA TUYO CONTROL-DE-VIDEOJUEGO YA DESCOMPONER
+--	--
+S: Quiero una mesa nueva.	S: Quiero una mesa nueva.
+T: MESA NUEVA YO QUERER	T: MESA NUEVA YO QUERER
++: MESA NUEVA YO QUERER	+: MESA NUEVA YO QUERER
+--	--
+S: Yo nací por cesárea.	S: Yo nací por cesárea.
+T: CESÁREA YO NACER YA	T: CESÁREA YO NACER YA
+-: YO CESÁREA YA NACER	-: YO CESÁREA YA NACER
+--	--
+S: MI Mí familia y yo fuimos a Celaya.	S: MI Mí familia y yo fuimos a Celaya.
+T: CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR	T: CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR
+-: MI FAMILIA NOSOTROS YA IR CELAYA	-: MI FAMILIA NOSOTROS YA IR CELAYA
+--	--
+S: Las mujeres tienen vágina.	S: Las mujeres tienen vágina.
+T: MUJER TENER VÁGINA	T: MUJER TENER VÁGINA
+-: MUJER VAGINA	-: MUJER VAGINA
+--	--
+S: Yo limpié la azotea de la casa.	S: Yo limpié la azotea de la casa.
+T: CASA AZOTEAarriba YO LIMPIAR YA	T: CASA AZOTEAarriba YO LIMPIAR YA
+-: CASA AZOTEA YO YA LIMPIAR	-: CASA AZOTEA YO YA LIMPIAR
+--	--
+S: Perdí mi nuevo CD.	S: Perdí mi nuevo CD.
+T: NUEVO CD YO YA PERDER	T: NUEVO CD YO YA PERDER
+-: YO MI NUEVO CD YA PERDER	-: YO MI CD NUEVO YA PERDER
+--	--
+S: Tengo otro libro.	S: Tengo otro libro.
+T: OTRO LIBRO YO TENER	T: OTRO LIBRO YO TENER
+-: YO TENER OTRO LIBRO	-: YO TENER OTRO LIBRO
+--	--
+S: Por favor, apaga la luz.	S: Por favor, apaga la luz.
+T: APAGAR LUZ POR-FAVOR	T: APAGAR LUZ POR-FAVOR
++: APAGAR LUZ POR-FAVOR	+: APAGAR LUZ POR-FAVOR
+--	--
+S: Quiero ir a estudiar el próximo año la universidad en San Diego.	S: Quiero ir a estudiar el próximo año la universidad en San Diego.
+T: PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO	T: PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO
+-: PRÓXIMO AÑO SAN DIEGO UNIVERSIDAD YO IR ESTUDIAR QUERER	-: PRÓXIMO AÑO SAN DIEGO UNIVERSIDAD YO QUERER IR ESTUDIAR
+--	--
+S: Vamos a correr ponte la sudadera.	S: Vamos a correr ponte la sudadera.
+T: PONTE-SUDADERA NOSOTROS IR CORRER	T: PONTE-SUDADERA NOSOTROS IR CORRER
+-: NOSOTROS CORRER IR SUDADERA TÚ PONER	-: NOSOTROS CORRER SUDADERA TÚ PONER
+--	--
+S: No traigo efectivo.	S: No traigo efectivo.
+T: EFECTIVO NINGÚN YO TRAER	T: EFECTIVO NINGÚN YO TRAER
+-: YO EFECTIVO NO-TRAER	-: EFECTIVO YO NO TRAER
+--	--
+S: Ana abandonó a su perro.	S: Ana abandonó a su perro.
+T: dm-ANA SUYO PERRO ABANDONAR YA	T: dm-ANA SUYO PERRO ABANDONAR YA
+-: dm-ANA SU PERRO ABANDONAR YA	-: dm-ANA SU PERRO YA ABANDONAR
+--	--
+S: En Cancún hay un crucero.	S: En Cancún hay un crucero.
+T: CANCÚN HABER CRUCERO	T: CANCÚN HABER CRUCERO
++: CANCÚN HABER CRUCERO	+: CANCÚN HABER CRUCERO
+--	--
+S: Visité el mural de Diego Rivera.	S: Visité el mural de Diego Rivera.
+T: YO YA VISITAR MURAL dm-DIEGO-RIVERA	T: YO YA VISITAR MURAL dm-DIEGO-RIVERA
+-: YO MURAL dm-DIEGO-RIVERA YA VISITAR	-: YO MURAL dm-DIEGO-RIVERA YA VISITAR
+--	--
+S: El gobierno cuida a los ciudadanos.	S: El gobierno cuida a los ciudadanos.
+T: GOBIERNO CUIDAR PERSONA	T: GOBIERNO CUIDAR PERSONA
+-: GOBIERNO CIUDADANO CUIDAR	-: GOBIERNO CIUDADANO CUIDAR
+--	--
+S: Vivir en Estados Unidos es difícil.	S: Vivir en Estados Unidos es difícil.
+T: ESTADOS UNIDOS DIFÍCIL VIVIR	T: ESTADOS UNIDOS DIFÍCIL VIVIR
+-: ESTADOS-UNIDOS VIVIR DIFÍCIL	-: ESTADOS-UNIDOS VIVIR DIFÍCIL
+--	--
+S: La casa de mi amigo está detrás de la mía.	S: La casa de mi amigo está detrás de la mía.
+T: CASA AMIGO DETRÁS MI CASA	T: CASA AMIGO DETRÁS MI CASA
+-: MI AMIGO CASA DETRÁS MI CASA	+: CASA AMIGO DETRÁS MI CASA
+--	--
+S: Los alumnos cantan el himno nacional los lunes.	S: Los alumnos cantan el himno nacional los lunes.
+T: TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL	T: TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL
+-: LUNES ALUMNO HIMNO NACIONAL CANTAR	-: LUNES ALUMNO HIMNO NACIONAL CANTAR
+--	--
+S: Con la lluvia el tubo se rompió.	S: Con la lluvia el tubo se rompió.
+T: LLUVIA TUBO ROMPER	T: LLUVIA TUBO ROMPER
+-: LLUVIA TUBO YA ROMPER	-: LLUVIA TUBO YA ROMPER
+--	--
+S: Yo quiero menos comida.	S: Yo quiero menos comida.
+T: COMIDA MENOS YO QUERER	T: COMIDA MENOS YO QUERER
+-: YO MENOS COMIDA QUERER	+: COMIDA MENOS YO QUERER
+--	--
+S: Compré una almohada nueva, ¡qué suerte!	S: Compré una almohada nueva, ¡qué suerte!
+T: NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!	T: NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!
+-: ALMOHADA NUEVA YO YA COMPRAR ¡SUERTE!	-: YO ALMOHADA NUEVO YA COMPRAR ¡SUERTE!
+--	--
+S: Compraré la cena de Navidad en la Comercial Mexicana.	S: Compraré la cena de Navidad en la Comercial Mexicana.
+T: COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD	T: COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD
+-: FUTURO COMERCIAL MEXICANA CENA NAVIDAD YO COMPRAR	-: FUTURO COMERCIAL MEXICANA CENA NAVIDAD YO COMPRAR
+--	--
+S: Ayer perdí mi liga.	S: Ayer perdí mi liga.
+T: AYER YO PERDER MI LIGA	T: AYER YO PERDER MI LIGA
+-: AYER YO MI LIGA YA PERDER	-: AYER YO MI LIGA PERDER
+--	--
+S: En China hay sobrepoblación.	S: En China hay sobrepoblación.
+T: CHINA HABER MUCHAS PERSONAS	T: CHINA HABER MUCHAS PERSONAS
++: CHINA HABER MUCHAS PERSONAS	+: CHINA HABER MUCHAS PERSONAS
+--	--
+S: Pienso estudiar odontología.	S: Pienso estudiar odontología.
+T: ODONTOLOGÍA YO PENSAR ESTUDIAR	T: ODONTOLOGÍA YO PENSAR ESTUDIAR
+-: DOCTOR-DIENTES YO ESTUDIAR QUERER	-: DOCTOR-DIENTES YO PENSAR ESTUDIAR
+--	--
+S: La mesa de fierro está muy pesada.	S: La mesa de fierro está muy pesada.
+T: MESA FIERRO PESADO	T: MESA FIERRO PESADO
++: MESA FIERRO PESADO	-: MESA FIERRO MUCHO PESADO
+--	--
+S: Es tu obligación pagar impuestos.	S: Es tu obligación pagar impuestos.
+T: IMPUESTOS PAGAR TUYO OBLIGACIÓN	T: IMPUESTOS PAGAR TUYO OBLIGACIÓN
+-: IMPUESTO TÚ PAGAR DEBER	-: IMPUESTO TÚ DEBER PAGAR
+--	--
+S: Quiero comprar una rasuradora.	S: Quiero comprar una rasuradora.
+T: RASURADORA YO QUERER COMPRAR	T: RASURADORA YO QUERER COMPRAR
++: RASURADORA YO QUERER COMPRAR	+: RASURADORA YO QUERER COMPRAR
+--	--
+S: El capitán del barco es muy inteligente.	S: El capitán del barco es muy inteligente.
+T: BARCO CAPITÁN él INTELIGENTE	T: BARCO CAPITÁN él INTELIGENTE
+-: BARCO CAPITÁN INTELIGENTE	-: BARCO CAPITÁN MUCHO INTELIGENTE
+--	--
+S: No te juntes con personas enfermas te pueden contagiar.	S: No te juntes con personas enfermas te pueden contagiar.
+T: ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	T: ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER
+-: PERSONA ENFERMO NO JUNTAR PODER CONTAGIAR	-: PERSONA ENFERMO NO JUNTAR PORQUE TI PODER CONTAGIAR
+--	--
+S: Estudiamos para el examen.	S: Estudiamos para el examen.
+T: NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR	T: NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR
+-: NOSOTROS ESTUDIAR PARA EXAMEN	-: NOSOTROS ESTUDIAR PARA EXAMEN
+--	--
+S: La semana pasada pedí un aventón a la caseta.	S: La semana pasada pedí un aventón a la caseta.
+T: SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	T: SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA
+-: SEMANA-PASADA CASETA YO AVENTÓN YA PEDIR	-: SEMANA PASADA CASETA AVENTÓN YO YA PEDIR
+--	--
+S: El sapo se convirtió en príncipe.	S: El sapo se convirtió en príncipe.
+T: SAPO YA CONVERTIR PERSONA PRÍNCIPE	T: SAPO YA CONVERTIR PERSONA PRÍNCIPE
+-: SAPO PRÍNCIPE YA CONVERTIR	-: SAPO PRÍNCIPE YA CONVERTIR
+--	--
+S: Mi hermano revisa su agenda diario.	S: Mi hermano revisa su agenda diario.
+T: DIARIO MI HERMANO AGENDA REVISAR	T: DIARIO MI HERMANO AGENDA REVISAR
+-: DIARIO MI HERMANO SU AGENDA REVISAR	-: DIARIO MI HERMANO SU AGENDA REVISAR
+--	--
+S: Mi hijo reprobó el sexto de primaria.	S: Mi hijo reprobó el sexto de primaria.
+T: SEXTO-Primaria MI HIJO YA REPROBAR	T: SEXTO-Primaria MI HIJO YA REPROBAR
+-: MI HIJO SEXTO PRIMARIA REPROBAR YA	-: MI HIJO SEXTO PRIMARIA YA REPROBAR
+--	--
+S: Mi primo ingresó a la universidad.	S: Mi primo ingresó a la universidad.
+T: MI PRIMO UNIVERSIDAD YA INGRESAR	T: MI PRIMO UNIVERSIDAD YA INGRESAR
++: MI PRIMO UNIVERSIDAD YA INGRESAR	+: MI PRIMO UNIVERSIDAD YA INGRESAR
+--	--
+S: En la iglesia hay una campana muy grande.	S: En la iglesia hay una campana muy grande.
+T: IGLESIA CAMPANA GRANDE	T: IGLESIA CAMPANA GRANDE
+-: IGLESIA HABER CAMPANA GRANDE	-: IGLESIA HABER CAMPANA GRANDE
+--	--
+S: ¡El café está muy caliente!	S: ¡El café está muy caliente!
+T: ¡CAFÉ CALIENTE!	T: ¡CAFÉ CALIENTE!
+-: ¡CAFÉ MUCHO CALIENTE!	-: ¡CAFÉ MUCHO CALIENTE!
+--	--
+S: Los Adventistas descansan los sábados y adoran a Dios.	S: Los Adventistas descansan los sábados y adoran a Dios.
+T: ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR	T: ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR
+-: SÁBADO ADVENTISTAS DESCANSAR DIOS ADORAR	-: SÁBADO ADVENTISTA DESCANSAR DIOS ADORAR
+--	--
+S: Voy a estudiar hasta secundaria y después quiero trabajar.	S: Voy a estudiar hasta secundaria y después quiero trabajar.
+T: YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR	T: YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR
+-: YO SECUNDARIA ESTUDIAR FUTURO DESPUÉS YO TRABAJAR QUERER	-: SECUNDARIA YO ESTUDIAR DESPUÉS TRABAJAR YO QUERER
+--	--
+S: En Nezahualcóyotl hay muchos cholos	S: En Nezahualcóyotl hay muchos cholos
+T: NEZAHUALCÓYOTL MUCHO CHOLO	T: NEZAHUALCÓYOTL MUCHO CHOLO
+-: NEZAHUALCÓYOTL HABER MUCHO CHOLO	-: NEZAHUALCÓYOTL HABER MUCHO CHOLO
+--	--
+S: Rosalía trabaja en el archivo del hospital.	S: Rosalía trabaja en el archivo del hospital.
+T: dm-ROSALÍA TRABAJAR ARCHIVO HOSPITAL	T: dm-ROSALÍA TRABAJAR ARCHIVO HOSPITAL
+-: HOSPITAL ARCHIVO dm-ROSALÍA TRABAJAR	-: HOSPITAL ARCHIVO dm-ROSALÍA TRABAJAR
+--	--
+S: Ya tengo trabajo, estoy contento.	S: Ya tengo trabajo, estoy contento.
+T: YO TENER TRABAJO YA CONTENTO YO	T: YO TENER TRABAJO YA CONTENTO YO
+-: YA TRABAJO YO TENER CONTENTO	-: YO TRABAJO YA TENER CONTENTO
+--	--
+S: No hay nadie en mi casa los domingos.	S: No hay nadie en mi casa los domingos.
+T: DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE	T: DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE
+-: DOMINGO MI CASA NO-HAY-NADIE	-: DOMINGO MI CASA NO-HAY-NADIE
+--	--
+S: Él está muy grave.	S: Él está muy grave.
+T: ÉL GRAVE	T: ÉL GRAVE
+-: ÉL MUCHO GRAVE	-: 
+--	--
+S: En Bélgica hay dos lenguas de señas: VGT y LSFB.	S: En Bélgica hay dos lenguas de señas: VGT y LSFB.
+T: #VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA	T: #VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA
+-: BÉLGICA HABER DOS LENGUA-DE-SEÑAS #VGT #LSFB	-: BÉLGICA HABER DOS LENGUA-DE-SEÑAS #VGT #LSFB
+--	--
+S: En Suiza se hablan diferentes idiomas.	S: En Suiza se hablan diferentes idiomas.
+T: SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR	T: SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR
+-: SUIZA IDIOMA DIFERENTE HABLAR	-: SUIZA IDIOMA DIFERENTE HABLAR
+--	--
+S: Salvador entrena box diario en el parque.	S: Salvador entrena box diario en el parque.
+T: DIARIO PARQUE dm-SALVADOR BOX EJERCER	T: DIARIO PARQUE dm-SALVADOR BOX EJERCER
+-: DIARIO PARQUE dm-SALVADOR BOX ENTRENAR	-: DIARIO PARQUE dm-SALVADOR BOX ENTRENAR
+--	--
+S: En diciembre del año pasado, mi jefe viajó a Bogotá.	S: En diciembre del año pasado, mi jefe viajó a Bogotá.
+T: AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR	T: AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR
+-: AÑO-PASADO DICIEMBRE MI JEFE BOGOTÁ YA VIAJAR	-: AÑO-PASADO DICIEMBRE MI JEFE VIAJAR BOGOTÁ
+--	--
+S: Ese profesor siempre está amargado, ¡qué feo!	S: Ese profesor siempre está amargado, ¡qué feo!
+T: ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!	T: ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!
+-: SIEMPRE ESE PROFESOR AMARGADO ¡QUÉ FEO!	-: SIEMPRE ESE PROFESOR AMARGADO ¡QUÉ FEO!
+--	--
+S: Yo compro carne en el supermercado.	S: Yo compro carne en el supermercado.
+T: CARNE YO COMPRAR SUPERMERCADO	T: CARNE YO COMPRAR SUPERMERCADO
+-: SUPERMERCADO YO CARNE COMPRAR	-: SUPERMERCADO YO CARNE COMPRAR
+--	--
+S: Acostumbro usar taxi siempre.	S: Acostumbro usar taxi siempre.
+T: SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI	T: SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI
+-: SIEMPRE YO TAXI USAR	-: SIEMPRE TAXI YO USAR
+--	--
+S: Ese libro me gusta.	S: Ese libro me gusta.
+T: ESE LIBRO YO GUSTAR	T: ESE LIBRO YO GUSTAR
++: ESE LIBRO YO GUSTAR	+: ESE LIBRO YO GUSTAR
+--	--
+S: Ayer mi primo conquistó a mi amiga en el cine.	S: Ayer mi primo conquistó a mi amiga en el cine.
+T: AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER	T: AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER
+-: AYER CINE MI PRIMO MI AMIGO+MUJER YA CONQUISTAR	-: AYER CINE MI PRIMO MI AMIGO+MUJER YA CONQUISTAR
+--	--
+S: La medicina es una carrera que exige concentración.	S: La medicina es una carrera que exige concentración.
+T: CARRERA MEDICINA CONCENTRACIÓN A-FUERZA	T: CARRERA MEDICINA CONCENTRACIÓN A-FUERZA
+-: MEDICINA CARRERA CONCENTRACIÓN EXIGIR	-: MEDICINA CARRERA CONCENTRACIÓN EXIGIR
+--	--
+S: Todas las enfermeras del hospital son muy amables.	S: Todas las enfermeras del hospital son muy amables.
+T: HOSPITALacá TODA ENFERMERA AMABLE	T: HOSPITALacá TODA ENFERMERA AMABLE
+-: HOSPITAL ENFERMERA TODO MUCHO AMABLE	-: HOSPITAL ENFERMERA TODOS AMABLE
+--	--
+S: Soy muy bueno para los clavados.	S: Soy muy bueno para los clavados.
+T: YO CLAVADO HÁBIL YO	T: YO CLAVADO HÁBIL YO
+-: CLAVADOS YO BUENO BUENO	-: CLAVADO YO MUCHO BUENO
+--	--
+S: Mi hermana está embarazada.	S: Mi hermana está embarazada.
+T: MI HERMANO+MUJER YA EMBARAZADA	T: MI HERMANO+MUJER YA EMBARAZADA
+-: MI HERMANO+MUJER EMBARAZADA	-: MI HERMANO+MUJER EMBARAZADA
+--	--
+S: Adán es el primer hombre creado por Dios en el mundo.	S: Adán es el primer hombre creado por Dios en el mundo.
+T: ADÁN PRIMER HOMBRE MUNDO DIOS HACER	T: ADÁN PRIMER HOMBRE MUNDO DIOS HACER
+-: MUNDO ADÁN DIOS PRIMER HOMBRE CREAR	-: MUNDO ADÁN DIOS PRIMER HOMBRE CREAR
+--	--
+S: El cumpleaños de mi tía es en abril y le haremos fiesta.	S: El cumpleaños de mi tía es en abril y le haremos fiesta.
+T: ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA	T: ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA
+-: ABRIL MI TÍO+MUJER CUMPLEAÑOS MI TÍO+MUJER FIESTA NOSOTROS FUTURO HACER	-: ABRIL MI TÍO+MUJER CUMPLEAÑOS MI TÍO+MUJER FIESTA NOSOTROS FUTURO HACER
+--	--
+S: Compré una almohada nueva para la cama.	S: Compré una almohada nueva para la cama.
+T: YO YA COMPRAR NUEVA ALMOHADA PARA CAMA	T: YO YA COMPRAR NUEVA ALMOHADA PARA CAMA
+-: ALMOHADA NUEVA PARA CAMA YO YA COMPRAR	-: ALMOHADA NUEVA PARA CAMA YO YA COMPRAR
+--	--
+S: El maltrato animal es un crimen.	S: El maltrato animal es un crimen.
+T: MALTRATO ANIMAL CRIMEN	T: MALTRATO ANIMAL CRIMEN
++: MALTRATO ANIMAL CRIMEN	+: MALTRATO ANIMAL CRIMEN
+--	--
+S: Luis fue de vacaciones a Panamá.	S: Luis fue de vacaciones a Panamá.
+T: VACACIONES dm-LUIS IR PANAMÁ	T: VACACIONES dm-LUIS IR PANAMÁ
+-: dm-LUIS PANAMÁ VACACIONES YA IR	-: dm-LUIS PANAMÁ VACACIONES YA IR
+--	--
+S: Yo abandoné a mi hijo.	S: Yo abandoné a mi hijo.
+T: MI HIJO YO ABANDONAR	T: MI HIJO YO ABANDONAR
+-: YO MI HIJO ABANDONAR YA	-: YO MI HIJO YA ABANDONAR
+--	--
+S: Vivir en el desierto es difícil.	S: Vivir en el desierto es difícil.
+T: DESIERTO DIFÍCIL VIVIR	T: DESIERTO DIFÍCIL VIVIR
+-: DESIERTO VIVIR DIFÍCIL	-: DESIERTO VIVIR DIFÍCIL
+--	--
+S: Compré este celular ayer pero está muy corriente.	S: Compré este celular ayer pero está muy corriente.
+T: AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE	T: AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE
++: AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE	+: AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE
+--	--
+S: Mi generación se graduó el año pasado.	S: Mi generación se graduó el año pasado.
+T: AÑO-PASADO MI GENERACIÓN GRADUAR	T: AÑO-PASADO MI GENERACIÓN GRADUAR
+-: AÑO-PASADO MI GENERACIÓN YA GRADUAR	+: AÑO-PASADO MI GENERACIÓN GRADUAR
+--	--
+S: Voy al baño.	S: Voy al baño.
+T: YO IR BAÑO	T: YO IR BAÑO
++: YO IR BAÑO	+: YO IR BAÑO
+--	--
+S: Él es mi ex novio.	S: Él es mi ex novio.
+T: ÉL MI EX NOVIO	T: ÉL MI EX NOVIO
+-: ÉL MI EX-NOVIO	-: ÉL MI EX-NOVIO
+--	--
+S: Mi amigo me besó en el cine.	S: Mi amigo me besó en el cine.
+T: CINE MI AMIGO ÉL BESAR MÍ YA	T: CINE MI AMIGO ÉL BESAR MÍ YA
+-: CINE MI AMIGO YO YA BESAR	-: CINE MI AMIGO YO BESAR YA
+--	--
+S: ¿Cuál es el número de tu grupo?	S: ¿Cuál es el número de tu grupo?
+T: ¿TÚ GRUPO NÚMERO CUÁL?	T: ¿TÚ GRUPO NÚMERO CUÁL?
+-: TUYO GRUPO NÚMERO ¿CUÁL?	-: TUYO GRUPO NÚMERO ¿CUÁL?
+--	--
+S: Mañana habrá descuentos en bolsas de mano en Liverpool.	S: Mañana habrá descuentos en bolsas de mano en Liverpool.
+T: MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO	T: MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO
+-: MAÑANA LIVERPOOL BOLSA-MANO DESCUENTO HABER	-: MAÑANA LIVERPOOL HABER BOLSA-MANO DESCUENTO
+--	--
+S: Tokio se ubica en Asia.	S: Tokio se ubica en Asia.
+T: LUGAR TOKIO SU ASIA	T: LUGAR TOKIO SU ASIA
+-: ASIA ADENTRO TOKIO	-: ASIA TOKIO
+--	--
+S: No hay dulces en el frasco.	S: No hay dulces en el frasco.
+T: FRASCO DULCES NO-HAY	T: FRASCO DULCES NO-HAY
+-: FRASCO DULCE NO-HAY	-: FRASCO DULCE NO-HAY
+--	--
+S: En el table dance, las mujeres bailan sobre la mesa	S: En el table dance, las mujeres bailan sobre la mesa
+T: TABLE-DANCE MUJER DIFERENTE BAILA MESA	T: TABLE-DANCE MUJER DIFERENTE BAILA MESA
+-: TABLE-DANCE MUJER MESA SOBRE BAILAR	-: TABLE-DANCE MUJER MESA SOBRE BAILAR
+--	--
+S: Puedes llevar una maleta.	S: Puedes llevar una maleta.
+T: MALETA TÚ PODER LLEVAR	T: MALETA TÚ PODER LLEVAR
+-: MALETA TÚ LLEVAR PODER	+: MALETA TÚ PODER LLEVAR
+--	--
+S: Los niños tienen piojos.	S: Los niños tienen piojos.
+T: NIÑO NIÑO TENER PIOJO	T: NIÑO NIÑO TENER PIOJO
+-: NIÑO TENER PIOJO	-: NIÑO TENER PIOJO
+--	--
+S: A la comida le faltó un poco de sal.	S: A la comida le faltó un poco de sal.
+T: COMIDA FALTA SAL POQUITO	T: COMIDA FALTA SAL POQUITO
+-: COMIDA POCO SAL FALTAR YA	-: COMIDA SAL POCO YA FALTAR
+--	--
+S: Compraré ropa nueva. Yo estoy a la moda.	S: Compraré ropa nueva. Yo estoy a la moda.
+T: ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA	T: ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA
+-: FUTURO YO ROPA NUEVA COMPRAR YO MODA	-: YO ROPA NUEVO COMPRAR FUTURO YO MODA
+--	--
+S: Mi carro usa cuatro cilindros.	S: Mi carro usa cuatro cilindros.
+T: CUATRO CILINDRO MI CARRO USAR	T: CUATRO CILINDRO MI CARRO USAR
+-: MI CARRO CUATRO CILINDRO USAR	-: MI CARRO CUATRO CILINDRO USAR
+--	--
+S: El egipcio no respondió.	S: El egipcio no respondió.
+T: HOMBRE EGIPCIO NO RESPONDER	T: HOMBRE EGIPCIO NO RESPONDER
+-: EGIPCIO RESPONDER NO	-: EGIPCIO NO RESPONDER
+--	--
+S: Hoy no comí arroz.	S: Hoy no comí arroz.
+T: HOY YO ARROZ COMER	T: HOY YO ARROZ COMER
+-: HOY YO ARROZ NO COMER	-: HOY YO ARROZ NO COMER
+--	--
+S: Mi hermano es activo.	S: Mi hermano es activo.
+T: MI HERMANO ACTIVO	T: MI HERMANO ACTIVO
++: MI HERMANO ACTIVO	+: MI HERMANO ACTIVO
+--	--
+S: Mi tía cocina delicioso.	S: Mi tía cocina delicioso.
+T: MI TÍO+MUJER DELICIOSO COCINAR	T: MI TÍO+MUJER DELICIOSO COCINAR
+-: MI TÍO+MUJER COCINAR DELICIOSO	-: MI TÍO+MUJER COCINAR DELICIOSO
+--	--
+S: Mañana será el Baby Shower de Luz.	S: Mañana será el Baby Shower de Luz.
+T: dm-LUZ BABY-SHOWER MAÑANA	T: dm-LUZ BABY-SHOWER MAÑANA
+-: MAÑANA BABY-SHOWER dm-LUZ FUTURO	-: MAÑANA dm-LUZ BABY-SHOWER FUTURO
+--	--
+S: El amigo de Juana es árabe.	S: El amigo de Juana es árabe.
+T: dm-JUANA SU AMIGO ÁRABE	T: dm-JUANA SU AMIGO ÁRABE
+-: dm-JUANA AMIGO ÁRABE	-: dm-JUANA AMIGO ÁRABE
+--	--
+S: Mi tío tiene una casa en Cuernavaca.	S: Mi tío tiene una casa en Cuernavaca.
+T: MI TÍO TENER CASA CUERNAVACA	T: MI TÍO TENER CASA CUERNAVACA
+-: CUERNAVACA MI TÍO TENER CASA	-: CUERNAVACA MI TÍO CASA TENER
+--	--
+S: Tengo muchos amigos en la escuela.	S: Tengo muchos amigos en la escuela.
+T: YO TENER ESCUELA MUCHO AMIGO AMIGO	T: YO TENER ESCUELA MUCHO AMIGO AMIGO
+-: ESCUELA YO MUCHO AMIGO TENER	-: ESCUELA YO MUCHO AMIGO TENER
+--	--
+S: Ayer fui a pasear y me senti muy bien	S: Ayer fui a pasear y me senti muy bien
+T: AYER YO PASEAR SENTIR BIEN	T: AYER YO PASEAR SENTIR BIEN
+-: AYER YO IR PASEAR MUCHO BIEN	-: AYER YO IR PASEAR YO BIEN SENTIR
+--	--
+S: Mi mamá me compró un calzón.	S: Mi mamá me compró un calzón.
+T: MÍ MAMÁ COMPRAR CALZÓN	T: MÍ MAMÁ COMPRAR CALZÓN
+-: MÍ CALZÓN MI MAMÁ YA COMPRAR	-: MÍ CALZÓN MI MAMÁ YA COMPRAR
+--	--
+S: No puedo decirlo, debo aguantarme.	S: No puedo decirlo, debo aguantarme.
+T: YO DECIR NO-PODER YO DEBER AGUANTAR	T: YO DECIR NO-PODER YO DEBER AGUANTAR
+-: YO DECIR NO-PODER YO AGUANTAR DEBER	-: YO DECIR NO-PODER YO AGUANTAR DEBER
+--	--
+S: Ayer mi hermano lavó su ropa sucia.	S: Ayer mi hermano lavó su ropa sucia.
+T: AYER SU ROPA SUCIA MI HERMANO LAVAR	T: AYER SU ROPA SUCIA MI HERMANO LAVAR
+-: AYER MI HERMANO SU ROPA SUCIA LAVAR	-: AYER MI HERMANO SU ROPA SUCIA YA LAVAR
+--	--
+S: Mi jefe me pagó la mitad del sueldo.	S: Mi jefe me pagó la mitad del sueldo.
+T: MI JEFE ÉL PAGAR MÍ SUELDO MITAD	T: MI JEFE ÉL PAGAR MÍ SUELDO MITAD
+-: YO SUELDO MITAD MI JEFE YA PAGAR	-: YO SUELDO MITAD MI JEFE YA PAGAR
+--	--
+S: Adoro a Jehová.	S: Adoro a Jehová.
+T: JEHOVÁ YO ADORAR	T: JEHOVÁ YO ADORAR
+-: YO JEHOVÁ ADORAR	-: YO JEHOVÁ ADORAR
+--	--
+S: Yo no fui quien descompuso la computadora.	S: Yo no fui quien descompuso la computadora.
+T: YO NO-FUI COMPUTADORA NO-SIRVE	T: YO NO-FUI COMPUTADORA NO-SIRVE
+-: COMPUTADORA YO NO DESCOMPONER	-: YO COMPUTADORA NO DESCOMPONER
+--	--
+S: Con mucho polvo, yo estornudo mucho.	S: Con mucho polvo, yo estornudo mucho.
+T: POLVO YO MUCHO ESTORNUDAR	T: POLVO YO MUCHO ESTORNUDAR
+-: POLVO MUCHO YO ESTORNUDAR MUCHO	-: POLVO MUCHO YO ESTORNUDAR MUCHO
+--	--
+S: Yo tuve suerte, lo pude lograr.	S: Yo tuve suerte, lo pude lograr.
+T: YO SUERTE LOGRAR YO PODER	T: YO SUERTE LOGRAR YO PODER
+-: YO SUERTE TENER YO LOGRAR PODER	-: YO SUERTE YA TENER LOGRAR YO YA PODER
+--	--
+S: Me mandas un mensaje de whatsapp en la noche.	S: Me mandas un mensaje de whatsapp en la noche.
+T: NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ	T: NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ
+-: NOCHE MÍ WHATSAPP MENSAJEAR	-: NOCHE MÍ WHATSAPP MENSAJEAR
+--	--
+S: El trombón tiene un sonido muy grave.	S: El trombón tiene un sonido muy grave.
+T: TROMBÓN SONIDO GRAVE TENER	T: TROMBÓN SONIDO GRAVE TENER
+-: TROMBÓN SONIDO GRAVE	-: TROMBÓN SONIDO GRAVE
+--	--
+S: La Biblioteca de México es muy grande.	S: La Biblioteca de México es muy grande.
+T: MÉXICO BIBLIOTECA GRANDE	T: MÉXICO BIBLIOTECA GRANDE
++: MÉXICO BIBLIOTECA GRANDE	+: MÉXICO BIBLIOTECA GRANDE
+--	--
+S: En la madrugada escuché una explosión.	S: En la madrugada escuché una explosión.
+T: MADRUGADA EXPLOSIÓN YO ESCUCHAR	T: MADRUGADA EXPLOSIÓN YO ESCUCHAR
+-: MADRUGADA YO EXPLOSIÓN YA ESCUCHAR	-: MADRUGADA YO EXPLOSIÓN YA ESCUCHAR
+--	--
+S: Yo comí pulpo, es delicioso.	S: Yo comí pulpo, es delicioso.
+T: PULPO YO YA COMER DELICOSO	T: PULPO YO YA COMER DELICOSO
+-: YO PULPO YA COMER DELICIOSO	-: YO PULPO YA COMER DELICIOSO
+--	--
+S: Yo sé leer en idioma inglés.	S: Yo sé leer en idioma inglés.
+T: YO YA SABER LEER INGLÉS IDIOMA	T: YO YA SABER LEER INGLÉS IDIOMA
+-: YO INGLÉS LEER SABER	-: IDIOMA INGLÉS YO SABER LEER
+--	--
+S: Eres un huraño con todos.	S: Eres un huraño con todos.
+T: TÚ HURAÑO TÚ	T: TÚ HURAÑO TÚ
+-: TÚ TODOS HURAÑO	-: TÚ TODOS HURAÑO
+--	--
+S: No siempre voy a casa, sólo a veces.	S: No siempre voy a casa, sólo a veces.
+T: A-VECES YO IR CASA SIEMPRE NO	T: A-VECES YO IR CASA SIEMPRE NO
+-: CASA YO NO SIEMPRE IR SOLO A VECES	-: NO SIEMPRE YO CASA IR, SOLO VECES
+--	--
+S: Estuviste a salvo de caer en la coladera.	S: Estuviste a salvo de caer en la coladera.
+T: COLADERA TÚ A-SALVO CAER	T: COLADERA TÚ A-SALVO CAER
+-: TÚ COLADERA CAER YA SALVO	-: COLADERA CAER TÚ YA SALVO
+--	--
+S: El calendario de la SEP termina en agosto.	S: El calendario de la SEP termina en agosto.
+T: SU #SEP CALENDARIO AGOSTO TERMINAR	T: SU #SEP CALENDARIO AGOSTO TERMINAR
+-: AGOSTO CALENDARIO #SEP TERMINAR	-: AGOSTO CALENDARIO #SEP TERMINAR
+--	--
+S: Debes cambiar la llanta del coche.	S: Debes cambiar la llanta del coche.
+T: LLANTA COCHE TÚ DEBER CAMBIAR	T: LLANTA COCHE TÚ DEBER CAMBIAR
+-: COCHE LLANTA TÚ CAMBIAR DEBER	-: COCHE LLANTA TÚ DEBER CAMBIAR
+--	--
+S: Alicia viajó a Sudáfrica.	S: Alicia viajó a Sudáfrica.
+T: dm-ALICIA YA VIAJAR SUDÁFRICA	T: dm-ALICIA YA VIAJAR SUDÁFRICA
+-: dm-ALICIA SUDÁFRICA YA VIAJAR	-: dm-ALICIA SUDÁFRICA YA VIAJAR
+--	--
+S: Santiago guarda en su bolsillo una moneda.	S: Santiago guarda en su bolsillo una moneda.
+T: dm-SANTIAGO MONEDA GUARDAR-BOLSILLO	T: dm-SANTIAGO MONEDA GUARDAR-BOLSILLO
+-: BOLSILLO dm-SANTIAGO MONEDA GUARDAR	-: BOLSILLO dm-SANTIAGO MONEDA GUARDAR
+--	--
+S: En la mochila roja hay dos pañales.	S: En la mochila roja hay dos pañales.
+T: MOCHILA ROJA HABER DOS PAÑAL	T: MOCHILA ROJA HABER DOS PAÑAL
+-: MOCHILA COLOR ROJO HABER DOS PAÑAL	-: MOCHILA COLOR ROJO HABER DOS PAÑAL
+--	--
+S: Mi abuela tiene 90 años.	S: Mi abuela tiene 90 años.
+T: MÍ ABUELO+MUJER 90 EDAD	T: MÍ ABUELO+MUJER 90 EDAD
+-: MI ABUELO+MUJER 90 EDAD	-: MI ABUELO+MUJER 90 EDAD
+--	--
+S: Mi auto no tiene cinturón de seguridad.	S: Mi auto no tiene cinturón de seguridad.
+T: CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY	T: CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY
+-: MI AUTO CINTURÓN-DE-SEGURIDAD NO-HAY	-: MI AUTO CINTURÓN-DE-SEGURIDAD NO-HAY
+--	--
+S: Ese muchacho es muy buen corredor.	S: Ese muchacho es muy buen corredor.
+T: ESE HOMBRE JOVEN BUEN CORREDOR	T: ESE HOMBRE JOVEN BUEN CORREDOR
+-: ESE MUCHACHO CORREDOR MUCHO BUENO	-: ESE MUCHACHO CORREDOR BUENO BUENO
+--	--
+S: Los colores de la bandera de Irán son verde blanco y rojo.	S: Los colores de la bandera de Irán son verde blanco y rojo.
+T: IRÁN BANDERA COLOR VERDE BLANCO ROJO	T: IRÁN BANDERA COLOR VERDE BLANCO ROJO
+-: IRÁN BANDERA COLOR COLOR VERDE COLOR BLANCO COLOR ROJO	-: IRÁN BANDERA COLOR COLOR VERDE COLOR BLANCO COLOR ROJO
+--	--
+S: En la TV hay mucha publicidad.	S: En la TV hay mucha publicidad.
+T: #TV PUBLICIDAD HABER MUCHO	T: #TV PUBLICIDAD HABER MUCHO
+-: #TV HABER MUCHO PUBLICIDAD	-: #TV HABER MUCHO PUBLICIDAD
+--	--
+S: Mi tío vive en la frontera, en Tijuana.	S: Mi tío vive en la frontera, en Tijuana.
+T: FRONTERA TIJUANA MÍ TÍO VIVIR	T: FRONTERA TIJUANA MÍ TÍO VIVIR
+-: TIJUANA FRONTERA MI TÍO VIVIR	-: TIJUANA FRONTERA MI TÍO VIVIR
+--	--
+S: Aimé saltó en paracaídas.	S: Aimé saltó en paracaídas.
+T: dm-AIMÉ SALTAR PARACAIDAS	T: dm-AIMÉ SALTAR PARACAIDAS
+-: dm-AIMÉ PARACAÍDAS YA SALTAR	-: dm-AIMÉ YA PARACAÍDAS-SALTAR
+--	--
+S: Edgar será maestro.	S: Edgar será maestro.
+T: dm-EDGAR FUTURO MAESTRO	T: dm-EDGAR FUTURO MAESTRO
++: dm-EDGAR FUTURO MAESTRO	+: dm-EDGAR FUTURO MAESTRO
+--	--
+S: El policía cedió el paso a la ambulancia.	S: El policía cedió el paso a la ambulancia.
+T: POLICÍA AMBULANCIA PASO ÉL CEDER	T: POLICÍA AMBULANCIA PASO ÉL CEDER
+-: AMBULANCIA PASO POLICÍA YA CEDER	-: AMBULANCIA PASO POLICÍA YA CEDER
+--	--
+S: Yo quiero aprender muchas cosas.	S: Yo quiero aprender muchas cosas.
+T: YO QUERER APRENDER MUCHO COSA	T: YO QUERER APRENDER MUCHO COSA
+-: YO MUCHO COSA APRENDER QUERER	-: MUCHO COSA YO QUERER APRENDER
+--	--
+S: Perdí el suéter blanco.	S: Perdí el suéter blanco.
+T: SUÉTER BLANCO YO PERDER	T: SUÉTER BLANCO YO PERDER
+-: YO SUÉTER COLOR BLANCO YA PERDER	-: YO SUÉTER COLOR BLANCO YA PERDER
+--	--
+S: No termino mi tarea todavía.	S: No termino mi tarea todavía.
+T: TODAVÍA MI TAREA YO NO TERMINAR	T: TODAVÍA MI TAREA YO NO TERMINAR
++: TODAVÍA MI TAREA YO NO TERMINAR	+: TODAVÍA MI TAREA YO NO TERMINAR
+--	--
+S: Guerrero es un estado bonito.	S: Guerrero es un estado bonito.
+T: GUERRERO ESTADO BONITO	T: GUERRERO ESTADO BONITO
++: GUERRERO ESTADO BONITO	+: GUERRERO ESTADO BONITO
+--	--
+S: Ellos admiran a la cantante Madonna.	S: Ellos admiran a la cantante Madonna.
+T: CANTAR+MUJER dm-MADONNA ELLOS ADMIRAR ELLA	T: CANTAR+MUJER dm-MADONNA ELLOS ADMIRAR ELLA
+-: ELLOS dm-MADONNA CANTAR+MUJER ADMIRAR	-: ELLOS dm-MADONNA CANTAR+MUJER ADMIRAR
+--	--
+S: Él ya abusó mucho de mí.	S: Él ya abusó mucho de mí.
+T: YA MUCHO ÉL ABUSAR YO	T: YA MUCHO ÉL ABUSAR YO
+-: YA ÉL YO ABUSAR MUCHO	-: ÉL YO YA ABUSAR MUCHO
+--	--
+S: Ahora tú limpia tu recámara.	S: Ahora tú limpia tu recámara.
+T: AHORA TÚ RECÁMARA TÚ LIMPIAR	T: AHORA TÚ RECÁMARA TÚ LIMPIAR
+-: AHORA TÚ TUYO RECÁMARA LIMPIAR	-: AHORA TÚ TUYO RECÁMARA LIMPIAR
+--	--
+S: Eso no cuesta nada, es gratis.	S: Eso no cuesta nada, es gratis.
+T: DINERO NADA ESO GRATIS	T: DINERO NADA ESO GRATIS
+-: ESO NO-COSTAR GRATIS	-: ESO NO-COSTAR GRATIS
+--	--
+S: Mi amiga y su novio van los sábados al casino.	S: Mi amiga y su novio van los sábados al casino.
+T: TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	T: TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR
+-: SÁBADO MI AMIGO+MUJER SU NOVIO CASINO IR	-: SÁBADO MI AMIGO+MUJER SU NOVIO IR CASINO
+--	--
+S: Vamos al parque de Azcapotzalco.	S: Vamos al parque de Azcapotzalco.
+T: PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	T: PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR
++: PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	+: PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR
+--	--
+S: Yo vivo en la Delegación Álvaro Obregón.	S: Yo vivo en la Delegación Álvaro Obregón.
+T: ÁLVARO OBREGÓN YO VIVIR	T: ÁLVARO OBREGÓN YO VIVIR
+-: DELEGACIÓN ÁLVARO-OBREGÓN YO VIVIR	-: DELEGACIÓN ÁLVARO-OBREGÓN YO VIVIR
+--	--
+S: Berlín es la capital de Alemania.	S: Berlín es la capital de Alemania.
+T: BERLÍN CAPITAL SU ALEMANIA	T: BERLÍN CAPITAL SU ALEMANIA
+-: BERLÍN ALEMANIA CAPITAL	-: BERLÍN ALEMANIA CAPITAL
+--	--
+S: La Universidad Gallaudet es muy famosa.	S: La Universidad Gallaudet es muy famosa.
+T: UNIVERSIDAD GALLAUDET FAMOSA	T: UNIVERSIDAD GALLAUDET FAMOSA
++: UNIVERSIDAD GALLAUDET FAMOSA	-: UNIVERSIDAD GALLAUDET FAMOSO
+--	--
+S: ¿Por qué llegaste tarde?	S: ¿Por qué llegaste tarde?
+T: TARDE ¿POR QUÉ?	T: TARDE ¿POR QUÉ?
++: TARDE ¿POR QUÉ?	+: TARDE ¿POR QUÉ?
+--	--
+S: El Congreso aprobó la nueva ley.	S: El Congreso aprobó la nueva ley.
+T: CONGRESO NUEVA LEY APROBAR YA	T: CONGRESO NUEVA LEY APROBAR YA
++: CONGRESO NUEVA LEY APROBAR YA	-: CONGRESO LEY NUEVA APROBAR YA
+--	--
+S: Tú ya debes ser responsable, ya eres un adulto.	S: Tú ya debes ser responsable, ya eres un adulto.
+T: TÚ YA DEBER RESPONSABLE TÚ YA ADULTO	T: TÚ YA DEBER RESPONSABLE TÚ YA ADULTO
+-: TÚ YA RESPONSABLE DEBER TÚ YA ADULTO	-: TÚ RESPONSABLE YA DEBER TÚ ADULTO YA
+--	--
+S: Ese carro nuevo es muy lujoso.	S: Ese carro nuevo es muy lujoso.
+T: ESE CARRO NUEVO LUJOSO	T: ESE CARRO NUEVO LUJOSO
+-: ESE CARRO NUEVO MUCHO LUJOSO	-: ESTE CARRO NUEVO LUJOSO
+--	--
+S: Hay muchos policías en la manifestación.	S: Hay muchos policías en la manifestación.
+T: MUCHOS POLICÍA HABER MANIFESTACIÓN	T: MUCHOS POLICÍA HABER MANIFESTACIÓN
+-: MANIFESTACIÓN HABER MUCHO POLICÍA	-: MANIFESTACIÓN HABER MUCHO POLICÍA
+--	--
+S: Mi hermana se casa el próximo domingo.	S: Mi hermana se casa el próximo domingo.
+T: PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	T: PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR
+-: PRÓXIMO DOMINGO MI HERMANO+MUJER CASAR	-: PRÓXIMO DOMINGO MI HERMANO+MUJER CASAR
+--	--
+S: Las próximas vacaciones iré de viaje a Ciudad Obregón.	S: Las próximas vacaciones iré de viaje a Ciudad Obregón.
+T: PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	T: PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN
+-: PRÓXIMO VACACIONES YO FUTURO IR CIUDAD-OBREGÓN VIAJE	-: PRÓXIMO VACACIONES YO CIUDAD-OBREGÓN VIAJE IR
+--	--
+S: No debes ser malo.	S: No debes ser malo.
+T: TÚ MALO NO DEBER	T: TÚ MALO NO DEBER
+-: TÚ MALO NO-DEBER	+: TÚ MALO NO DEBER
+--	--
+S: Los zapatos del payaso son amarillos.	S: Los zapatos del payaso son amarillos.
+T: PAYASO ZAPATO SUYO COLOR AMARILLO	T: PAYASO ZAPATO SUYO COLOR AMARILLO
+-: PAYASO ZAPATOS COLOR AMARILLO	-: PAYASO ZAPATOS COLOR AMARILLO
+--	--
+S: Ojalá tengas éxito.	S: Ojalá tengas éxito.
+T: OJALÁ TÚ ÉXITO	T: OJALÁ TÚ ÉXITO
+-: TÚ ÉXITO OJALÁ	-: TÚ ÉXITO TENER OJALÁ
+--	--
+S: Hay hojas blancas en el cajón.	S: Hay hojas blancas en el cajón.
+T: CAJÓN HOJAS BLANCAS HAY	T: CAJÓN HOJAS BLANCAS HAY
++: CAJÓN HOJAS BLANCAS HAY	+: CAJÓN HOJAS BLANCAS HAY
+--	--
+S: ¿Dónde está tu local?	S: ¿Dónde está tu local?
+T: ¿DÓNDE TUYO LOCAL?	T: ¿DÓNDE TUYO LOCAL?
++: ¿DÓNDE TUYO LOCAL?	+: ¿DÓNDE TUYO LOCAL?
+--	--
+S: Mi cronómetro se perdió.	S: Mi cronómetro se perdió.
+T: MI CRONÓMETRO YA PERDER	T: MI CRONÓMETRO YA PERDER
++: MI CRONÓMETRO YA PERDER	-: MI CRONÓMETRO PERDER YA
+--	--
+S: El domingo me iré a confesar a la iglesia.	S: El domingo me iré a confesar a la iglesia.
+T: DOMINGO IGLESIA YO IR CONFESAR YO	T: DOMINGO IGLESIA YO IR CONFESAR YO
+-: DOMINGO IGLESIA YO IR CONFESAR	-: DOMINGO IGLESIA YO IR CONFESAR
+--	--
+S: Tomás fue un apóstol de Jesús.	S: Tomás fue un apóstol de Jesús.
+T: dm-TOMÁS APÓSTOL JESÚS	T: dm-TOMÁS APÓSTOL JESÚS
++: dm-TOMÁS APÓSTOL JESÚS	+: dm-TOMÁS APÓSTOL JESÚS
+--	--
+S: Con Juan, es un asunto aparte.	S: Con Juan, es un asunto aparte.
+T: dm-JUAN ASUNTO APARTE	T: dm-JUAN ASUNTO APARTE
+-: dm-JUAN ASUNTO DIFERENTE	+: dm-JUAN ASUNTO APARTE
+--	--
+S: Arturo lee la biblia diariamente.	S: Arturo lee la biblia diariamente.
+T: DIARIO BIBLIA dm-ARTURO LEER	T: DIARIO BIBLIA dm-ARTURO LEER
+-: DIARIO dm-ARTURO BIBLIA LEER	-: DIARIO dm-ARTURO BIBLIA LEER
+--	--
+S: No te enojes, por favor.	S: No te enojes, por favor.
+T: TÚ ENOJAR NO POR-FAVOR	T: TÚ ENOJAR NO POR-FAVOR
+-: NO ENOJAR POR-FAVOR	-: NO ENOJAR POR-FAVOR
+--	--
+S: En la TV vi una noticia fea que pasó en Santiago de Chile.	S: En la TV vi una noticia fea que pasó en Santiago de Chile.
+T: #TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE	T: #TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE
+-: #TV SANTIAGO-DE-CHILE NOTICIA FEA YA PASAR YO YA VER	-: #TV SANTIAGO-DE-CHILE NOTICIA FEO YA PASAR YO YA VER
+--	--
+S: El año pasado viajé a Guanajuato.	S: El año pasado viajé a Guanajuato.
+T: AÑO-PASADO YO VIAJAR GUANAJUATO	T: AÑO-PASADO YO VIAJAR GUANAJUATO
++: AÑO-PASADO YO VIAJAR GUANAJUATO	-: AÑO-PASADO YO GUANAJUATO YA VIAJAR
+--	--
+S: Mi hermana practica snorkeling.	S: Mi hermana practica snorkeling.
+T: MI HERMANO+MUJER SNORKELING ELLA PRACTICAR	T: MI HERMANO+MUJER SNORKELING ELLA PRACTICAR
+-: MI HERMANO+MUJER SNORKELING PRACTICAR	-: MI HERMANO+MUJER SNORKELING PRACTICAR
+--	--
+S: Ese hombre parece loco.	S: Ese hombre parece loco.
+T: ESE HOMBRE LOCO PARECER	T: ESE HOMBRE LOCO PARECER
+-: ESE HOMBRE LOCO	-: ESE HOMBRE LOCO
+--	--
+S: La sopa está caliente.	S: La sopa está caliente.
+T: SOPA CALIENTE	T: SOPA CALIENTE
++: SOPA CALIENTE	+: SOPA CALIENTE
+--	--
+S: ¿Qué te pasó?	S: ¿Qué te pasó?
+T: ¿QUÉ-PASO?	T: ¿QUÉ-PASO?
+-: TÚ PASAR ¿QUÉ?	-: TÚ PASAR ¿QUÉ?
+--	--
+S: El papa regañó a los obispos en México.	S: El papa regañó a los obispos en México.
+T: MÉXICO PAPA Él REGAÑAR OBISPO	T: MÉXICO PAPA Él REGAÑAR OBISPO
+-: MÉXICO PAPA OBISPO REGAÑAR YA	-: MÉXICO PAPA OBISPO REGAÑAR YA
+--	--
+S: Eso es muy bonito, sí me gusta.	S: Eso es muy bonito, sí me gusta.
+T: ESO BONITO SÍ YO GUSTAR	T: ESO BONITO SÍ YO GUSTAR
+-: ESO BONITO YO GUSTAR	-: ESO BONITO YO GUSTAR
+--	--
+S: Mi papá llena el formato para tramitar su licencia de manejo.	S: Mi papá llena el formato para tramitar su licencia de manejo.
+T: MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR	T: MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR
+-: MI PAPÁ LLENAR-FORMATO PARA TRAMITAR SU LICENCIA-DE-CONDUCIR	-: MI PAPÁ LLENAR-FORMATO PARA SU LICENCIA-DE-CONDUCIR TRAMITAR
+--	--
+S: Maribel cursa el nivel avanzado en el diplomado.	S: Maribel cursa el nivel avanzado en el diplomado.
+T: dm-MARIBEL DIPLOMA NIVEL AVANZADO	T: dm-MARIBEL DIPLOMA NIVEL AVANZADO
+-: DIPLOMADO dm-MARIBEL NIVEL AVANZADO CURSAR	-: DIPLOMADO dm-MARIBEL NIVEL AVANZADO CURSAR
+--	--
+S: Dicen que en Australia hay muchos canguros.	S: Dicen que en Australia hay muchos canguros.
+T: AUSTRALIA DECIR HABER MUCHO CANGURO	T: AUSTRALIA DECIR HABER MUCHO CANGURO
+-: ELLOS DECIR AUSTRALIA HABER MUCHO CANGURO	-: ELLOS DECIR AUSTRALIA HABER MUCHO CANGURO
+--	--
+S: Adolfo López Mateos fue presidente de México.	S: Adolfo López Mateos fue presidente de México.
+T: ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO	T: ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO
+-: ADOLFO-LÓPEZ-MATEOS MÉXICO PRESIDENTE YA	-: ADOLFO-LÓPEZ-MATEOS MÉXICO PRESIDENTE
+--	--
+S: Ya dime la verdad, no eludas la pregunta.	S: Ya dime la verdad, no eludas la pregunta.
+T: YA TÚ DECIR MÍ NO ELUDIR PREGUNTA	T: YA TÚ DECIR MÍ NO ELUDIR PREGUNTA
+-: YA VERDAD MÍ DECIR PREGUNTA NO ELUDIR	-: AHORA VERDAD DECIR PREGUNTA NO ELUDIR
+--	--
+S: Miguel tiene dolor en el pecho.	S: Miguel tiene dolor en el pecho.
+T: dm-MIGUEL PECHO ÉL DOLER	T: dm-MIGUEL PECHO ÉL DOLER
++: dm-MIGUEL PECHO ÉL DOLER	+: dm-MIGUEL PECHO ÉL DOLER
+--	--
+S: Mi abuela hace un chocolate muy rico.	S: Mi abuela hace un chocolate muy rico.
+T: MI ABUELO+MUJER HACER RICO CHOCOLATE	T: MI ABUELO+MUJER HACER RICO CHOCOLATE
+-: MI ABUELO+MUJER CHOCOLATE RICO HACER	-: MI ABUELO+MUJER CHOCOLATE RICO HACER
+--	--
+S: Brasilia es bonita.	S: Brasilia es bonita.
+T: BRASILIA BONITO	T: BRASILIA BONITO
++: BRASILIA BONITO	+: BRASILIA BONITO
+--	--
+S: Juana sabe LSM.	S: Juana sabe LSM.
+T: dm-JUANA LSM ELLA SABER	T: dm-JUANA LSM ELLA SABER
+-: dm-JUANA LSM SABER	-: dm-JUANA LSM SABER
+--	--
+S: La almohada es muy cómoda para dormir.	S: La almohada es muy cómoda para dormir.
+T: ALMOHADA CÓMODA ALMOHADA PARA DORMIR	T: ALMOHADA CÓMODA ALMOHADA PARA DORMIR
+-: ALMOHADA CÓMODA PARA DORMIR	-: ALMOHADA CÓMODA PARA DORMIR
+--	--
+S: Muchas personas creen en el Corán.	S: Muchas personas creen en el Corán.
+T: MUCHO PERSONA CORÁN ELLOS CREER	T: MUCHO PERSONA CORÁN ELLOS CREER
+-: CORÁN MUCHO PERSONA CREER	-: MUCHAS PERSONA CORÁN CREER
+--	--
+S: Eso es muy suave, parece algodón.	S: Eso es muy suave, parece algodón.
+T: ESE SUAVE PARECE ALGODÓN	T: ESE SUAVE PARECE ALGODÓN
+-: ESO SUAVE SUAVE ALGODÓN PARECER	-: ESO SUAVE ALGODÓN PARECER
+--	--
+S: Mi primo ganó medalla de oro en el maratón.	S: Mi primo ganó medalla de oro en el maratón.
+T: MARATÓN MI PRIMO MEDALLA ORO YA GANAR	T: MARATÓN MI PRIMO MEDALLA ORO YA GANAR
++: MARATÓN MI PRIMO MEDALLA ORO YA GANAR	+: MARATÓN MI PRIMO MEDALLA ORO YA GANAR
+--	--
+S: Te aviso, me las vas a pagar.	S: Te aviso, me las vas a pagar.
+T: YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR	T: YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR
+-: YO TÚ AVISAR ME-LA-VAS-A-APAGAR	-: YO TÚ AVISAR ME-LA-VAS-A-APAGAR
+--	--
+S: Él es un buen alumno.	S: Él es un buen alumno.
+T: ÉL BUENO ALUMNO Él	T: ÉL BUENO ALUMNO Él
+-: ÉL BUENO ALUMNO	-: ÉL ALUMNO BUENO
+--	--
+S: Necesito dinero para poder pagar la gasolina.	S: Necesito dinero para poder pagar la gasolina.
+T: YO NECESITAR DINERO PAGAR GASOLINA	T: YO NECESITAR DINERO PAGAR GASOLINA
+-: DINERO YO NECESITAR PODER GASOLINA PAGAR	-: DINERO YO NECESITAR PODER GASOLINA PAGAR
+--	--
+S: La caja pequeña es de color rojo.	S: La caja pequeña es de color rojo.
+T: CAJA PEQUEÑA SU COLOR ROJO	T: CAJA PEQUEÑA SU COLOR ROJO
+-: CAJA PEQUEÑA COLOR ROJO	-: CAJA PEQUEÑO COLOR ROJO
+--	--
+S: Le pusieron la corona de olivo.	S: Le pusieron la corona de olivo.
+T: CORONA-DE-OLIVO ELLOS PONER ÉL	T: CORONA-DE-OLIVO ELLOS PONER ÉL
+-: ÉL CORONA-OLIVO ELLOS YA PONER ÉL	-: ÉL CORONA-OLIVO ELLOS YA PONER ÉL
+--	--
+S: La comida tiene mucha grasa.	S: La comida tiene mucha grasa.
+T: COMIDA TENER MUCHO GRASA	T: COMIDA TENER MUCHO GRASA
+-: COMIDA MUCHO GRASA	-: COMIDA MUCHO GRASA
+--	--
+S: Hay una tortuga en la playa.	S: Hay una tortuga en la playa.
+T: PLAYA TORTUGA HABER	T: PLAYA TORTUGA HABER
+-: PLAYA HABER TORTUGA	-: PLAYA HABER TORTUGA
+--	--
+S: En la biblia está el nombre de Adán.	S: En la biblia está el nombre de Adán.
+T: BIBLIA DENTRO ADÁN NOMBRE HABER	T: BIBLIA DENTRO ADÁN NOMBRE HABER
++: BIBLIA DENTRO ADÁN NOMBRE HABER	+: BIBLIA DENTRO ADÁN NOMBRE HABER
+--	--
+S: Yo pago con mi tarjeta de crédito.	S: Yo pago con mi tarjeta de crédito.
+T: MI TARJETA-DE-CRÉDITO YO PAGAR	T: MI TARJETA-DE-CRÉDITO YO PAGAR
+-: YO MI TARJETA-DE-CRÉDITO PAGAR	-: YO MI TARJETA-DE-CRÉDITO PAGAR
+--	--
+S: ¿Cómo haces la seña de apóstoles?	S: ¿Cómo haces la seña de apóstoles?
+T: ¿CÓMO SEÑA dm-APÓSTOLES?	T: ¿CÓMO SEÑA dm-APÓSTOLES?
+-: SEÑA APÓSTOLES HACER ¿CÓMO?	-: SEÑA APÓSTOL TÚ HACER ¿CÓMO?
+--	--
+S: Él abandonó a su hijo.	S: Él abandonó a su hijo.
+T: SU HIJO ÉL ABANDONAR	T: SU HIJO ÉL ABANDONAR
+-: ÉL SU HIJO ABANDONAR YA	-: ÉL SU HIJO YA ABANDONAR
+--	--
+S: Siempre que rezo digo amén.	S: Siempre que rezo digo amén.
+T: YO SIEMPRE ORAR YO DECIR AMÉN	T: YO SIEMPRE ORAR YO DECIR AMÉN
+-: SIEMPRE REZAR YO DECIR AMÉN	-: SIEMPRE YO REZAR DECIR AMÉN
+--	--
+S: Mi compañero de trabajo insiste en hacer una fiesta.	S: Mi compañero de trabajo insiste en hacer una fiesta.
+T: MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA	T: MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA
+-: MI COMPAÑERO-TRABAJO FIESTA HACER INSISTIR	-: FIESTA MI COMPAÑERO TRABAJO INSISTIR HACER
+--	--
+S: Ella tiene una cara bonita.	S: Ella tiene una cara bonita.
+T: ELLA CARA BONITA	T: ELLA CARA BONITA
++: ELLA CARA BONITA	+: ELLA CARA BONITA
+--	--
+S: Él siempre está muy distraído.	S: Él siempre está muy distraído.
+T: SIEMPRE ÉL DISTRAÍDO	T: SIEMPRE ÉL DISTRAÍDO
+-: SIEMPRE ÉL MUCHO DISTRAÍDO	-: SIEMPRE ÉL DISTRAÍDO DISTRAÍDO
+--	--
+S: Esta servilleta está sucia.	S: Esta servilleta está sucia.
+T: ESTA SERVILLETA SUCIA	T: ESTA SERVILLETA SUCIA
++: ESTA SERVILLETA SUCIA	+: ESTA SERVILLETA SUCIA
+--	--
+S: Los animales son muy bonitos en verdad.	S: Los animales son muy bonitos en verdad.
+T: ANIMAL DIFERENTES DIFERENTES BONITO VERDAD	T: ANIMAL DIFERENTES DIFERENTES BONITO VERDAD
+-: ANIMALES BONITO VERDAD	-: ANIMALES BONITO VERDAD
+--	--
+S: La semana pasada fui a Plaza Universidad.	S: La semana pasada fui a Plaza Universidad.
+T: SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	T: SEMANA PASADA, YO IR PLAZA UNIVERSIDAD
+-: SEMANA-PASADA PLAZA UNIVERSIDAD YO YA IR	-: SEMANA PASADA YO YA IR PLAZA UNIVERSIDAD
+--	--
+S: Bosnia y Herzegovina es un país muy lejano.	S: Bosnia y Herzegovina es un país muy lejano.
+T: BOSNIA-HERZEGOVINA ESE PAÍS LEJOS	T: BOSNIA-HERZEGOVINA ESE PAÍS LEJOS
+-: BOSNIA HERZEGOVINA PAÍS LEJANO	-: BOSNIA HERZEGOVINA PAÍS LEJANO
+--	--
+S: Hoy mi celular ya tiene saldo.	S: Hoy mi celular ya tiene saldo.
+T: HOY MÍ CELULAR YO YA TENER SALDO	T: HOY MÍ CELULAR YO YA TENER SALDO
+-: HOY MI CELULAR SALDO YA TENER	-: HOY MI CELULAR YA HABER SALDO
+--	--
+S: Ella tiene cabello lacio.	S: Ella tiene cabello lacio.
+T: ELLA TENER CABELLO-LACÍO	T: ELLA TENER CABELLO-LACÍO
+-: ELLA CABELLO-LACIO	-: ELLA CABELLO-LACIO
+--	--
+S: El año pasado terminé la universidad.	S: El año pasado terminé la universidad.
+T: AÑO-PASADO UNIVERSIDAD YO TERMINAR	T: AÑO-PASADO UNIVERSIDAD YO TERMINAR
+-: AÑO-PASADO YO UNIVERSIDAD TERMINAR	-: AÑO-PASADO UNIVERSIDAD YO YA TERMINAR
+--	--
+S: Estonia tiene una frontera con Rusia.	S: Estonia tiene una frontera con Rusia.
+T: ESTONIA FRONTERA RUSIA	T: ESTONIA FRONTERA RUSIA
+-: ESTONIA RUSIA FRONTERA HABER	-: ESTONIA RUSIA FRONTERA
+--	--
+S: En el mercado venden muchas escobas baratas.	S: En el mercado venden muchas escobas baratas.
+T: MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER	T: MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER
+-: MERCADO ESCOBA MUCHO BARATO VENDER	-: MERCADO MUCHO ESCOBA BARATO VENDER
+--	--
+S: Pablo es flojo.	S: Pablo es flojo.
+T: dm-PABLO FLOJO	T: dm-PABLO FLOJO
++: dm-PABLO FLOJO	+: dm-PABLO FLOJO
+--	--
+S: La policia judicial nos protege.	S: La policia judicial nos protege.
+T: POLICÍA AGENTE NOSOTROS PROTEGER MÍ	T: POLICÍA AGENTE NOSOTROS PROTEGER MÍ
+-: POLICÍA JUDICIAL NOSOTROS PROTEGER	-: POLICÍA JUDICIAL NOSOTROS PROTEGER
+--	--
+S: Raúl entrena los sábados en CEPAMEX.	S: Raúl entrena los sábados en CEPAMEX.
+T: TODO-SÁBADO TODO-SÁBADO CEPAMEX dm-RAÚL ENTRENAR	T: TODO-SÁBADO TODO-SÁBADO CEPAMEX dm-RAÚL ENTRENAR
+-: SÁBADO CEPAMEX dm-RAÚL ENTRENAR	-: SÁBADO CEPAMEX dm-RAÚL ENTRENAR
+--	--
+S: Él hace mucho ejercicio para fortalecerse.	S: Él hace mucho ejercicio para fortalecerse.
+T: ÉL EJERCER EJERCER FORTALECER	T: ÉL EJERCER EJERCER FORTALECER
+-: ÉL MUCHO EJERCICIO HACER FORTALECER	-: FORTALECER ÉL EJERCICIO MUCHO HACER
+--	--
+S: Mi mamá cocina en la olla express caldo de pollo sabroso.	S: Mi mamá cocina en la olla express caldo de pollo sabroso.
+T: MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO	T: MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO
+-: OLLA-EXPRÉS MI MAMÁ CALDO POLLO SABROSO COCINAR	-: OLLA-EXPRÉS CALDO POLLO SABROSO MI MAMÁ COCINAR
+--	--
+S: La semana pasada compré cinta canela en el Centro.	S: La semana pasada compré cinta canela en el Centro.
+T: SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	T: SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO
+-: SEMANA-PASADA CENTRO CINTA-CANELA YO YA COMPRAR	-: SEMANA-PASADA CENTRO YO CINTA-CANELA YA COMPRAR
+--	--
+S: En la fábrica de Sabritas buscan personal para trabajar.	S: En la fábrica de Sabritas buscan personal para trabajar.
+T: LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS	T: LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS
+-: SABRITAS FÁBRICA PERSONAL BUSCAR TRABAJAR	-: SABRITAS FÁBRICA PERSONA BUSCAR TRABAJAR
+--	--
+S: La Constitución tiene muchos artículos.	S: La Constitución tiene muchos artículos.
+T: CONSTITUCIÓN TENER MUCHOS ARTÍCULOS	T: CONSTITUCIÓN TENER MUCHOS ARTÍCULOS
+-: CONSTITUCIÓN HABER MUCHO ARTÍCULO	-: CONSTITUCIÓN HABER MUCHO ARTÍCULO
+--	--
+S: Hungría es un país que está muy lejos.	S: Hungría es un país que está muy lejos.
+T: HUNGRÍA ESE PAÍS LEJOS	T: HUNGRÍA ESE PAÍS LEJOS
+-: HUNGRÍA PAÍS MUCHO LEJOS	-: HUNGRÍA PAÍS MUCHO LEJOS
+--	--
+S: Fui a comprar jabón a la tienda.	S: Fui a comprar jabón a la tienda.
+T: YO IR TIENDA COMPRAR JABÓN YA	T: YO IR TIENDA COMPRAR JABÓN YA
+-: YO YA IR TIENDA JABÓN COMPRAR	-: YO YA IR TIENDA JABÓN COMPRAR
+--	--
+S: El escudo de la bandera de México es muy bonito.	S: El escudo de la bandera de México es muy bonito.
+T: BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	T: BANDERA MÉXICO ESCUDO ESE MUCHO BONITO
+-: MÉXICO BANDERA ESCUDO BONITO	-: MÉXICO BANDERA ESCUDO BONITO
+--	--
+S: La próxima conferencia será en Monterrey.	S: La próxima conferencia será en Monterrey.
+T: PRÓXIMO CONFERENCIA LUGAR MONTERREY	T: PRÓXIMO CONFERENCIA LUGAR MONTERREY
+-: PRÓXIMO MONTERREY CONFERENCIA	-: PRÓXIMO MONTERREY CONFERENCIA
+--	--
+S: María y Daniel van al teatro.	S: María y Daniel van al teatro.
+T: dm-MARÍA dm-DANIEL AMBOS IR TEATRO	T: dm-MARÍA dm-DANIEL AMBOS IR TEATRO
+-: dm-MARÍA dm-DANIEL IR TEATRO	-: dm-MARÍA dm-DANIEL IR TEATRO
+--	--
+S: Mi abuelo tiene un rifle viejo.	S: Mi abuelo tiene un rifle viejo.
+T: MI ABUELO TENER RIFLE VIEJO	T: MI ABUELO TENER RIFLE VIEJO
++: MI ABUELO TENER RIFLE VIEJO	+: MI ABUELO TENER RIFLE VIEJO
+--	--
+S: Ella tiene una lunar bonito.	S: Ella tiene una lunar bonito.
+T: ELLA TENER LUNAR BONITO	T: ELLA TENER LUNAR BONITO
+-: ELLA LUNAR BONITO	-: ELLA LUNAR BONITO
+--	--
+S: Ayer no me dijiste adiós.	S: Ayer no me dijiste adiós.
+T: AYER ADIÓS TÚ DECIR NADA	T: AYER ADIÓS TÚ DECIR NADA
+-: AYER YO TÚ ADIÓS NO DECIR	-: AYER TÚ YO ADIÓS NO DECIR
+--	--
+S: El cuaderno es feo.	S: El cuaderno es feo.
+T: CUADERNO FEO	T: CUADERNO FEO
++: CUADERNO FEO	+: CUADERNO FEO
+--	--
+S: La ley prohíbe robar.	S: La ley prohíbe robar.
+T: LEY ROBAR PROHIBIR	T: LEY ROBAR PROHIBIR
++: LEY ROBAR PROHIBIR	-: ROBAR LEY PROHIBIR
+--	--
+S: A Mariana le gusta bailar.	S: A Mariana le gusta bailar.
+T: dm-MARIANA BAILAR ELLA GUSTAR	T: dm-MARIANA BAILAR ELLA GUSTAR
++: dm-MARIANA BAILAR ELLA GUSTAR	+: dm-MARIANA BAILAR ELLA GUSTAR
+--	--
+S: Antier fui a un concierto de Magneto en el Palacio de los Deportes.	S: Antier fui a un concierto de Magneto en el Palacio de los Deportes.
+T: ANTIER PALACIO-DE-LOS-DEPORTES dm-MAGNETO CANTAR AUDITORIO YO IR	T: ANTIER PALACIO-DE-LOS-DEPORTES dm-MAGNETO CANTAR AUDITORIO YO IR
+-: ANTIER PALACIO-DE-LOS-DEPORTES MAGNETO CONCIERTO YO YA IR	-: ANTIER PALACIO-DE-LOS-DEPORTES CONCIERTO MAGNETO YO YA IR
+--	--
+S: El payaso usa mucho maquillaje.	S: El payaso usa mucho maquillaje.
+T: PAYASO MUCHO MAQUILLAJE	T: PAYASO MUCHO MAQUILLAJE
+-: PAYASO MUCHO MAQUILLAJE USAR	-: PAYASO MUCHO MAQUILLAJE USAR
+--	--
+S: Ayer mi mamá preparó atole.	S: Ayer mi mamá preparó atole.
+T: AYER MAMÁ PREPARAR ATOLE	T: AYER MAMÁ PREPARAR ATOLE
+-: AYER MI MAMÁ ATOLE PREPARAR YA	-: AYER MI MAMÁ ATOLE PREPARAR
+--	--
+S: Me pasé un semáforo, ahora tengo que pagar una multa.	S: Me pasé un semáforo, ahora tengo que pagar una multa.
+T: SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR	T: SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR
+-: YO SEMÁFORO PASAR YA AHORA YO MULTA PAGAR DEBER	-: YO SEMÁFORO YA PASAR AHORA MULTA YO DEBER PAGAR
+--	--
+S: Súbete a la montaña rusa, no seas cobarde.	S: Súbete a la montaña rusa, no seas cobarde.
+T: MONTAÑA RUSA TÚ COBARDE NO	T: MONTAÑA RUSA TÚ COBARDE NO
+-: MONTAÑA-RUSA SUBIR NO COBARDE	-: MONTAÑA-RUSA TÚ SUBIR TÚ COBARDE NO
+--	--
+S: Estoy emocionado por ingresar a mi nuevo trabajo.	S: Estoy emocionado por ingresar a mi nuevo trabajo.
+T: YO EMOCIONADO NUEVO INGRESAR TRABAJO	T: YO EMOCIONADO NUEVO INGRESAR TRABAJO
+-: MI NUEVO TRABAJO INGRESAR YO EMOCIONADO	-: MI TRABAJO NUEVO INGRESAR YO EMOCIONADO
+--	--
+S: Miguel fue mi novio.	S: Miguel fue mi novio.
+T: ANTES dm-MIGUEL NOVIO	T: ANTES dm-MIGUEL NOVIO
+-: dm-MIGUEL MI NOVIO YA	-: dm-MIGUEL MI NOVIO YA
+--	--
+S: Sara encontró muchas almejas en el mar.	S: Sara encontró muchas almejas en el mar.
+T: dm-SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	T: dm-SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR
+-: MAR dm-SARA MUCHO ALMEJA YA ENCONTRAR	-: MAR dm-SARA ALMEJA MUCHO YA ENCONTRAR
+--	--
+S: Mi perro es sumiso, no molesta.	S: Mi perro es sumiso, no molesta.
+T: MI PERRO SUMISO MOLESTAR	T: MI PERRO SUMISO MOLESTAR
+-: MI PERRO SUMISO NO MOLESTAR	-: MI PERRO SUMISO NO MOLESTAR
+--	--
+S: Me gustan las fresas con crema.	S: Me gustan las fresas con crema.
+T: FRESAS CON CREMA YO GUSTAR	T: FRESAS CON CREMA YO GUSTAR
++: FRESAS CON CREMA YO GUSTAR	+: FRESAS CON CREMA YO GUSTAR
+--	--
+S: En la iglesia decimos amén.	S: En la iglesia decimos amén.
+T: IGLESIA NOSOTROS-DE-DOS DECIR AMÉN	T: IGLESIA NOSOTROS-DE-DOS DECIR AMÉN
+-: IGLESIA NOSOTROS DECIR AMÉN	-: IGLESIA NOSOTROS DECIR AMÉN
+--	--
+S: El perro tiene mucha sed.	S: El perro tiene mucha sed.
+T: PERRO MUCHO SED	T: PERRO MUCHO SED
++: PERRO MUCHO SED	+: PERRO MUCHO SED
+--	--
+S: Mi trabajo es muy cansado.	S: Mi trabajo es muy cansado.
+T: MI TRABAJO MUCHO CANSAR CANSAR	T: MI TRABAJO MUCHO CANSAR CANSAR
+-: MI TRABAJO MUCHO CANSADO	-: MI TRABAJO MUCHO CANSADO
+--	--
+S: Tengo que acostumbrarme a despertarme a correr temprano.	S: Tengo que acostumbrarme a despertarme a correr temprano.
+T: TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE	T: TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE
+-: TEMPRANO YO DESPERTAR CORRER ACOSTUMBRAR DEBER	-: TEMPRANO DESPERTAR CORRER YO ACOSTUMBRAR DEBER
+--	--
+S: Caminemos hacia el sur para encontrar agua.	S: Caminemos hacia el sur para encontrar agua.
+T: NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR	T: NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR
++: NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR	+: NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR
+--	--
+S: Nosotros abrimos el horno para meter los pasteles.	S: Nosotros abrimos el horno para meter los pasteles.
+T: NOSOTROS ABRIR-HORNO PARA PASTEL	T: NOSOTROS ABRIR-HORNO PARA PASTEL
+-: NOSOTROS ABRIR-HORNO PASTEL METER	-: NOSOTROS ABRIR-HORNO PASTEL METER
+--	--
+S: Mi novio nació en Argentina.	S: Mi novio nació en Argentina.
+T: MI NOVIO NACER LUGAR ARGENTINA	T: MI NOVIO NACER LUGAR ARGENTINA
+-: ARGENTINA MI NOVIO YA NACER	-: ARGENTINA MI NOVIO YA NACER
+--	--
+S: Mi viaje a Francia me emocionó.	S: Mi viaje a Francia me emocionó.
+T: YO VIAJE FRANCIA YO EMOCIONAR YA	T: YO VIAJE FRANCIA YO EMOCIONAR YA
+-: MI VIAJE FRANCIA YO YA EMOCIONAR	-: MI VIAJE FRANCIA YO YA EMOCIONAR
+--	--
+S: El policía persigue a un joven.	S: El policía persigue a un joven.
+T: POLICÍA PERSEGUIR JOVEN	T: POLICÍA PERSEGUIR JOVEN
+-: POLICÍA JOVEN PERSEGUIR	-: POLICÍA JOVEN PERSEGUIR
+--	--
+S: José aprende la lengua de Italia.	S: José aprende la lengua de Italia.
+T: dm-JOSÉ APRENDER IDIOMA ITALIA	T: dm-JOSÉ APRENDER IDIOMA ITALIA
+-: dm-JOSÉ LENGUA ITALIA APRENDER	-: dm-JOSÉ ITALIA LENGUA APRENDER
+--	--
+S: ¡Del susto se me escapó el alma!	S: ¡Del susto se me escapó el alma!
+T: ¡YO ASUSTAR ALMA DESAPARECER!	T: ¡YO ASUSTAR ALMA DESAPARECER!
+-: ¡SUSTO YO ALMA YA ESCAPAR!	-: ¡SUSTO ALMA YO YA ESCAPAR!
+--	--
+S: El sábado pasado hubo un grave accidente en la carretera.	S: El sábado pasado hubo un grave accidente en la carretera.
+T: PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE	T: PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE
+-: SÁBADO PASADO CARRETERA HABER ACCIDENTE GRAVE	-: SÁBADO PASADO CARRETERA HABER ACCIDENTE GRAVE
+--	--
+S: Mete en la bolsa las cosas que compraste en la tienda.	S: Mete en la bolsa las cosas que compraste en la tienda.
+T: COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER	T: COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER
+-: TIENDA COSA COMPRAR YA BOLSA METER	-: TIENDA COSA TÚ YA COMPRAR BOLSA METER
+--	--
+S: Él y yo ya nos separamos.	S: Él y yo ya nos separamos.
+T: DOS-DE-NOSOTROS YA SEPARAR	T: DOS-DE-NOSOTROS YA SEPARAR
++: DOS-DE-NOSOTROS YA SEPARAR	+: DOS-DE-NOSOTROS YA SEPARAR
+--	--
+S: En Cuba hace mucho calor	S: En Cuba hace mucho calor
+T: CUBA CALOR	T: CUBA CALOR
+-: CUBA MUCHO CALOR	-: CUBA MUCHO CALOR
+--	--
+S: Esa piedra está muy bonita, brilla mucho.	S: Esa piedra está muy bonita, brilla mucho.
+T: ESA PIEDRA BONITA BRILLO MUCHO	T: ESA PIEDRA BONITA BRILLO MUCHO
+-: ESA PIEDRA BONITA MUCHO BRILLAR	-: ESA PIEDRA BONITO BRILLAR MUCHO
+--	--
+S: No quiero nada.	S: No quiero nada.
+T: NADA YO NO-QUERER NADA	T: NADA YO NO-QUERER NADA
+-: YO NADA QUERER	-: NADA YO NO-QUERER
+--	--
+S: Miguel quiere declarse a su amiga, pero no se atreve.	S: Miguel quiere declarse a su amiga, pero no se atreve.
+T: dm-MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	T: dm-MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE
++: dm-MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	-: SU AMIGO+MUJER dm-MIGUEL QUERER DECLARAR PERO NO-ATREVERSE
+--	--
+S: En Chapultepec hay un lago.	S: En Chapultepec hay un lago.
+T: CHAPULTEPEC HABER LAGO	T: CHAPULTEPEC HABER LAGO
++: CHAPULTEPEC HABER LAGO	+: CHAPULTEPEC HABER LAGO
+--	--
+S: El niño ve un mono en el zoológico.	S: El niño ve un mono en el zoológico.
+T: ENTRAR ANIMAL NIÑO VER MONO	T: ENTRAR ANIMAL NIÑO VER MONO
+-: ZOOLÓGICO NIÑO MONO VER	-: ZOOLÓGICO NIÑO MONO VER
+--	--
+S: Mi novio y yo vemos películas con subtítulos.	S: Mi novio y yo vemos películas con subtítulos.
+T: PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER	T: PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER
+-: MI NOVIO YO PELÍCULA CON SUBTÍTULO VER	-: MI NOVIO YO PELÍCULA CON SUBTÍTULO VER
+--	--
+S: Nosotros nos encontraremos mañana al amanecer.	S: Nosotros nos encontraremos mañana al amanecer.
+T: MAÑANA AMANECER NOSOTROS ENCONTRAR	T: MAÑANA AMANECER NOSOTROS ENCONTRAR
++: MAÑANA AMANECER NOSOTROS ENCONTRAR	+: MAÑANA AMANECER NOSOTROS ENCONTRAR
+--	--
+S: Tira la basura.	S: Tira la basura.
+T: TÚ BASURA TIRAR	T: TÚ BASURA TIRAR
+-: BASURA TIRAR	+: TÚ BASURA TIRAR
+--	--
+S: Yo fui a levantar un acta a la delegación.	S: Yo fui a levantar un acta a la delegación.
+T: DELEGACIÓN YO YA IR ACTA LEVANTAR	T: DELEGACIÓN YO YA IR ACTA LEVANTAR
+-: YO YA IR DELEGACIÓN ACTA-DEMANDA	-: YO YA IR DELEGACIÓN ACTA-DEMANDA
+--	--
+S: Si llego tarde al trabajo, me pueden despedir.	S: Si llego tarde al trabajo, me pueden despedir.
+T: QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR	T: QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR
+-: TRABAJO YO TARDE LLEGAR YO DESPEDIR PODER	-: SI TRABAJO YO LLEGAR TARDE YO PODER DESPEDIR
+--	--
+S: Hoy es mi cumpleaños.	S: Hoy es mi cumpleaños.
+T: HOY CUMPLEAÑOS MÍ	T: HOY CUMPLEAÑOS MÍ
+-: HOY MI CUMPLEAÑOS	-: HOY MI CUMPLEAÑOS
+--	--
+S: Mi amigo Julio tiene un acta de demanda.	S: Mi amigo Julio tiene un acta de demanda.
+T: MI AMIGO dm-JULIO TENER ACTA-DEMANDA	T: MI AMIGO dm-JULIO TENER ACTA-DEMANDA
+-: MI dm-JULIO AMIGO TENER ACTA-DEMANDA	-: MI dm-JULIO AMIGO ACTA-DEMANDA TENER
+--	--
+S: Las lenguas más habladas son el chino, el inglés y el español.	S: Las lenguas más habladas son el chino, el inglés y el español.
+T: LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA	T: LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA
+-: LENGUA MÁS HABLAR CHINO INGLÉS ESPAÑOL	-: LENGUA HABLAR MUCHO CHINO INGLÉS ESPAÑOL
+--	--
+S: Los pavos son la comida básica en Navidad	S: Los pavos son la comida básica en Navidad
+T: PAVO COMIDA BASICA NAVIDAD	T: PAVO COMIDA BASICA NAVIDAD
+-: NAVIDAD PAVO COMIDA BÁSICA	-: NAVIDAD PAVO COMIDA BÁSICA
+--	--
+S: La noche está muy oscura.	S: La noche está muy oscura.
+T: NOCHE OSCURA	T: NOCHE OSCURA
+-: NOCHE OSCURO OSCURO	-: NOCHE MUCHO OSCURO
+--	--
+S: La India es el séptimo país más grande del mundo.	S: La India es el séptimo país más grande del mundo.
+T: INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO	T: INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO
+-: MUNDO INDIA SÉPTIMO PAÍS GRANDE	-: MUNDO INDIA SÉPTIMO PAÍS GRANDE
+--	--
+S: Tom Cruice es un actor muy famoso.	S: Tom Cruice es un actor muy famoso.
+T: ACTOR dm-TOM CRUICE FAMOSO	T: ACTOR dm-TOM CRUICE FAMOSO
+-: dm-TOM-CRUICE ACTOR FAMOSO	-: dm-TOM-CRUICE ACTOR FAMOSO
+--	--
+S: Yo voy a la panadería.	S: Yo voy a la panadería.
+T: PANADERÍA YO IR	T: PANADERÍA YO IR
+-: YO IR PANADERÍA	-: YO IR PANADERÍA
+--	--
+S: En suburbano se viaja más rápido.	S: En suburbano se viaja más rápido.
+T: SUBURBANO VIAJAR VELOCIDAD	T: SUBURBANO VIAJAR VELOCIDAD
+-: SUBURBANO VIAJAR RÁPIDO	-: SUBURBANO VIAJAR RÁPIDO
+--	--
+S: Tengo un partido en el Deportivo Galeana.	S: Tengo un partido en el Deportivo Galeana.
+T: YO JUGAR PARTICIPAR DEPORTIVO-GALEANA	T: YO JUGAR PARTICIPAR DEPORTIVO-GALEANA
+-: DEPORTIVO-GALEANA YO PARTIDO TENER	-: DEPORTIVO-GALEANA PARTIDO YO TENER
+--	--
+S: Mañana voy a viajar a África.	S: Mañana voy a viajar a África.
+T: MAÑANA YO VIAJAR ÁFRICA	T: MAÑANA YO VIAJAR ÁFRICA
++: MAÑANA YO VIAJAR ÁFRICA	+: MAÑANA YO VIAJAR ÁFRICA
+--	--
+S: Mi hermano no me dio pastel ayer.	S: Mi hermano no me dio pastel ayer.
+T: AYER MI HERMANO PASTEL ÉL DAR MÍ	T: AYER MI HERMANO PASTEL ÉL DAR MÍ
+-: AYER YO PASTEL MI HERMANO NO DAR	-: AYER YO PASTEL MI HERMANO NO DAR
+--	--
+S: El vecino me pidió mover mi carro.	S: El vecino me pidió mover mi carro.
+T: VECINO Él PEDIR MI CARRO MOVER	T: VECINO Él PEDIR MI CARRO MOVER
+-: VECINO YO YA PEDIR MI CARRO MOVER	-: MI CARRO VECINO YO PEDIR MOVER
+--	--
+S: A mí no me gusta el alcohol.	S: A mí no me gusta el alcohol.
+T: ALCOHOL YO NO-GUSTAR	T: ALCOHOL YO NO-GUSTAR
++: ALCOHOL YO NO-GUSTAR	+: ALCOHOL YO NO-GUSTAR
+--	--
+S: Nos vemos mañana en la noche.	S: Nos vemos mañana en la noche.
+T: DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE	T: DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE
+-: MAÑANA NOCHE NOSOTROS VER	-: MAÑANA NOCHE NOSOTROS VER
+--	--
+S: Todos en la iglesia gritan ¡aleluya!	S: Todos en la iglesia gritan ¡aleluya!
+T: TODOS IGLESIA GRITAR ¡ALELUYA!	T: TODOS IGLESIA GRITAR ¡ALELUYA!
+-: IGLESIA TODOS GRITAR ¡ALELUYA!	-: IGLESIA TODOS GRITAR ¡ALELUYA!
+--	--
+S: La Ciudad de México es enorme.	S: La Ciudad de México es enorme.
+T: CIUDAD-DE-MÉXICO ENORME	T: CIUDAD-DE-MÉXICO ENORME
+-: CIUDAD-MÉXICO ENORME	+: CIUDAD-DE-MÉXICO ENORME
+--	--
+S: Mi amiga es modelo de una revista.	S: Mi amiga es modelo de una revista.
+T: MI AMIGO+MUJER MODELO SU REVISTA	T: MI AMIGO+MUJER MODELO SU REVISTA
+-: MI AMIGO+MUJER MODELO REVISTA	-: MI AMIGO+MUJER MODELO REVISTA
+--	--
+S: El deportista de rafting es joven.	S: El deportista de rafting es joven.
+T: JOVEN HOMBRE DEPORTE RAFTING	T: JOVEN HOMBRE DEPORTE RAFTING
+-: DEPORTISTA RAFTING JOVEN	-: DEPORTISTA RAFTING JOVEN
+--	--
+S: Convencí a mi amigo de ir a la fiesta.	S: Convencí a mi amigo de ir a la fiesta.
+T: YO YA CONVENCER MI AMIGO IR FIESTA	T: YO YA CONVENCER MI AMIGO IR FIESTA
+-: YO MI AMIGO FIESTA IR CONVENCER YA	-: MI AMIGO FIESTA IR YO YA CONVENCER
+--	--
+S: La construcción de la escuela ya está avanzada.	S: La construcción de la escuela ya está avanzada.
+T: ESCUELA CONSTRUCCIÓN YA AVANZADA	T: ESCUELA CONSTRUCCIÓN YA AVANZADA
+-: ESCUELA CONSTRUCCIÓN YA AVANZAR	-: CONSTRUCCIÓN ESCUELA YA AVANZADO
+--	--
+S: El barco llegó en la mañana.	S: El barco llegó en la mañana.
+T: MAÑANA BARCO YA LLEGAR	T: MAÑANA BARCO YA LLEGAR
++: MAÑANA BARCO YA LLEGAR	+: MAÑANA BARCO YA LLEGAR
+--	--
+S: José se enfermó de tos en invierno.	S: José se enfermó de tos en invierno.
+T: INVIERNO dm-JOSÉ TOS ENFERMAR	T: INVIERNO dm-JOSÉ TOS ENFERMAR
+-: INVIERNO dm-JOSÉ TOS YA ENFERMAR	+: INVIERNO dm-JOSÉ TOS ENFERMAR
+--	--
+S: La semana pasada mi papá cortó la hierba con la hoz.	S: La semana pasada mi papá cortó la hierba con la hoz.
+T: SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	T: SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR
+-: SEMANA-PASADA MI PAPÁ HIERBA HOZ YA CORTAR	-: SEMANA-PASADA MI PAPÁ HIERBA HOZ YA CORTAR
+--	--
+S: Ellos siempre discuten.	S: Ellos siempre discuten.
+T: SIEMPRE ELLOS DISCUTIR	T: SIEMPRE ELLOS DISCUTIR
++: SIEMPRE ELLOS DISCUTIR	+: SIEMPRE ELLOS DISCUTIR
+--	--
+S: Ellos rebanaron la pizza en ocho partes.	S: Ellos rebanaron la pizza en ocho partes.
+T: PIZZA OCHO ELLOS REBANAR	T: PIZZA OCHO ELLOS REBANAR
+-: ELLOS PIZZA OCHO PARTES YA REBANAR	-: ELLOS PIZZA OCHO PARTE YA REBANAR
+--	--
+S: Mi hermana no nació en Texas.	S: Mi hermana no nació en Texas.
+T: MI HERMANO+MUJER NO NACER TEXAS	T: MI HERMANO+MUJER NO NACER TEXAS
+-: TEXAS MI HERMANO+MUJER NO NACER	-: TEXAS MI HERMANO+MUJER NACER NO
+--	--
+S: Yo conozco Bangladesh, es muy bonito de verdad.	S: Yo conozco Bangladesh, es muy bonito de verdad.
+T: YO CONOCER BANGLADESH YA BONITO VERDAD	T: YO CONOCER BANGLADESH YA BONITO VERDAD
+-: YO BANGLADESH CONOCER BONITO VERDAD	-: YO BANGLADESH CONOCER BONITO VERDAD
+--	--
+S: Ese vestido es feo, no me gusta.	S: Ese vestido es feo, no me gusta.
+T: ESE VESTIDO FEO YO NO-GUSTAR	T: ESE VESTIDO FEO YO NO-GUSTAR
++: ESE VESTIDO FEO YO NO-GUSTAR	+: ESE VESTIDO FEO YO NO-GUSTAR
+--	--
+S: Voy al banco a retirar dinero.	S: Voy al banco a retirar dinero.
+T: YO IR BANCO DINERO RETIRAR	T: YO IR BANCO DINERO RETIRAR
++: YO IR BANCO DINERO RETIRAR	+: YO IR BANCO DINERO RETIRAR
+--	--
+S: Juan Gabriel nació en Ciudad Juárez.	S: Juan Gabriel nació en Ciudad Juárez.
+T: dm-JUAN GABRIEL NACER CIUDAD JUÁREZ	T: dm-JUAN GABRIEL NACER CIUDAD JUÁREZ
+-: CIUDAD-JUÁREZ dm-JUAN-GABRIEL YA NACER	-: CIUDAD-JUÁREZ dm-JUAN-GABRIEL YA NACER
+--	--
+S: Ya suspendieron mi número de teléfono.	S: Ya suspendieron mi número de teléfono.
+T: MI NÚMERO TELÉFONO SUSPENDER YA	T: MI NÚMERO TELÉFONO SUSPENDER YA
+-: YA MI NÚMERO-TELÉFONO SUSPENDER	-: MI NÚMERO-TELÉFONO YA SUSPENDER
+--	--
+S: ¿Y eso?	S: ¿Y eso?
+T: ¿Y-ESO?	T: ¿Y-ESO?
+-: ¿POR QUÉ?	-: ESO ¿POR QUÉ?
+--	--
+S: Tu sobrino está atrás de mi esposo.	S: Tu sobrino está atrás de mi esposo.
+T: TUYO SOBRINO ATRÁS MI ESPOSO	T: TUYO SOBRINO ATRÁS MI ESPOSO
+-: TU SOBRINO DETRÁS MI ESPOSO	-: TU SOBRINO DETRÁS MI ESPOSO
+--	--
+S: Nosotros aprendemos gramática en la escuela.	S: Nosotros aprendemos gramática en la escuela.
+T: LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA	T: LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA
+-: ESCUELA NOSOTROS GRAMÁTICA APRENDER	-: ESCUELA NOSOTROS GRAMÁTICA APRENDER
+--	--
+S: Tú estás embarazada, después vas a amamantar.	S: Tú estás embarazada, después vas a amamantar.
+T: TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR	T: TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR
+-: TÚ EMBARAZADA DESPUÉS AMAMANTAR	-: TÚ EMBARAZADA DESPUÉS TÚ AMAMANTAR
+--	--
+S: En diciembre muchas personas van a esquiar.	S: En diciembre muchas personas van a esquiar.
+T: DICIEMBRE MUCHAS PERSONAS ESQUIAR IR	T: DICIEMBRE MUCHAS PERSONAS ESQUIAR IR
+-: DICIEMBRE MUCHO PERSONA IR ESQUIAR	-: DICIEMBRE MUCHO PERSONA IR ESQUIAR
+--	--
+S: Tu esposo siempre me da el avión en todo.	S: Tu esposo siempre me da el avión en todo.
+T: SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN	T: SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN
+-: SIEMPRE TODO TU ESPOSO YO DAR-EL-AVIÓN	-: SIEMPRE TU ESPOSO YO TODO DAR-EL-AVIÓN
+--	--
+S: Ese gato blanco rasguña.	S: Ese gato blanco rasguña.
+T: ESE BLANCO GATO RASGUÑAR	T: ESE BLANCO GATO RASGUÑAR
+-: ESTE GATO COLOR BLANCO RASGUÑAR	-: ESE GATO COLOR BLANCO RASGUÑAR
+--	--
+S: El gobernador colocó mucha publicidad por las calles.	S: El gobernador colocó mucha publicidad por las calles.
+T: HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES	T: HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES
+-: CALLE GOBERNADOR MUCHO PUBLICIDAD COLOCAR YA	-: CALLE GOBERNADOR MUCHO PUBLICIDAD COLOCAR YA
+--	--
+S: Ayer compré un suéter.	S: Ayer compré un suéter.
+T: AYER SUÉTER YO COMPRAR	T: AYER SUÉTER YO COMPRAR
+-: AYER YO SUÉTER COMPRAR	-: AYER YO SUÉTER COMPRAR
+--	--
+S: Alguna persona que quiera donar sangre puede venir al hospital.	S: Alguna persona que quiera donar sangre puede venir al hospital.
+T: ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL	T: ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL
+-: HOSPITAL PERSONA SANGRE DONAR QUERER VENIR PODER	-: HOSPITAL PERSONA SANGRE DONAR QUERER VENIR PODER
+--	--
+S: Él compró esa televisión de contado.	S: Él compró esa televisión de contado.
+T: ÉL YA COMPRAR #TV CONTADO	T: ÉL YA COMPRAR #TV CONTADO
+-: ÉL ESA TELEVISIÓN YA COMPRAR CONTADO	-: ÉL ESA TELEVISIÓN YA COMPRAR CONTADO
+--	--
+S: Borré los contactos de mi teléfono.	S: Borré los contactos de mi teléfono.
+T: TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR	T: TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR
+-: YO MI TELÉFONO CONTACTO YA BORRAR	-: MI TELÉFONO CONTACTOS YO YA BORRAR
+--	--
+S: Mi primo vive en Orizaba.	S: Mi primo vive en Orizaba.
+T: MI PRIMO ORIZABA VIVIR	T: MI PRIMO ORIZABA VIVIR
+-: ORIZABA MI PRIMO VIVIR	-: ORIZABA MI PRIMO VIVIR
+--	--
+S: Ayer entregué el enganche de mi auto.	S: Ayer entregué el enganche de mi auto.
+T: AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	T: AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE
+-: AYER YO MI AUTO ENGANCHE YA ENTREGAR	-: AYER MI AUTO ENGANCHE YO YA ENTREGAR
+--	--
+S: Algunas personas son analfabetas.	S: Algunas personas son analfabetas.
+T: ALGUNAS PERSONAS ANALFABETO	T: ALGUNAS PERSONAS ANALFABETO
+-: ALGUNAS PERSONA ANALFABETA	-: ALGUNAS PERSONA ANALFABETA
+--	--
+S: Usa maleta de ruedas mejor, no lastima el cuerpo.	S: Usa maleta de ruedas mejor, no lastima el cuerpo.
+T: MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER	T: MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER
+-: MALETA-DE-RUEDAS USAR MEJOR CUERPO NO LASTIMAR	-: MALETA-DE-RUEDAS USAR MEJOR PORQUE CUERPO NO LASTIMAR
+--	--
+S: Hoy fuí al zoológico y vi un gorila.	S: Hoy fuí al zoológico y vi un gorila.
+T: HOY YO IR ZOOLOGICO YO VER YA GORILA	T: HOY YO IR ZOOLOGICO YO VER YA GORILA
+-: HOY YO IR ZOOLÓGICO GORILA VER	-: HOY ZOOLÓGICO YO IR GORILA VER
+--	--
+S: El suegro de mi primo Samuel es ciego.	S: El suegro de mi primo Samuel es ciego.
+T: SUEGRO MI PRIMO dm-SAMUEL ÉL CIEGO ÉL	T: SUEGRO MI PRIMO dm-SAMUEL ÉL CIEGO ÉL
+-: MI PRIMO dm-SAMUEL SUEGRO CIEGO	-: dm-SAMUEL PRIMO MI SUEGRO CIEGO
+--	--
+S: Austria es un país hermoso.	S: Austria es un país hermoso.
+T: AUSTRÍA SU PAÍS HERMOSO	T: AUSTRÍA SU PAÍS HERMOSO
+-: AUSTRIA PAÍS HERMOSO	-: AUSTRIA PAÍS HERMOSO
+--	--
+S: Compra pan bolillo.	S: Compra pan bolillo.
+T: PAN BOLILLO TÚ COMPRAR	T: PAN BOLILLO TÚ COMPRAR
+-: PAN BOLILLO COMPRAR	-: PAN BOLILLO COMPRAR
+--	--
+S: Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.	S: Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.
+T: ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	T: ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR
++: ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	-: MUJER ÉL QUERER CONQUISTAR PERO MIEDO ELLA ABANDONAR
+--	--
+S: La vagina es un órgano femenino.	S: La vagina es un órgano femenino.
+T: VAGINA ADENTRO CUERPO ORIGINAL MUJER	T: VAGINA ADENTRO CUERPO ORIGINAL MUJER
++: VAGINA ADENTRO CUERPO ORIGINAL MUJER	+: VAGINA ADENTRO CUERPO ORIGINAL MUJER
+--	--
+S: Yo no viajo contigo.	S: Yo no viajo contigo.
+T: YO VIAJAR CONTIGO	T: YO VIAJAR CONTIGO
+-: YO TI NO VIAJAR	-: YO TÚ VIAJAR NO
+--	--
+S: Yo acaricio a mi gato, él es muy tranquilo.	S: Yo acaricio a mi gato, él es muy tranquilo.
+T: MI GATO ACARICIAR TRANQUILO	T: MI GATO ACARICIAR TRANQUILO
+-: YO MI GATO ACARICIAR ÉL TRANQUILO	-: YO MI GATO ACARICIAR ÉL MUCHO TRANQUILO
+--	--
+S: En la escuela cada niño tiene una computadora para trabajar.	S: En la escuela cada niño tiene una computadora para trabajar.
+T: CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR	T: CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR
+-: ESCUELA CADA NIÑO COMPUTADORA TENER PARA TRABAJAR	-: ESCUELA NIÑO COMPUTADORA TENER TRABAJAR
+--	--
+S: No me abofetees.	S: No me abofetees.
+T: NO ABOFETEAR MI	T: NO ABOFETEAR MI
++: NO ABOFETEAR MI	+: NO ABOFETEAR MI
+--	--
+S: Me asusto con las arañas, me dan miedo.	S: Me asusto con las arañas, me dan miedo.
+T: YO ASUSTAR ARAÑAS YO MIEDO	T: YO ASUSTAR ARAÑAS YO MIEDO
+-: ARAÑA YO ASUSTAR MIEDO	-: ARAÑAS YO ASUSTAR MIEDO
+--	--
+S: Mi mamá es católica.	S: Mi mamá es católica.
+T: MI MAMÁ CATÓLICA	T: MI MAMÁ CATÓLICA
++: MI MAMÁ CATÓLICA	-: MI MAMÁ CATÓLICO
+--	--
+S: Es necesario hacer ejercicio para estar sano.	S: Es necesario hacer ejercicio para estar sano.
+T: NECESITAR EJERCICIO EJERCICIO PARA SALUD	T: NECESITAR EJERCICIO EJERCICIO PARA SALUD
+-: EJERCICIO HACER PARA SANO DEBER	-: EJERCICIO HACER NECESARIO PARA SANO
+--	--
+S: Mi familia siempre dona a Teletón.	S: Mi familia siempre dona a Teletón.
+T: SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	T: SIEMPRE MI FAMILIA TELETÓN DONAR DONAR
+-: SIEMPRE MI FAMILIA TELETÓN DONAR	-: SIEMPRE MI FAMILIA TELETÓN DONAR
+--	--
+S: A mí no me gustan las arañas.	S: A mí no me gustan las arañas.
+T: YO NO GUSTAR ARAÑA	T: YO NO GUSTAR ARAÑA
+-: ARAÑA YO NO-GUSTAR	-: ARAÑA YO NO-GUSTAR
+--	--
+S: El disfraz está hecho de papel	S: El disfraz está hecho de papel
+T: DISFRAZ HACER. PAPEL	T: DISFRAZ HACER. PAPEL
+-: DISFRAZ PAPEL	-: DISFRAZ PAPEL
+--	--
+S: Te confundo a ti y a tu mamá porque se parecen.	S: Te confundo a ti y a tu mamá porque se parecen.
+T: YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS	T: YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS
+-: YO CONFUNDIR TI TU MAMÁ PARECER	-: YO TI TU MAMÁ CONFUNDIR PORQUE PARECER
+--	--
+S: El dueño de esa fábrica fue acusado de enriquecimiento ilícito.	S: El dueño de esa fábrica fue acusado de enriquecimiento ilícito.
+T: HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO	T: HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO
+-: ESA FÁBRICA DUEÑO ENRIQUECIMIENTO ILÍCITO ACUSAR YA	-: ESA FÁBRICA DUEÑO ENRIQUECIMIENTO ILÍCITO YA ACUSAR
+--	--
+S: Cristóbal Colón descubrió América hace años.	S: Cristóbal Colón descubrió América hace años.
+T: HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA	T: HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA
+-: HACE-PASADO CRISTOBAL-COLÓN AMÉRICA DESCUBRIR	-: AÑOS-PASADO CRISTOBAL-COLÓN AMÉRICA DESCUBRIR
+--	--
+S: Ya descubrí su secreto.	S: Ya descubrí su secreto.
+T: SUYO SECRETO YO YA DESCUBRIRSE YA	T: SUYO SECRETO YO YA DESCUBRIRSE YA
+-: YO SU SECRETO YA DESCUBRIR	-: YA YO SU SECRETO DESCUBRIR
+--	--
+S: Le regalé un cinturón a mi papá.	S: Le regalé un cinturón a mi papá.
+T: MI PAPÁ CINTURÓN YO REGALAR ÉL	T: MI PAPÁ CINTURÓN YO REGALAR ÉL
+-: MI PAPÁ CINTURÓN YO YA REGALAR ÉL	-: MI PAPÁ CINTURÓN YO YA REGALAR ÉL
+--	--
+S: La bandera mexicana tiene tres colores.	S: La bandera mexicana tiene tres colores.
+T: BANDERA MEXICANA TENER TRES COLORES	T: BANDERA MEXICANA TENER TRES COLORES
+-: MÉXICO BANDERA TRES COLOR	-: BANDERA MÉXICO TRES COLOR
+--	--
+S: Las personas sordas tienen derecho a una educación bilingüe.	S: Las personas sordas tienen derecho a una educación bilingüe.
+T: PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE	T: PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE
+-: PERSONA SORDA EDUCACIÓN BILINGÜE DERECHO TENER	-: PERSONA SORDA EDUCACIÓN BILINGÜE DERECHO TENER
+--	--
+S: Me gustan las papas.	S: Me gustan las papas.
+T: YO GUSTAR PAPA	T: YO GUSTAR PAPA
+-: PAPA YO GUSTAR	-: PAPA YO GUSTAR
+--	--
+S: El doctor anota la cita en la agenda.	S: El doctor anota la cita en la agenda.
+T: CITA DOCTOR ESCRIBIR ANOTAR-AGENDA	T: CITA DOCTOR ESCRIBIR ANOTAR-AGENDA
+-: AGENDA DOCTOR CITA ANOTAR	-: AGENDA DOCTOR CITA ANOTAR
+--	--
+S: ¡Buenas noches, que descanses!	S: ¡Buenas noches, que descanses!
+T: ¡BUENA NOCHE TÚ DESCANSAR!	T: ¡BUENA NOCHE TÚ DESCANSAR!
++: ¡BUENA NOCHE TÚ DESCANSAR!	+: ¡BUENA NOCHE TÚ DESCANSAR!
+--	--
+S: Ayer en el metro vi a un soldado con su ametralladora.	S: Ayer en el metro vi a un soldado con su ametralladora.
+T: AYER METRO AMETRALLADORA SOLDADO YO VER	T: AYER METRO AMETRALLADORA SOLDADO YO VER
+-: AYER METRO YO SOLDADO AMETRALLADORA SUYO YA VER	-: AYER METRO SOLDADO AMETRALLADORA YO YA VER
+--	--
+S: Me encanta comer cacahuates con limón y sal.	S: Me encanta comer cacahuates con limón y sal.
+T: CACAHUATES CON LIMÓN SAL YO ENCANTA COMER	T: CACAHUATES CON LIMÓN SAL YO ENCANTA COMER
+-: CACAHUATE CON LIMÓN SAL COMER YO GUSTAR	-: CACAHUATE LIMÓN SAL YO COMER GUSTAR
+--	--
+S: Quiero comer pollo.	S: Quiero comer pollo.
+T: POLLO YO QUERER COMER	T: POLLO YO QUERER COMER
++: POLLO YO QUERER COMER	+: POLLO YO QUERER COMER
+--	--
+S: Cuídate mucho, nos vemos mañana.	S: Cuídate mucho, nos vemos mañana.
+T: TÚ CUIDAR MUCHO MAÑANA VERNOS	T: TÚ CUIDAR MUCHO MAÑANA VERNOS
+-: CUIDAR MUCHO MAÑANA NOSOTROS VER	-: TÚ CUIDAR MUCHO MAÑANA NOSOTROS VER
+--	--
+S: Enciende la chimenea.	S: Enciende la chimenea.
+T: CHIMENEA TÚ ENCENDERfuego	T: CHIMENEA TÚ ENCENDERfuego
+-: CHIMENEA ENCENDER	-: CHIMENEA ENCENDER
+--	--
+S: Charles-Michel de l’Épée es el “Padre de los Sordos”.	S: Charles-Michel de l’Épée es el “Padre de los Sordos”.
+T: CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	T: CHARLES-MICHEL-L´ÉPÉE PADRE SORDO
+-: CHARLES-MICHEL-L´ÉPÉE SORDO PADRE	-: CHARLES-MICHEL-L´ÉPÉE SORDO PADRE
+--	--
+S: Esa máquina falla mucho, se necesita que la compongan.	S: Esa máquina falla mucho, se necesita que la compongan.
+T: ESA MÁQUINA FALLA COMPONER NECESITA	T: ESA MÁQUINA FALLA COMPONER NECESITA
+-: ESA MÁQUINA FALLAR MUCHO COMPONER NECESITAR	-: ESA MÁQUINA FALLAR MUCHO MÁQUINA COMPONER NECESITAR
+--	--
+S: Deseo que tengas mucha suerte.	S: Deseo que tengas mucha suerte.
+T: TÚ SUERTE OJALÁ	T: TÚ SUERTE OJALÁ
+-: TÚ MUCHO SUERTE YO DESEAR	-: TÚ MUCHO SUERTE YO DESEAR
+--	--
+S: Esa persona me abofeteó.	S: Esa persona me abofeteó.
+T: PERSONA ÉL ABOFETEAR MÍ	T: PERSONA ÉL ABOFETEAR MÍ
+-: ESA PERSONA YO YA ABOFETEAR	-: ESA PERSONA YO ABOFETEAR YA
+--	--
+S: Mi computadora no prende, estoy preocupado.	S: Mi computadora no prende, estoy preocupado.
+T: MI COMPUTADORA PRENDER NO YO PREOCUPADO	T: MI COMPUTADORA PRENDER NO YO PREOCUPADO
+-: MI COMPUTADORA NO PRENDER YO PREOCUPADO	-: MI COMPUTADORA NO PRENDER YO PREOCUPADO
+--	--
+S: Todos los correos usan arroba.	S: Todos los correos usan arroba.
+T: TODO CORREO-ELECTRÓNICO USAR ARROBA	T: TODO CORREO-ELECTRÓNICO USAR ARROBA
+-: CORREO-ELECTRÓNICO TODOS ARROBA USAR	-: CORREO-ELECTRÓNICO TODOS ARROBA USAR
+--	--
+S: Ayer fui a la galería.	S: Ayer fui a la galería.
+T: AYER YO YA IR GALERÍA	T: AYER YO YA IR GALERÍA
++: AYER YO YA IR GALERÍA	+: AYER YO YA IR GALERÍA
+--	--
+S: La tienda más cercana está a dos cuadras.	S: La tienda más cercana está a dos cuadras.
+T: TIENDA CERCA DOS CUADRAS	T: TIENDA CERCA DOS CUADRAS
++: TIENDA CERCA DOS CUADRAS	+: TIENDA CERCA DOS CUADRAS
+--	--
+S: Mi hermano terminó con su novia.	S: Mi hermano terminó con su novia.
+T: MI HERMANO SUYA NOVIO+MUJER SEPARAR YA	T: MI HERMANO SUYA NOVIO+MUJER SEPARAR YA
+-: MI HERMANO SU NOVIO+MUJER TERMINAR YA	-: MI HERMANO SU NOVIO+MUJER YA TERMINAR
+--	--
+S: El bebé de César es muy bonito.	S: El bebé de César es muy bonito.
+T: dm-CÉSAR SU BEBÉ BONITO	T: dm-CÉSAR SU BEBÉ BONITO
+-: dm-CÉSAR BEBÉ BONITO	-: dm-CÉSAR BEBÉ BONITO
+--	--
+S: Hoy compré en Wal-Mart una bomba de aire para mi papá.	S: Hoy compré en Wal-Mart una bomba de aire para mi papá.
+T: HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	T: HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR
+-: HOY WAL-MART MI PAPÁ BOMBA-DE-AIRE YO COMPRAR	-: HOY WAL-MART MI PAPÁ BOMBA-DE-AIRE YO COMPRAR
+--	--
+S: Cuando me acabo de bañar siempre me pongo desodorante.	S: Cuando me acabo de bañar siempre me pongo desodorante.
+T: SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	T: SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE
+-: BAÑAR SIEMPRE YO DESODORANTE PONER	-: BAÑAR YA SIEMPRE DESODORANTE YO PONER
+--	--
+S: Ellos lo arrestaron.	S: Ellos lo arrestaron.
+T: YA ELLOS ARRESTAR ÉL	T: YA ELLOS ARRESTAR ÉL
+-: ELLOS ÉL ARRESTAR YA	-: ELLOS ÉL YA ARRESTAR
+--	--
+S: Rocío retiró dinero ayer en el banco.	S: Rocío retiró dinero ayer en el banco.
+T: AYER BANCO dm-ROCÍO DINERO RETIRAR	T: AYER BANCO dm-ROCÍO DINERO RETIRAR
+-: AYER BANCO dm-ROCÍO DINERO YA RETIRAR	+: AYER BANCO dm-ROCÍO DINERO RETIRAR
+--	--
+S: ¿Crees que todos tenemos alma?	S: ¿Crees que todos tenemos alma?
+T: ¿TÚ CREER TODOS ALMA TENER?	T: ¿TÚ CREER TODOS ALMA TENER?
+-: TODOS ALMA TENER ¿TÚ CREER? SÍ NO	-: ¿ALMA TODOS TENER TÚ CREER? SÍ NO
+--	--
+S: Mi tío se mudará de casa mañana.	S: Mi tío se mudará de casa mañana.
+T: MAÑANA MI TÍO MUDARSE CASA	T: MAÑANA MI TÍO MUDARSE CASA
+-: MAÑANA MI TÍO CASA MUDAR FUTURO	-: MAÑANA MI TÍO CASA MUDAR
+--	--
+S: Todos los días hacemos alabanzas a Dios.	S: Todos los días hacemos alabanzas a Dios.
+T: DIARIO ALABANZA DIOS, NOSOTROS HACER	T: DIARIO ALABANZA DIOS, NOSOTROS HACER
+-: DIARIO NOSOTROS DIOS ALABANZA HACER	-: DIARIO NOSOTROS DIOS ALABANZA HACER
+--	--
+S: En Villahermosa hace mucho calor.	S: En Villahermosa hace mucho calor.
+T: VILLAHERMOSA MUCHO CALOR	T: VILLAHERMOSA MUCHO CALOR
++: VILLAHERMOSA MUCHO CALOR	+: VILLAHERMOSA MUCHO CALOR
+--	--
+S: Ellos fueron a la administración de la delegación.	S: Ellos fueron a la administración de la delegación.
+T: ADMINISTRACIÓN DELEGACIÓN ELLOS IR	T: ADMINISTRACIÓN DELEGACIÓN ELLOS IR
+-: ELLOS YA IR DELEGACIÓN ADMINISTRACIÓN	-: ELLOS YA IR DELEGACIÓN ADMINISTRACIÓN
+--	--
+S: Yo no fui el que rompió el vidrio.	S: Yo no fui el que rompió el vidrio.
+T: YO NO-FUI VIDRIO ROMPER ROMPER	T: YO NO-FUI VIDRIO ROMPER ROMPER
+-: VIDRIO YO ROMPER NO-FUI	-: VIDRIO YA ROMPER YO NO-FUI
+--	--
+S: La señora María tiene una cocina.	S: La señora María tiene una cocina.
+T: SEÑORA dm-MARÍA TENER COCINA	T: SEÑORA dm-MARÍA TENER COCINA
+-: dm-MARÍA TENER COCINA	-: dm-MARÍA SEÑORA TENER COCINA
+--	--
+S: Yo creo en el Espíritu Santo.	S: Yo creo en el Espíritu Santo.
+T: YO CREER ESPÍRITU SANTO	T: YO CREER ESPÍRITU SANTO
+-: YO ESPÍRITU-SANTO CREER	-: YO ESPÍRITU-SANTO CREER
+--	--
+S: Todos los productos se etiquetan con un código de barras.	S: Todos los productos se etiquetan con un código de barras.
+T: TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER	T: TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER
+-: PRODUCTO TODO CÓDIGO-DE-BARRAS ETIQUETAR	-: PRODUCTO CÓDIGO-DE-BARRAS ETIQUETAR
+--	--
+S: Enrique Peña Nieto fue gobernador del Estado de México.	S: Enrique Peña Nieto fue gobernador del Estado de México.
+T: HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO	T: HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO
+-: ENRIQUE-PEÑA-NIETO ESTADO-DE-MÉXICO GOBERNADOR YA	-: ENRIQUE-PEÑA-NIETO ESTADO-DE-MÉXICO GOBERNADOR YA
+--	--
+S: Mi amiga se inscribió en una competencia de atletismo.	S: Mi amiga se inscribió en una competencia de atletismo.
+T: COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE	T: COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE
+-: MI AMIGO+MUJER COMPETENCIA ATLETISMO YA INSCRIBIR	-: MI AMIGO+MUJER COMPETENCIA ATLETISMO YA INSCRIBIR
+--	--
+S: Fui a Cancún de ida y vuelta.	S: Fui a Cancún de ida y vuelta.
+T: ANTES CANCÚN IDA-Y-VENIR	T: ANTES CANCÚN IDA-Y-VENIR
+-: YO CANCÚN YA IR IDA-VUELTA	-: YO YA IR CANCÚN IDA-VUELTA
+--	--
+S: Me duele la espalda porque ayer cargué un mueble.	S: Me duele la espalda porque ayer cargué un mueble.
+T: YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR	T: YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR
+-: AYER YO MUEBLE YA CARGAR PORQUE ESPALDA YO DOLER	-: ESPALDA YO DOLER PORQUE AYER MUEBLE YO CARGAR
+--	--
+S: Le regalé un juguete a mi ahijado.	S: Le regalé un juguete a mi ahijado.
+T: JUGUETE MI AHIJADO YO REGALAR ÉL YA	T: JUGUETE MI AHIJADO YO REGALAR ÉL YA
+-: MI AHIJADO JUGUETE YO YA REGALAR	-: MI AHIJADO JUGUETE YO YA REGALAR ÉL
+--	--
+S: No te preocupes, déjalo así.	S: No te preocupes, déjalo así.
+T: TÚ NO PREOCUPAR DEJARLO-ASÍ	T: TÚ NO PREOCUPAR DEJARLO-ASÍ
+-: NO PREOCUPAR DEJAR ASÍ	-: NO PREOCUPAR ASÍ DEJAR
+--	--
+S: Mañana Juan y yo nos acompañaremos al trabajo.	S: Mañana Juan y yo nos acompañaremos al trabajo.
+T: MAÑANA TRABAJO dm-JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR	T: MAÑANA TRABAJO dm-JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR
+-: MAÑANA TRABAJO dm-JUAN YO DOS-DE-NOSOTROS ACOMPAÑAR	-: MAÑANA TRABAJO dm-JUAN YO ACOMPAÑAR
+--	--
+S: Me gusta el color gris.	S: Me gusta el color gris.
+T: COLOR GRIS YO GUSTAR	T: COLOR GRIS YO GUSTAR
++: COLOR GRIS YO GUSTAR	+: COLOR GRIS YO GUSTAR
+--	--
+S: Tú eres muy afortunado en todo.	S: Tú eres muy afortunado en todo.
+T: TODO AFORTUNADO	T: TODO AFORTUNADO
+-: TODO TÚ AFORTUNADO	-: TÚ TODO MUCHO AFORTUNADO
+--	--
+S: Terminamos como amigos.	S: Terminamos como amigos.
+T: NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS	T: NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS
+-: NOSOTROS AMIGO YA TERMINAR	-: NOSOTROS AMIGO TERMINAR YA
+--	--
+S: ¡Ay! qué sorpresa verte aquí.	S: ¡Ay! qué sorpresa verte aquí.
+T: ¡AY! SORPRESA AQUÍ YO VER TI	T: ¡AY! SORPRESA AQUÍ YO VER TI
+-: ¡AQUÍ TÚ VER SURPRESA!	-: ¡AY! AQUÍ TÚ VER SORPRESA
+--	--
+S: El campesino siembra maíz.	S: El campesino siembra maíz.
+T: CAMPESINO MAÍZ SEMBRAR	T: CAMPESINO MAÍZ SEMBRAR
++: CAMPESINO MAÍZ SEMBRAR	+: CAMPESINO MAÍZ SEMBRAR
+--	--
+S: El papá de David es bombero.	S: El papá de David es bombero.
+T: dm-DAVID SU PAPÁ BOMBERO	T: dm-DAVID SU PAPÁ BOMBERO
+-: dm-DAVID PAPÁ BOMBERO	-: dm-DAVID PAPÁ BOMBERO
+--	--
+S: Mañana voy a depositar el dinero en el banco.	S: Mañana voy a depositar el dinero en el banco.
+T: MAÑANA YO DINERO DEPOSITAR BANCO	T: MAÑANA YO DINERO DEPOSITAR BANCO
+-: MAÑANA BANCO YO DINERO DEPOSITAR	-: MAÑANA BANCO DINERO YO DEPOSITAR
+--	--
+S: Filipinas está en Asia.	S: Filipinas está en Asia.
+T: FILIPINAS SUYO ASIA	T: FILIPINAS SUYO ASIA
+-: ASIA ADENTRO FILIPINAS	-: ASIA ADENTRO FILIPINAS
+--	--
+S: Debes seguir estudiando.	S: Debes seguir estudiando.
+T: TÚ DEBER SEGUIR ESTUDIAR	T: TÚ DEBER SEGUIR ESTUDIAR
+-: TÚ ESTUDIAR TODAVÍA DEBER	-: ESTUDIAR SEGUIR TÚ DEBER
+--	--
+S: Mi vecino va diario a Alcohólicos Anónimos.	S: Mi vecino va diario a Alcohólicos Anónimos.
+T: DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS	T: DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS
++: DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS	-: DIARIO MI VECINO ALCOHÓLICOS-ANÓNIMOS IR
+--	--
+S: Mi hermano menor es dentista.	S: Mi hermano menor es dentista.
+T: HERMANO ÚLTIMO DOCTOR-DIENTES	T: HERMANO ÚLTIMO DOCTOR-DIENTES
+-: MI HERMANO MENOR DOCTOR-DIENTES	-: MI HERMANO MENOR DOCTOR-DIENTES
+--	--
+S: ¿Quién fue el presidente de México? Carlos Salinas de Gortari.	S: ¿Quién fue el presidente de México? Carlos Salinas de Gortari.
+T: ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI	T: ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI
+-: MÉXICO PRESIDENTE ¿QUIÉN? dm-CARLOS-SALINAS-DE-GORTARI	-: MÉXICO PRESIDENTE ¿QUIÉN? dm-CARLOS-SALINAS-DE-GORTARI
+--	--
+S: ¿Dónde está tu cómplice?	S: ¿Dónde está tu cómplice?
+T: ¿DÓNDE TUYO CÓMPLICE DÓNDE?	T: ¿DÓNDE TUYO CÓMPLICE DÓNDE?
+-: ¿DÓNDE TUYO CÓMPLICE?	-: TUYO CÓMPLICE ¿DÓNDE?
+--	--
+S: Islandia se encuentra en Europa.	S: Islandia se encuentra en Europa.
+T: ISLANDIA DÓNDE LUGAR EUROPA	T: ISLANDIA DÓNDE LUGAR EUROPA
+-: EUROPA ADENTRO ISLANDIA	-: EUROPA ADENTRO ISLANDIA
+--	--
+S: La bandera se cayó durante la ceremonia.	S: La bandera se cayó durante la ceremonia.
+T: BANDERA CAER MIENTRAS CEREMONIA	T: BANDERA CAER MIENTRAS CEREMONIA
+-: CEREMONIA BANDERA YA CAER	-: CEREMONIA BANDERA YA CAER
+--	--
+S: Yo lo conozco bien, me consta.	S: Yo lo conozco bien, me consta.
+T: YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA	T: YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA
+-: YO ÉL CONOCER BIEN YO SABER	-: YO ÉL CONOCER BIEN YO SEGURO
+--	--
+S: El jabón hace burbujas.	S: El jabón hace burbujas.
+T: JABÓN BURBUJAS	T: JABÓN BURBUJAS
+-: JABÓN BURBUJA HACER	-: JABÓN BURBUJA HACER
+--	--
+S: Yo creo en la fe cristiana.	S: Yo creo en la fe cristiana.
+T: CRISTIANA YO CREER FE	T: CRISTIANA YO CREER FE
+-: FE CRISTIANA YO CREER	-: FE CRISTIANA YO CREER
+--	--
+S: A mí no me gustan las ametralladoras.	S: A mí no me gustan las ametralladoras.
+T: AMETRALLADORA DIFERENTE YO NO-GUSTAR	T: AMETRALLADORA DIFERENTE YO NO-GUSTAR
+-: AMETRALLADORA YO NO-GUSTAR	-: AMETRALLADORA YO NO-GUSTAR
+--	--
+S: Vamos a jugar afuera.	S: Vamos a jugar afuera.
+T: NOSOTROS IR JUGAR AFUERA	T: NOSOTROS IR JUGAR AFUERA
+-: AFUERA NOSOTROS JUGAR	-: AFUERA NOSOTROS IR JUGAR
+--	--
+S: Yo nado en la alberca.	S: Yo nado en la alberca.
+T: ALBERCA YO NADAR	T: ALBERCA YO NADAR
++: ALBERCA YO NADAR	+: ALBERCA YO NADAR
+--	--
+S: El perro está debajo de la mesa.	S: El perro está debajo de la mesa.
+T: PERRO DEBAJO MESA	T: PERRO DEBAJO MESA
++: PERRO DEBAJO MESA	+: PERRO DEBAJO MESA
+--	--
+S: La línea 12 del metro tuvo un gran fallo estructural.	S: La línea 12 del metro tuvo un gran fallo estructural.
+T: METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR	T: METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR
+-: METRO LÍNEA 12 MUCHO FALLO ESTRUCTURAL YA TENER	-: METRO LÍNEA 12 FALLO ESTRUCTURAL MUCHO YA TENER
+--	--
+S: Hay muchos hombres mujeriegos.	S: Hay muchos hombres mujeriegos.
+T: HOMBRE MUJERIEGO MUCHO	T: HOMBRE MUJERIEGO MUCHO
+-: HOMBRE MUJERIEGO MUCHO HABER	-: MUCHO HOMBRE MUJERIEGO HABER
+--	--
+S: Ganamos el partido de futbol, ¡viva!	S: Ganamos el partido de futbol, ¡viva!
+T: NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!	T: NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!
+-: NOSOTROS PARTIDO FUTBOL YA GANAR ¡VIVA!	-: NOSOTROS PARTIDO FUTBOL YA GANAR ¡VIVA!
+--	--
+S: El muchacho corteja a su novia.	S: El muchacho corteja a su novia.
+T: JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER	T: JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER
+-: MUCHACHO SU NOVIO+MUJER CORTEJAR	-: MUCHACHO SUYO NOVIO+MUJER CORTEJAR
+--	--
+S: ¿Cuántos sordos hay en México?	S: ¿Cuántos sordos hay en México?
+T: ¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?	T: ¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?
+-: MÉXICO SORDO HABER ¿CUÁNTOS?	-: MÉXICO SORDO HABER ¿CUÁNTOS?
+--	--
+S: Mi hermano se cayó de la bicicleta.	S: Mi hermano se cayó de la bicicleta.
+T: MI HERMANO BICICLETA ÉL CAER	T: MI HERMANO BICICLETA ÉL CAER
+-: BICICLETA MI HERMANO YA CAER	-: BICICLETA MI HERMANO YA CAER
+--	--
+S: El legislador propuso una nueva ley de LSM.	S: El legislador propuso una nueva ley de LSM.
+T: LEGISLADOR YA PROPONER NUEVA LEY LSM	T: LEGISLADOR YA PROPONER NUEVA LEY LSM
+-: LEGISLADOR NUEVA LEY LSM PROPONER YA	-: LEGISLADOR LEY NUEVA LSM PROPONER YA
+--	--
+S: Entrega el trámite en la ventanilla de gobierno, deben poner un sello.	S: Entrega el trámite en la ventanilla de gobierno, deben poner un sello.
+T: VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO	T: VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO
+-: GOBIERNO VENTANILLA TRÁMITE ENTREGAR SELLO PONER DEBER	-: GOBIERNO VENTANILLA TRÁMITE ENTREGAR SELLO DEBER PONER
+--	--
+S: María ganó la lotería, ahora es millonaria.	S: María ganó la lotería, ahora es millonaria.
+T: dm-MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA	T: dm-MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA
+-: dm-MARÍA LOTERÍA GANAR YA AHORA MILLONARIA	-: dm-MARÍA LOTERÍA GANAR YA AHORA ELLA MILLONARIO+MUJER
+--	--
+S: Mañana me iré en combi a mi casa.	S: Mañana me iré en combi a mi casa.
+T: MAÑANA COMBI YO IR A MI CASA	T: MAÑANA COMBI YO IR A MI CASA
+-: MAÑANA YO COMBI MI CASA IR	-: MAÑANA YO COMBI IR MI CASA
+--	--
+S: Debes mostrar tu INE para poder pasar.	S: Debes mostrar tu INE para poder pasar.
+T: TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR	T: TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR
+-: TÚ TUYO #INE MOSTRAR DEBER PARA PODER PASAR	-: #INE TUYO TÚ DEBER MOSTRAR PASAR PODER
+--	--
+S: ¿Dónde hay un balón?	S: ¿Dónde hay un balón?
+T: ¿DÓNDE BALÓN DÓNDE?	T: ¿DÓNDE BALÓN DÓNDE?
+-: BALÓN HABER ¿DÓNDE?	-: BALÓN HABER ¿DÓNDE?
+--	--
+S: Es fácil aprender las letras del abecedario.	S: Es fácil aprender las letras del abecedario.
+T: FÁCIL APRENDER LETRA ABECEDARIO	T: FÁCIL APRENDER LETRA ABECEDARIO
+-: ABECEDARIO LETRA APRENDER FÁCIL	-: ABECEDARIO LETRA APRENDER FÁCIL
+--	--
+S: Apenas te vi (hace poco).	S: Apenas te vi (hace poco).
+T: APENAS, YO VER TI	T: APENAS, YO VER TI
+-: AHORITA YO TÚ VER	-: AHORITA YO TI YA VER
+--	--
+S: Josefina y Alberto jugaron dados ayer.	S: Josefina y Alberto jugaron dados ayer.
+T: AYER dm-JOSEFINA, dm-ALBERTO AMBOS DADOS JUGAR	T: AYER dm-JOSEFINA, dm-ALBERTO AMBOS DADOS JUGAR
+-: AYER dm-JOSEFINA dm-ALBERTO DADOS JUGAR YA	-: AYER dm-JOSEFINA dm-ALBERTO DADOS JUGAR
+--	--
+S: A mí sí me gusta jugar boliche.	S: A mí sí me gusta jugar boliche.
+T: SÍ YO GUSTAR JUGAR BOLICHE	T: SÍ YO GUSTAR JUGAR BOLICHE
+-: BOLICHE JUGAR YO SÍ GUSTAR	-: YO BOLICHE JUGAR YO SÍ GUSTAR
+--	--
+S: Frecuentemente voy al cine.	S: Frecuentemente voy al cine.
+T: FRECUENTEMENTE YO IR CINE	T: FRECUENTEMENTE YO IR CINE
++: FRECUENTEMENTE YO IR CINE	+: FRECUENTEMENTE YO IR CINE
+--	--
+S: No veo bien, veo borroso.	S: No veo bien, veo borroso.
+T: YO VER BIEN YO BORROSO	T: YO VER BIEN YO BORROSO
+-: YO NO-VER BIEN VER BORROSO	-: YO NO VER BIEN VER BORROSO
+--	--
+S: En el refrigerador hay comida caducada.	S: En el refrigerador hay comida caducada.
+T: REFRIGERADOR HABER COMIDA CADUCADA	T: REFRIGERADOR HABER COMIDA CADUCADA
++: REFRIGERADOR HABER COMIDA CADUCADA	+: REFRIGERADOR HABER COMIDA CADUCADA
+--	--
+S: El rumor sobre el director no era cierto.	S: El rumor sobre el director no era cierto.
+T: DECIR CHISME DIRECTOR ESO NO CIERTO	T: DECIR CHISME DIRECTOR ESO NO CIERTO
+-: CHISME DIRECTOR NO CIERTO	-: CHISME DIRECTOR NO CIERTO
+--	--
+S: Ella llora porque pica cebolla.	S: Ella llora porque pica cebolla.
+T: ELLA LLORAR PORQUE CEBOLLA PICAR	T: ELLA LLORAR PORQUE CEBOLLA PICAR
+-: ELLA CEBOLLA PICAR PORQUE LLORAR	+: ELLA LLORAR PORQUE CEBOLLA PICAR
+--	--
+S: Mañana sólo cantaré una canción en la fiesta	S: Mañana sólo cantaré una canción en la fiesta
+T: UNA-VEZ MAÑANA FIESTA CANTAR	T: UNA-VEZ MAÑANA FIESTA CANTAR
+-: MAÑANA FIESTA YO SÓLO CANCIÓN CANTAR	-: MAÑANA FIESTA YO CANCIÓN SÓLO CANTAR
+--	--
+S: Nuestra cita es en Taxqueña.	S: Nuestra cita es en Taxqueña.
+T: NUESTRA CITA LUGAR TAXQUEÑA	T: NUESTRA CITA LUGAR TAXQUEÑA
+-: TAXQUEÑA NUESTRA CITA	-: TAXQUEÑA CITA NOSOTROS
+--	--
+S: La secretaria está capturando la carta.	S: La secretaria está capturando la carta.
+T: SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO	T: SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO
+-: SECRETARIO+MUJER CARTA CAPTURAR	-: SECRETARIA+MUJER CARTA CAPTURAR
+--	--
+S: Mi amigo Rodolfo es muy dadivoso.	S: Mi amigo Rodolfo es muy dadivoso.
+T: MI AMIGO dm-RODOLFO DADIVOSO	T: MI AMIGO dm-RODOLFO DADIVOSO
+-: MI dm-RODOLFO AMIGO DADIVOSO	-: MI dm-RODOLFO AMIGO MUCHO DADIVOSO
+--	--
+S: Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.	S: Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.
+T: dm-NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER	T: dm-NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER
+-: dm-NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBÉ NIÑO NIÑO+MUJER	-: dm-NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBÉ NIÑO NIÑO+MUJER
+--	--
+S: Nosotros tenemos muchas actividades en la escuela.	S: Nosotros tenemos muchas actividades en la escuela.
+T: NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA	T: NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA
+-: ESCUELA NOSOTROS MUCHO ACTIVIDAD TENER	-: ESCUELA NOSOTROS MUCHO ACTIVIDAD TENER
+--	--
+S: Algunas personas son voluntarias en la Cruz Roja.	S: Algunas personas son voluntarias en la Cruz Roja.
+T: ALGUIEN ÉL AYUDAR MÍ	T: ALGUIEN ÉL AYUDAR MÍ
+-: CRUZ-ROJA PERSONA VOLUNTARIO+MUJER	-: CRUZ-ROJA ALGUNAS PERSONA VOLUNTARIO
+--	--
+S: El maestro se reunió aparte con sus alumnos.	S: El maestro se reunió aparte con sus alumnos.
+T: MAESTRO ALUMNOS REUNIÓN APARTE	T: MAESTRO ALUMNOS REUNIÓN APARTE
+-: MAESTRO SU ALUMNO APARTE YA REUNIR	-: APARTE MAESTRO SU ALUMNO YA REUNIR
+--	--
+S: Ayer me dieron la constancia de la secundaria.	S: Ayer me dieron la constancia de la secundaria.
+T: AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ	T: AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ
++: AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ	+: AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ
+--	--
+S: Esa persona es astuta, ten cuidado.	S: Esa persona es astuta, ten cuidado.
+T: ESA PERSONA COLMILLO TÚ CUIDAR	T: ESA PERSONA COLMILLO TÚ CUIDAR
+-: ESA PERSONA ASTUTA CUIDAR	-: PERSONA ESA ASTUTO CUIDAR
+--	--
+S: Me gusta coleccionar carros de juguete.	S: Me gusta coleccionar carros de juguete.
+T: JUGUETE CARRO YO GUSTAR COLECCIONAR	T: JUGUETE CARRO YO GUSTAR COLECCIONAR
+-: CARRO JUGUETE COLECCIONAR YO GUSTAR	-: CARRO JUGUETE COLECCIONAR YO GUSTAR
