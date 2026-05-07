@@ -2,12 +2,12 @@ ID	MSLG
 287	ELLA TENER BUSTO PEQUEÑO	Ella tiene el busto pequeño.
 602	MI HERMANO #TV ÉL REPORTERO	Mi hermano es reportero de televisión.
 102	dm-JOSÉ SU CARÁCTER FUERTE ÉL	José tiene un carácter fuerte.
-8	AHORA TODO DINERO NOSOTROS-DE-TRES NO-PODER PAGAR NOSOTROS-DE-TRES PODER ABONO ABONO	Ahora nosotros tres no podemos pagar todo el dinero, pero podemos hacer abonos.
+8	AHORA TODO DINERO NOSOTROS-DE-TRES NO-PODER PAGAR NOSOTROS-DE-TRES PODER ABONO ABONO	Ahora nosotros tres no podemos pagar todo el dinero, pero podemos dar abonos.
 89	AÑO PASADO BOTSUANA YO VIAJAR	El año pasado viajé a Botswana.
 522	dm-JUAN SUYO PERRO YA ABANDONAR	Juan ya abandonó a su perro.
 339	MAESTRO GIMNASIO BUEN TRASERO	El instructor del gimnasio tiene buen trasero.
 243	ANTES ÉL CASADO BIEN LUEGO ADULTERIO ÉL DIVORCIAR FEO	Antes estaba felizmente casado, pero luego hubo una infidelidad y se divorció mal.
-81	LIBRO TEMA SOBRE BIOLOGÍA	Un libro de biología.
+81	LIBRO TEMA SOBRE BIOLOGÍA	Un libro sobre biología.
 39	CURSO ABRIL YA POSPONER	El curso de abril ya se pospuso.
 533	TÚ BÉISBOL JUGAR	Tú juegas béisbol.
 592	MOTOCICLETA ÉL VIAJAR CUERNAVACA A PACHUCA	Él viaja de Cuernavaca a Pachuca en motocicleta.
@@ -32,7 +32,7 @@ ID	MSLG
 375	VESTIDO AMARILLO YO COMPRAR YA	Ya compré el vestido amarillo.
 36	ANTES YO COMER COMER	Antes comía mucho.
 439	CIUDAD-DE-MÉXICO MUCHO TRÁFICO	Hay mucho tráfico en la Ciudad de México.
-75	CUANDO TÚ CUMPLIR TÚ TENER BENEFICIOS	Cuando cumplas, tendrás los beneficios.
+75	CUANDO TÚ CUMPLIR TÚ TENER BENEFICIOS	Cuando cumplas, tendrás beneficios.
 517	YO AYUDAR TI HACER TAREA TÚ MISMO	Te ayudo a hacer tu tarea tú mismo.
 247	ALBANIA-PAÍS HERMOSO VERDAD	Albania es un país hermoso, ¿verdad?
 438	MAÑANA CIUDAD MONTERREY NOSOTROS IR	Mañana iremos a Monterrey.
@@ -57,10 +57,10 @@ ID	MSLG
 72	VACACIONES BÉLGICA MI HERMANO VIAJAR	Mi hermano viajará a Bélgica en vacaciones.
 124	DOMINGO AMÉRICA CONTRA GUADALAJARA AMBOS JUGAR	El domingo juegan el América y el Guadalajara.
 483	¡NO MAMES ESPAÑOL YO REPROBAR YA!	¡No mames, ya reprobé español!
-187	ASOCIACIÓN ESA 300 AFILIA DOS MIEMBROS	Esa asociación tiene 300 miembros afiliados.
+187	ASOCIACIÓN ESA 300 AFILIA DOS MIEMBROS	
 362	RÍO dm-NILO ESTE GRANDE ADENTRO ÁFRICA	El río Nilo es muy grande y está en África.
 971	PIEDRA-PERFIL CRISTO dm-REDENTOR BRASIL	El Cristo Redentor está en Brasil.
-328	YO GUSTAR JUGAR, YO PORTERO	Me gusta jugar de portero.
+328	YO GUSTAR JUGAR, YO PORTERO	Me gusta jugar, soy portero.
 166	YO PERSONA NEGATIVO EVITAR	Evito a las personas negativas.
 94	MI ABUELO+MUJER DECIR MÍ BUENAS-TARDES	Mi abuela me dijo buenas tardes.
 302	TU ROPA COMBINAR BIEN	Tu ropa combina bien.
@@ -85,23 +85,23 @@ ID	MSLG
 746	CÁRCEL HOMBRE QUERER SU LIBERTAD	El hombre en la cárcel quiere su libertad.
 951	PERFUME SUAVE YO GUSTAR	Me gusta el perfume suave.
 879	ENFERMERA HERIDO CUIDAR	La enfermera cuida al herido.
-32	MI MAMÁ SENTIR MAL AMBULANCIA TÚ LLAMAR ÉL	Mi mamá se siente mal, llama a la ambulancia.
+32	MI MAMÁ SENTIR MAL AMBULANCIA TÚ LLAMAR ÉL	Mi mamá se siente mal, llama a una ambulancia.
 586	MAÑANA YO HACER-LEVANTAR-PESAS HACER-LEVANTAR-PESAS	Mañana voy a levantar pesas.
 593	YO ESPERAR TI RELOJ METRO NATIVITAS NOS-VEMOS	Te espero en el reloj del Metro Nativitas, nos vemos.
 288	AHORA MAR HABER POCO CALAMAR	Ahora hay pocos calamares en el mar.
 33	AMÉRICA YO VIVIR	Vivo en América.
-140	DE-AHORA-EN-ADELANTE DIARIO YO IR CORRER	De ahora en adelante, iré a correr todos los días.
+140	DE-AHORA-EN-ADELANTE DIARIO YO IR CORRER	De ahora en adelante, voy a correr todos los días.
 815	MI ABUELO TENER MUCHO BORREGO	Mi abuelo tiene muchos borregos.
-315	LENTES MI DESAPARECER, YO NO-VER	Se me perdieron mis lentes, no los veo.
-910	YO NO HAMBRE DE-TODAS-FORMAS PASTEL YO COMER	No tengo hambre, pero de todas formas me comí el pastel.
+315	LENTES MI DESAPARECER, YO NO-VER	Mis lentes desaparecieron, no los encuentro.
+910	YO NO HAMBRE DE-TODAS-FORMAS PASTEL YO COMER	No tengo hambre, pero de todas formas me comeré el pastel.
 653	SOLDADO ARMA ÉL TENER	El soldado tiene un arma.
-409	MI JEFE AUTORIDAD SUYO PROYECTO	Mi jefe es la autoridad de su proyecto.
+409	MI JEFE AUTORIDAD SUYO PROYECTO	Mi jefe tiene la autoridad sobre su proyecto.
 333	¿TÚ SEÑA?	¿Sabes lengua de señas?
 150	YO CONFIAR ÉL NO-PODER DOBLE CARA	Confío en que él no puede ser doble cara.
 393	YO ARREPENTIR DENTRO NADA	Me arrepentiré pronto.
 770	YO PASEAR HOY NO-QUERER	No quiero pasear hoy.
 189	MI HIJO ÉL MILITAR	Mi hijo es militar.
-660	BIGOTE BIEN CUIDAR	Tiene el bigote bien cuidado.
+660	BIGOTE BIEN CUIDAR	Cuida bien su bigote.
 210	dm-MARÍA SU MAMÁ NO OBEDECER	María no obedece a su mamá.
 433	PARQUE CHICHARRÓN CON CHILE YO YA COMPRAR	Ya compré chicharrón con chile en el parque.
 848	DOMINGO CHETUMAL dm-JUAN VACACIONES IR	El domingo, Juan se va de vacaciones a Chetumal.
@@ -113,28 +113,28 @@ ID	MSLG
 925	AYER MANTEL MOLE MANCHA	Ayer se manchó el mantel con mole.
 521	ABANDERADO EQUIPO MEXICO YA IR LUGAR AUSTRIA	El abanderado del equipo de México ya fue a Austria.
 935	OAXACA ARTESANÍAS HABER	En Oaxaca hay artesanías.
-294	BANCO ÉL ROBAR ARRESTADO CÁRCEL	Robó un banco, lo arrestaron y lo llevaron a la cárcel.
+294	BANCO ÉL ROBAR ARRESTADO CÁRCEL	Robó un banco, fue arrestado y terminó en la cárcel.
 437	TODAVÍA CIRUGÍA YO CURAR	Todavía me estoy recuperando de la cirugía.
 861	COLOMBIA HABER INSTITUTO PARA SORDOS	En Colombia hay un instituto para sordos.
 347	ESE ABRIGO CALIENTE	Ese abrigo es calientito.
 883	TU PLÁTICA YO NO ESCUCHAR	No escuché tu plática.
 917	ELLOS DROMEDARIO AGUA POCA LAMER	Los dromedarios lamen poca agua.
-161	TÚ ESPATULA QUITAR CEMENTO	Quita el cemento con la espátula.
+161	TÚ ESPATULA QUITAR CEMENTO	Quitas el cemento con la espátula.
 595	PRÓXIMO-VIERNES MI CASA HABER POSADA	El próximo viernes habrá una posada en mi casa.
 171	USA GEL PARA TÚ PEINAR	Usa gel para peinarte.
 843	MI PRIMO+MUJER CETIS ELLA ESTUDIAR	Mi prima estudia en el CETIS.
-938	CINTURÓN-DE-SEGURIDAD TUYO OBLIGACIÓN	Es obligatorio usar el cinturón de seguridad.
+938	CINTURÓN-DE-SEGURIDAD TUYO OBLIGACIÓN	El cinturón de seguridad es obligatorio.
 105	TARDE LLEGAR MAESTRO YO CASTIGAR	Castigué al maestro porque llegó tarde.
 810	TODA-NOCHE LOBO AULLAR	El lobo aulló toda la noche.
 254	JEFE MI PRIMO UN AMANTE ÉL TENER	El jefe de mi primo tiene un amante.
-526	TÚ AGACHAR-CABEZApasar	Pasas agachando la cabeza.
+526	TÚ AGACHAR-CABEZApasar	Te agachaste para pasar.
 603	PASADO PAÍS SU RUANDA HABER GUERRA MUERTOS MUERTOS	En Ruanda hubo una guerra con muchos muertos.
 1	HOLA ¿CÓMO-ESTAR?	Hola, ¿cómo estás?
 91	2014 BRASIL LUGAR ENCARGADO MUNDIAL	Brasil fue la sede del Mundial 2014.
 420	BOTELLA VERDE MESA POR-FAVOR TU DAR MÍ	Por favor, dame la botella verde de la mesa.
 279	YO INVITAR TI BODA, ¿NOSOTROS-DE-DOS IR?	Te invito a la boda, ¿vamos los dos?
 330	HOY CUMPLEAÑOS MI ESPOSO YO REGALAR ÉL RADIO	Hoy es el cumpleaños de mi esposo y le regalé un radio.
-759	ANTES LUIS-ECHEVERRÍA-ÁLVAREZ PRESIDENTE MÉXICO	Luis Echeverría Álvarez fue presidente de México.
+759	ANTES LUIS-ECHEVERRÍA-ÁLVAREZ PRESIDENTE MÉXICO	Antes, Luis Echeverría Álvarez fue presidente de México.
 945	¡ORO METAL CARO!	¡El oro es un metal caro!
 88	TÚ SIEMPRE CLASE TÚ BOSTEZAR	Tú siempre bostezas en clase.
 626	YO GUSTAR SINGAPUR	Me gusta Singapur.
@@ -155,7 +155,7 @@ ID	MSLG
 975	dm-JACINTA NIÑO+MUJER PERSONA-NEGRA CABELLO CHINO	Jacinta es una niña negra de cabello chino.
 425	CAMARA-FOTOGRÁFICA TÚ NOVIO BONITA	La cámara de tu novio es bonita.
 95	MAÑANA BUENAVISTA YO IR	Mañana iré a Buenavista.
-149	HOY CARTAS YO DOBLAR	Hoy doblé las cartas.
+149	HOY CARTAS YO DOBLAR	Hoy doblo las cartas.
 98	MI HIJO EXCELENTE ESCUELA	Mi hijo está en una escuela excelente.
 577	DIARIO CARICATURA HULK dm-LEONOR SUYO SOBRINO VER	El sobrino de Leonor vio una caricatura de Hulk en el periódico.
 163	NIÑOS ELLOS ESPIAR JUGAR	Los niños están espiando el juego.
@@ -174,10 +174,10 @@ ID	MSLG
 492	dm-ANTONIO PELÓN JOVEN RARO	Antonio es un joven calvo y raro.
 223	ASOCIACIÓN PRESIDENTE NOMBRE dm-LEONARDO	El presidente de la asociación se llama Leonardo.
 248	DINERO YO NO ALCANZAR	No me alcanza el dinero.
-829	CÁNCER SENO ENFERMAR PODER EVITAR QUITAR	Se puede evitar la extirpación del seno en el cáncer de mama.
+829	CÁNCER SENO ENFERMAR PODER EVITAR QUITAR	El cáncer de mama es una enfermedad que se puede evitar quitando el seno.
 545	LUGAR CENTRO CEPILLO-DE-CARPINTERÍA MÁS-O-MENOS COSTAR $1,000	En el centro, el cepillo de carpintería cuesta más o menos 1,000 pesos.
-699	MI AMIGO GAY	Mi amigo es gay.
-808	HACE-TIEMPO NOSOTROS-DE-DOS AMIGOS	Hace mucho tiempo que nosotros dos somos amigos.
+699	MI AMIGO GAY	Mi amigo gay.
+808	HACE-TIEMPO NOSOTROS-DE-DOS AMIGOS	Hace mucho tiempo que nosotros dos éramos amigos.
 201	HOY AGUACATE CARO	Hoy el aguacate está caro.
 389	COMIDA GRATIS YO YA APROVECHAR	Ya aproveché la comida gratis.
 926	MICROSCOPIO ESE COSA ANTIGUO	Ese microscopio es antiguo.
@@ -193,13 +193,13 @@ ID	MSLG
 754	YO VER ESA MUJER TRISTE LLORAR	Vi a esa mujer triste llorando.
 731	AYER TUYO AMIGO+MUJER TEMPRANO IRSE	Ayer tu amiga se fue temprano.
 819	AYER YA YO COMPRAR CAFÉ CON LECHE	Ayer ya compré un café con leche.
-523	MAESTRO TEMA ABURRIDO EXPLICAR EXPLICAR	El maestro explica el tema aburrido.
+523	MAESTRO TEMA ABURRIDO EXPLICAR EXPLICAR	El maestro explica detalladamente el tema aburrido.
 564	ÉL EDAD 90 EDAD YA ENVEJECER	Él tiene 90 años y ya envejeció.
 894	YA dm-JUAN SENTENCIA JUEZ APELAR YA	Juan ya apeló la sentencia del juez.
 802	ESTE PELÍCULA ACABAR	Esta película terminó.
 388	UNO DENTRO APÓSTOLES, ÉL TRAICIONAR JESÚS YA	Uno de los apóstoles traicionó a Jesús.
 511	SUDÁN FRONTERA EGIPTO	Sudán limita con Egipto.
-12	CONTRASEÑA CORRECTA ESCRIBIR YO ACCESO NECESITAR	Necesito escribir la contraseña correcta para tener acceso.
+12	CONTRASEÑA CORRECTA ESCRIBIR YO ACCESO NECESITAR	Necesito escribir la contraseña correcta para acceder.
 203	PRÓXIMO MES MI HIJO NACER	El próximo mes nacerá mi hijo.
 725	ÁRBOL TENER HOJAS GRANDE	El árbol tiene hojas grandes.
 678	SECRETO DIRECTOR YO YA DESCUBRIR	Ya descubrí el secreto del director.
@@ -208,7 +208,7 @@ ID	MSLG
 175	HOY TEMPRANO YO IR CASA	Hoy temprano fui a casa.
 923	AYER-NOCHE YO HORRIBLE SOÑAR	Anoche tuve un sueño horrible.
 509	ESCUELA SUDADERA YO DEBER	Debo llevar sudadera a la escuela.
-382	MI ABUELO+MUJER SU BAÚL ANTIGUO	El baúl antiguo de mi abuela.
+382	MI ABUELO+MUJER SU BAÚL ANTIGUO	Mi abuela tiene un baúl antiguo.
 743	VACACIONES LATVIA YO QUERER	Quiero ir a Letonia de vacaciones.
 598	ELLOS TRABAJAR USAR-PULIDORA PARA PISO	Ellos están trabajando con una pulidora de pisos.
 431	CHAMARRA PIEL VER FORMAL	La chamarra de piel se ve formal.
@@ -217,12 +217,12 @@ ID	MSLG
 252	ESE CONTEXTO IMPORTANTE VERDAD	Ese contexto es importante, ¿verdad?
 376	ELLA PERSONA AMBICIOSA	Ella es una persona ambiciosa.
 907	MI TRABAJO COMPROMISO IMPORTANTE	Tengo un compromiso importante en el trabajo.
-639	LLEVAR MI ROPA TINTORERÍA	Voy a llevar mi ropa a la tintorería.
+639	LLEVAR MI ROPA TINTORERÍA	Llevo mi ropa a la tintorería.
 817	PROXIMO-SÁBADO BULGARIA YO VIAJAR	El próximo sábado viajaré a Bulgaria.
 74	ALIMENTO DIFERENTE DIFERENTE BENDECIR	Bendice los diversos alimentos.
 342	AHORA POR-FAVOR TÚ PONTE-ROPA	Ahora, por favor, vístete.
 21	AHORA dm-SERGIO ÉL LLAMAR AHORA MISMO	Sergio está llamando ahora mismo.
-64	ÉL MUCHO DINERO ¡QUÉ-BÁRBARIDAD!	Él tiene mucho dinero, ¡qué barbaridad!
+64	ÉL MUCHO DINERO ¡QUÉ-BÁRBARIDAD!	¡Tiene muchísimo dinero, qué barbaridad!
 100	PUEBLA MUCHOS CAMOTES YO YA COMER	Ya comí muchos camotes en Puebla.
 24	ESTA FIESTA DIVERTIDA	Esta fiesta está divertida.
 950	AYER METRO MI CELULAR PERDER	Ayer perdí mi celular en el metro.
@@ -232,10 +232,10 @@ ID	MSLG
 85	dm-LEONARDO BONDADOSO	Leonardo es bondadoso.
 56	AYER NOCHE dm-ISABELA dm-SANTIAGO AMBOS BAILAR	Anoche Isabela y Santiago bailaron.
 54	BACALAR YO GUSTAR VISITAR	Me gustaría visitar Bacalar.
-188	QUIZÁ VIRGEN TÚ ORAR ELLA MILAGRO	Quizás si le rezas a la Virgen, ella haga un milagro.
+188	QUIZÁ VIRGEN TÚ ORAR ELLA MILAGRO	Quizás si le oras a la Virgen, ella haga un milagro.
 391	AMBULANCIA ÁREA ÚNICA OBJETIVO ELLOS TENER	Su objetivo es tener un área exclusiva para ambulancias.
 550	HORNO-DE-MICROONDAS CONECTAR PARA COMIDA CALENTAR	Conecta el microondas para calentar la comida.
-414	YA PLATICAR MI AYUDANTE	Mi ayudante ya platicó.
+414	YA PLATICAR MI AYUDANTE	Ya platicó mi ayudante.
 504	SALUDAR TUYA ESPOSO+MUJER	Saluda a tu esposa.
 162	ESPEJO YO REGALAR	Regalo un espejo.
 942	NOSOTROS MUNDO PAZ DEBER ORAR	Debemos orar por la paz del mundo.
