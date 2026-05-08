@@ -13,34 +13,34 @@ ID	SPA	SPA
 794	Necesito un taladro para poder arreglarlo.	TALADRO YO NECESITAR PODER ARREGLAR
 126	Es muy difícil convencer a mi maestra.	MI MAESTRO+MUJER CONVENCER DIFÍCIL
 654	En Tepito hay muchos asaltos.	TEPITO HABER MUCHO ASALTO
-25	¡Aléjate! Estoy enojada.	¡ALEJAR! YO ENOJADO+MUJER
+25	¡Aléjate! Estoy enojada.	¡ALEJAR! YO ENOJADO
 327	Mi cuñada tiene su cabello chino.	MI CUÑADO+MUJER CABELLO CHINO
 169	Me pegué en la frente.	FRENTE YO YA PEGAR
-2	Muy bien, ¿qué onda?	BIEN ¿QUÉ-ONDA?
-921	Mi madrina hierve frijoles diario.	DIARIO MI PADRINO+MUJER FRIJOL HERVIR
+2	Muy bien, ¿qué onda?	BIEN ¿QUÉ-PASAR?
+921	Mi madrina hierve frijoles diario.	DIARIO MI MADRINO+MUJER FRIJOL HERVIR
 957	Tú siempre dices pretextos.	SIEMPRE TÚ PRETEXTO DECIR
 209	Mi casa es la número 10.	MI CASA NÚMERO 10
-709	Espero que goce en las manos de Dios.	DIOS MANO ÉL GOZAR YO ESPERAR
+709	Espero que goce en las manos de Dios.	DIOS MANOS GOZAR ÉL YO ESPERAR
 444	¿Te casarías conmigo?	¿TÚ YO CASAR? SÍ NO
-677	Ya me di cuenta de que eres necio.	TÚ NECIO YO YA DAR-CUENTA
-792	Muchos jóvenes se suicidan últimamente, eso es muy raro.	ÚLTIMAMENTE MUCHO JOVEN SUICIDAR ESO RARO
+677	Ya me di cuenta de que eres necio.	YA TÚ NECIO YO DAR-CUENTA
+792	Muchos jóvenes se suicidan últimamente, eso es muy raro.	ÚLTIMAMENTE MUCHO JOVEN SUICIDAR ESO MUCHO RARO
 350	Mi abuelo tiene 90 años.	MI ABUELO 90 EDAD
 158	Rocío ya entró al museo.	dm-ROCÍO MUSEO YA ENTRAR
 705	La biblia dice: “Gloria a Dios”	BIBLIA DECIR GLORIA DIOS
 384	Ayer leí el Apocalipsis de la Biblia.	AYER BIBLIA APOCALIPSIS YO YA LEER
 442	Quiero comer arroz con huevo.	ARROZ CON HUEVO YO QUERER COMER
-324	En el rancho de mi tía, diario ordeñan a las vacas.	DIARIO MI TÍO+MUJER RANCHO VACA ELLOS ORDEÑAR
+324	En el rancho de mi tía, diario ordeñan a las vacas.	DIARIO MI TÍO+MUJER RANCHO VACA ORDEÑAR
 930	Luis no hace caso a los consejos de su abuela.	dm-LUIS SU ABUELO+MUJER CONSEJO NO-HACER-CASO
-345	De aquí a Tijuana me hago 8 horas.	AQUÍ TIJUANA YO 8 HORA TARDAR
-886	¡Qué chido está tu carro!	¡TUYO CARRO CHIDO!
-130	En Corea del Sur hay mucho pescado.	COREA-DEL-SUR HABER MUCHO PEZ
+345	De aquí a Tijuana me hago 8 horas.	AQUÍ TIJUANA 8 HORA YO HACER
+886	¡Qué chido está tu carro!	¡TU CARRO CHIDO!
+130	En Corea del Sur hay mucho pescado.	COREA-SUR HABER MUCHO PESCADO
 753	El sábado habrá ofertas en Liverpool.	SÁBADO LIVERPOOL HABER OFERTA
-196	Compré una camisa moderna.	CAMISA MODERNA YO YA COMPRAR
-831	Mi tío fue candidato a gobernador de Chihuahua.	MI TÍO CHIHUAHUA GOBERNADOR CANDIDATO
+196	Compré una camisa moderna.	YO CAMISA MODERNA YA COMPRAR
+831	Mi tío fue candidato a gobernador de Chihuahua.	MI TÍO CHIHUAHUA GOBERNADOR CANDIDATO YA
 317	Ten cuidado, discriminar está prohibido.	CUIDAR DISCRIMINAR PROHIBIDO
 147	Mañana empieza mi dieta.	MAÑANA MI DIETA EMPEZAR
-775	¡Es imposible, vi un ovni!	¡IMPOSIBLE, YO #OVNI YA VER!
-830	Nosotros iremos a Cancún el próximo año.	PRÓXIMO AÑO NOSOTROS IR CANCÚN
+775	¡Es imposible, vi un ovni!	¡IMPOSIBLE YO #OVNI YA VER!
+830	Nosotros iremos a Cancún el próximo año.	PRÓXIMO AÑO NOSOTROS CANCÚN IR
 767	En la República Mexicana hay 31 estados.	REPÚBLICA-MEXICANA HABER 31 ESTADO
 882	Mi maestro me enseña LSM	YO LSM MI MAESTRO ENSEÑAR
 818	La cacerola está pesada.	CACEROLA PESADO
@@ -54,60 +54,60 @@ ID	SPA	SPA
 737	Tú ya aprendiste la lección.	TÚ LECCIÓN YA APRENDER
 172	Los genitales de la mujer son diferentes a los del hombre.	MUJER GENITAL HOMBRE GENITAL DIFERENTE
 959	No puedo salir a jugar hoy.	HOY YO JUGAR SALIR NO-PODER
-641	Jugando David y yo nos dimos un tope ayer.	AYER JUGAR dm-DAVID YO TOPAR
-128	Él tenía dudas, pero le expliqué y lo convencí.	ÉL DUDAS TENER PERO YO ÉL EXPLICAR CONVENCER YA
+641	Jugando David y yo nos dimos un tope ayer.	AYER JUGAR dm-DAVID YO TOPE DAR
+128	Él tenía dudas, pero le expliqué y lo convencí.	ÉL DUDAS TENER PERO YO ÉL YA EXPLICAR YA CONVENCER
 752	Compré un litro de leche.	YO LITRO LECHE YA COMPRAR
 740	Yo estoy aprendiendo lengua de señas.	YO LENGUA-DE-SEÑAS APRENDER
 915	Mi papá tiene dos direcciones.	MI PAPÁ TENER DOS DIRECCIÓN
-421	Ese anillo tiene un brillante muy caro.	ESE ANILLO HABER BRILLANTE CARO
-448	Hoy todos iremos al parque contigo.	HOY TODOS TI PARQUE FUTURO IR
+421	Ese anillo tiene un brillante muy caro.	ESE ANILLO BRILLANTE CARO
+448	Hoy todos iremos al parque contigo.	HOY TODOS TI PARQUE IR
 429	Panamá está en Centroamérica.	CENTROAMÉRICA ADENTRO PANAMÁ
 268	Eso no me gusta, me da asco.	ESO YO NO-GUSTAR ASCO
-776	Ya pagué completamente por mi carro.	MI CARRO YO YA COMPLETAMENTE PAGAR
-246	Yo tuve suerte de poderlo agarrar.	ÉL YO PODER AGARRAR SUERTE YA TENER
+776	Ya pagué completamente por mi carro.	MI CARRO YO YA PAGAR COMPLETAMENTE
+246	Yo tuve suerte de poderlo agarrar.	LO YO PODER AGARRAR YA SUERTE TENER
 52	Mónica ayunó por tres días.	TRES DÍA dm-MÓNICA AYUNAR
 455	Mi jefe nos paga a todos en efectivo.	TODOS EFECTIVO MI JEFE PAGAR
 870	Hoy es la convención de sordos.	HOY CONVENCIÓN SORDOS
-514	Toca el timbre para que te abran la puerta.	TIMBRE TOCAR PARA PUERTA ABRIR
+514	Toca el timbre para que te abran la puerta.	TIMBRE TOCAR PARA PUERTA TI ABRIR
 777	La paloma es blanca.	PALOMA COLOR BLANCO
-111	Necesito unas puertas para mi clóset.	MI CLÓSET PUERTA YO NECESITAR
+111	Necesito unas puertas para mi clóset.	PUERTA PARA MI CLÓSET YO NECESITAR
 527	Una adolescente se ahorcó.	ADOLESCENTE+MUJER YA AHORCAR
 903	Él y yo tenemos una cita, nos vemos allá.	DOS-DE-NOSOTROS CITA TENER ALLÁ NOSOTROS VER
 35	Él estaba triste ayer, yo lo animé, le compré un helado.	AYER ÉL TRISTE YO ÉL YA ANIMAR ÉL HELADO YO YA COMPRAR
 680	Después te cuento qué pasó.	DESPUÉS YO TÚ CONTAR PASAR QUÉ
-543	Trae el carrito para echar las cosas.	CARRITO COSA PONER TRAER
-941	El jefe siempre está en su oficina, nunca sale.	SIEMPRE SU OFICINA JEFE NUNCA JEFE SALIR
+543	Trae el carrito para echar las cosas.	CARRITO PARA COSA ECHAR TRAER
+941	El jefe siempre está en su oficina, nunca sale.	SIEMPRE SU OFICINA JEFE NUNCA SALIR
 955	Yo siempre prendo la televisión en la tarde.	TARDE SIEMPRE YO #TV PRENDER
-825	Yo compré una cama nueva.	YO CAMA NUEVO YA COMPRAR
-814	Compré unos binoculares para ver las estrellas.	BINOCULAR YO YA COMPRAR ESTRELLA VER
-461	Él me dijo estúpido.	ÉL YO DECIR ESTÚPIDO
+825	Yo compré una cama nueva.	YO CAMA NUEVA YA COMPRAR
+814	Compré unos binoculares para ver las estrellas.	ESTRELLA YO BINOCULAR YA COMPRAR VER
+461	Él me dijo estúpido.	ÉL YO YA DECIR ESTÚPIDO
 418	Ayer rompí el bastón blanco de mi tío.	AYER YO MI TÍO BASTÓN COLOR BLANCO YA ROMPER
 563	El año pasado ese perro engordó mucho.	AÑO-PASADO ESTE PERRO ENGORDAR MUCHO
 164	Manuel tiene una gran panza.	dm-MANUEL PANZA GRANDE
 325	El fin de semana mis primos y yo vimos muchas panteras sueltas en Africam Safari.	FIN-DE-SEMANA AFRICAM-SAFARI MI PRIMO NOSOTROS MUCHO PANTERA SUELTA YA VER
-571	El hijo de mi vecina ayer golpeó a su perro.	AYER MI VECINO+MUJER HIJO SU PERRO YA GOLPEAR
-621	En mi nuevo trabajo me dieron seguro social para mi atención médica.	TRABAJO NUEVO SEGURO-SOCIAL PARA ATENCIÓN-MÉDICA ELLOS YA DAR YO
+571	El hijo de mi vecina ayer golpeó a su perro.	AYER MI VECINO+MUJER HIJO SU PERRO GOLPEAR YA
+621	En mi nuevo trabajo me dieron seguro social para mi atención médica.	MI TRABAJO NUEVO YO SEGURO-SOCIAL PARA MI ATENCIÓN-MÉDICA ELLOS YA DAR MÍ
 70	El bebé duerme todo el día.	TODO-EL-DÍA BEBÉ DORMIR
 658	La población femenina aumentó en los últimos años.	ÚLTIMOS AÑOS POBLACIÓN MUJER AUMENTAR
 202	Debo visitar Myanmar.	MYANMAR YO DEBER VISITAR
 410	El gobierno no autorizó la ley ciudadana.	GOBIERNO LEY CIUDADANO NO AUTORIZAR
-179	Hoy conocí una nueva librería.	HOY YO LIBRERÍA NUEVA YA CONOCER
+179	Hoy conocí una nueva librería.	HOY YO LIBRERÍA NUEVA CONOCER
 591	Mete los cuadernos dentro de la mochila.	MOCHILA DENTRO CUADERNO METER
 943	A mi mamá le gusta el orden en casa.	CASA ORDEN MI MAMÁ GUSTAR
-174	No sé tu dirección.	TU DIRECCIÓN YO NO-SABER
-336	En el mercado Sonora hay surtido de dulces.	MERCADO SONORA HABER SURTIDO DULCES
+174	No sé tu dirección.	TU DIRECCIÓN YO NO SABER
+336	En el mercado Sonora hay surtido de dulces.	MERCADO SONORA HABER DULCE SURTIDO
 398	Así es mi carácter.	MI CARÁCTER ASÍ
-396	Hoy hay una exposición de arte en el Zócalo a las dos de la tarde.	HOY ZÓCALO DOS TARDE EXPOSICIÓN ARTE HABER
-413	Ayer fui con mi prima Estela a una fiesta de mi trabajo.	AYER YO MI dm-ESTELA PRIMA+MUJER IR MI TRABAJO FIESTA
+396	Hoy hay una exposición de arte en el Zócalo a las dos de la tarde.	HOY DOS TARDE ZÓCALO HABER EXPOSICIÓN ARTE
+413	Ayer fui con mi prima Estela a una fiesta de mi trabajo.	AYER YO MI PRIMO+MUJER dm-ESTELA TRABAJO FIESTA YA IR
 47	Este año aumentarán las ganancias en la tienda.	ESTE AÑO TIENDA GANANCIA FUTURO AUMENTAR
 936	Yo viajé a Oaxtepec.	YO YA VIAJAR OAXTEPEC
 515	Todavía no voy a la escuela.	TODAVÍA ESCUELA YO NO IR
 585	Pegar una hoja blanca en el cuaderno.	CUADERNO HOJA BLANCA PEGAR
-684	Hoy fui a mi práctica de tiro.	HOY YO YA IR MI PRÁCTICA-TIRO
-155	María empujó a su hermano.	dm-MARÍA SU HERMANO YA EMPUJAR
-484	A mi abuelo lo operaron del corazón.	MI ABUELO CORAZÓN OPERAR YA
+684	Hoy fui a mi práctica de tiro.	HOY YO IR MI PRÁCTICA TIRO
+155	María empujó a su hermano.	dm-MARÍA SU HERMANO EMPUJAR YA
+484	A mi abuelo lo operaron del corazón.	MI ABUELO CORAZÓN YA OPERAR
 58	La ballena es uno de los animales más grandes.	BALLENA ANIMAL MUCHO GRANDE
-632	Vi la película de Superman el sábado pasado.	SÁBADO PASADO YO PELÍCULA dm-SUPERMAN YA VER
+632	Vi la película de Superman el sábado pasado.	SÁBADO PASADO YO PELÍCULA SUPERMAN YA VER
 160	Joel estudió en España.	ESPAÑA dm-JOEL YA ESTUDIAR
 237	¿Qué haces?	TÚ HACER ¿QUÉ?
 44	Jazmín y Rocío asaron el pollo.	dm-JAZMÍN dm-ROCÍO POLLO ASAR YA
@@ -115,85 +115,85 @@ ID	SPA	SPA
 487	Ve a comprar pan.	PAN TÚ IR COMPRAR
 90	Brasil es famoso por sus carnavales.	BRASIL CARNAVAL FAMOSO
 902	Viven muchos animales en Chapultepec.	CHAPULTEPEC MUCHO ANIMAL VIVIR
-45	Ramiro es muy astuto.	dm-RAMIRO ASTUTO
-226	Jorge comió dos quesadillas de queso.	dm-JORGE DOS QUESADILLA QUESO COMER YA
+45	Ramiro es muy astuto.	dm-RAMIRO ASTUTO ASTUTO
+226	Jorge comió dos quesadillas de queso.	dm-JORGE DOS QUESADILLA QUESO YA COMER
 742	Yo tengo tres amigas que son lesbianas.	YO TENER TRES AMIGO+MUJER LESBIANA
-129	Corea del Norte es muy famosa en las noticias.	NOTICIAS COREA-NORTE FAMOSO
+129	Corea del Norte es muy famosa en las noticias.	NOTICIAS COREA-DEL-NORTE FAMOSO
 332	Reunión es una isla que pertenece a Francia.	REUNIÓN ISLA FRANCIA PERTENECER
-9	Ana abraza a Juan porque lo extraña mucho.	dm-ANA dm-JUAN ABRAZAR PORQUE dm-JUAN EXTRAÑAR MUCHO
+9	Ana abraza a Juan porque lo extraña mucho.	dm-ANA dm-JUAN ABRAZAR PORQUE dm-JUAN MUCHO EXTRAÑAR
 283	Hoy voy a ir a pasear al bosque.	HOY YO IR BOSQUE PASEAR
-351	Me estoy exprimiendo un barro.	YO BARRO EXPRIMIR
-49	Se entregaron los avances del quinto semestre.	SEMESTRE QUINTO AVANCE YA ENTREGAR
+351	Me estoy exprimiendo un barro.	BARRO YO EXPRIMIR
+49	Se entregaron los avances del quinto semestre.	SEMESTRE QUINTO AVANCE ENTREGAR YA
 500	El fin de semana nos casamos por el civil.	FIN-DE-SEMANA NOSOTROS CIVIL CASAR
 546	Siempre dices chismes.	SIEMPRE TÚ CHISME DECIR
-933	Usaré un vestido nuevo en tu fiesta.	TU FIESTA YO VESTIDO NUEVO FUTURO USAR
-116	Compartir es un valor muy importante.	COMPARTIR VALOR IMPORTANTE
+933	Usaré un vestido nuevo en tu fiesta.	FUTURO TU FIESTA VESTIDO NUEVO YO USAR
+116	Compartir es un valor muy importante.	COMPARTIR VALOR MUCHO IMPORTANTE
 645	La ventana es blanca.	VENTANA COLOR BLANCO
 23	Alabo a Cristo.	YO CRISTO ALABAR
-364	El cumpleaños de mi suegra es en agosto.	AGOSTO MI SUEGRO+MUJER CUMPLEAÑOS
-805	Minerva casi se ahoga en el mar.	MAR dm-MINERVA CASI AHOGAR
+364	El cumpleaños de mi suegra es en agosto.	AGOSTO MI SUEGRA CUMPLEAÑOS
+805	Minerva casi se ahoga en el mar.	MAR dm-MINERVA AHOGAR CASI
 411	La avena es un cereal saludable.	AVENA CEREAL SALUDABLE
-343	Qué lástima que hoy no te vas de viaje a Tijuana.	HOY TIJUANA TÚ NO VIAJE IR ¡LÁSTIMA!
-156	¿Entendiste todo?	¿TÚ TODO YA ENTENDER? SÍ NO
+343	Qué lástima que hoy no te vas de viaje a Tijuana.	HOY TIJUANA TÚ VIAJE NO-IR LÁSTIMA
+156	¿Entendiste todo?	¿TODO TÚ YA ENTENDER? SÍ NO
 608	Tengo mucha familia en Salamanca.	SALAMANCA YO MUCHO FAMILIA TENER
 313	En mi pueblo las personas cosechan maíz.	MI PUEBLO PERSONA MAÍZ COSECHAR
-609	La maestra llegó tarde al salón.	TARDE SALÓN MAESTRO+MUJER YA LLEGAR
-611	El domingo vamos al Sam’s a comprar cosas con la familia.	DOMINGO FAMILIA NOSOTROS SAM'S IR COSA COMPRAR
-300	El cocodrilo atrapó al venado, ¡pobre!	COCODRILO VENADO YA ATRAPAR ¡POBRE!
+609	La maestra llegó tarde al salón.	SALÓN MAESTRO+MUJER TARDE YA LLEGAR
+611	El domingo vamos al Sam’s a comprar cosas con la familia.	DOMINGO NOSOTROS FAMILIA SAMS IR COSAS COMPRAR
+300	El cocodrilo atrapó al venado, ¡pobre!	COCODRILO VENADO ATRAPAR YA ¡POBRE!
 390	En Chapultepec hay muchas ardillas juguetonas.	CHAPULTEPEC HABER MUCHO ARDILLA JUGUETONA
 774	Ese perro es muy sucio, siempre se hace pipí.	ESE PERRO MUCHO SUCIO SIEMPRE PIPÍ HACER
 103	Mi casa es humilde.	MI CASA HUMILDE
-826	Yo iré después a la Cámara de Diputados.	DESPUÉS YO CÁMARA-DE-DIPUTADOS IR
+826	Yo iré después a la Cámara de Diputados.	DESPUÉS YO FUTURO IR CÁMARA-DE-DIPUTADOS
 625	Explícame bien, pero de forma sencilla.	ME EXPLICAR BIEN PERO SENCILLO
 380	El anciano me da consejos que yo obedezco.	YO CONSEJO ANCIANO DAR YO OBEDECER
-118	Mi abuela me hizo una confesión ayer.	AYER YO CONFESIÓN MI ABUELO+MUJER YA HACER
-929	Perdí la apuesta, ni modo.	YO APUESTA YA PERDER NI-MODO
+118	Mi abuela me hizo una confesión ayer.	AYER ME CONFESIÓN MI ABUELO+MUJER HACER
+929	Perdí la apuesta, ni modo.	APUESTA YO YA PERDER NI-MODO
 722	Tu amigo siempre guiña el ojo.	SIEMPRE TU AMIGO OJO GUIÑAR
-20	Oh, ya entiendo, gracias por explicarme.	OH YO YA ENTENDER GRACIAS EXPLICAR
+20	Oh, ya entiendo, gracias por explicarme.	OH YO YA ENTENDER EXPLICAR MÍ GRACIAS
 837	Ayer mi mamá comió en Carl’s Jr.	AYER CARLS-JR MI MAMÁ COMER
 501	Los conejos se reproducen muy rápido.	CONEJO REPRODUCIR RÁPIDO RÁPIDO
 912	Yo desayuno en la escuela diario.	DIARIO ESCUELA YO DESAYUNAR
 552	Mañana expondré en la escuela sobre la Constitución.	MAÑANA ESCUELA CONSTITUCIÓN YO EXPONER
-778	Mañana es mi cumpleaños, ojalá haya pastel.	MAÑANA MI CUMPLEAÑOS PASTEL HABER OJALÁ
-584	En algunos ríos se puede usar lancha.	RÍO ALGUNOS LANCHA USAR PODER
+778	Mañana es mi cumpleaños, ojalá haya pastel.	MAÑANA MI CUMPLEAÑOS OJALÁ HABER PASTEL
+584	En algunos ríos se puede usar lancha.	RÍO ALGUNOS LANCHA PODER USAR
 847	¿Estudiaste para chef?	¿TÚ PARA CHEF YA ESTUDIAR? SÍ NO
 851	El cielo está nublado	CIELO NUBLADO
 471	Laura lava la ropa cada semana.	SEMANA-CADA dm-LAURA ROPA LAVAR
 637	El tenis es el deporte blanco.	TENIS DEPORTE COLOR BLANCO
 477	Los luchadores usan máscara.	LUCHADOR MÁSCARA USAR
 724	Ya estoy harto de tanto trabajo.	YA TRABAJO MUCHO YO HARTO
-11	Abre tu mente para entender este tema difícil.	ESTE TEMA DIFÍCIL TUYO MENTE ABRIR ENTENDER
+11	Abre tu mente para entender este tema difícil.	TU MENTE ABRIR PARA ESTE TEMA DIFÍCIL ENTENDER
 197	En vacaciones visitaré la ciudad de Montreal.	VACACIONES MONTREAL CIUDAD YO FUTURO VISITAR
 934	Pepe fue de vacaciones a Nuevo León.	dm-PEPE NUEVO LEÓN VACACIONES YA IR
 232	La sopa de codito es mi favorita.	SOPA CODITO MI FAVORITO
-569	Los helados de la Michoacana son muy famosos.	MICHOACANA HELADO FAMOSO
-183	Ayer comí pan con mermelada de fresa.	AYER YO PAN CON MERMELADA FRESA YA COMER
+569	Los helados de la Michoacana son muy famosos.	HELADO MICHOACANA FAMOSO
+183	Ayer comí pan con mermelada de fresa.	AYER YO PAN CON MERMELADA FRESA COMER
 198	Mi abuelo murió hace cinco años.	5 AÑO HACE-PASADO MI ABUELO MORIR
-860	La comida de Colombia es muy sabrosa.	COMIDA COLOMBIA SABROSO
-780	El pico se usa para poder extraer oro.	PICO USAR PARA ORO PODER EXTRAER
+860	La comida de Colombia es muy sabrosa.	COLOMBIA COMIDA MUCHO SABROSO
+780	El pico se usa para poder extraer oro.	PICO USAR ORO PODER EXTRAER
 296	Casi nos caemos de la bicicleta.	BICICLETA NOSOTROS CAER CASI
-48	En la ausencia de la maestra, los alumnos se salieron del salón.	MAESTRO+MUJER AUSENCIA SALÓN ALUMNO YA SALIR
+48	En la ausencia de la maestra, los alumnos se salieron del salón.	MAESTRO+MUJER AUSENTE SALÓN ALUMNO YA SALIR
 482	La mesa de mi mamá es de madera.	MI MAMÁ MESA MADERA
 214	Martín compró papel de baño.	dm-MARTÍN PAPEL-BAÑO YA COMPRAR
 864	Raúl es el compadre de mi papá.	dm-RAÚL MI PAPÁ COMPADRE
-858	Yo pongo dos cobijas sobre mi cama.	MI CAMA SOBRE YO DOS COBIJA PONER
+858	Yo pongo dos cobijas sobre mi cama.	MI CAMA YO DOS COBIJA PONER
 718	Ya conozco Guadalajara, es una ciudad bonita.	GUADALAJARA YO YA CONOCER CIUDAD BONITO
-68	No debes seguir de travieso, ya basta.	TÚ TRAVIESO SEGUIR NO DEBER YA BASTA
-816	¡Mis botas me gustan mucho!	¡MI BOTA YO MUCHO GUSTAR!
+68	No debes seguir de travieso, ya basta.	TÚ TRAVIESO SEGUIR NO-DEBER YA BASTA
+816	¡Mis botas me gustan mucho!	¡MI BOTA YO GUSTAR MUCHO!
 730	Yo fui a Inglaterra.	YO YA IR INGLATERRA
-842	Los niños traen el certificado de la escuela.	NIÑO ESCUELA CERTIFICADO TRAER
+842	Los niños traen el certificado de la escuela.	NIÑO CERTIFICADO ESCUELA TRAER
 531	El próximo año viajaré a Europa.	PRÓXIMO AÑO EUROPA YO VIAJAR
 508	Yo estoy en sexto año de primaria y me gusta.	PRIMARIA AÑO SEXTO YO GUSTAR
-683	Los árboles están disminuyendo en la Ciudad de México.	CIUDAD-MÉXICO ÁRBOL DISMINUIR
+683	Los árboles están disminuyendo en la Ciudad de México.	CIUDAD-DE-MÉXICO ÁRBOL DISMINUIR
 285	Me gusta mucho bucear.	BUCEAR YO MUCHO GUSTAR
 892	El estadio está abarrotado.	ESTADIO ABARROTADO
 229	El señor Mario tiene una tienda.	dm-MARIO TENER TIENDA
-286	Busco un libro, pero no lo encuentro.	LIBRO YO BUSCAR PERO NO ENCONTRAR
+286	Busco un libro, pero no lo encuentro.	LIBRO YO BUSCAR PERO NO-ENCONTRAR
 835	El papá de Alan tiene la cara delgada.	dm-ALAN PAPÁ CARA DELGADA
 758	LSM significa Lengua de Señas Mexicana.	LSM LENGUA-DE-SEÑAS MÉXICO SIGNIFICAR
 123	Mi papá trabaja en la construcción.	CONSTRUCCIÓN MI PAPÁ TRABAJAR
 651	Tu amigo es muy amable.	TU AMIGO AMABLE
-656	Los precios de este lugar han aumentado.	ESTE LUGAR PRECIO AUMENTAR YA
+656	Los precios de este lugar han aumentado.	ESTE LUGAR PRECIO YA AUMENTAR
 321	Me gusta mucho la jícama.	JÍCAMA YO MUCHO GUSTAR
 299	Súbete a la montaña rusa, no seas cobarde.	MONTAÑA-RUSA TÚ SUBIR TÚ COBARDE NO
 274	Mi deporte preferido es el baloncesto.	MI DEPORTE PREFERIDO BALONCESTO
@@ -202,40 +202,40 @@ ID	SPA	SPA
 958	¡Mi abuelo es muy sabio!	¡MI ABUELO SABIO SABIO!
 385	El Apocalipsis tiene muchos símbolos diferentes.	APOCALIPSIS HABER MUCHO SÍMBOLO DIFERENTE
 186	El musulmán ora en la mezquita.	MEZQUITA MUSULMÁN ORAR
-144	El dueño de la fábrica hizo varios despidos.	FÁBRICA DUEÑO VARIOS DESPEDIR YA
+144	El dueño de la fábrica hizo varios despidos.	FÁBRICA DUEÑO VARIO YA DESPEDIR
 46	Tengo un asunto pendiente.	ASUNTO PENDIENTE YO TENER
 153	Hay muchos elefantes en África.	ÁFRICA HABER MUCHO ELEFANTE
 458	Perdí el encendedor en la calle.	CALLE ENCENDEDOR YO YA PERDER
 574	A todos nos gustan los helados.	HELADO TODOS GUSTAR
-291	Yo no conozco Camboya, ¿y tú?	CAMBOYA YO NO-CONOCER ¿TÚ SÍ NO?
-127	Convéncelo para ir a pasear.	PASEAR IR ÉL TÚ CONVENCER
+291	Yo no conozco Camboya, ¿y tú?	YO CAMBOYA NO CONOCER ¿TÚ SÍ NO?
+127	Convéncelo para ir a pasear.	ÉL PASEAR IR TÚ CONVENCER
 366	En el autobús hay aire acondicionado.	AUTOBÚS HABER AIRE-ACONDICIONADO
 241	Ya te acusé, vas a ver.	YO TÚ YA ACUSAR TÚ FUTURO VER
-667	Tu coche es muy caro.	TUYO COCHE CARO
+667	Tu coche es muy caro.	TU COCHE CARO
 700	Yo compré un gel nuevo.	YO GEL NUEVO YA COMPRAR
 491	Matar es un pecado.	MATAR PECADO
-954	Si te portas bien, irás a la fiesta.	SI TÚ PORTAR BIEN FUTURO TÚ IR FIESTA
-555	A Jesús, el único hijo de Dios, lo crucificaron.	JESÚS DIOS HIJO ÚNICO YA CRUCIFICAR
+954	Si te portas bien, irás a la fiesta.	SI TÚ PORTAR BIEN FIESTA TÚ FUTURO IR
+555	A Jesús, el único hijo de Dios, lo crucificaron.	JESÚS DIOS HIJO ÚNICO CRUCIFICAR YA
 236	¡Guau! Su trabajo es en verdad muy importante.	¡GUAU! SU TRABAJO MUCHO IMPORTANTE
 434	En el metro hay muchos ciegos.	METRO HABER MUCHO CIEGO
-813	¿Puedes cambiarme el billete?	¿BILLETE MÍ TÚ PODER CAMBIAR? SÍ NO
+813	¿Puedes cambiarme el billete?	¿BILLETE TÚ MÍ PODER CAMBIAR? SÍ NO
 726	Los hot cakes son mi comida preferida.	HOT-CAKES MI COMIDA PREFERIDO
 978	Los zapatos son negros.	ZAPATO COLOR NEGRO
 745	Liberia es un país pobre.	LIBERIA PAÍS POBRE
 764	Apaga la luz, por favor.	LUZ APAGAR POR-FAVOR
 371	Antier fui al altar de una iglesia mormona.	ANTIER IGLESIA MORMONA ALTAR YO YA IR
 221	El pingüino vive en la Antártida.	ANTÁRTIDA PINGÜINO VIVIR
-873	Las próximas vacaciones viajaré a Cozumel.	VACACIÓN PRÓXIMO YO VIAJAR COZUMEL
+873	Las próximas vacaciones viajaré a Cozumel.	VACACIONES PRÓXIMO YO VIAJAR COZUMEL
 440	La cocaína es una droga peligrosa.	COCAÍNA DROGA PELIGROSA
 856	Ellos practican deportes en la Ciudad Deportiva.	CIUDAD-DEPORTIVA ELLOS DEPORTE PRACTICAR
 219	El pez globo vive en agua dulce.	AGUA DULCE PEZ GLOBO VIVIR
 271	Hay una conferencia en el auditorio.	AUDITORIO HABER CONFERENCIA
 159	A mamá le duele la espalda.	MAMÁ ESPALDA ELLA DOLER
-426	Mi esposo y yo nos fuimos de luna de miel a Canadá.	MI ESPOSO YO CANADÁ LUNA-DE-MIEL YA IR
+426	Mi esposo y yo nos fuimos de luna de miel a Canadá.	MI ESPOSO YO CANADÁ YA IR LUNA-DE-MIEL
 309	El niño copió en el examen y la maestra lo descubrió.	EXAMEN NIÑO COPIAR YA MAESTRO+MUJER NIÑO DESCUBRIR YA
 185	Ella llega al trabajo en el metrobús.	TRABAJO ELLA METROBÚS LLEGAR
 562	Hoy me voy de vacaciones a el Salvador.	HOY YO IR EL SALVADOR VACACIONES
-772	Ella tiene trabajo de operadora telefónica.	TRABAJO OPERADOR-TELÉFONO+MUJER ELLA TENER
+772	Ella tiene trabajo de operadora telefónica.	ELLA TRABAJO OPERADOR-TELÉFONO+MUJER TENER
 10	Abre la puerta, por favor.	PUERTA ABRIR POR-FAVOR
 644	Uzbekistán tiene frontera al sur con Afganistán.	UZBEKISTÁN SUR AFGANISTÁN FRONTERA
 956	Debes decir la verdad, nada de pretextos.	VERDAD TÚ DEBER DECIR NADA PRETEXTO

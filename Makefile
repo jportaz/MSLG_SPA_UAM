@@ -19,7 +19,7 @@ MSLG2SPA_train:
 		--model $(model) \
 		--prompt data/MSLG2SPA_prompt.2.txt \
 		--input data/MSLG_SPA_train.txt \
-	| tee results/MSLG2SPA.7.txt 
+	| tee results/MSLG2SPA.7.txt
 
 test: SPA2MSLG_test MSLG2SPA_test
 
