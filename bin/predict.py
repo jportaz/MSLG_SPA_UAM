@@ -42,22 +42,12 @@ def send_code_to_llm(
         return None
 
 
-if __name__ == "__main__":
-    models = [
-        "Qwen/Qwen2.5-7B-Instruct",
-        "Qwen/Qwen3-4B",
-        "Qwen/Qwen3.5-9B",
-        "google/gemma-3-4b-it",
-        "openai/gpt-oss-20b",
-        "BSC-LT/Salamandra-7b-instruct",
-        "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-        "microsoft/Phi-3.5-mini-instruct",
-        "mistralai/Mistral-3-8B-Instruct-2512-BF16"
-    ]
-    
+if __name__ == "__main__":    
+    import sys
+    import csv
     import argparse
+
     parser = argparse.ArgumentParser()
-    #parser.add_argument("--base_url", type=str, default="http://192.168.3.121:8000/v1")
     parser.add_argument("--base_url", type=str, default="http://192.168.3.121:11434/v1")
     parser.add_argument("--model_name", type=str, default="gemma4:31b")
     parser.add_argument("--reasoning_effort", type=str, default="medium")
@@ -70,9 +60,6 @@ if __name__ == "__main__":
     parser.add_argument("--delimiter", type=str, default="\t")
     parser.add_argument("--quotechar", type=str, default="\"")
     args = parser.parse_args()
-
-    import sys
-    import csv
 
     prompt = ""
     with open(args.prompt, "r") as f:
@@ -95,8 +82,6 @@ if __name__ == "__main__":
                 print("T:", row[2])
             system_prompt = prompt
             user_prompt = "Input: {input}\nOutput: ".format(input=row[1].strip())
-            #print(system_prompt)
-            #print(user_prompt)
             result = send_code_to_llm(
                 system_prompt=system_prompt,
                 user_prompt=user_prompt,
@@ -106,8 +91,6 @@ if __name__ == "__main__":
                 max_tokens=args.max_tokens,
                 seed=args.seed
             )
-            #if result:
-            #    result = result.strip().upper()
             reasoning = result.reasoning
             result = result.content
             if len(row) > 2:
